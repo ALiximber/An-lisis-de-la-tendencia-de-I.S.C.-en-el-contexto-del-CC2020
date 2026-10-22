@@ -1,0 +1,1 @@
+# An-lisis-de-la-tendencia-de-I.S.C.-en-el-contexto-del-CC2020
