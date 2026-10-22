@@ -1,7 +1,8 @@
 """Suite de pruebas automatizadas (unittest) para validar la integridad matemática,
-metodológica, estadística y documental del proyecto CC2020 (Fases 4, 5, 6, 7, 8, 10, 11 y 12).
+metodológica, estadística y documental del proyecto CC2020 (Fases 4 a 15 y Segunda Auditoría).
 """
 from __future__ import annotations
+from collections import Counter
 import csv
 import json
 import math
@@ -10,13 +11,14 @@ import unittest
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+ROOT_DIR = BASE_DIR.parent
 DEPS_DIR = BASE_DIR / ".deps"
 if DEPS_DIR.exists() and str(DEPS_DIR) not in sys.path:
     sys.path.insert(0, str(DEPS_DIR))
 if str(BASE_DIR) not in sys.path:
     sys.path.insert(0, str(BASE_DIR))
 
-from src.codebook import classify_course
+from src.codebook import CODEBOOK_RULES, classify_course
 from src.coordenadas import build_full_corpus
 from src.estadistica import kde_2d_hdr, nadaraya_watson_loocv, nadaraya_watson_fit
 
@@ -109,6 +111,13 @@ class TestCC2020AuditPipeline(unittest.TestCase):
         self.assertEqual(c9["Regla_ID"], "R01_EXCL_OPT")
         self.assertEqual(c9["Condicion_Normalizada"], "Optativa_Catalogo")
 
+        # 10. 'Modelos estocásticos y simulación en computación y comunicaciones' (D020) es STEM (T, None)
+        c10 = classify_course("Modelos estocásticos y simulación en computación y comunicaciones", "Obligatoria")
+        self.assertEqual(c10["Regla_ID"], "R27_STEM_BASIC")
+        self.assertEqual(c10["Pole_X"], "T")
+        self.assertEqual(c10["Pole_Y"], "")
+        self.assertEqual(c10["Dominio_Principal"], "STEM")
+
     def test_04_coordinate_bounds_and_formulas(self) -> None:
         """Verifica que todas las coordenadas X e Y estén en [-5, +5] y cumplan las identidades algebraicas."""
         for r in self.plan_docs:
@@ -153,9 +162,12 @@ class TestCC2020AuditPipeline(unittest.TestCase):
         """Verifica que todos los archivos CSV, JSON e imágenes PNG requeridos se hayan generado."""
         required_files = [
             "corpus_CC2020_consolidado_75.csv",
+            "corpus_CC2020_completo_75.csv",
             "corpus_CC2020_planes_60.csv",
             "corpus_CC2020_perfiles_15.csv",
             "auditoria_muestra_estratificada.csv",
+            "evaluacion_ciega_resultados_120.json",
+            "plantilla_evaluacion_ciega_120.csv",
             "analisis_sensibilidad.csv",
             "auditoria_estadistica_resumen.json",
             "corpus_CC2020_master_mancha_regresion.png",
@@ -170,7 +182,66 @@ class TestCC2020AuditPipeline(unittest.TestCase):
             self.assertTrue(fpath.exists(), f"Archivo requerido no encontrado: {fname}")
             self.assertGreater(fpath.stat().st_size, 500, f"Archivo vacío o truncado: {fname}")
 
+    def test_07_country_counts_exact_sums(self) -> None:
+        """Verifica que la distribución geográfica sume exactamente 15 en Perfiles, 60 en Planes y 75 en Total."""
+        prof_countries = Counter(r["Pais"] for r in self.profile_docs)
+        plan_countries = Counter(r["Pais"] for r in self.plan_docs)
+        all_countries = Counter(r["Pais"] for r in self.all_docs)
+
+        self.assertEqual(sum(prof_countries.values()), 15)
+        self.assertEqual(prof_countries, {"México": 13, "Ecuador": 1, "Honduras": 1})
+
+        self.assertEqual(sum(plan_countries.values()), 60)
+        self.assertEqual(plan_countries["Honduras"], 1)
+        self.assertEqual(plan_countries["México"], 13)
+        self.assertEqual(plan_countries["Colombia"], 11)
+
+        self.assertEqual(sum(all_countries.values()), 75)
+        self.assertEqual(all_countries["Honduras"], 2)
+        self.assertEqual(all_countries["Ecuador"], 4)
+
+    def test_08_blind_validation_kappa_metrics(self) -> None:
+        """Verifica que la evaluación ciega independiente (n=120) supere kappa > 0.70 en X, Y y Dominio."""
+        summary_path = BASE_DIR / "auditoria_estadistica_resumen.json"
+        data = json.loads(summary_path.read_text(encoding="utf-8"))
+        blind = data["validacion_empirica"]["inter_rater_blind_validation"]["S1_vs_Blind_Evaluator"]
+
+        self.assertGreater(blind["Polo_X"]["kappa"], 0.70)
+        self.assertGreater(blind["Polo_Y"]["kappa"], 0.75)
+        self.assertGreater(blind["Polo_Y"]["weighted_kappa_linear"], 0.80)
+        self.assertGreater(blind["Dominio_CC2020"]["kappa"], 0.75)
+        self.assertEqual(blind["Polo_Y"]["polar_reversals_H_vs_O"], 0)
+        self.assertLessEqual(blind["Polo_X"]["polar_reversals_T_vs_A"], 2)
+
+    def test_09_reconciled_fuentes_bloque_03(self) -> None:
+        """Verifica que fuentes_bloque_03 esté reconciliada por ID real y sin archivos _fuentes_lote sueltos."""
+        fb3 = BASE_DIR / "fuentes_bloque_03"
+        self.assertTrue((fb3 / "INDICE_CORRESPONDENCIA_FUENTES.md").exists())
+        for stem in ("D031", "D032", "D033", "D035", "D038", "D041", "D042", "D045"):
+            self.assertTrue((fb3 / f"{stem}.txt").exists(), f"Falta {stem}.txt en fuentes_bloque_03")
+        lotes_left = list(fb3.glob("_fuentes_lote*.json"))
+        self.assertEqual(len(lotes_left), 0, "No deben quedar archivos _fuentes_lote*.json en fuentes_bloque_03")
+
+    def test_10_markdown_relative_links_and_rule_ids(self) -> None:
+        """Verifica que ningún archivo .md contenga enlaces locales file:/// y que CODEBOOK_CC2020.md liste los 27 IDs reales."""
+        md_files = list(ROOT_DIR.glob("*.md")) + list(BASE_DIR.glob("*.md"))
+        self.assertGreaterEqual(len(md_files), 8)
+        for md in md_files:
+            content = md.read_text(encoding="utf-8")
+            self.assertNotIn(
+                "file:///",
+                content.lower(),
+                f"Enlace absoluto local file:/// detectado en {md}",
+            )
+
+        codebook_md = (ROOT_DIR / "CODEBOOK_CC2020.md").read_text(encoding="utf-8")
+        for rule_id, *_ in CODEBOOK_RULES:
+            self.assertIn(
+                rule_id,
+                codebook_md,
+                f"El ID de regla {rule_id} de src/codebook.py no figura en CODEBOOK_CC2020.md",
+            )
+
 
 if __name__ == "__main__":
     unittest.main()
-

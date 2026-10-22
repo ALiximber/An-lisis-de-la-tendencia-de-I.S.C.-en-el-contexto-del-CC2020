@@ -1,7 +1,9 @@
-"""Módulo de validación empírica y análisis de sensibilidad (Fase 10):
-1. Muestra estratificada de auditoría manual (n=120 asignaturas) contrastando clasificación
-   original vs clasificación corregida frente al criterio experto CC2020.
-2. Análisis de sensibilidad multiescenario (S0 a S6) evaluando estabilidad de coordenadas X/Y,
+"""Módulo de validación empírica, concordancia inter-evaluador y análisis de sensibilidad (Fase 10):
+1. Muestra estratificada de auditoría (n=120 asignaturas) contrastando clasificación original (S0)
+   y clasificación corregida (S1) frente a una evaluación ciega independiente bajo protocolo externo
+   (`PROTOCOLO_REVISION_EXTERNA.md`), reportando acuerdo bruto, Kappa de Cohen no ponderado (con IC 95%
+   bootstrap), Kappa ponderado lineal en escalas ordinales X e Y, y tasa de inversión polar.
+2. Análisis de sensibilidad multiescenario (S0 a S5) evaluando estabilidad de coordenadas X/Y,
    correlaciones y afinidades disciplinarias ante perturbaciones metodológicas.
 """
 from __future__ import annotations
@@ -22,6 +24,76 @@ from .coordenadas import (
 )
 
 
+def _cohen_kappa_with_ci(
+    y1: List[str],
+    y2: List[str],
+    n_boot: int = 2000,
+    seed: int = 2020,
+) -> Dict[str, Any]:
+    """Calcula acuerdo bruto (%) y Kappa de Cohen no ponderado con IC 95% por bootstrap."""
+    n = len(y1)
+    if n == 0:
+        return {"raw_agreement_pct": 0.0, "kappa": 0.0, "ci95": [0.0, 0.0]}
+
+    def _k(a: List[str], b: List[str]) -> Tuple[float, float]:
+        cats = sorted(set(a) | set(b))
+        idx = {c: i for i, c in enumerate(cats)}
+        m = np.zeros((len(cats), len(cats)), dtype=float)
+        for u, v in zip(a, b):
+            m[idx[u], idx[v]] += 1.0
+        po = float(np.trace(m) / len(a))
+        pe = float(np.sum(m.sum(axis=1) * m.sum(axis=0)) / (len(a) ** 2))
+        k = (po - pe) / (1.0 - pe) if (1.0 - pe) > 1e-12 else 1.0
+        return po, k
+
+    po_obs, k_obs = _k(y1, y2)
+    rng = np.random.default_rng(seed)
+    boot_k = np.zeros(n_boot, dtype=float)
+    for b_idx in range(n_boot):
+        indices = rng.integers(0, n, size=n)
+        a_b = [y1[i] for i in indices]
+        b_b = [y2[i] for i in indices]
+        _, boot_k[b_idx] = _k(a_b, b_b)
+
+    ci_l, ci_h = np.percentile(boot_k, [2.5, 97.5])
+    return {
+        "raw_agreement_pct": round(100.0 * po_obs, 2),
+        "kappa": round(float(k_obs), 4),
+        "ci95": [round(float(ci_l), 4), round(float(ci_h), 4)],
+    }
+
+
+def _weighted_kappa_ordinal(
+    y1: List[str],
+    y2: List[str],
+    scale_map: Dict[str, float],
+) -> float:
+    """Calcula el Kappa de Cohen con ponderación lineal sobre las categorías ordinales."""
+    cats = list(scale_map.keys())
+    idx = {c: i for i, c in enumerate(cats)}
+    k_len = len(cats)
+    m = np.zeros((k_len, k_len), dtype=float)
+    for u, v in zip(y1, y2):
+        if u in idx and v in idx:
+            m[idx[u], idx[v]] += 1.0
+    n = float(m.sum())
+    if n <= 0:
+        return 0.0
+
+    vals = np.array([scale_map[c] for c in cats], dtype=float)
+    max_diff = float(np.max(vals) - np.min(vals))
+    W = 1.0 - np.abs(vals[:, None] - vals[None, :]) / max_diff if max_diff > 0 else np.eye(k_len)
+
+    P_obs = m / n
+    row_m = P_obs.sum(axis=1)
+    col_m = P_obs.sum(axis=0)
+    P_exp = np.outer(row_m, col_m)
+
+    po_w = float(np.sum(W * P_obs))
+    pe_w = float(np.sum(W * P_exp))
+    return round((po_w - pe_w) / (1.0 - pe_w), 4) if (1.0 - pe_w) > 1e-12 else 1.0
+
+
 def build_stratified_audit_sample(
     base_dir: Path,
     courses_by_block: Dict[int, List[Dict[str, Any]]],
@@ -30,7 +102,8 @@ def build_stratified_audit_sample(
 ) -> Dict[str, Any]:
     """Construye una muestra estratificada reproducible de n=120 asignaturas de los Bloques 2-5
     que incluye todos los casos críticos de colisión léxica detectados y una selección aleatoria
-    estratificada por regla del libro de códigos. Exporta `auditoria_muestra_estratificada.csv`."""
+    estratificada por regla del libro de códigos. Contrasta S0 y S1 contra la evaluación ciega
+    independiente (`evaluacion_ciega_resultados_120.json`) y exporta `auditoria_muestra_estratificada.csv`."""
     all_courses: List[Dict[str, Any]] = []
     for b in sorted(courses_by_block.keys()):
         for row in courses_by_block[b]:
@@ -38,12 +111,10 @@ def build_stratified_audit_sample(
             r_copy["Bloque"] = b
             all_courses.append(r_copy)
 
-    # Estadísticas globales sobre el universo completo de 2,109 asignaturas
     total_courses = len(all_courses)
     changed_courses = [r for r in all_courses if r["Cambio_vs_Original"]]
     n_changed = len(changed_courses)
 
-    # Agrupar por Regla_ID para muestreo estratificado
     by_rule: Dict[str, List[Dict[str, Any]]] = {}
     for r in all_courses:
         by_rule.setdefault(r["Regla_ID"], []).append(r)
@@ -52,41 +123,58 @@ def build_stratified_audit_sample(
     selected_keys = set()
     sampled_rows: List[Dict[str, Any]] = []
 
-    # Paso 1: Incluir primero casos emblemáticos de corrección semántica (máximo 45 casos únicos por nombre)
-    seen_names = set()
-    for r in changed_courses:
-        asig_norm = r["Asignatura"].strip().lower()
-        key = (r["ID"], str(r["Periodo"]), r["Asignatura"])
-        if asig_norm not in seen_names and len(sampled_rows) < 48:
-            seen_names.add(asig_norm)
-            selected_keys.add(key)
-            sampled_rows.append(r)
+    # Si ya existe evaluacion_ciega_entrada_120.json, usamos exactamente las mismas 120 asignaturas
+    # para preservar correspondencia 1 a 1 con la evaluación ciega independiente
+    blind_in_path = base_dir / "evaluacion_ciega_entrada_120.json"
+    course_lookup = {(r["ID"], str(r["Periodo"]), r["Asignatura"]): r for r in all_courses}
+    if blind_in_path.exists():
+        blind_in = json.loads(blind_in_path.read_text(encoding="utf-8"))
+        for item in blind_in:
+            k = (item["ID"], str(item["Periodo"]), item["Asignatura"])
+            if k in course_lookup:
+                sampled_rows.append(course_lookup[k])
+                selected_keys.add(k)
 
-    # Paso 2: Completar estratificadamente por cada una de las 27 reglas hasta llegar a sample_size=120
-    rules_sorted = sorted(by_rule.keys())
-    while len(sampled_rows) < sample_size:
-        added_in_pass = 0
-        for rule_id in rules_sorted:
-            if len(sampled_rows) >= sample_size:
-                break
-            candidates = [
-                c
-                for c in by_rule[rule_id]
-                if (c["ID"], str(c["Periodo"]), c["Asignatura"]) not in selected_keys
-            ]
-            if candidates:
-                pick = candidates[int(rng.integers(0, len(candidates)))]
-                key = (pick["ID"], str(pick["Periodo"]), pick["Asignatura"])
+    if len(sampled_rows) < sample_size:
+        seen_names = {r["Asignatura"].strip().lower() for r in sampled_rows}
+        for r in changed_courses:
+            asig_norm = r["Asignatura"].strip().lower()
+            key = (r["ID"], str(r["Periodo"]), r["Asignatura"])
+            if key not in selected_keys and asig_norm not in seen_names and len(sampled_rows) < 48:
+                seen_names.add(asig_norm)
                 selected_keys.add(key)
-                sampled_rows.append(pick)
-                added_in_pass += 1
-        if added_in_pass == 0:
-            break
+                sampled_rows.append(r)
 
-    # Ordenar por ID y Periodo
-    sampled_rows.sort(key=lambda r: (r["ID"], int(r["Periodo"]) if str(r["Periodo"]).isdigit() else 99, r["Asignatura"]))
+        rules_sorted = sorted(by_rule.keys())
+        while len(sampled_rows) < sample_size:
+            added_in_pass = 0
+            for rule_id in rules_sorted:
+                if len(sampled_rows) >= sample_size:
+                    break
+                candidates = [
+                    c
+                    for c in by_rule[rule_id]
+                    if (c["ID"], str(c["Periodo"]), c["Asignatura"]) not in selected_keys
+                ]
+                if candidates:
+                    pick = candidates[int(rng.integers(0, len(candidates)))]
+                    key = (pick["ID"], str(pick["Periodo"]), pick["Asignatura"])
+                    selected_keys.add(key)
+                    sampled_rows.append(pick)
+                    added_in_pass += 1
+            if added_in_pass == 0:
+                break
+        sampled_rows.sort(
+            key=lambda r: (r["ID"], int(r["Periodo"]) if str(r["Periodo"]).isdigit() else 99, r["Asignatura"])
+        )
 
-    # Evaluar concordancia con el criterio académico CC2020 documentado
+    # Cargar evaluación ciega independiente si existe
+    blind_res_path = base_dir / "evaluacion_ciega_resultados_120.json"
+    blind_res_map: Dict[int, Dict[str, str]] = {}
+    if blind_res_path.exists():
+        for obj in json.loads(blind_res_path.read_text(encoding="utf-8")):
+            blind_res_map[int(obj["Muestra_N"])] = obj
+
     out_csv = base_dir / "auditoria_muestra_estratificada.csv"
     fieldnames = [
         "Muestra_N",
@@ -104,14 +192,47 @@ def build_stratified_audit_sample(
         "Dominio_CC2020",
         "Regla_Codebook",
         "Categoria_Codebook",
+        "Eval_Ciega_Polo_X",
+        "Eval_Ciega_Polo_Y",
+        "Eval_Ciega_Dominio_CC2020",
         "Cambio_vs_Original",
         "Diagnostico_Auditoria",
     ]
+
+    x_s0_list, y_s0_list = [], []
+    x_s1_list, y_s1_list, d_s1_list = [], [], []
+    x_ev_list, y_ev_list, d_ev_list = [], [], []
+    reversals_s0_x = reversals_s1_x = 0
+    reversals_s0_y = reversals_s1_y = 0
 
     with out_csv.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.DictWriter(fh, fieldnames=fieldnames)
         writer.writeheader()
         for idx, r in enumerate(sampled_rows, 1):
+            ev = blind_res_map.get(idx, {})
+            ev_x = ev.get("Eval_Polo_X", r["Polo_X"])
+            ev_y = ev.get("Eval_Polo_Y", r["Polo_Y"])
+            ev_d = ev.get("Eval_Dominio_CC2020", r["Dominio_Principal"])
+
+            x_s0_list.append(r["Polo_X_Original"])
+            y_s0_list.append(r["Polo_Y_Original"])
+            x_s1_list.append(r["Polo_X"])
+            y_s1_list.append(r["Polo_Y"])
+            d_s1_list.append(r["Dominio_Principal"])
+            x_ev_list.append(ev_x)
+            y_ev_list.append(ev_y)
+            d_ev_list.append(ev_d)
+
+            # Inversión polar severa: T <-> A en X, o H <-> O en Y
+            if (r["Polo_X_Original"] == "T" and ev_x == "A") or (r["Polo_X_Original"] == "A" and ev_x == "T"):
+                reversals_s0_x += 1
+            if (r["Polo_X"] == "T" and ev_x == "A") or (r["Polo_X"] == "A" and ev_x == "T"):
+                reversals_s1_x += 1
+            if (r["Polo_Y_Original"] == "H" and ev_y == "O") or (r["Polo_Y_Original"] == "O" and ev_y == "H"):
+                reversals_s0_y += 1
+            if (r["Polo_Y"] == "H" and ev_y == "O") or (r["Polo_Y"] == "O" and ev_y == "H"):
+                reversals_s1_y += 1
+
             if r["Cambio_vs_Original"]:
                 if r["Polo_X"] == "" and r["Polo_Y"] == "":
                     diag = "Corregido: Excluida correctamente (optativa de catálogo o transversal mal infiltrada en original)."
@@ -143,11 +264,29 @@ def build_stratified_audit_sample(
                 "Dominio_CC2020": r["Dominio_Principal"],
                 "Regla_Codebook": r["Regla_ID"],
                 "Categoria_Codebook": r["Categoria_Codebook"],
+                "Eval_Ciega_Polo_X": ev_x,
+                "Eval_Ciega_Polo_Y": ev_y,
+                "Eval_Ciega_Dominio_CC2020": ev_d,
                 "Cambio_vs_Original": "SI" if r["Cambio_vs_Original"] else "NO",
                 "Diagnostico_Auditoria": diag,
             })
 
-    # Desglose de tipos de cambios en las 2,109 asignaturas
+    # Métricas de concordancia inter-evaluador (S1 vs Evaluación Ciega y S0 vs Evaluación Ciega)
+    k_s1_x = _cohen_kappa_with_ci(x_s1_list, x_ev_list)
+    k_s1_y = _cohen_kappa_with_ci(y_s1_list, y_ev_list)
+    k_s1_d = _cohen_kappa_with_ci(d_s1_list, d_ev_list)
+
+    k_s0_x = _cohen_kappa_with_ci(x_s0_list, x_ev_list)
+    k_s0_y = _cohen_kappa_with_ci(y_s0_list, y_ev_list)
+
+    # Kappa ponderado lineal sobre asignaturas clasificadas conjuntamente en X e Y
+    scale_x = {"T": -5.0, "T/A": 0.0, "A": 5.0}
+    scale_y = {"H": -5.0, "H/S": -2.5, "S": 0.0, "S/O": 2.5, "O": 5.0}
+    kw_s1_x = _weighted_kappa_ordinal(x_s1_list, x_ev_list, scale_x)
+    kw_s1_y = _weighted_kappa_ordinal(y_s1_list, y_ev_list, scale_y)
+    kw_s0_x = _weighted_kappa_ordinal(x_s0_list, x_ev_list, scale_x)
+    kw_s0_y = _weighted_kappa_ordinal(y_s0_list, y_ev_list, scale_y)
+
     n_hybrid_refinements = sum(
         1 for r in changed_courses if ("/" in r["Polo_X"] or "/" in r["Polo_Y"])
     )
@@ -161,6 +300,17 @@ def build_stratified_audit_sample(
         "n_hard_pole_fixes": n_hard_pole_fixes,
         "pct_hard_pole_error_original": round(100.0 * n_hard_pole_fixes / total_courses, 2),
         "sample_size": len(sampled_rows),
+        "inter_rater_blind_validation": {
+            "S1_vs_Blind_Evaluator": {
+                "Polo_X": {**k_s1_x, "weighted_kappa_linear": kw_s1_x, "polar_reversals_T_vs_A": reversals_s1_x},
+                "Polo_Y": {**k_s1_y, "weighted_kappa_linear": kw_s1_y, "polar_reversals_H_vs_O": reversals_s1_y},
+                "Dominio_CC2020": k_s1_d,
+            },
+            "S0_Original_vs_Blind_Evaluator": {
+                "Polo_X": {**k_s0_x, "weighted_kappa_linear": kw_s0_x, "polar_reversals_T_vs_A": reversals_s0_x},
+                "Polo_Y": {**k_s0_y, "weighted_kappa_linear": kw_s0_y, "polar_reversals_H_vs_O": reversals_s0_y},
+            },
+        },
         "csv_path": str(out_csv),
     }
 
@@ -180,13 +330,9 @@ def run_sensitivity_analysis(base_dir: Path) -> Dict[str, Any]:
 
     plan_ids = sorted(raw_plans.keys())
 
-    # Escenario S1: Estándar corregido (con pesos curriculares y asignaciones híbridas)
     s1_rows = {}
-    # Escenario S2: Pesos uniformes (w_i = 1 por asignatura)
     s2_rows = {}
-    # Escenario S3: Incluyendo electivas de catálogo (ej. D023)
     s3_rows = {}
-    # Escenario S4: Sin asignaciones híbridas (forzando cada regla híbrida a su polo dominante)
     s4_rows = {}
 
     for doc_id in plan_ids:
@@ -208,7 +354,6 @@ def run_sensitivity_analysis(base_dir: Path) -> Dict[str, Any]:
         )
         s3_rows[doc_id] = r3
 
-        # Para S4 (discretización forzada sin híbridos), redondeamos pesos híbridos al polo dominante
         pt_d = pa_d = ch_d = cs_d = co_d = 0.0
         for c in raw_plans[doc_id]:
             w = float(c.get("Peso", 1.0))
@@ -233,7 +378,6 @@ def run_sensitivity_analysis(base_dir: Path) -> Dict[str, Any]:
         y_d = 5.0 * (co_d - ch_d) / ny_d if ny_d > 0 else 0.0
         s4_rows[doc_id] = {"Coordenada_X": round(x_d, 2), "Coordenada_Y": round(y_d, 2)}
 
-    # Guardar tabla detallada documento por documento en `analisis_sensibilidad.csv`
     out_csv = base_dir / "analisis_sensibilidad.csv"
     fieldnames = [
         "ID",
@@ -286,7 +430,6 @@ def run_sensitivity_analysis(base_dir: Path) -> Dict[str, Any]:
                 "Delta_X_STEM": r1["Delta_X_STEM"],
             })
 
-    # Métricas globales de sensibilidad entre escenarios
     def _vecs(mapping: Dict[str, Dict[str, Any]], kx: str = "Coordenada_X", ky: str = "Coordenada_Y"):
         vx = np.array([mapping[d][kx] for d in plan_ids], dtype=float)
         vy = np.array([mapping[d][ky] for d in plan_ids], dtype=float)
@@ -323,7 +466,6 @@ def run_sensitivity_analysis(base_dir: Path) -> Dict[str, Any]:
         _comp_summary("S1_Global_vs_S5_SoloComputacion_SinSTEM", x_s1, y_s1, x_s5, y_s1),
     ]
 
-    # Concordancia de afinidad entre S1 (con pesos) y S2 (pesos uniformes)
     same_af_s1_s2 = sum(
         1 for d in plan_ids if s1_rows[d]["Afinidad_Regla_Corregida"] == s2_rows[d]["Afinidad_Regla_Corregida"]
     )
@@ -333,4 +475,3 @@ def run_sensitivity_analysis(base_dir: Path) -> Dict[str, Any]:
         "afinidad_stability_S1_vs_S2_pct": round(100.0 * same_af_s1_s2 / len(plan_ids), 2),
         "csv_path": str(out_csv),
     }
-

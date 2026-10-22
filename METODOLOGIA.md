@@ -16,7 +16,7 @@ El informe **Computing Curricula 2020: Paradigms for Global Computing Education*
 
 ### 1.2. Adaptaciones razonables del marco CC2020 al contexto latinoamericano
 En América Latina, la oferta universitaria presenta dos particularidades estructurales frente a los programas anglosajones de 4 años:
-- **El tronco común de Ciencias Básicas de Ingeniería (`STEM`):** Títulos denominados *Ingeniería en Sistemas Computacionales*, *Ingeniería de Sistemas*, *Ingeniería Civil en Computación* o *Ingeniería en Informática* dedican entre el 20% y el 38% de sus créditos obligatorios a Cálculo Diferencial, Integral y Vectorial, Álgebra Lineal, Ecuaciones Diferenciales, Probabilidad, Física Clásica y Electromagnetismo.
+- **El tronco común de Ciencias Básicas de Ingeniería (`STEM`):** Títulos denominados *Ingeniería en Sistemas Computacionales*, *Ingeniería de Sistemas*, *Ingeniería Civil en Computación* o *Ingeniería en Informática* dedican en promedio el **$28.53\%$** de su peso curricular clasificado a Cálculo Diferencial, Integral y Vectorial, Álgebra Lineal, Ecuaciones Diferenciales, Probabilidad, Física Clásica y Electromagnetismo.
 - **Hibridación disciplinaria bajo una misma denominación:** La denominación *Ingeniería en Sistemas* o *Ingeniería en Sistemas Computacionales* opera como un título paraguas que en algunas instituciones equivale a `CS`/`CE` (p. ej., IPN-ESCOM `D017`), en otras a `SE`/`IT` (p. ej., TecNM `D034`, UV `D070`) y en otras a `IS` (p. ej., UTN `D025`, UNAC `D023`).
 
 ### 1.3. Decisiones de operacionalización propias de esta investigación
@@ -27,15 +27,17 @@ En América Latina, la oferta universitaria presenta dos particularidades estruc
 ## 2. Estandarización del Corpus y Separación de Poblaciones Documentales
 
 ### 2.1. Estructura real del corpus (75 documentos, 73 programas, 72 instituciones, 15 países)
-El corpus consta de **75 documentos oficiales (`D001`–`D075`)** procedentes de **15 países latinoamericanos**, divididos en dos poblaciones documentales con unidades de observación distintas:
+El corpus consta de **75 documentos oficiales (`D001`–`D075`)** procedentes de **15 países latinoamericanos**, divididos en dos poblaciones documentales con unidades de observación distintas (verificadas automáticamente desde [`corpus_CC2020/corpus_CC2020_perfiles_15.csv`](corpus_CC2020/corpus_CC2020_perfiles_15.csv) y [`corpus_CC2020/corpus_CC2020_planes_60.csv`](corpus_CC2020/corpus_CC2020_planes_60.csv)):
 
 1. **Población A — Perfiles de Egreso Declarativos (`D001`–`D015`, Bloque 1, $n = 15$):**
-   - **Naturaleza:** Enunciados institucionales de competencias profesionales de egreso publicados en portales universitarios de México ($n=13$) y Colombia ($n=2$).
+   - **Naturaleza:** Enunciados institucionales de competencias profesionales de egreso publicados en portales universitarios de **3 países**: México ($n=13$: `D001`–`D012`, `D014`), Ecuador ($n=1$: `D013` UCSG) y Honduras ($n=1$: `D015` UJN), sumando exactamente $\sum = 15$ perfiles.
    - **Unidad de medida:** Proposiciones declarativas ($N \in [2, 10]$ por documento) con ponderación uniforme.
    - **Alcance:** Mide el **discurso institucional orientado al mercado laboral** (donde rara vez se declaran como competencias finales de egreso las asignaturas instrumentales de Cálculo o Física de primeros semestres).
 
 2. **Población B — Planes de Estudio y Mallas Curriculares Oficiales (`D016`–`D075`, Bloques 2 a 5, $n = 60$):**
-   - **Naturaleza:** Retículas y planes de estudio oficiales con 2,109 asignaturas registradas en 15 países: México ($n=13$), Colombia ($n=11$), Argentina ($n=8$), Perú ($n=7$), Chile ($n=5$), Costa Rica ($n=3$), Ecuador ($n=3$), Honduras ($n=2$), Bolivia ($n=2$), Brasil ($n=2$), El Salvador ($n=1$), Uruguay ($n=1$), Paraguay ($n=1$), Panamá ($n=1$) y Guatemala ($n=1$).
+   - **Naturaleza:** Retículas y planes de estudio oficiales con 2,109 asignaturas registradas en **15 países**, cuyos conteos suman exactamente $\sum = 60$ planes:
+     - México ($n=13$), Colombia ($n=11$), Argentina ($n=8$), Perú ($n=7$), Chile ($n=5$), Costa Rica ($n=3$), Ecuador ($n=3$), Bolivia ($n=2$), Brasil ($n=2$), El Salvador ($n=1$), Honduras ($n=1$: `D038` UNAH), Uruguay ($n=1$), Paraguay ($n=1$), Panamá ($n=1$) y Guatemala ($n=1$).
+   - **Conteo consolidado del corpus completo ($N = 75 = 15 + 60$):** México ($26$), Colombia ($11$), Argentina ($8$), Perú ($7$), Chile ($5$), Ecuador ($4$), Costa Rica ($3$), Honduras ($2$), Bolivia ($2$), Brasil ($2$), El Salvador ($1$), Uruguay ($1$), Paraguay ($1$), Panamá ($1$) y Guatemala ($1$).
    - **Subgrupos de granularidad curricular:**
      - `Malla_Curricular_Completa` ($n = 22$, `D016`–`D031`, `D033`–`D038`): Retículas íntegras semestre por semestre.
      - `Malla_Troncal_Sintetizada` ($n = 37$, `D039`–`D075`): Núcleo troncal obligatorio completo con optativas agrupadas en bloque.
@@ -51,7 +53,7 @@ El corpus consta de **75 documentos oficiales (`D001`–`D075`)** procedentes de
 ## 3. Formulación Matemática de las Coordenadas y su Validación
 
 ### 3.1. Coordenada Global $X_{\text{global}}$ y Coordenada de Computación $X_{\text{comp}}$
-Sea $w_i > 0$ el peso curricular (en créditos, unidades valorativas u horas) de la asignatura $i$, y sean $(w_{T,i}, w_{A,i}) \in \{(1,0), (0.5, 0.5), (0,1), (0,0)\}$ sus pesos epistemológicos asignados por el libro de códigos ([`CODEBOOK_CC2020.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/CODEBOOK_CC2020.md)).
+Sea $w_i > 0$ el peso curricular (en créditos, unidades valorativas u horas) de la asignatura $i$, y sean $(w_{T,i}, w_{A,i}) \in \{(1,0), (0.5, 0.5), (0,1), (0,0)\}$ sus pesos epistemológicos asignados por el libro de códigos ([`CODEBOOK_CC2020.md`](CODEBOOK_CC2020.md)).
 
 Definimos los pesos acumulados globales (incluyendo el tronco `STEM` de ciencias básicas):
 $$P_t = \sum_{i=1}^{m} w_i w_{T,i}, \qquad P_a = \sum_{i=1}^{m} w_i w_{A,i}, \qquad n_X = P_t + P_a$$
@@ -81,15 +83,17 @@ Cuando todas las asignaturas clasificadas en $X$ toman valores extremos puros $\
 
 ### 3.4. Validación Multivariada mediante PCA de 6 Dominios
 Para comprobar si el plano bidimensional $(X, Y)$ preserva adecuadamente la estructura multivariada del currículo, se calculó para cada plan el vector de proporciones en los 6 dominios $\mathbf{q} = (\text{pct\_STEM}, \text{pct\_CE}, \text{pct\_CS}, \text{pct\_SE}, \text{pct\_IT}, \text{pct\_IS})$ y se ejecutó un Análisis de Componentes Principales (PCA) sobre la matriz estandarizada ($n = 60 \times 6$):
-- Las dos primeras componentes principales explican el **61.07% de la varianza total** ($\text{PC1} = 40.90\%$, $\text{PC2} = 20.18\%$; con $\text{PC3} = 18.16\%$ se alcanza el $79.23\%$).
-- La primera componente principal ($\text{PC1}$, que opone `STEM`/`CE`/`CS` frente a `SE`/`IT`/`IS`) presenta una **correlación de Pearson de $r = +0.9330$ con la Coordenada $X_{\text{global}}$**.
-- Esto demuestra empíricamente que el eje $X$ captura más del $87\%$ ($r^2 = 0.870$) de la variación del eje principal de diferenciación curricular latinoamericana.
+- Las dos primeras componentes principales explican el **61.08% de la varianza total** ($\text{PC1} = 40.88\%$, $\text{PC2} = 20.20\%$; con $\text{PC3} = 18.20\%$ se alcanza el $79.28\%$).
+- La primera componente principal ($\text{PC1}$, que opone `STEM`/`CE`/`CS` frente a `SE`/`IT`/`IS`) presenta una **correlación de Pearson de $r = +0.9332$ con la Coordenada $X_{\text{global}}$**.
+- Esto demuestra empíricamente que el eje $X$ captura el $87.1\%$ ($r^2 = 0.8709$) de la variación del eje principal de diferenciación curricular latinoamericana.
 
 ---
 
 ## 4. Clasificación de Afinidad Disciplinaria Multicriterio
 
-Para superar el sesgo hacia `CS` y el bloqueo algebraico de `IT` del script original, el módulo [`src/coordenadas.py`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/corpus_CC2020/src/coordenadas.py) calcula para cada plan de estudios el **vector normalizado de 5 dominios de computación**:
+En la regla `afinidad()` original (`S0`), aunque `IT` era algebraicamente alcanzable en el símplex $\Delta_2 = \{(p_H, p_S, p_O) \ge 0 : p_H + p_S + p_O = 1\}$, la conjunción de $p_O < 0.30$, $p_H < 0.25$ y $p_S < 0.55 \iff p_H + p_O > 0.45$ confinaba `IT` al triángulo residual $\mathcal{R}_{\text{IT}} = \{0.15 < p_H < 0.25,\; 0.20 < p_O < 0.30,\; p_H + p_O > 0.45\}$ de área **$1.0\%$ del símplex**, exigiendo paradójicamente alta carga simultánea de Hardware y Gestión mientras las asignaturas propias de `IT` (redes, sistemas operativos, bases de datos, ciberseguridad, nube y web) sumaban a $p_S$ y activaban el umbral de `SE` ($p_S \ge 0.55$).
+
+Para superar el sesgo hacia `CS` inducido por `STEM` y el estrangulamiento geométrico-conceptual de `IT`, el módulo [`corpus_CC2020/src/coordenadas.py`](corpus_CC2020/src/coordenadas.py) calcula para cada plan de estudios el **vector normalizado de 5 dominios de computación**:
 $$\mathbf{p} = (p_{\text{CE}}, p_{\text{CS}}, p_{\text{SE}}, p_{\text{IT}}, p_{\text{IS}}), \qquad \sum_{d \in \{\text{CE,CS,SE,IT,IS}\}} p_d = 1$$
 
 Y evalúa la afinidad disciplinaria mediante dos métodos complementarios:
@@ -105,4 +109,3 @@ Y evalúa la afinidad disciplinaria mediante dos métodos complementarios:
    - Se calcula la similitud coseno $S_d(\mathbf{p}, \mathbf{r}_d) = \frac{\mathbf{p} \cdot \mathbf{r}_d}{\|\mathbf{p}\|_2 \|\mathbf{r}_d\|_2}$ frente a los vectores arquetípicos $\mathbf{r}_d$ de cada disciplina.
    - Se reportan la disciplina primaria $d_1 = \arg\max_d S_d$, la disciplina secundaria $d_2 = \arg\max_{d \neq d_1} S_d$ y el margen $\Delta S = S_{d_1} - S_{d_2}$. Cuando $\Delta S < 0.08$, el programa se identifica explícitamente como **currículo híbrido** (`Es_Hibrido = True`, etiqueta compuesta $d_1 / d_2$).
    - La concordancia directa entre `Afinidad_Regla_Corregida` y `Afinidad_Vectorial_Principal` en los 60 planes de estudio es del **78.3% ($47/60$)**, y en el **100%** de los casos la etiqueta de regla coincide con la primera o segunda afinidad vectorial.
-

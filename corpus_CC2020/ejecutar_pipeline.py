@@ -138,10 +138,11 @@ def export_block_files(base_dir: Path, corpus_data: dict) -> None:
                 writer.writeheader()
                 writer.writerows(c_rows)
 
-    # Exportar tablas maestras consolidadas
+    # Exportar tablas maestras consolidadas (incluyendo actualización de corpus_CC2020_completo_75.csv/.json)
     all_fields = list(all_docs[0].keys())
     for fname, subset in [
         ("corpus_CC2020_consolidado_75.csv", all_docs),
+        ("corpus_CC2020_completo_75.csv", all_docs),
         ("corpus_CC2020_planes_60.csv", corpus_data["plan_docs"]),
         ("corpus_CC2020_perfiles_15.csv", corpus_data["profile_docs"]),
     ]:
@@ -149,6 +150,10 @@ def export_block_files(base_dir: Path, corpus_data: dict) -> None:
             writer = csv.DictWriter(fh, fieldnames=all_fields)
             writer.writeheader()
             writer.writerows(subset)
+
+    (base_dir / "corpus_CC2020_completo_75.json").write_text(
+        json.dumps(all_docs, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
 
 def main() -> None:

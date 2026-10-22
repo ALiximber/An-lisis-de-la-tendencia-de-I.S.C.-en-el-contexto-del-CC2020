@@ -2,24 +2,24 @@
 
 ## 1. Caracterización General del Corpus Auditado (`D001`–`D075`)
 
-El corpus analizado comprende **75 documentos curriculares oficiales** correspondientes a **73 programas académicos únicos** impartidos en **72 instituciones de educación superior** de **15 países de América Latina**. Los datos completos se encuentran en [`corpus_CC2020/corpus_CC2020_consolidado_75.csv`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/corpus_CC2020/corpus_CC2020_consolidado_75.csv).
+El corpus analizado comprende **75 documentos curriculares oficiales** correspondientes a **73 programas académicos únicos** impartidos en **72 instituciones de educación superior** de **15 países de América Latina**. Los datos completos se encuentran en [`corpus_CC2020_consolidado_75.csv`](corpus_CC2020_consolidado_75.csv).
 
 Al separar rigurosamente las dos poblaciones documentales que integran el estudio, se obtienen los siguientes parámetros distributivos:
 
-| Población Documental | Registros | $n$ | Media $X_{\text{global}}$ (DE) | Mediana $X_{\text{global}}$ (IQR) | Media $X_{\text{comp}}$ (DE) | Media $Y$ (DE) | Mediana $Y$ (IQR) | Radio Medio $R$ |
-| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Población A: Perfiles de Egreso** | `D001`–`D015` | $15$ | $+3.90$ ($0.85$) | $+3.75$ ($1.55$) | $+3.90$ ($0.85$) | $+0.82$ ($1.44$) | $+0.71$ ($2.29$) | $2.98$ |
-| **Población B: Planes de Estudio (Total)** | `D016`–`D075` | $60$ | $-0.19$ ($1.24$) | $-0.35$ ($1.49$) | $+1.69$ ($1.35$) | $+0.10$ ($0.80$) | $+0.17$ ($0.90$) | $5.44$ |
-| **Población B*: Planes sin `D032` (PUCP parcial)** | `D016`–`D075` $\setminus \{\text{D032}\}$ | $59$ | $-0.25$ ($1.17$) | $-0.37$ ($1.47$) | $+1.65$ ($1.34$) | $+0.07$ ($0.78$) | $+0.14$ ($0.87$) | $5.45$ |
+| Población Documental | Registros | $n$ | Países Representados | Media $X_{\text{global}}$ (DE) | Mediana $X_{\text{global}}$ (IQR) | Media $X_{\text{comp}}$ (DE) | Media $Y$ (DE) | Mediana $Y$ (IQR) | Radio Medio $R$ |
+| :--- | :--- | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Población A: Perfiles de Egreso** | `D001`–`D015` | $15$ | 3 países: México (13), Ecuador (1), Honduras (1) | $+3.90$ ($0.85$) | $+3.75$ ($1.55$) | $+3.90$ ($0.85$) | $+0.82$ ($1.44$) | $+0.71$ ($2.29$) | $2.98$ |
+| **Población B: Planes de Estudio (Total)** | `D016`–`D075` | $60$ | 15 países ($\sum = 60$ planes) | $-0.19$ ($1.24$) | $-0.35$ ($1.49$) | $+1.69$ ($1.35$) | $+0.10$ ($0.80$) | $+0.17$ ($0.90$) | $5.44$ |
+| **Población B*: Planes sin `D032` (PUCP parcial)** | `D016`–`D075` $\setminus \{\text{D032}\}$ | $59$ | 15 países ($\sum = 59$ planes) | $-0.25$ ($1.17$) | $-0.37$ ($1.47$) | $+1.65$ ($1.34$) | $+0.07$ ($0.78$) | $+0.14$ ($0.87$) | $5.45$ |
 
 ---
 
 ## 2. Hallazgo Central 1: Hibridación Estructural y Distribución Real de Afinidades CC2020
 
 ### 2.1. Corrección del sesgo hacia `CS` y emergencia de `IT` y `SE`
-En la versión previa a la auditoría, la combinación de incluir el tronco general de Ciencias Básicas (`STEM`) en $P_t$ y de exigir un umbral algebraicamente inalcanzable para `IT` llevó a clasificar **40 de los 60 planes (66.7%) como `CS`** y **0 de los 60 planes (0.0%) como `IT`**.
+En la versión previa a la auditoría (`S0`), la combinación de incluir el tronco general de Ciencias Básicas (`STEM`) en $P_t$ y de confinar `IT` a un triángulo residual del **$1.0\%$ del área del símplex $\Delta_2$** ($\{0.15 < p_H < 0.25,\; 0.20 < p_O < 0.30,\; p_H + p_O > 0.45\}$, mientras las asignaturas propias de `IT` como redes, sistemas operativos y bases de datos sumaban a $p_S$) llevó a clasificar **40 de los 60 planes (66.7%) como `CS`** y **0 de los 60 planes (0.0%) como `IT`**.
 
-Una vez separado el peso del tronco general `STEM` (que representa en promedio el **$28.51\%$** del peso curricular clasificado de los planes latinoamericanos) y evaluado el vector de los 5 dominios propios de computación $(p_{\text{CE}}, p_{\text{CS}}, p_{\text{SE}}, p_{\text{IT}}, p_{\text{IS}})$, la distribución real de los **60 planes de estudio** muestra un panorama plural y equilibrado:
+Una vez separado el peso del tronco general `STEM` (que representa en promedio el **$28.53\%$** del peso curricular clasificado de los planes latinoamericanos) y evaluado el vector de los 5 dominios propios de computación $(p_{\text{CE}}, p_{\text{CS}}, p_{\text{SE}}, p_{\text{IT}}, p_{\text{IS}})$, la distribución auditada y validada de los **60 planes de estudio** muestra un panorama plural y equilibrado:
 
 | Disciplina CC2020 | Conteo Original (`S0`) | Regla Corregida (`S1`) | Similitud Coseno Principal | Peso Medio del Dominio en el Núcleo Computacional | Programas Representativos (`S1`) |
 | :--- | :---: | :---: | :---: | :---: | :--- |
@@ -60,11 +60,11 @@ La auditoría demuestra que **comparar directamente $\bar{X}_{\text{perfil}}$ co
 ## 4. Hallazgo Central 3: Diferenciación por Familia de Denominación y Tradición Nacional
 
 ### 4.1. Identidad curricular de *Ingeniería en Sistemas Computacionales (ISC)* frente a otras denominaciones
-Las pruebas de Kruskal–Wallis confirman que la denominación del programa no es arbitraria ($p = 0.0070$ en $X$, $p = 0.0004$ en $Y$):
+Las pruebas de Kruskal–Wallis confirman que la denominación del programa no es arbitraria ($p = 0.0072$ en $X$, $p = 0.0004$ en $Y$):
 1. **Ciencias de la Computación e Ingeniería en Computación (`IC/CC`, $n=15$):** Se ubican claramente en el Cuadrante III ($\bar{X} = -0.79, \bar{Y} = -0.65$), con el mayor peso de algoritmia/teoría y de arquitectura/hardware.
-2. **Ingeniería de Sistemas (`IS`, tradición andina y rioplatense, $n=23$):** Presenta un eje $X$ ligeramente teórico ($\bar{X} = -0.35$) debido a un fuerte ciclo básico de matemáticas y física, pero se desplaza de forma estadísticamente significativa hacia el polo organizacional en el Eje $Y$ ($\bar{Y} = +0.39$, mediana $+0.37$), integrando gestión, investigación de operaciones y sistemas de información empresarial.
+2. **Ingeniería de Sistemas (`IS`, tradición andina y rioplatense, $n=23$):** Presenta un eje $X$ ligeramente teórico ($\bar{X} = -0.36$) debido a un fuerte ciclo básico de matemáticas y física, pero se desplaza de forma estadísticamente significativa hacia el polo organizacional en el Eje $Y$ ($\bar{Y} = +0.39$, mediana $+0.37$), integrando gestión, investigación de operaciones y sistemas de información empresarial.
 3. **Ingeniería en Sistemas Computacionales (`ISC`, tradición mexicana y centroamericana, $n=8$):** Ocupa una posición puente distintiva ($\bar{X}_{\text{global}} = +0.66, \bar{Y} = +0.21$), más aplicada en software e infraestructura (`SE`/`IT`) que la *Ingeniería en Computación*, pero con mucha mayor presencia de arquitectura digital y redes que la *Ingeniería de Sistemas* sudamericana.
 4. **Ingeniería de Software y Tecnologías de la Información (`ISW/TI`, $n=6$):** Se sitúa en el extremo más aplicado y organizacional/servicios de las mallas curriculares ($\bar{X} = +1.15$, mediana $+1.53$; $\bar{Y} = +0.54$, mediana $+0.61$).
 
 ### 4.2. Acoplamiento positivo entre $X$ e $Y$ dentro de los Planes de Estudio
-Dentro de los 60 planes de estudio existe una asociación positiva moderada y estadísticamente significativa entre $X$ e $Y$ (**$r = +0.5345, p = 0.0001$**; y excluyendo la malla parcial `D032` PUCP, **$r = +0.4841, p = 0.0002$**; en el núcleo sin STEM, **$r = +0.5117, p = 0.0002$**). Esta pendiente positiva ($\beta_1 \approx +0.35$) refleja que los programas latinoamericanos se distribuyen a lo largo de una diagonal que va desde el **polo científico-físico y de hardware (Cuadrante III: `CE`/`CS`)** hasta el **polo de desarrollo aplicado, infraestructura y gestión organizacional (Cuadrante I: `SE`/`IT`/`IS`)**, dejando prácticamente desierto el Cuadrante IV de hardware puramente aplicado sin fundamentación físico-matemática.
+Dentro de los 60 planes de estudio existe una asociación positiva moderada y estadísticamente significativa entre $X$ e $Y$ (**$r = +0.5324, p = 0.0001$**; y excluyendo la malla parcial `D032` PUCP, **$r = +0.4816, p = 0.0002$**; en el núcleo sin STEM, **$r = +0.5106, p = 0.0002$**). Esta pendiente positiva ($\beta_1 \approx +0.34$) refleja que los programas latinoamericanos se distribuyen a lo largo de una diagonal que va desde el **polo científico-físico y de hardware (Cuadrante III: `CE`/`CS`)** hasta el **polo de desarrollo aplicado, infraestructura y gestión organizacional (Cuadrante I: `SE`/`IT`/`IS`)**, dejando prácticamente desierto el Cuadrante IV de hardware puramente aplicado sin fundamentación físico-matemática.

@@ -364,7 +364,7 @@ CODEBOOK_RULES = [
         r"programacion para la administracion de sistemas|"
         r"base(s)? de datos|bancos? de dados|conceptos de bases de datos|fundamentos de base(s)? de datos|"
         r"diseno de bases de datos|taller de base(s)? de datos|sistemas de bases de datos|modelacion de datos|gestion y modelacion de datos|"
-        r"\bred(es)?\b|conectividad|comunicacion de datos|comunicaciones|conmutacion y enrutamiento|"
+        r"\bred(es)?\b|conectividad|comunicacion de datos|^comunicaciones$|redes (y|de) comunicaciones|conmutacion y enrutamiento|"
         r"telecomunicaciones y redes|computacion (en la nube|distribuida|paralela y distribuida|aplicada)|"
         r"computo en la nube|desarrollo (web|basado en plataformas|de aplicaciones|y operaciones)|"
         r"introduccion al desarrollo web|programacion (web|orientada a la web|en la web|movil)|"

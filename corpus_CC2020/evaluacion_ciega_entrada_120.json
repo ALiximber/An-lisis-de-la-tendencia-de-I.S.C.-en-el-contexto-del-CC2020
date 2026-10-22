@@ -1,0 +1,1082 @@
+[
+  {
+    "Muestra_N": 1,
+    "ID": "D016",
+    "Institucion": "Universidad de las Américas Puebla (UDLAP)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Algoritmos y Programación",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 2,
+    "ID": "D016",
+    "Institucion": "Universidad de las Américas Puebla (UDLAP)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Diseño y Gestión de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 3,
+    "ID": "D016",
+    "Institucion": "Universidad de las Américas Puebla (UDLAP)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Interacción Humano-Computadora",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 4,
+    "ID": "D016",
+    "Institucion": "Universidad de las Américas Puebla (UDLAP)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Optativa de Estudio General de Humanidades",
+    "Condicion": "Optativa_Generica"
+  },
+  {
+    "Muestra_N": 5,
+    "ID": "D017",
+    "Institucion": "IPN — ESCOM",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Sistemas en Chip",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 6,
+    "ID": "D018",
+    "Institucion": "Universidad Autónoma de Baja California (Mexicali)",
+    "Programa": "Licenciatura en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Administración y Seguridad de Redes",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 7,
+    "ID": "D018",
+    "Institucion": "Universidad Autónoma de Baja California (Mexicali)",
+    "Programa": "Licenciatura en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Auditoría Informática",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 8,
+    "ID": "D018",
+    "Institucion": "Universidad Autónoma de Baja California (Mexicali)",
+    "Programa": "Licenciatura en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Emprendimiento y Liderazgo",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 9,
+    "ID": "D019",
+    "Institucion": "Universidad Privada del Norte (UPN)",
+    "Programa": "Ingeniería de Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "ELECTRÓNICA DIGITAL",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 10,
+    "ID": "D020",
+    "Institucion": "Universidad Nacional de Colombia (Bogotá)",
+    "Programa": "Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Información y Comunicaciones",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 11,
+    "ID": "D020",
+    "Institucion": "Universidad Nacional de Colombia (Bogotá)",
+    "Programa": "Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Lenguajes",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 12,
+    "ID": "D020",
+    "Institucion": "Universidad Nacional de Colombia (Bogotá)",
+    "Programa": "Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Modelos estocásticos y simulación en computación y comunicaciones",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 13,
+    "ID": "D021",
+    "Institucion": "Pontificia Universidad Javeriana Cali",
+    "Programa": "Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Construcción de Software y Pruebas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 14,
+    "ID": "D021",
+    "Institucion": "Pontificia Universidad Javeriana Cali",
+    "Programa": "Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Herramientas Computacionales",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 15,
+    "ID": "D021",
+    "Institucion": "Pontificia Universidad Javeriana Cali",
+    "Programa": "Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Introducción al Modelado de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 16,
+    "ID": "D021",
+    "Institucion": "Pontificia Universidad Javeriana Cali",
+    "Programa": "Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Preparación de Proyectos de Investigación e Innovación",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 17,
+    "ID": "D022",
+    "Institucion": "Universidad de Sonsonate",
+    "Programa": "Ingeniería en Sistemas",
+    "Periodo": "",
+    "Asignatura": "Arquitectura de Computadoras",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 18,
+    "ID": "D022",
+    "Institucion": "Universidad de Sonsonate",
+    "Programa": "Ingeniería en Sistemas",
+    "Periodo": "",
+    "Asignatura": "Emprendedurismo",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 19,
+    "ID": "D022",
+    "Institucion": "Universidad de Sonsonate",
+    "Programa": "Ingeniería en Sistemas",
+    "Periodo": "",
+    "Asignatura": "Sistemas Eléctricos Lineales I",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 20,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "APLICACIONES DE NEGOCIOS ELECTRÓNICOS",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 21,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "DINÁMICA DE SISTEMAS",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 22,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "DISEÑO Y GESTIÓN DE PROCESOS ORGANIZACIONALES",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 23,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "MODELO DE PROCESOS ORGANIZACIONALES",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 24,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "PLANEAMIENTO ESTRATÉGICO DE SISTEMAS",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 25,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "REALIDAD VIRTUAL",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 26,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "SEGURIDAD DE REDES DE DATOS",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 27,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "SEGURIDAD INFORMÁTICA",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 28,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "SISTEMAS COMPLEJOS",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 29,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "SISTEMAS DISTRIBUIDOS",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 30,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "TALLER DE PROCESOS ORGANIZACIONALES",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 31,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "TELECOMUNICACIONES Y REDES",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 32,
+    "ID": "D023",
+    "Institucion": "Universidad Nacional del Callao (FIIS)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "TEORÍA DE LENGUAJES Y COMPILADORES",
+    "Condicion": "Optativa_Catalogo"
+  },
+  {
+    "Muestra_N": 33,
+    "ID": "D024",
+    "Institucion": "Universidad Nacional Abierta y a Distancia (UNAD)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Diseño de Software",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 34,
+    "ID": "D024",
+    "Institucion": "Universidad Nacional Abierta y a Distancia (UNAD)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Emprendimiento de Base Tecnológica",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 35,
+    "ID": "D024",
+    "Institucion": "Universidad Nacional Abierta y a Distancia (UNAD)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Fundamentos en Gestión Integral",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 36,
+    "ID": "D024",
+    "Institucion": "Universidad Nacional Abierta y a Distancia (UNAD)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Inglés B2",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 37,
+    "ID": "D024",
+    "Institucion": "Universidad Nacional Abierta y a Distancia (UNAD)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Pensamiento Lógico Matemático",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 38,
+    "ID": "D025",
+    "Institucion": "UTN — Facultad Regional Buenos Aires",
+    "Programa": "Ingeniería en Sistemas de Información",
+    "Periodo": "",
+    "Asignatura": "Análisis Numérico",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 39,
+    "ID": "D025",
+    "Institucion": "UTN — Facultad Regional Buenos Aires",
+    "Programa": "Ingeniería en Sistemas de Información",
+    "Periodo": "",
+    "Asignatura": "Sistemas y Procesos de Negocio",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 40,
+    "ID": "D027",
+    "Institucion": "UNICEN — Facultad de Ciencias Exactas",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Introducción a los Sistemas Informáticos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 41,
+    "ID": "D028",
+    "Institucion": "Universidad de los Llanos (Unillanos)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "ADMINISTRACIÓN FINANCIERA PARA INGENIERÍA",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 42,
+    "ID": "D028",
+    "Institucion": "Universidad de los Llanos (Unillanos)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "ALGORITMIA Y PROGRAMACIÓN",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 43,
+    "ID": "D028",
+    "Institucion": "Universidad de los Llanos (Unillanos)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "ARQUITECTURA EMPRESARIAL",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 44,
+    "ID": "D028",
+    "Institucion": "Universidad de los Llanos (Unillanos)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "DESARROLLO DEL PENSAMIENTO LÓGICO MATEMÁTICO",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 45,
+    "ID": "D028",
+    "Institucion": "Universidad de los Llanos (Unillanos)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "LENGUAJES DE PROGRAMACIÓN",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 46,
+    "ID": "D028",
+    "Institucion": "Universidad de los Llanos (Unillanos)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "MÁQUINAS DIGITALES",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 47,
+    "ID": "D029",
+    "Institucion": "Universidad EAN",
+    "Programa": "Ingeniería de Sistemas (presencial)",
+    "Periodo": "",
+    "Asignatura": "Arquitectura del Computador y Sistemas Operativos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 48,
+    "ID": "D029",
+    "Institucion": "Universidad EAN",
+    "Programa": "Ingeniería de Sistemas (presencial)",
+    "Periodo": "",
+    "Asignatura": "Cultura del Emprendimiento I",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 49,
+    "ID": "D029",
+    "Institucion": "Universidad EAN",
+    "Programa": "Ingeniería de Sistemas (presencial)",
+    "Periodo": "",
+    "Asignatura": "Cultura del Emprendimiento II",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 50,
+    "ID": "D029",
+    "Institucion": "Universidad EAN",
+    "Programa": "Ingeniería de Sistemas (presencial)",
+    "Periodo": "",
+    "Asignatura": "Cultura del Emprendimiento III",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 51,
+    "ID": "D030",
+    "Institucion": "UNIR México",
+    "Programa": "Licenciatura en Ingeniería de Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Minería de Datos Masivos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 52,
+    "ID": "D031",
+    "Institucion": "UNAM — Facultad de Ingeniería",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Computación Gráfica e Interacción Humano-Computadora",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 53,
+    "ID": "D031",
+    "Institucion": "UNAM — Facultad de Ingeniería",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Estructura de Datos y Algoritmos I",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 54,
+    "ID": "D032",
+    "Institucion": "Pontificia Universidad Católica del Perú (PUCP)",
+    "Programa": "Ingeniería Informática",
+    "Periodo": "",
+    "Asignatura": "Innovación y Emprendimiento con Tecnologías de Información",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 55,
+    "ID": "D032",
+    "Institucion": "Pontificia Universidad Católica del Perú (PUCP)",
+    "Programa": "Ingeniería Informática",
+    "Periodo": "",
+    "Asignatura": "Modelado y Automatización de Procesos Empresariales",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 56,
+    "ID": "D033",
+    "Institucion": "Universidad de Chile (FCFM-DCC)",
+    "Programa": "Ingeniería Civil en Computación",
+    "Periodo": "",
+    "Asignatura": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 57,
+    "ID": "D033",
+    "Institucion": "Universidad de Chile (FCFM-DCC)",
+    "Programa": "Ingeniería Civil en Computación",
+    "Periodo": "",
+    "Asignatura": "Cálculo Avanzado y Aplicaciones",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 58,
+    "ID": "D033",
+    "Institucion": "Universidad de Chile (FCFM-DCC)",
+    "Programa": "Ingeniería Civil en Computación",
+    "Periodo": "",
+    "Asignatura": "Electivo de Licenciatura 1",
+    "Condicion": "Optativa_Generica"
+  },
+  {
+    "Muestra_N": 59,
+    "ID": "D033",
+    "Institucion": "Universidad de Chile (FCFM-DCC)",
+    "Programa": "Ingeniería Civil en Computación",
+    "Periodo": "",
+    "Asignatura": "Electivo de Licenciatura 3",
+    "Condicion": "Optativa_Generica"
+  },
+  {
+    "Muestra_N": 60,
+    "ID": "D033",
+    "Institucion": "Universidad de Chile (FCFM-DCC)",
+    "Programa": "Ingeniería Civil en Computación",
+    "Periodo": "",
+    "Asignatura": "Metodologías de Diseño y Programación",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 61,
+    "ID": "D033",
+    "Institucion": "Universidad de Chile (FCFM-DCC)",
+    "Programa": "Ingeniería Civil en Computación",
+    "Periodo": "",
+    "Asignatura": "Núcleo Gestión para Ingenieros",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 62,
+    "ID": "D033",
+    "Institucion": "Universidad de Chile (FCFM-DCC)",
+    "Programa": "Ingeniería Civil en Computación",
+    "Periodo": "",
+    "Asignatura": "Proyecto de Software",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 63,
+    "ID": "D034",
+    "Institucion": "Tecnológico Nacional de México (TecNM)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Conmutación y Enrutamiento de Redes de Datos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 64,
+    "ID": "D034",
+    "Institucion": "Tecnológico Nacional de México (TecNM)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Cultura Empresarial",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 65,
+    "ID": "D034",
+    "Institucion": "Tecnológico Nacional de México (TecNM)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Fundamentos de Telecomunicaciones",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 66,
+    "ID": "D034",
+    "Institucion": "Tecnológico Nacional de México (TecNM)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Principios Eléctricos y Aplicaciones Digitales",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 67,
+    "ID": "D035",
+    "Institucion": "Universidad Nacional de La Plata (UNLP)",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Economía y Emprendedorismo",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 68,
+    "ID": "D035",
+    "Institucion": "Universidad Nacional de La Plata (UNLP)",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Taller de Proyecto II",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 69,
+    "ID": "D036",
+    "Institucion": "Universidad de Costa Rica (UCR-ECCI)",
+    "Programa": "Bachillerato en Computación con Varios Énfasis",
+    "Periodo": "",
+    "Asignatura": "Introducción a la Computación",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 70,
+    "ID": "D036",
+    "Institucion": "Universidad de Costa Rica (UCR-ECCI)",
+    "Programa": "Bachillerato en Computación con Varios Énfasis",
+    "Periodo": "",
+    "Asignatura": "Lenguajes Ensambladores y Sistemas Operativos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 71,
+    "ID": "D036",
+    "Institucion": "Universidad de Costa Rica (UCR-ECCI)",
+    "Programa": "Bachillerato en Computación con Varios Énfasis",
+    "Periodo": "",
+    "Asignatura": "Programación I",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 72,
+    "ID": "D036",
+    "Institucion": "Universidad de Costa Rica (UCR-ECCI)",
+    "Programa": "Bachillerato en Computación con Varios Énfasis",
+    "Periodo": "",
+    "Asignatura": "Programación II",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 73,
+    "ID": "D036",
+    "Institucion": "Universidad de Costa Rica (UCR-ECCI)",
+    "Programa": "Bachillerato en Computación con Varios Énfasis",
+    "Periodo": "",
+    "Asignatura": "Programación Paralela y Concurrente",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 74,
+    "ID": "D037",
+    "Institucion": "Universidad Técnica Particular de Loja (UTPL)",
+    "Programa": "Ingeniería en Tecnologías de la Información",
+    "Periodo": "",
+    "Asignatura": "Algoritmos y Resolución de Problemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 75,
+    "ID": "D037",
+    "Institucion": "Universidad Técnica Particular de Loja (UTPL)",
+    "Programa": "Ingeniería en Tecnologías de la Información",
+    "Periodo": "",
+    "Asignatura": "Arquitectura de Computadores y Sistemas Operativos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 76,
+    "ID": "D037",
+    "Institucion": "Universidad Técnica Particular de Loja (UTPL)",
+    "Programa": "Ingeniería en Tecnologías de la Información",
+    "Periodo": "",
+    "Asignatura": "Computación y Sociedad",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 77,
+    "ID": "D037",
+    "Institucion": "Universidad Técnica Particular de Loja (UTPL)",
+    "Programa": "Ingeniería en Tecnologías de la Información",
+    "Periodo": "",
+    "Asignatura": "Fundamentos de Interacción Humano-Computador",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 78,
+    "ID": "D038",
+    "Institucion": "Universidad Nacional Autónoma de Honduras (UNAH)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Filosofía",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 79,
+    "ID": "D038",
+    "Institucion": "Universidad Nacional Autónoma de Honduras (UNAH)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Intro. a la Ing. en Sistemas Comp.",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 80,
+    "ID": "D038",
+    "Institucion": "Universidad Nacional Autónoma de Honduras (UNAH)",
+    "Programa": "Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Seguridad Informática",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 81,
+    "ID": "D041",
+    "Institucion": "Universidad de Buenos Aires (UBA - FIUBA)",
+    "Programa": "Ingeniería en Informática",
+    "Periodo": "",
+    "Asignatura": "Gestión de Proyectos de Software",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 82,
+    "ID": "D042",
+    "Institucion": "Pontificia Universidad Católica de Chile (PUC Chile)",
+    "Programa": "Licenciatura en Ciencias de la Ingeniería / Civil Computación",
+    "Periodo": "",
+    "Asignatura": "Gestión de Proyectos de TI",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 83,
+    "ID": "D043",
+    "Institucion": "Universidad Autónoma Metropolitana (UAM Azcapotzalco)",
+    "Programa": "Licenciatura en Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Lenguajes y Autómatas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 84,
+    "ID": "D044",
+    "Institucion": "Universidad de Guadalajara (UdeG - CUCEI)",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Lenguajes de Interfaz y Ensamblador",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 85,
+    "ID": "D044",
+    "Institucion": "Universidad de Guadalajara (UdeG - CUCEI)",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Mecánica de la Partícula",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 86,
+    "ID": "D045",
+    "Institucion": "Tecnológico de Monterrey (ITESM)",
+    "Programa": "Ingeniería en Tecnologías Computacionales",
+    "Periodo": "",
+    "Asignatura": "Análisis de Sistemas Eléctricos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 87,
+    "ID": "D045",
+    "Institucion": "Tecnológico de Monterrey (ITESM)",
+    "Programa": "Ingeniería en Tecnologías Computacionales",
+    "Periodo": "",
+    "Asignatura": "Fundamentos de Redes y Telecomunicaciones",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 88,
+    "ID": "D045",
+    "Institucion": "Tecnológico de Monterrey (ITESM)",
+    "Programa": "Ingeniería en Tecnologías Computacionales",
+    "Periodo": "",
+    "Asignatura": "Inteligencia Artificial y Aprendizaje Automático",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 89,
+    "ID": "D047",
+    "Institucion": "Universidad Nacional de San Agustín de Arequipa (UNSA)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Relaciones Humanas en Empresas de Software",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 90,
+    "ID": "D048",
+    "Institucion": "Universidad de Concepción (UdeC)",
+    "Programa": "Ingeniería Civil Informática",
+    "Periodo": "",
+    "Asignatura": "Sistemas Computacionales y Arquitectura de Computadores",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 91,
+    "ID": "D050",
+    "Institucion": "Universidad Autónoma de Nuevo León (UANL - FIME)",
+    "Programa": "Ingeniero en Tecnología de Software",
+    "Periodo": "",
+    "Asignatura": "Arquitectura de Computadoras",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 92,
+    "ID": "D050",
+    "Institucion": "Universidad Autónoma de Nuevo León (UANL - FIME)",
+    "Programa": "Ingeniero en Tecnología de Software",
+    "Periodo": "",
+    "Asignatura": "Interacción Humano-Computadora y Laboratorio",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 93,
+    "ID": "D050",
+    "Institucion": "Universidad Autónoma de Nuevo León (UANL - FIME)",
+    "Programa": "Ingeniero en Tecnología de Software",
+    "Periodo": "",
+    "Asignatura": "Transmisión y Comunicación de Datos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 94,
+    "ID": "D051",
+    "Institucion": "Universidad Nacional de Asunción (UNA - FP-UNA)",
+    "Programa": "Ingeniería en Informática",
+    "Periodo": "",
+    "Asignatura": "Organización y Arquitectura de Computadoras I",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 95,
+    "ID": "D052",
+    "Institucion": "Universidad Tecnológica de Panamá (UTP - FISC)",
+    "Programa": "Licenciatura en Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Base de Datos II",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 96,
+    "ID": "D052",
+    "Institucion": "Universidad Tecnológica de Panamá (UTP - FISC)",
+    "Programa": "Licenciatura en Ingeniería de Sistemas y Computación",
+    "Periodo": "",
+    "Asignatura": "Práctica Profesional o Trabajo de Graduación",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 97,
+    "ID": "D053",
+    "Institucion": "Universidad de San Carlos de Guatemala (USAC)",
+    "Programa": "Ingeniería en Ciencias y Sistemas",
+    "Periodo": "",
+    "Asignatura": "Seguridad y Auditoría de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 98,
+    "ID": "D053",
+    "Institucion": "Universidad de San Carlos de Guatemala (USAC)",
+    "Programa": "Ingeniería en Ciencias y Sistemas",
+    "Periodo": "",
+    "Asignatura": "Sistemas Operativos 1",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 99,
+    "ID": "D054",
+    "Institucion": "Universidad Nacional Mayor de San Marcos (UNMSM - FISI)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Teoría General de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 100,
+    "ID": "D058",
+    "Institucion": "Universidad Autónoma de San Luis Potosí (UASLP)",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Estructuras de Datos II",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 101,
+    "ID": "D058",
+    "Institucion": "Universidad Autónoma de San Luis Potosí (UASLP)",
+    "Programa": "Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Interfaces Gráficas con Aplicaciones",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 102,
+    "ID": "D060",
+    "Institucion": "Universidad Mayor de San Andrés (UMSA)",
+    "Programa": "Licenciatura en Informática",
+    "Periodo": "",
+    "Asignatura": "Métodos de Programación",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 103,
+    "ID": "D060",
+    "Institucion": "Universidad Mayor de San Andrés (UMSA)",
+    "Programa": "Licenciatura en Informática",
+    "Periodo": "",
+    "Asignatura": "Seguridad y Auditoría de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 104,
+    "ID": "D061",
+    "Institucion": "Universidade de São Paulo (USP - IME)",
+    "Programa": "Bacharelado em Ciência da Computação",
+    "Periodo": "",
+    "Asignatura": "Princípios de Desenvolvimento de Algoritmos",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 105,
+    "ID": "D062",
+    "Institucion": "Universidade Estadual de Campinas (UNICAMP)",
+    "Programa": "Engenharia de Computação",
+    "Periodo": "",
+    "Asignatura": "Eletrônica Básica",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 106,
+    "ID": "D062",
+    "Institucion": "Universidade Estadual de Campinas (UNICAMP)",
+    "Programa": "Engenharia de Computação",
+    "Periodo": "",
+    "Asignatura": "Organização Básica de Computadores e Assembly",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 107,
+    "ID": "D066",
+    "Institucion": "Instituto Tecnológico de Costa Rica (TEC)",
+    "Programa": "Bachillerato en Ingeniería en Computación",
+    "Periodo": "",
+    "Asignatura": "Ingeniería de Software II",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 108,
+    "ID": "D067",
+    "Institucion": "Escuela Politécnica Nacional (EPN)",
+    "Programa": "Ingeniería en Ciencias de la Computación",
+    "Periodo": "",
+    "Asignatura": "Comunicación Oral y Escrita",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 109,
+    "ID": "D067",
+    "Institucion": "Escuela Politécnica Nacional (EPN)",
+    "Programa": "Ingeniería en Ciencias de la Computación",
+    "Periodo": "",
+    "Asignatura": "Inteligencia Artificial",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 110,
+    "ID": "D067",
+    "Institucion": "Escuela Politécnica Nacional (EPN)",
+    "Programa": "Ingeniería en Ciencias de la Computación",
+    "Periodo": "",
+    "Asignatura": "Minería de Datos y Aprendizaje Automático",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 111,
+    "ID": "D067",
+    "Institucion": "Escuela Politécnica Nacional (EPN)",
+    "Programa": "Ingeniería en Ciencias de la Computación",
+    "Periodo": "",
+    "Asignatura": "Seguridad de la Información",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 112,
+    "ID": "D068",
+    "Institucion": "Universidad Católica Boliviana (UCB San Pablo)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Ciberseguridad y Auditoría de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 113,
+    "ID": "D068",
+    "Institucion": "Universidad Católica Boliviana (UCB San Pablo)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Dinámica de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 114,
+    "ID": "D068",
+    "Institucion": "Universidad Católica Boliviana (UCB San Pablo)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Gestión Estratégica de TI",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 115,
+    "ID": "D069",
+    "Institucion": "Universidad del Norte (Uninorte)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Algoritmos y Programación I",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 116,
+    "ID": "D070",
+    "Institucion": "Universidad Veracruzana (UV)",
+    "Programa": "Licenciatura en Ingeniería en Sistemas Computacionales",
+    "Periodo": "",
+    "Asignatura": "Matemáticas Discretas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 117,
+    "ID": "D071",
+    "Institucion": "Universidad Nacional del Sur (UNS)",
+    "Programa": "Licenciatura en Ciencias de la Computación",
+    "Periodo": "",
+    "Asignatura": "Lógica para Ciencias de la Computación",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 118,
+    "ID": "D073",
+    "Institucion": "Universidad Autónoma de Yucatán (UADY - FMAT)",
+    "Programa": "Licenciatura en Ingeniería de Software",
+    "Periodo": "",
+    "Asignatura": "Gestión y Dirección de Proyectos de Software",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 119,
+    "ID": "D074",
+    "Institucion": "Universidad Nacional de Trujillo (UNT)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Dinámica de Sistemas",
+    "Condicion": "Obligatoria"
+  },
+  {
+    "Muestra_N": 120,
+    "ID": "D074",
+    "Institucion": "Universidad Nacional de Trujillo (UNT)",
+    "Programa": "Ingeniería de Sistemas",
+    "Periodo": "",
+    "Asignatura": "Matemática Discreta",
+    "Condicion": "Obligatoria"
+  }
+]
