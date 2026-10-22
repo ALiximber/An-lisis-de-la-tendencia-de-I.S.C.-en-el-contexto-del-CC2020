@@ -1,0 +1,70 @@
+
+--- PAGINA 1 ---
+           ISC-101 (4 CA)           EG-011 (4 CA)           MM-110 (5 CA)           SC-101 (4 CA)             IN-101 (4 CA)
+              Intro. a la Ing. en           Español General            Matemática I                 Sociología                    Inglés I
+           Sistemas Comp.
+Año        ISC-102 (4 CA)            FF-101 (4 CA)                                 MM-111 (5 CA)             IN-102 (4 CA)
+            Programación                   Filosofía                                         Geometría y                   Inglés II
+             Estructurada                                                                     Trigonometría Primer
+
+           ISC-103 (5 CA)                               MM-201 (5 CA)          MM-211 (3 CA)             IN-103 (4 CA)
+            Programación                                            Cálculo I              Vectores y Matrices               Inglés III
+          Orientada a Objetos
+                           1                                                                     2
+
+                               MM-420 (4 CA)          MM-202 (5 CA)            FS-100 (5 CA)           HH-101 (4 CA)
+                                  Matemática Discreta             Cálculo II                     Física I                     Historia de
+                                                                                                             Honduras
+Año
+           ISC-204 (4 CA)                               MM-401 (3 CA)            FS-200 (5 CA)                   (3 CA)
+           Paradigmas de         1             2               Estadística                    Física II                   Optativa I:
+            Programación                                                                                 Humanidades Segundo
+                 (3 CA)                ISC-211 (4 CA)          AGE-102 (4 CA)             IE-326 (4 CA)
+           Optativa II: Arte o          Estructuras de Datos           Administración             Instalaciones Eléctricas              3
+               Deporte                                                                           para Centros de Datos
+
+
+
+           ISC-321 (5 CA)                                    ISC-351 (4 CA)            ISC-331 (4 CA)            ISC-333 (4 CA)
+          Fundamentos de                       3             Contabilidad           Redes de Datos I         Sistemas Operativos
+          Base de Datos                                           Financiera                                                                                     I
+Año                                 ISC-312 (4 CA)            ISC-341 (4 CA)            ISC-332 (4 CA)            ISC-334 (4 CA)
+                    4                 Teoría de la               Sistemas de           Redes de Datos II        Sistemas Operativos
+                                    Computación                Información                                                                                   II
+                                                                          4Tercer
+
+           ISC-305 (5 CA)            ISC-313 (4 CA)            ISC-306 (4 CA)                                    ISC-336 (4 CA)
+          Programación Web           Compiladores                 Análisis de             7                        Diseño Digital
+                                                               Requerimientos
+
+                            5
+
+           ISC-407 (5 CA)            ISC-414 (4 CA)                                    ISC-435 (4 CA)            ISC-437 (4 CA)
+         Programación Móvil          Inteligencia Artificial                  6              Administración de            Arquitectura de
+                                                                                                Servidores             Computadoras
+                                                                                                 6
+
+                                                   4Año        ISC-408 (4 CA)            ISC-422 (4 CA)                                    ISC-442 (4 CA)            ISC-443 (4 CA)
+              Ingeniería de             Administración de           5       7                 Seguridad                  Industria de TI
+               Software             Bases de Datos                                            InformáticaCuarto
+                                                                                 6
+           ISC-409 (4 CA)            ISC-423 (4 CA)            ISC-415 (4 CA)                                    ISC-445 (4 CA)
+          Calidad de Software          Ciencia de Datos             Tecnologías                                        Proyectos de TI
+                                                            Emergentes
+
+
+
+                                               (3 CA)               ISC-552 (4 CA)            ISC-544 (4 CA)            ISC-546 (4 CA)
+                                      Optativa III: Ciencias           Seminario de            Auditoría Informática           Ejecución de
+                                                                        Investigación                                       Proyectos de TI
+Año                                                                   Áreas del Conocimiento
+
+                                                             Ingeniería de Software                           Computación Empresarial
+
+                                                          Teoría y Metodologías de la Computación            Formación General
+           Práctica ProfesionalQuinto                                                      Administración de la Información                     Ciencias Básicas
+             Supervisada
+                                                               Infraestructura de TI                              Formación Complementaria
+
+
+                                                   Ingeniería en Sistemas Computacionales - UNAH

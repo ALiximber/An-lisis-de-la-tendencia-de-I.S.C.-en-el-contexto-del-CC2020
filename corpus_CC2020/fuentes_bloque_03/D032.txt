@@ -1,0 +1,178 @@
+
+--- PAGINA 1 ---
+PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ           FACULTAD DE CIENCIAS E INGENIERÍA
+
+  P L A N D E E S T U D I O S  D E    I N G E N I E R Í A    I N F O R M Á T I C A
+
+
+CI  CLAVE           C U R S O            CT  Pa      Pb   R E Q U  I S  I T O S                    Cré.
+ 5  1GES92  Taller de Habilidades Interpersonales              1                    70 créditos aprobados *                      1.00
+
+     1IND90  Empresa y su Entorno                          2                    70 créditos aprobados *                      2.00
+
+     1INF25  Programación 2                               4              2 (4q)  INF144, [1INF27]                            5.00
+
+     1INF27  Algoritmia y Estructura de Datos                  3              1 (2q)  INF144                                     3.50
+
+     1INF28  Fundamentos de Sistemas de Información          3              1 (2q)  70 créditos aprobados *, [1INF33]             3.50
+
+     1INF33  Base de Datos                                3              1 (2q)  70 créditos aprobados *, {INF144}            3.50
+     1INF49  Ingeniería de Requisitos                        3              1 (2q)  70 créditos aprobados *                      3.50
+ 6  1CON27  Contabilidad y Finanzas                         2    1 (2q)           1IND90                                    2.50
+
+     1ELE01  Arquitectura de Computadoras                   3              1 (2q)  1FIS06, 1FIS07, INF134                     3.50
+
+    1EST22  Probabilidad y Estadística                       3    1 (2q)         1MAT09                                    3.50
+
+     1INF29  Sistemas Operativos                           2              1 (2q)  [1ELE01], 1INF25                           2.50
+     1INF30  Programación 3                               4              2 (4q)  1INF25, (1INF33), (1INF27)                  5.00
+     1INF31  Arquitectura de Software                        2              1 (2q)  1INF49                                     2.50
+     1INF32  Algoritmos Avanzados                          2              1 (2q)  1INF27, 1INF25                             2.50
+ 7   1EST14  Experimentación Numérica                      2                  1EST22                                    2.00
+     1INF24   Inteligencia Artificial                            3              1 (2q)  1INF32                                     3.50
+             Modelado y Automatización de Procesos
+     1INF34                                              3    1 (2q)          1CON27, 1INF28                            3.50
+               Empresariales
+     1INF35  Administración de Sistemas Operativos            2              1 (2q)  (1INF29)                                   2.50
+
+     1INF50  Diseño de Software                            2              1 (2q)  1INF31                                     2.50
+
+     IND231  Ingeniería Económica                          3    1 (2q)           80 créditos aprobados*                      3.50
+     INF238  Redes de Computadoras                        3              2     1ELE01                                    4.00
+     IDM201  Idioma Extranjero (inglés)                                                       Acreditar capacidad de lectura
+
+ 8   1INF26  Formulación de Proyecto de Fin de Carrera         2                      [1EST14], [1INF37]                          2.00
+
+     1INF36  Ética y RSU en Ingeniería Informática              2              1 (2q)  140 créditos aprobados*                     2.50
+
+     1INF37  Ingeniería de Software                          3              1 (2q)  1INF30, 1INF50, {INF238}                    3.50
+               Innovación y Emprendimiento con Tecnologías de
+     1INF38                                              3                      1INF34, IND231                             3.00
+               Información
+
+     1INF39  Gobierno y Gestión de Tecnologías de Información   3    1 (2q)            1INF34, [1INF65]                            3.50
+
+     1INF41  Seguridad de Información                       3              1 (2q)  [1INF39]                                    3.50
+     1INF65  Sistemas de Información para los Negocios         3              1 (2q)  1INF33, 1INF34                             3.50
+ 9   1INF42  Proyecto de Fin de Carrera 1                     2                     1INF26                                     2.00
+     1INF44  Arquitectura Empresarial                        3                     1INF65                                     3.00
+
+     1INF45  Implantación de Sistemas de Información           3                     1INF65                                     3.00
+
+     1INF54  Proyecto de Diseño y Desarrollo de Software        2              2      1INF37, (1EST14)                           3.00
+
+     IND328  Gestión de Proyectos                           3                     1INF37                                     3.00
+     INF008  Práctica Supervisada Preprofesional                             1      1INF34                                     0.50
+              Cursos electivos (**)                                                                           Mínimo  6.00
+
+ 10   1INF46  Proyecto de Fin de Carrera 2                     2                     1INF42                                     2.00
+
+     1INF47  Proyecto de Implementación de Software           2              2      1INF54                                     3.00
+
+     1INF48  Estrategia y Gestión de Sistemas de Información     3    1 (2q)           1INF65                                     3.50
+
+              Cursos electivos (**)                                                                           Mínimo 12.00
+
+ CI   Ciclo                                         ME: 1 Exámenes y Tarea Académica
+ CT  Clases teóricas semanales                              2 Dos exámenes, prácticas Tipo "a", Tipo "b" y Tarea Académica
+ Pa  Prácticas tipo a                                        3 Sólo prácticas Tipo "b"
+ Pb  Prácticas tipo b                                        4 Evaluación especial (nota única)
+ ME  Modalidad de evaluación                                5 Sin nota
+ (  )  Haber cursado con nota 08 ó más
+ [  ]  Haber aprobado o cursar simultáneamente
+ { }  Haber cursado o cursar simultáneamente
+
+--- PAGINA 2 ---
+  P L A N D E E S T U D I O S  D E    I N G E N I E R Í A    I N F O R M Á T I C A
+
+CI  CLAVE C U R S O                        CT  Pa      Pb   R E Q U  I S  I T O S                    Cré.
+ELECTIVOS DE LA ESPECIALIDAD
+     1IND40  Seminario Internacional en Ciencia e Ingeniería 1    1                    110 créditos aprobados*                    1.00
+     1IND41  Seminario Internacional en Ciencia e Ingeniería 2    1                    110 créditos aprobados*                    1.00
+     1IND42  Seminario Internacional en Ciencia e Ingeniería 3    1                    110 créditos aprobados*                    1.00
+     1INF02  Aprendizaje de Máquina                        3              1 (2q)  1INF24                                    3.50
+     1INF03  Análisis de Datos                              3              1 (2q)  1INF24                                    3.50
+     1INF06  Estructura de Datos y Programación Metódica       4    1 (2q)            INF144, [1INF27]                           4.50
+     1INF08  Transformación Digital de Negocios               3              1 (2q)  1INF65                                    3.50
+     1INF11  Gobierno Electrónico                           3              1 (2q)  1INF39                                    3.50
+
+     1INF12  Temas Avanzados en Ciencias de la Computación   3                       [1INF24]                                   3.00
+
+     1INF20  Ciberseguridad                                3              1 (2q)  1INF41                                    3.50
+     1INF21  Informática Forense                            3              1 (2q)  [INF238]                                   3.50
+     1INF22  Gestión de Riesgos Tecnológicos                 3              1 (2q)  1INF39                                    3.50
+     1INF51  Sistemas Administradores de Bases de Datos       3              1 (2q)  1INF35                                    3.50
+     1INF52  Deep Learning                                      2.5             1 (2q)  1INF24                                    3.00
+              Rediseño de interfaces gráficas en Sistemas de
+     1INF55                                              3                   (2q)  1INF65                                    3.50
+               información empresarial
+              Programación para Sistemas de Información
+     1INF56                                              3                   (2q)  1INF65                                    3.50
+               Empresarial
+
+     1INF57  Sistemas Empresariales para la Gestión Financiera   3                   (2q)  1INF65                                    3.50
+
+              Sistemas Empresariales para la Gestión de la
+     1INF58                                              3                   (2q)  1INF65                                    3.50
+            Cadena en Suministros
+     1INF59  Procesamiento de Lenguaje Natural               3                   (2q)  1INF24                                    3.50
+     1INF60  Aprendizaje por Refuerzo                       3                   (2q)  1INF24                                    3.50
+     1INF61  Temas Avanzados de Inteligencia Artificial          3                     1INF24                                    3.00
+     1INF62   Inteligencia Artificial Aplicada                    3                   (2q)  1INF24                                    3.50
+                Introducción a los Sistemas de Información
+     1INF63                                              3                     1INF37                                    3.00
+                Hospitalarios
+     1INF64  Gestión de Inteligencia Artificial Empresarial        3                   (2q)  1INF24, 1INF41                            3.50
+     1INF66  Auditoría de Inteligencia Artificial                  3                   (2q)  1INF24, 1INF39                            3.50
+               Gestión de Incidentes de Seguridad, Ciberseguridad
+     1INF67                                              3                   (2q)  1INF41                                    3.50
+              y Privacidad de Datos
+     1INF68  Centros de Operaciones de Seguridad (SOC)       3                   (2q)  1INF41                                    3.50
+     1INF69  Cumplimiento en Tecnologías de Información        3                   (2q)  1INF39                                    3.50
+     1INF70  Gestión de Crisis Informática y de TI               3                   (2q)  1INF41                                    3.50
+     CIC611  Matemáticas para computación                   3                    175 créditos aprobados *                    3.00
+    DER349 Derecho para Ingenieros Informáticos              3                    140 créditos aprobados *                    3.00
+     IEE229  Electrónica Digital                             3              1.5 (3q)  INF134, 1FIS06, 1FIS07                     3.75
+     INF275  Seguridad Computacional                       3              1 (2q)  [INF238]                                   3.50
+     INF309  Desarrollo de Videojuegos                       3              1 (2q)  1INF37                                    3.50
+     INF310  Teoría de Grafos                              3                     1INF30                                    3.00
+     INF320  Programación en Dispositivos Móviles             3                      1INF30, 1INF50                            3.00
+
+     INF340  Auditoría de Sistemas y Tecnologías de Información  3    1 (2q)           180 créditos aprobados *                    3.50
+
+     INF342  Seminario de Informática                        3    1 (2q)           1INF37                                    3.50
+     INF356  Tecnologías Web                              3              1 (2q)  1INF30                                    3.50
+     INF357  Inteligencia de Negocios                        3    1 (2q)           1INF65                                    3.50
+     INF370  Calidad de Software                            3                     1INF37                                    3.00
+     INF372  Gráficos en Computación                        3    1 (2q)    1 (2q)  1INF30                                    4.00
+     INF373  Teoría de Compiladores                         3    1 (2q)    1 (2q)  1INF30                                    4.00
+     INF377  Sistemas de Información Gerencial                3    1 (2q)    1 (2q)  1INF65                                    4.00
+     INF378  Sistemas Expertos                             3    1 (2q)    1 (2q)  1INF24                                    4.00
+     INF382  Temas avanzados en Sist. de Información 01        3              1 (2q)  1INF28, 1INF49, 120 créditos aprobados *    3.50
+     INF383  Temas avanzados en Sist. de Información 02        3                      1INF28, 1INF49, 120 créditos aprobados *    3.00
+     INF384  Temas avanzados en Ing. de Software 01           3              1 (2q)  1INF37                                    3.50
+     INF385  Temas avanzados en Ing. de Software 02           3                     1INF37                                    3.00
+     INF386  Temas avanzados en Tecnología de Inf. 01         3              1 (2q)  1INF39                                    3.50
+     INF387  Temas avanzados en Tecnología de Inf. 02         3                     1INF39                                    3.00
+     INF388  Temas avanzados en Ing. Computadora 01         3              1 (2q)  INF238                                    3.50
+     INF389  Temas avanzados en Computación                3                     1INF24                                    3.00
+     INF390  Continuidad de las Tecnologías de Información      3    1 (2q)           1INF39                                    3.50
+
+--- PAGINA 3 ---
+  P L A N D E E S T U D I O S  D E    I N G E N I E R Í A    I N F O R M Á T I C A
+CI  CLAVE C U R S O                        CT  Pa      Pb   R E Q U  I S  I T O S                    Cré.
+ELECTIVOS DE LIBRE DISPONIBILIDAD
+    1HUM74 Temas Libres en Humanidades 1                 3                                                                  3.00
+    1HUM75 Temas Libres en Humanidades 2                 3                                                                  3.00
+    1HUM78 Temas Libres Interdisciplinarios 1                 3                                                                  3.00
+    1HUM79 Temas Libres Interdisciplinarios 2                 3                                                                  3.00
+     1ING18  Actividades Extracurriculares 1                         2               120 créditos aprobados*                    1.00
+     1ING19  Actividades Extracurriculares 2                         2               120 créditos aprobados*                    1.00
+     1ING20  Actividades Extracurriculares 3                         2               120 créditos aprobados*                    1.00
+    TEO240  Teología 2                                   3                                                                  3.00
+
+
+  * Del plan de estudios de esta especialidad.
+ ** Pueden considerarse cursos hasta un máximo de 12 créditos de libre disponibilidad y cursos de otras facultades,
+con autorización del Decano.
+                                                                          Plan de estudios vigente en el 2026-2

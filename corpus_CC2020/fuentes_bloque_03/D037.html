@@ -1,0 +1,647 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Vicerrectoría Acádemica</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <style>
+      th:first-child {
+        width:150px;
+      }
+      th:nth-child(2) {
+        width:150px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+    <style>
+      .dropdown:hover .dropdown-menu{
+          display: block;
+      }
+      .navbar-nav {
+        align-items: flex-end;
+      }
+  </style>
+    
+    <!-- NavBar -->
+    <div class="fixed-top" style="background-color: #0B1736;">
+        <nav class="navbar navbar-dark navbar-expand-lg">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="../home.htm" style="display: flex;align-items: center;">
+                    <img src="img/logotec.png" style="height: 35px;margin-right:10px;">
+                    <div style="margin-right: 10px;font-weight: 100;">|</div>
+                    <div style="line-height: 1.2;font-size: 16px;">DIRECCIÓN NACIONAL DE <br />NORMATIVIDAD ACADÉMICA</div>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsMenu" aria-controls="navbarsMenu" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+              <div class="collapse navbar-collapse" id="navbarsMenu" style="justify-content:flex-end;">
+                <ul class="navbar-nav">
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" style="color: white;line-height:1.2;margin-left:20px;font-size: 14px;" href="DocumentosNormativos.html" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Documentos <br />normativos
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" style="font-size: small;" href="DN PREPA.htm">Preparatoria</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="DN PROF.htm">Profesional</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="DN POSG.htm">Posgrados</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" style="color: white;line-height:1.2;margin-left:20px;font-size: 14px;" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Preparatoria
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" style="font-size: small;" href="1_1ES.htm">Planes de estudio</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" style="color: white;line-height:1.2;margin-left:20px;font-size: 14px;" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Profesional
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" style="font-size: small;" href="2_1ES.htm">Carreras</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="2_7ES.htm">Materias de educación<br>general y soporte a<br> la Visión</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="https://samp.itesm.mx/Programas/VistaPrograma?clave=CDT21&modoVista=Default&idioma=ES&cols=0">Diploma internacional</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="https://samp.itesm.mx/Programas/VistaPrograma?clave=ULAD21&modoVista=Default&idioma=ES&cols=0">Programas Ulterius<br>(Diploma U-LEAD)</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="2_8_prof_ES.htm">Materias acreditables</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="https://samp.itesm.mx/Programas/VistaPrograma?clave=DHEA21&modoVista=Default&idioma=ES&cols=0">Programa de desarrollo<br> de habilidades para<br> el éxito acádemico<br> (DHEA)</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="MCER_ES.htm">Equivalencias exámenes<br> de inglés MCER</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" style="color: white;line-height:1.2;margin-left:20px;font-size: 14px;" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Posgrado
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" style="font-size: small;" href="2_8_posg_ES.htm">Credenciales alternativas</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="3_1ES.htm">Especialidades</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="3_2ES.htm">Especialidades médicas</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="3_3ES.htm">Maestrías</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="3_4ES.htm">Doctorados</a></li>
+                      <li><a class="dropdown-item" style="font-size: small;" href="2_8_posg2_ES.htm">Características<br> educación continua</a></li>
+                    </ul>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="3_7ES.htm" style="color: white;line-height:1.2;margin-left:20px;font-size: 14px;">Validez oficial <br />de estudios</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="../home_English.htm" style="color: white;line-height:1.2;margin-left:20px;font-size: 14px;"><img src="img/usa.png" style="width: 20px;"></a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Content -->
+    <div class="container" style="margin-top:100px;">
+      <div class="row mt-4 mb-4" style="align-items: center;">
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item">Inicio</li>
+            <li class="breadcrumb-item">Profesional</li>
+            <li class="breadcrumb-item active" aria-current="page">Carreras</li>
+          </ol>
+        </nav>
+        <h2>Carreras de profesional</h2>
+      </div>
+      <div class="row mb-4" style="display: flex; flex-wrap: wrap;">
+        <div class="col">
+          <div class="card p-4" style="align-items: center;">
+            <table class="table caption-top">
+                <h4 style="color: #6E757C;">Escuela de Arquitectura, Arte y Diseño</h4>
+                <thead>
+                  <tr>
+                    <th width="5%" scope="col">#</th>
+                    <th width="13%" scope="col">Siglas</th>
+                    <th width="13%" scope="col">CIP</th>
+                    <th width="69%" scope="col">Nombre del programa</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>*</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=AAD26&modoVista=Default&idioma=ES&cols=0" target="_blank">AAD</a></td>
+                    <td>000000</td>
+                    <td>Arquitectura, Arte y Diseño / Exploración</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>1</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=ARQ26&modoVista=Default&idioma=ES&cols=0" target="_blank">ARQ</a></td>
+                    <td>040201</td>
+                    <td>Arquitectura</td>
+                  </tr>
+                  <tr>
+                    <td>2</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BA%2026&modoVista=Default&idioma=EN&cols=0" target="_blank">BA</a></td>
+                    <td>040201</td>
+                    <td>Bachelor of Architecture</td>
+                  </tr>
+                  <tr>
+                    <td>3</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BD27&modoVista=Default&idioma=EN&cols=0" target="_blank">BD</a></td>
+                    <td>500404</td>
+                    <td>B.A. in Design</td>
+                  </tr>
+                  <tr>
+                    <td>4</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LAD26&modoVista=Default&idioma=ES&cols=0" target="_blank">LAD</a></td>
+                    <td>509999</td>
+                    <td>Licenciatura en Arte Digital</td>
+                  </tr>
+                  <tr>
+                    <td>5</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LDI26&modoVista=Default&idioma=ES&cols=0" target="_blank">LDI</a></td>
+                    <td>500404</td>
+                    <td>Licenciatura en Diseño</td>
+                  </tr>
+                  <tr>
+                    <td>6</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LUB26&modoVista=Default&idioma=ES&cols=0" target="_blank">LUB</a></td>
+                    <td>040201</td>
+                    <td>Licenciatura en Urbanismo</td>
+                  </tr>
+                </tbody>
+            </table>
+            <table class="table caption-top">
+              <h4 style="color: #6E757C;">Escuela de Ciencias Sociales y Gobierno</h4>
+                <thead>
+                  <tr>
+                    <th width="5%" scope="col">#</th>
+                    <th width="13%" scope="col">Siglas</th>
+                    <th width="13%" scope="col">CIP</th>
+                    <th width="69%" scope="col">Nombre del programa</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>*</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=CIS26&modoVista=Default&idioma=ES&cols=0" target="_blank">CIS</a></td>
+                    <td>450101</td>
+                    <td>Derecho, Economía y Relaciones Internacionales / Exploración</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>7</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BIR26&modoVista=Default&idioma=EN&cols=0" target="_blank">BIR</a></td>
+                    <td>450901</td>
+                    <td>B.A. in International Relations</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>8</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LEC26&modoVista=Default&idioma=ES&cols=0" target="_blank">LEC</a></td>
+                    <td>450601</td>
+                    <td>Licenciatura en Economía</td>
+                  </tr>
+                  <tr>
+                    <td>9</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LED26&modoVista=Default&idioma=ES&cols=0" target="_blank">LED</a></td>
+                    <td>220101</td>
+                    <td>Licenciatura en Derecho</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>10</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LRI26&modoVista=Default&idioma=ES&cols=0" target="_blank">LRI</a></td>
+                    <td>450901</td>
+                    <td>Licenciatura en Relaciones Internacionales</td>
+                  </tr>
+                  <tr>
+                    <td>11</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LTP26&modoVista=Default&idioma=ES&cols=0" target="_blank">LTP</a></td>
+                    <td>440401</td>
+                    <td>Licenciatura en Gobierno y Transformación Pública</td>
+                  </tr>
+                </tbody>
+            </table>
+            <table class="table caption-top">
+              <h4 style="color: #6E757C;">Escuela de Humanidades y Educación</h4>
+                <thead>
+                  <tr>
+                    <th width="5%" scope="col">#</th>
+                    <th width="12%" scope="col">Siglas</th>
+                    <th width="14%" scope="col">CIP</th>
+                    <th width="69%" scope="col">Nombre del programa</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>*</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=HCM26&modoVista=Default&idioma=ES&cols=0" target="_blank" >HCM</a></td>
+                    <td>000000</td>
+                    <td>Humanidades, Comunicación y Tecnología Musical / Exploración</td>
+                  </tr>
+                  <tr>
+                    <td>11</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BCD27&modoVista=Default&idioma=EN&cols=0" target="_blank">BCD</a></td>
+                    <td>090102</td>
+                    <td>B.A. in Communication and Digital Production</td>
+                  </tr>
+                  <tr>
+                    <td>12</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LC%2026&modoVista=Default&idioma=ES&cols=0" target="_blank">LC</a></td>
+                    <td>090102</td>
+                    <td>Licenciatura en Comunicación y Producción Digital</td>
+                  </tr>
+                  <tr>
+                    <td>13</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LEI26&modoVista=Default&idioma=ES&cols=0" target="_blank">LEI</a></td>
+                    <td>130101</td>
+                    <td>Licenciatura en Innovación y Transformación Educativa</td>
+                  </tr>
+                  <tr>
+                    <td>14</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LHD26&modoVista=Default&idioma=ES&cols=0" target="_blank">LHD</a></td>
+                    <td>305202</td>
+                    <td>Licenciatura en Humanidades Digitales e Inteligencia Artificial</td>
+                  </tr>
+                  <tr>
+                    <td>15</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LLE26&modoVista=Default&idioma=ES&cols=0" target="_blank">LLE</a></td>
+                    <td>160905</td>
+                    <td>Licenciatura en Letras y Emprendimiento Editorial</td>
+                  </tr>
+                  <tr>
+                    <td>16</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LTM26&modoVista=Default&idioma=ES&cols=0" target="_blank">LTM</a></td>
+                    <td>500901</td>
+                    <td>Licenciatura en Tecnología y Producción Musical</td>
+                  </tr>
+                </tbody>
+            </table>
+            <table class="table caption-top">
+			  <h4 style="color: #6E757C;">Escuela de Ingeniería y Ciencias</br><h5 style="color: #6E757C;">Computación e Inteligencia Artificial</h4>
+                <thead>
+                  <tr>
+                    <th width="5%" scope="col">#</th>
+                    <th width="12%" scope="col">Siglas</th>
+                    <th width="14%" scope="col">CIP</th>
+                    <th width="69%" scope="col">Nombre del programa</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  
+                   <tr>
+                    <td>*</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=ICT26&modoVista=Default&idioma=ES&cols=0" target="_blank">ICT</a></td>
+                    <td>110103</td>
+                    <td>Computación e Inteligencia Artificial / Exploración</td>
+                  </tr>
+
+                  <tr>
+                    <td>17</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BI27&modoVista=Default&idioma=EN&cols=0" target="_blank">BI</a></td>
+                    <td>270301</td>
+                    <td>B.S. in Artificial Intelligence and Data Science</td>
+                  </tr>
+
+                  <tr>
+                    <td>18</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BCT27&modoVista=Default&idioma=EN&cols=0" target="_blank">BCT</a></td>
+                    <td>110701</td>
+                    <td>B.S. in Computer Science and Technology</td>
+                  </tr>
+
+                  <tr>
+                    <td>19</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BEF27&modoVista=Default&idioma=EN&cols=0" target="_blank">BEF</a></td>
+                    <td>270305</td>
+                    <td>B.S. in Financial Engineering</td>
+                  </tr>
+
+                  <tr>
+                    <td>20</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IDM26&modoVista=Default&idioma=ES&cols=0" target="_blank">IDM</a></td>
+                    <td>270301</td>
+                    <td>Ingeniería en Inteligencia Artificial y Ciencia de Datos</td>
+                  </tr>
+                
+                   <tr>
+                    <td>21</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IRS26&modoVista=Default&idioma=ES&cols=0" target="_blank">IRS</a></td>
+                    <td>140901</td>
+                    <td>Ingeniería en Robótica y Sistemas Inteligentes</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>22</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=ITC26&modoVista=Default&idioma=ES&cols=0" target="_blank">ITC</a></td>
+                    <td>110701</td>
+                    <td>Ingeniería en Tecnologías Computacionales</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>23</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=ITD26&modoVista=Default&idioma=ES&cols=0" target="_blank">ITD</a></td>
+                    <td>521201</td>
+                    <td>Ingeniería en Transformación Digital de Negocios</td>
+                  </tr>
+            
+                  
+                  </tbody>
+            </table>
+            <table class="table caption-top">
+                <h5 style="color: #6E757C;">Ingeniería</h4>
+                <thead>
+                  <tr>
+                    <th width="5%" scope="col">#</th>
+                    <th width="12%" scope="col">Siglas</th>
+                    <th width="14%" scope="col">CIP</th>
+                    <th width="69%" scope="col">Nombre del programa</th>
+                  </tr>
+                </thead>
+                <tbody>
+                      
+                  <tr>
+                    <td>*</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=ING26&modoVista=Default&idioma=ES&cols=0" target="_blank">ING</a></td>
+                    <td>140101</td>
+                    <td>Ingeniería / Exploración</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>24</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BEE27&modoVista=Default&idioma=EN&cols=0" target="_blank">BBE</a></td>
+                    <td>261201</td>
+                    <td>B.S. in Biotechnology Engineering</td>
+                  </tr>
+
+                  <tr>
+                    <td>25</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BIE26&modoVista=Default&idioma=EN&cols=0" target="_blank">BIE</a></td>
+                    <td>143501</td>
+                    <td>B.S. in Industrial and Systems Engineering</td>
+                  </tr>
+                  <tr>
+                    <td>26</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BME26&modoVista=Default&idioma=EN&cols=0" target="_blank">BME</a></td>
+                    <td>141001</td>
+                    <td>B.S. in Mechatronics Engineering</td>
+                  </tr>
+                  <tr>
+                    <td>27</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IAG26&modoVista=Default&idioma=ES&cols=0" target="_blank">IAG</a></td>
+                    <td>011102</td>
+                    <td>Ingeniería en Biosistemas Agroalimentarios</td>
+                  </tr>
+                  <tr>
+                    <td>28</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IAL26&modoVista=Default&idioma=ES&cols=0" target="_blank">IAL</a></td>
+                    <td>011002</td>
+                    <td>Ingeniería en Alimentos</td>
+                  </tr>
+                  <tr>
+                    <td>29</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IBT26&modoVista=Default&idioma=ES&cols=0" target="_blank">IBT</a></td>
+                    <td>261201</td>
+                    <td>Ingeniería en Biotecnología</td>
+                  </tr>
+                  <tr>
+                    <td>30</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IC%2026&modoVista=Default&idioma=ES&cols=0" target="_blank">IC</a></td>
+                    <td>140801</td>
+                    <td>Ingeniería Civil</td>
+                  </tr>
+                  <tr>
+                    <td>31</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IDS26&modoVista=Default&idioma=ES&cols=0" target="_blank">IDS</a></td>
+                    <td>141401</td>
+                    <td>Ingeniería en Desarrollo Sustentable</td>
+                  </tr>
+                  <tr>
+                    <td>32</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IE%2026&modoVista=Default&idioma=ES&cols=0" target="_blank">IE</a></td>
+                    <td>141001</td>
+                    <td>Ingeniería en Electrónica y Semiconductores</td>
+                  </tr>
+                  <tr>
+                    <td>33</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IFI26&modoVista=Default&idioma=ES&cols=0" target="_blank">IFI</a></td>
+                    <td>141201</td>
+                    <td>Ingeniería en Física Industrial</td>
+                  </tr>
+                  <tr>
+                    <td>34</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IID26&modoVista=Default&idioma=ES&cols=0" target="_blank">IID</a></td>
+                    <td>140101</td>
+                    <td>Ingeniería en Innovación y Desarrollo</td>
+                  </tr>
+                  <tr>
+                    <td>35</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IIS26&modoVista=Default&idioma=ES&cols=0" target="_blank">IIS</a></td>
+                    <td>143501</td>
+                    <td>Ingeniería Industrial y de Sistemas</td>
+                  </tr>
+                  <tr>
+                    <td>36</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IM%2026&modoVista=Default&idioma=ES&cols=0" target="_blank">IM</a></td>
+                    <td>141901</td>
+                    <td>Ingeniería Mecánica</td>
+                  </tr>
+                   <tr>
+                    <td>37</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IMD26&modoVista=Default&idioma=ES&cols=0" target="_blank">IMD</a></td>
+                    <td>140501</td>
+                    <td>Ingeniería Biomédica</td>
+                  </tr>
+                    <tr>
+                    <td>38</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IMT26&modoVista=Default&idioma=ES&cols=0" target="_blank">IMT</a></td>
+                    <td>141001</td>
+                    <td>Ingeniería en Mecatrónica</td>
+                  </tr>
+                  <tr>
+                    <td>39</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=INA26&modoVista=Default&idioma=ES&cols=0" target="_blank">INA</a></td>
+                    <td>143101</td>
+                    <td>Ingeniería en Nanotecnología y Materiales</td>
+                  </tr>
+                  <tr>
+                    <td>40</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=IQ%2026&modoVista=Default&idioma=ES&cols=0" target="_blank">IQ</a></td>
+                    <td>140701</td>
+                    <td>Ingeniería Química</td>
+                  </tr>
+                </tbody>
+            </table>
+            <table class="table caption-top">
+              <h4 style="color: #6E757C;">Escuela de Medicina y Ciencias de la Salud</h4>
+                <thead>
+                  <tr>
+                    <th width="5%" scope="col">#</th>
+                    <th width="10%" scope="col">Siglas</th>
+                    <th width="17%" scope="col">CIP</th>
+                    <th width="68%" scope="col">Nombre del programa</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>*</td>
+                    <td><a href="https://samp.itesm.mx/fd/Programas/VistaPrograma?clave=SLD26&modoVista=Default&idioma=ES&cols=0" target="_blank">SLD</a></td>
+                    <td>510000</td>
+                    <td>Salud / Exploración</td>
+                  </tr>
+                  <tr>
+                    <td>41</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LBC26&modoVista=Default&idioma=ES&cols=0&modoVista=Default&idioma=ES&cols=" target="_blank">LBC</a></td>
+                    <td>511201</td>
+                    <td>Licenciatura en Biociencias</td>
+                  </tr>
+                  <tr>
+                    <td>42</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LNB26&modoVista=Default&idioma=ES&cols=0&modoVista=Default&idioma=ES&cols=" target="_blank">LNB</a></td>
+                    <td>190501</td>
+                    <td>Licenciatura en Nutrición y Bienestar Integral</td>
+                  </tr>
+                  <tr>
+                    <td>43</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LPS26&modoVista=Default&idioma=ES&cols=0&modoVista=Default&idioma=ES&cols=0" target="_blank">LPS</a></td>
+                    <td>420101</td>
+                    <td>Licenciatura en Psicología Clínica y de la Salud</td>
+                  </tr>
+                  <tr>
+                    <td>44</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=MC%2026&modoVista=Default&idioma=ES&cols=0" target="_blank">MC</a></td>
+                    <td>511201</td>
+                    <td>Médico Cirujano</td>
+                  </tr>
+                  <tr>
+                    <td>45</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=MO%2026&modoVista=Default&idioma=ES&cols=0" target="_blank">MO</a></td>
+                    <td>510401</td>
+                    <td>Médico Cirujano Odontólogo</td>
+                  </tr>
+                </tbody>
+            </table>
+            <table class="table caption-top">
+              <h4 style="color: #6E757C;">Escuela de Negocios</h4>
+                <thead>
+                  <tr>
+                    <th width="5%" scope="col">#</th>
+                    <th width="10%" scope="col">Siglas</th>
+                    <th width="17%" scope="col">CIP</th>
+                    <th width="68%" scope="col">Nombre del programa</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>*</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=NEG26&modoVista=Default&idioma=ES&cols=0" target="_blank">NEG</a></td>
+                    <td>520201</td>
+                    <td>Negocios / Exploración</td>
+                  </tr>
+                  <tr>
+                    <td>46</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BBA26&modoVista=Default&idioma=EN&cols=0" target="_blank">BBA</a></td>
+                    <td>520201</td>
+                    <td>B.A. in Strategy and Business Transformation</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>47</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BBI27&modoVista=Default&idioma=EN&cols=0" target="_blank">BBI</a></td>
+                    <td>520201</td>
+                    <td>B.A. in Business Intelligence</td>
+                  </tr>
+
+                  <tr>
+                    <td>48</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BFI26&modoVista=Default&idioma=EN&cols=0" target="_blank">BFI</a></td>
+                    <td>520801</td>
+                    <td>B.A. in Finance</td>
+                  </tr>
+                  <tr>
+                    <td>49</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BGB26&modoVista=Default&idioma=EN&cols=0" target="_blank">BGB</a></td>
+                    <td>521101</td>
+                    <td>B.A. in Global Business</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>50</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=BM26&modoVista=Default&idioma=ES&cols=0" target="_blank">BM</a></td>
+                    <td>521401</td>
+                    <td>B.A. in Marketing</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>51</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=CPF26&modoVista=Default&idioma=ES&cols=0" target="_blank">CPF</a></td>
+                    <td>520301</td>
+                    <td>Licenciatura en Contaduría Pública y Finanzas</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>52</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LAE26&modoVista=Default&idioma=ES&cols=0" target="_blank">LAE</a></td>
+                    <td>520201</td>
+                    <td>Licenciatura en Estrategia y Transformación de Negocios</td>
+                  </tr>
+                  <tr>
+                    <td>53</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LAF26&modoVista=Default&idioma=ES&cols=0&modoVista=Default&idioma=ES&cols=0" target="_blank">LAF</a></td>
+                    <td>520801</td>
+                    <td>Licenciatura en Finanzas</td>
+                  </tr>
+                  
+                  <tr>
+                    <td>54</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LDE26&modoVista=Default&idioma=ES&cols=0&modoVista=Default&idioma=ES&cols=0" target="_blank">LDE</a></td>
+                    <td>520703</td>
+                    <td>Licenciatura en Emprendimiento e Innovación</td>
+                  </tr>
+                  <tr>
+                    <td>55</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LDO26&modoVista=Default&idioma=ES&cols=0" target="_blank">LDO</a></td>
+                    <td>521003</td>
+                    <td>Licenciatura en Desarrollo de Talento y Cultura Organizacional</td>
+                  </tr>
+                
+                  <tr>
+                    <td>56</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LEM26&modoVista=Default&idioma=ES&cols=0" target="_blank">LEM</a></td>
+                    <td>521401</td>
+                    <td>Licenciatura en Mercadotecnia</td>
+                  </tr>
+                  <tr>
+                    <td>57</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LIN26&modoVista=Default&idioma=ES&cols=0&modoVista=Default&idioma=ES&cols=0" target="_blank">LIN</a></td>
+                    <td>521101</td>
+                    <td>Licenciatura en Negocios Internacionales</td>
+                  </tr>
+                  <tr>
+                    <td>58</td>
+                    <td><a href="https://samp.itesm.mx/Programas/VistaPrograma?clave=LIT26&modoVista=Default&idioma=ES&cols=0" target="_blank">LIT</a></td>
+                    <td>520201</td>
+                    <td>Licenciatura en Inteligencia de Negocios</td>
+                  </tr>
+                </tbody>
+            </table>
+          </div>
+          <p class="mt-4">* Programas de Exploración<br>
+            * CIP: Código de Clasificación de Programas Educativos (CIP por sus siglas en inglés), es una taxonomía para clasificar programas educativos desarrollada por el Departamento de Educación de E.U.A.</p>
+          <p class="mt-4 " style="font-size: 9px">&nbsp;Última actualización: 20 de agosto de 2025</p>
+        </div>
+      </div>
+    </div>
+  <div class="container">
+      <footer class="py-3 my-4">
+        <ul class="nav justify-content-center border-bottom pb-3 mb-3">
+          <li class="nav-item"><a href="https://tec.mx/es/aviso-legal" target="_blank" class="nav-link px-2 text-muted">Aviso Legal</a></li>
+          <li class="nav-item"><a href="quienesES.html" class="nav-link px-2 text-muted">¿Quiénes somos?</a></li>
+          <li class="nav-item"><a href="sitioES.html" class="nav-link px-2 text-muted">Sobre el sitio</a></li>
+          <li class="nav-item"><a href="mapaES.html" class="nav-link px-2 text-muted">Mapa del sitio</a></li>
+          <li class="nav-item"><a href="principioES.html" class="nav-link px-2 text-muted">Principio de igualdad</a></li>
+        </ul>
+        <p class="text-center text-muted">D.R.© Instituto Tecnológico y de Estudios Superiores de Monterrey, México 2026</p>
+      </footer>
+    </div>
+  </body>
+
+</html>

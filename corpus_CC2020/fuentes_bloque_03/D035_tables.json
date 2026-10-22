@@ -1,0 +1,252 @@
+[
+ [
+  [
+   "Cód.",
+   "Asignatura",
+   "Correlativas"
+  ],
+  [
+   "1º semestre"
+  ],
+  [
+   "F0301",
+   "Matemática A",
+   ""
+  ],
+  [
+   "I101",
+   "Programación I",
+   ""
+  ],
+  [
+   "U0902",
+   "Química",
+   ""
+  ],
+  [
+   "2º semestre"
+  ],
+  [
+   "F302",
+   "Matemática B",
+   "F0301"
+  ],
+  [
+   "I102",
+   "Programación II",
+   "I101"
+  ],
+  [
+   "M0670",
+   "Sistemas de Representación C",
+   ""
+  ],
+  [
+   "3º semestre"
+  ],
+  [
+   "F0316",
+   "Física I",
+   "F0301"
+  ],
+  [
+   "I103",
+   "Programación III",
+   "I102"
+  ],
+  [
+   "I104",
+   "Taller de Lenguaje I",
+   "I102"
+  ],
+  [
+   "I105",
+   "Conceptos de Arquitectura de Computadoras",
+   "I102"
+  ],
+  [
+   "4º semestre"
+  ],
+  [
+   "F304",
+   "Matemática C",
+   "F0302"
+  ],
+  [
+   "F317",
+   "Física II",
+   "F0316-F0302"
+  ],
+  [
+   "I106",
+   "Conceptos de Sistemas Operativos",
+   "I102-I105"
+  ],
+  [
+   "I107",
+   "Taller de Lenguajes II",
+   "I104"
+  ],
+  [
+   "F0312",
+   "Probabilidades",
+   "F0302"
+  ],
+  [
+   "5º semestre"
+  ],
+  [
+   "F0310",
+   "Matemática D1",
+   "F0304"
+  ],
+  [
+   "E0282",
+   "Electrotecnia y Electrónica",
+   "F0304-F0317"
+  ],
+  [
+   "I108",
+   "Conceptos de Bases de Datos",
+   "I103"
+  ],
+  [
+   "E0301",
+   "Introducción al Diseño Lógico",
+   "I105"
+  ],
+  [
+   "F0307",
+   "Estadística",
+   "F0304 - F0312"
+  ],
+  [
+   "6º semestre"
+  ],
+  [
+   "E0302",
+   "Introducción al Procesamiento de Señales",
+   "F0307-F0310"
+  ],
+  [
+   "I109",
+   "Taller de Arquitectura",
+   "E0301"
+  ],
+  [
+   "I110",
+   "Ingeniería de Software",
+   "I108"
+  ],
+  [
+   "E0303",
+   "Redes de Datos 1",
+   "I106"
+  ],
+  [
+   "7º semestre"
+  ],
+  [
+   "I111",
+   "Concurrencia y Paralelismo",
+   "I106-I107"
+  ],
+  [
+   "E0304",
+   "Instrumentación y Control",
+   "E0282-E0302"
+  ],
+  [
+   "I112",
+   "Bases de Datos",
+   "I108-I110"
+  ],
+  [
+   "E0305",
+   "Circuitos Digitales y Microcontroladores",
+   "I109"
+  ],
+  [
+   "I113",
+   "Economía y Emprendedorismo",
+   "F0304"
+  ],
+  [
+   "8º semestre"
+  ],
+  [
+   "I114",
+   "Redes de Datos II",
+   "E0303"
+  ],
+  [
+   "I115",
+   "Sistemas de Tiempo Real",
+   "I110-I111"
+  ],
+  [
+   "E0306",
+   "Taller de Proyecto I",
+   "I110-E0305"
+  ],
+  [
+   "OPTAT",
+   "Materia Optativa 1",
+   ""
+  ],
+  [
+   "9º semestre"
+  ],
+  [
+   "I116",
+   "Sistemas Distribuidos y Paralelos",
+   "I111"
+  ],
+  [
+   "I117",
+   "Aspectos Legales de Ingeniería Informática",
+   "I113"
+  ],
+  [
+   "OPTAT",
+   "Materia Optativa 2",
+   ""
+  ],
+  [
+   "OPTAT",
+   "Materia Optativa 3",
+   ""
+  ],
+  [
+   "10º semestre"
+  ],
+  [
+   "I118",
+   "Taller de Proyecto II",
+   "I110"
+  ],
+  [
+   "S0012",
+   "Seminario de Redacción de textos Profesionales",
+   "15 mat. aprob."
+  ],
+  [
+   "OPTAT",
+   "Materia Optativa 4",
+   ""
+  ],
+  [
+   ""
+  ],
+  [
+   "E0228",
+   "Práctica Profesional Supervisada",
+   "20 mat. aprob."
+  ],
+  [
+   "INFIN",
+   "Inglés",
+   ""
+  ]
+ ]
+]

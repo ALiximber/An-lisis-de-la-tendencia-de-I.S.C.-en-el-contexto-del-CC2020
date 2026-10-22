@@ -1,0 +1,358 @@
+
+--- PAGINA 1 ---
+                                                                                     UNIVERSIDAD NACIONAL DEL CALLAO
+                                                                      FACULTAD DE INGENIERIA INDUSTRIAL Y DE SISTEMAS
+                                                                       ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+                                                                    PLAN DE ESTUDIOS 2023 - RESOLUCIÓN Nº 012-2023-CU.                                                        Válido desde :             01-02-2023
+
+
+                                                                                                              I - PRIMER CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                  TIPO                  CÓDIGO                                     CURSO                                     PLAN
+
+ISEE101        TEORÍA DE LA INFORMACIÓN Y CODIFICACIÓN                                  4           Obligatorio          EQUIVALENCIA                SOE103        TEORIA DE LA INFORMACION Y CODIFICACION                               2016
+
+ISEG101        CÁLCULO I                                                                4           Obligatorio          EQUIVALENCIA                SOE101        CALCULO I                                                             2016
+
+ISEG102        MATEMÁTICA BÁSICA                                                        4           Obligatorio          EQUIVALENCIA                SOE102        MATEMATICA BASICA                                                     2016
+
+ISEG103        ECONOMÍA DE LA EMPRESA                                                   3           Obligatorio          EQUIVALENCIA               SOG512         ECONOMIA                                                              2016
+
+ISEG104        IDIOMA I                                                                 2           Obligatorio          EQUIVALENCIA               SOG103         IDIOMA I                                                              2016
+
+ISEG105        ACTIVIDADES CULTURALES                                                   3           Obligatorio
+
+
+                                                                                                             II - SEGUNDO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                  TIPO                  CÓDIGO                                     CURSO                                     PLAN
+
+ISEE201        PROGRAMACIÓN ESTRUCTURADA                                                4           Obligatorio          PRE-REQUISITO              ISEE101        TEORÍA DE LA INFORMACIÓN Y CODIFICACIÓN                               2023
+
+                                                                                                                         EQUIVALENCIA                SOE205        PROGRAMACION ESTRUCTURADA                                             2016
+
+ISEE202        INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS                                 3           Obligatorio          PRE-REQUISITO              ISEE101        TEORÍA DE LA INFORMACIÓN Y CODIFICACIÓN                               2023
+
+ISEG201        FÍSICA I                                                                 4           Obligatorio          PRE-REQUISITO              ISEG102        MATEMÁTICA BÁSICA                                                     2023
+
+                                                                                                                         EQUIVALENCIA                SOE204        FISICA I                                                              2016
+
+ISEG202        CONTABILIDAD EMPRESARIAL                                                 3           Obligatorio          EQUIVALENCIA               SOG307         CONTABILIDAD                                                          2016
+
+ISEG203        CALCULO II                                                               4           Obligatorio          PRE-REQUISITO              ISEG101        CÁLCULO I                                                             2023
+
+                                                                                                                         EQUIVALENCIA                SOE206        CALCULO II                                                            2016
+
+ISEG204        IDIOMA II                                                                2           Obligatorio          PRE-REQUISITO              ISEG104        IDIOMA I                                                              2023
+
+                                                                                                                         EQUIVALENCIA               SOG206         IDIOMA II                                                             2016
+
+
+                                                                                                             III - TERCER CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                  TIPO                  CÓDIGO                                     CURSO                                     PLAN
+
+ISEE301        PROGRAMACIÓN ORIENTADA A OBJETOS I                                       4           Obligatorio          PRE-REQUISITO              ISEE201        PROGRAMACIÓN ESTRUCTURADA                                             2023
+
+                                                                                                                         EQUIVALENCIA                SOE309        PROGRAMACION ORIENTADA A OBJETOS                                      2016
+
+ISEE302        BASE DE DATOS I                                                          3           Obligatorio          PRE-REQUISITO              ISEE202        INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS                              2023
+
+                                                                                                                         EQUIVALENCIA                SOE310        BASE DE DATOS                                                         2016
+
+ISEG301        FÍSICA II                                                                4           Obligatorio          PRE-REQUISITO              ISEG201        FÍSICA I                                                              2023
+
+                                                                                                                         EQUIVALENCIA                SOE307        FISICA II                                                             2016
+
+ISEG302        CALCULO III                                                              4           Obligatorio          PRE-REQUISITO              ISEG203        CALCULO II                                                            2023
+
+                                                                                                                         EQUIVALENCIA                SOE308        CALCULO III                                                           2016
+
+                                                                                                                                                                                                                             Pág. 1 de 5
+
+--- PAGINA 2 ---
+                                                                                     UNIVERSIDAD NACIONAL DEL CALLAO
+                                                                      FACULTAD DE INGENIERIA INDUSTRIAL Y DE SISTEMAS
+                                                                       ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+                                                                    PLAN DE ESTUDIOS 2023 - RESOLUCIÓN Nº 012-2023-CU.                                                       Válido desde :             01-02-2023
+
+
+                                                                                                             III - TERCER CICLO
+
+CÓDIGO                                     CURSO                                   CRÉDITOS        CONDICIÓN                 TIPO                   CÓDIGO                                    CURSO                                     PLAN
+
+ISEG303        METODOLOGÍA DE LA INVESTIGACIÓN Y REDACCIÓN                              3           Obligatorio         PRE-REQUISITO               ISEE202        INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS                             2023
+
+                                                                                                                         EQUIVALENCIA               SOG204         METODOLOGÍA DE LA INVESTIGACION CIENTIFICA                           2016
+
+ISEG304        IDIOMA III                                                               2           Obligatorio         PRE-REQUISITO               ISEG204        IDIOMA II                                                            2023
+
+                                                                                                                         EQUIVALENCIA               SOG308         IDIOMA III                                                           2016
+
+
+                                                                                                             IV - CUARTO CICLO
+
+CÓDIGO                                     CURSO                                   CRÉDITOS        CONDICIÓN                 TIPO                   CÓDIGO                                    CURSO                                     PLAN
+
+ISEE401        PROGRAMACIÓN ORIENTADA A OBJETOS II                                      4           Obligatorio         PRE-REQUISITO               ISEE301        PROGRAMACIÓN ORIENTADA A OBJETOS I                                   2023
+
+ISEE402        BASE DE DATOS II                                                         4           Obligatorio         PRE-REQUISITO               ISEE302        BASE DE DATOS I                                                      2023
+
+ISEE403        CIRCUITOS ELÉCTRICOS Y ELECTRÓNICOS                                      4           Obligatorio         PRE-REQUISITO               ISEG301        FÍSICA II                                                            2023
+
+                                                                                                                         EQUIVALENCIA               SOE412         CIRCUITOS ELECTRICOS Y ELECTRONICOS                                  2016
+
+ISEE404        TEORÍA DE SISTEMAS                                                       4           Obligatorio         PRE-REQUISITO               ISEE202        INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS                             2023
+
+                                                                                                                         EQUIVALENCIA               SOE413         TEORIA DE SISTEMAS                                                   2016
+
+ISEE405        PROGRAMACIÓN WEB I                                                       4           Obligatorio         PRE-REQUISITO               ISEE301        PROGRAMACIÓN ORIENTADA A OBJETOS I                                   2023
+
+                                                                                                                         EQUIVALENCIA               SOE414         PROGRAMACION WEB                                                     2016
+
+
+                                                                                                             V - QUINTO CICLO
+
+CÓDIGO                                     CURSO                                   CRÉDITOS        CONDICIÓN                 TIPO                   CÓDIGO                                    CURSO                                     PLAN
+
+ISEE501        COSTOS Y PRESUPUESTO                                                     4           Obligatorio         PRE-REQUISITO               ISEG202        CONTABILIDAD EMPRESARIAL                                             2023
+
+                                                                                                                         EQUIVALENCIA               SOG511         COSTOS Y PRESUPUESTO                                                 2016
+
+ISEE502        INVESTIGACIÓN DE OPERACIONES                                             4           Obligatorio         PRE-REQUISITO               ISEG203        CALCULO II                                                           2023
+
+                                                                                                                         EQUIVALENCIA               SOE515         INVESTIGACION DE OPERACIONES                                         2016
+
+ISEE503        PROGRAMACIÓN WEB II                                                      4           Obligatorio         PRE-REQUISITO               ISEE405        PROGRAMACIÓN WEB I                                                   2023
+
+ISEE504        SISTEMAS DIGITALES                                                       4           Obligatorio         PRE-REQUISITO               ISEE403        CIRCUITOS ELÉCTRICOS Y ELECTRÓNICOS                                  2023
+
+                                                                                                                         EQUIVALENCIA               SOE516         SISTEMAS DIGITALES                                                   2016
+
+ISEE505        BASE DE DATOS III                                                        4           Obligatorio         PRE-REQUISITO               ISEE402        BASE DE DATOS II                                                     2023
+
+                                                                                                                         EQUIVALENCIA               SOP501         APLICACION DE BASE DE DATOS                                          2016
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                            Pág. 2 de 5
+
+--- PAGINA 3 ---
+                                                                                      UNIVERSIDAD NACIONAL DEL CALLAO
+                                                                       FACULTAD DE INGENIERIA INDUSTRIAL Y DE SISTEMAS
+                                                                        ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+                                                                    PLAN DE ESTUDIOS 2023 - RESOLUCIÓN Nº 012-2023-CU.                                                         Válido desde :             01-02-2023
+
+
+                                                                                                               VI - SEXTO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS        CONDICIÓN                 TIPO                   CÓDIGO                                     CURSO                                     PLAN
+
+ISEE601        ROBOTICA Y AUTOMATIZACION DE PROCESOS                                     3           Obligatorio         PRE-REQUISITO               ISEE504        SISTEMAS DIGITALES                                                    2023
+
+                                                                                                                          EQUIVALENCIA                SEI701        ROBOTICA Y AUTOMATIZACION DE PROCESOS                                 2016
+
+ISEE602        ANÁLISIS DE SISTEMAS DE INFORMACIÓN                                       4           Obligatorio         PRE-REQUISITO               ISEE402        BASE DE DATOS II                                                      2023
+
+                                                                                                                          EQUIVALENCIA                SOP603        ANALISIS DE SISTEMA DE INFORMACION                                    2016
+
+ISEE603        ARQUITECTURA Y ORGANIZACIÓN DE LA COMPUTADORA                             3           Obligatorio         PRE-REQUISITO               ISEE404        TEORÍA DE SISTEMAS                                                    2023
+
+                                                                                                                          EQUIVALENCIA                SOE617        ARQUITECTURA Y ORGANIZACION DE LA COMPUTADORA                         2016
+
+ISEE604        SIMULACIÓN DE SISTEMAS                                                    3           Obligatorio         PRE-REQUISITO               ISEE505        BASE DE DATOS III                                                     2023
+
+                                                                                                                          EQUIVALENCIA                SOP604        SIMULACION DE SISTEMAS                                                2016
+
+ISEE605        ESTADÍSTICA PARA LA INVESTIGACION CIENTIFÍCA                              4           Obligatorio         PRE-REQUISITO               ISEG302        CALCULO III                                                           2023
+
+                                                                                                                          EQUIVALENCIA               SOG614         ESTADISTICA Y SUS APLICACIONES A LA INGENIERIA DE                     2016
+                                                                                                                                                                    SISTEMAS
+ISEE606        MÉTODOS NUMÉRICOS                                                         3           Obligatorio         PRE-REQUISITO               ISEG302        CALCULO III                                                           2023
+
+                                                                                                                          EQUIVALENCIA                SOE618        METODOS NUMERICOS                                                     2016
+
+
+                                                                                                             VII - SEPTIMO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS        CONDICIÓN                 TIPO                   CÓDIGO                                     CURSO                                     PLAN
+
+ISEE701        DINÁMICA DE SISTEMAS                                                      3           Obligatorio         PRE-REQUISITO               ISEE604        SIMULACIÓN DE SISTEMAS                                                2023
+
+                                                                                                                          EQUIVALENCIA                SOP705        DINAMICA DE SISTEMAS                                                  2016
+
+ISEE702        SISTEMAS OPERATIVOS                                                       4           Obligatorio         PRE-REQUISITO               ISEE603        ARQUITECTURA Y ORGANIZACIÓN DE LA COMPUTADORA                         2023
+
+                                                                                                                          EQUIVALENCIA                SOP706        SISTEMAS OPERATIVOS                                                   2016
+
+ISEE703        INGENIERÍA ECONÓMICA Y FINANCIERA                                         3           Obligatorio         PRE-REQUISITO               ISEE501        COSTOS Y PRESUPUESTO                                                  2023
+
+                                                                                                                          EQUIVALENCIA                SOE719        INGENIERIA ECONOMICA Y FINANCIERA                                     2016
+
+ISEE704        DISEÑO DE SISTEMAS DE INFORMACIÓN                                         4           Obligatorio         PRE-REQUISITO               ISEE602        ANÁLISIS DE SISTEMAS DE INFORMACIÓN                                   2023
+
+                                                                                                                          EQUIVALENCIA                SOP707        DISEÑO DE SISTEMA DE INFORMACION                                      2016
+
+ISEE705        DISEÑO Y GESTIÓN DE PROCESOS ORGANIZACIONALES                             3           Obligatorio         PRE-REQUISITO               ISEG103        ECONOMÍA DE LA EMPRESA                                                2023
+
+                                                                                                                          EQUIVALENCIA                SOP708        DISEÑO Y GESTION DE PROCESOS ORGANIZACIONALES                         2016
+
+ISEE791        MODELO DE PROCESOS ORGANIZACIONALES                                       3            Electivo           PRE-REQUISITO               ISEE602        ANÁLISIS DE SISTEMAS DE INFORMACIÓN                                   2023
+
+                                                                                                                          EQUIVALENCIA                SES701        MODELO DE PROCESOS ORGANIZACIONALES                                   2016
+
+ISEE792        TELECOMUNICACIONES Y REDES                                                3            Electivo           PRE-REQUISITO               ISEE601        ROBOTICA Y AUTOMATIZACION DE PROCESOS                                 2023
+
+                                                                                                                          EQUIVALENCIA                SER701        TELECOMUNICACIONES                                                    2016
+
+
+
+                                                                                                                                                                                                                              Pág. 3 de 5
+
+--- PAGINA 4 ---
+                                                                                     UNIVERSIDAD NACIONAL DEL CALLAO
+                                                                      FACULTAD DE INGENIERIA INDUSTRIAL Y DE SISTEMAS
+                                                                        ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+                                                                    PLAN DE ESTUDIOS 2023 - RESOLUCIÓN Nº 012-2023-CU.                                                        Válido desde :             01-02-2023
+
+
+                                                                                                            VII - SEPTIMO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                  TIPO                  CÓDIGO                                     CURSO                                     PLAN
+
+ISEE793        SEGURIDAD INFORMÁTICA                                                     3            Electivo           PRE-REQUISITO               ISEE603        ARQUITECTURA Y ORGANIZACIÓN DE LA COMPUTADORA                        2023
+
+
+                                                                                                            VIII - OCTAVO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                  TIPO                  CÓDIGO                                     CURSO                                     PLAN
+
+ISEE801        GESTIÓN DEL CONOCIMIENTO                                                  3          Obligatorio          PRE-REQUISITO               ISEE704        DISEÑO DE SISTEMAS DE INFORMACIÓN                                    2023
+
+                                                                                                                         EQUIVALENCIA                SOP809         GESTION DEL CONOCIMIENTO                                             2016
+
+ISEE802        TESIS I                                                                   4          Obligatorio          PRE-REQUISITO              ISEG303         METODOLOGÍA DE LA INVESTIGACIÓN Y REDACCIÓN                          2023
+
+ISEE803        SEGURIDAD DE REDES I                                                      4          Obligatorio          PRE-REQUISITO               ISEE403        CIRCUITOS ELÉCTRICOS Y ELECTRÓNICOS                                  2023
+
+                                                                                                                         EQUIVALENCIA                SOP811         REDES Y COMUNICACIONES I                                             2016
+
+ISEE804        FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE INVERSIÓN                        3          Obligatorio          PRE-REQUISITO               ISEE703        INGENIERÍA ECONÓMICA Y FINANCIERA                                    2023
+
+                                                                                                                         EQUIVALENCIA                SOE820         FORMULACION Y EVALUCION DE PROYECTOS DE INVERSION                    2016
+
+ISEE805        SISTEMA DE GESTIÓN DE CALIDAD                                             3          Obligatorio          PRE-REQUISITO               ISEE602        ANÁLISIS DE SISTEMAS DE INFORMACIÓN                                  2023
+
+                                                                                                                         EQUIVALENCIA                SOP812         SISTEMA DE GESTION DE CALIDAD                                        2016
+
+ISEE891        TEORÍA DE LENGUAJES Y COMPILADORES                                        3            Electivo           PRE-REQUISITO               ISEE793        SEGURIDAD INFORMÁTICA                                                2023
+
+                                                                                                                         EQUIVALENCIA                SEI802         TEORIA DE LENGUAJES Y COMPILADORES                                   2016
+
+ISEE892        SISTEMAS DISTRIBUIDOS                                                     3            Electivo           PRE-REQUISITO               ISEE792        TELECOMUNICACIONES Y REDES                                           2023
+
+                                                                                                                         EQUIVALENCIA                SER802         SISTEMAS DISTRIBUIDOS                                                2016
+
+ISEE893        TALLER DE PROCESOS ORGANIZACIONALES                                       3            Electivo           PRE-REQUISITO               ISEE791        MODELO DE PROCESOS ORGANIZACIONALES                                  2023
+
+                                                                                                                         EQUIVALENCIA                SES802         TALLER DE PROCESOS ORGANIZACIONALES                                  2016
+
+
+                                                                                                             IX - NOVENO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                  TIPO                  CÓDIGO                                     CURSO                                     PLAN
+
+ISEE901        INGENIERÍA DE SOFTWARE                                                    4          Obligatorio          PRE-REQUISITO               ISEE503        PROGRAMACIÓN WEB II                                                  2023
+
+                                                                                                                         EQUIVALENCIA                SOP913         INGENIERIA DE SOFTWARE                                               2016
+
+ISEE902        TESIS II                                                                  4          Obligatorio          PRE-REQUISITO               ISEE802        TESIS I                                                              2023
+
+                                                                                                                         EQUIVALENCIA                SOP914         ELABORACION DE PROYECTOS DE INVESTIGACION                            2016
+
+ISEE903        GESTIÓN DE PROCESOS TECNOLÓGICOS                                          3          Obligatorio          PRE-REQUISITO               ISEE805        SISTEMA DE GESTIÓN DE CALIDAD                                        2023
+
+                                                                                                                         EQUIVALENCIA                SOP915         GESTION DE PROCESOS TECNOLOGICOS                                     2016
+
+ISEE904        SEGURIDAD DE REDES II                                                     3          Obligatorio          PRE-REQUISITO               ISEE803        SEGURIDAD DE REDES I                                                 2023
+
+                                                                                                                         EQUIVALENCIA                SOP916         REDES DE COMUNICACION II                                             2016
+
+                                                                                                                                                                                                                             Pág. 4 de 5
+
+--- PAGINA 5 ---
+                                                                                     UNIVERSIDAD NACIONAL DEL CALLAO
+                                                                      FACULTAD DE INGENIERIA INDUSTRIAL Y DE SISTEMAS
+                                                                       ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+                                                                    PLAN DE ESTUDIOS 2023 - RESOLUCIÓN Nº 012-2023-CU.                                                       Válido desde :             01-02-2023
+
+
+                                                                                                             IX - NOVENO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                 TIPO                   CÓDIGO                                    CURSO                                     PLAN
+
+ISEE905        PROYECTO DE SISTEMAS                                                     3           Obligatorio         PRE-REQUISITO               ISEE804        FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE INVERSIÓN                   2023
+
+                                                                                                                         EQUIVALENCIA               SOP917         PROYECTO DE SISTEMAS                                                 2016
+
+ISEE991        APLICACIONES DE NEGOCIOS ELECTRÓNICOS                                    3            Electivo           PRE-REQUISITO               ISEE705        DISEÑO Y GESTIÓN DE PROCESOS ORGANIZACIONALES                        2023
+
+                                                                                                                         EQUIVALENCIA                SEI903        APLICACIONES DE NEGOCIOS ELECTRONICOS                                2016
+
+ISEE992        SISTEMAS COMPLEJOS                                                       3            Electivo           PRE-REQUISITO               ISEE404        TEORÍA DE SISTEMAS                                                   2023
+
+                                                                                                                         EQUIVALENCIA               SES903         SISTEMAS COMPLEJOS                                                   2016
+
+ISEE993        SEGURIDAD DE REDES DE DATOS                                              3            Electivo           PRE-REQUISITO               ISEE803        SEGURIDAD DE REDES I                                                 2023
+
+                                                                                                                         EQUIVALENCIA               SER903         SEGURIDAD DE REDES                                                   2016
+
+
+                                                                                                             X - DECIMO CICLO
+
+CÓDIGO                                      CURSO                                   CRÉDITOS       CONDICIÓN                 TIPO                   CÓDIGO                                    CURSO                                     PLAN
+
+ISEE1001       SISTEMAS BASADOS EN CONOCIMIENTO                                         3           Obligatorio         PRE-REQUISITO               ISEE801        GESTIÓN DEL CONOCIMIENTO                                             2023
+
+                                                                                                                         EQUIVALENCIA               SOP018         SISTEMAS BASADOS EN CONOCIMIENTO                                     2016
+
+ISEE1002       TESIS III                                                                4           Obligatorio         PRE-REQUISITO               ISEE902        TESIS II                                                             2023
+
+                                                                                                                         EQUIVALENCIA               SOP019         DESARROLLO DE PROYECTOS DE INVESTIGACIÓN                             2016
+
+ISEE1003       AUDITORIA DE SISTEMAS                                                    4           Obligatorio         PRE-REQUISITO               ISEE904        SEGURIDAD DE REDES II                                                2023
+
+                                                                                                                         EQUIVALENCIA               SOP020         AUDITORIA DE SISTEMAS                                                2016
+
+ISEE1004       SEGURIDAD DE LA INFORMACION                                              3           Obligatorio         PRE-REQUISITO               ISEE904        SEGURIDAD DE REDES II                                                2023
+
+                                                                                                                         EQUIVALENCIA               SOP021         SEGURIDAD DE LA INFORMACIÓN                                          2016
+
+ISEE1005       INTELIGENCIA DE NEGOCIOS                                                 3           Obligatorio         PRE-REQUISITO               ISEE805        SISTEMA DE GESTIÓN DE CALIDAD                                        2023
+
+                                                                                                                         EQUIVALENCIA               SOP022         INTELIGENCIA DE NEGOCIOS                                             2016
+
+ISEE1091       ARTÍCULO CIENTÍFICO                                                      3            Electivo           PRE-REQUISITO               ISEE902        TESIS II                                                             2023
+
+ISEE1092       REALIDAD VIRTUAL                                                         3            Electivo           PRE-REQUISITO               ISEE993        SEGURIDAD DE REDES DE DATOS                                          2023
+
+                                                                                                                         EQUIVALENCIA                SEI004        REALIDAD VIRTUAL                                                     2016
+
+ISEE1093       PLANEAMIENTO ESTRATÉGICO DE SISTEMAS                                     3            Electivo           PRE-REQUISITO               ISEE905        PROYECTO DE SISTEMAS                                                 2023
+
+                                                                                                                         EQUIVALENCIA               SES004         PLANEAMIENTO ESTRATEGICO                                             2016
+
+
+
+
+
+
+
+
+
+                                                                                                                                                                                                                            Pág. 5 de 5

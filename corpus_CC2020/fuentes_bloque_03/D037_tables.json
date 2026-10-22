@@ -1,0 +1,454 @@
+[
+ [
+  [
+   "#",
+   "Siglas",
+   "CIP",
+   "Nombre del programa"
+  ],
+  [
+   "*",
+   "AAD",
+   "000000",
+   "Arquitectura, Arte y Diseño / Exploración"
+  ],
+  [
+   "1",
+   "ARQ",
+   "040201",
+   "Arquitectura"
+  ],
+  [
+   "2",
+   "BA",
+   "040201",
+   "Bachelor of Architecture"
+  ],
+  [
+   "3",
+   "BD",
+   "500404",
+   "B.A. in Design"
+  ],
+  [
+   "4",
+   "LAD",
+   "509999",
+   "Licenciatura en Arte Digital"
+  ],
+  [
+   "5",
+   "LDI",
+   "500404",
+   "Licenciatura en Diseño"
+  ],
+  [
+   "6",
+   "LUB",
+   "040201",
+   "Licenciatura en Urbanismo"
+  ]
+ ],
+ [
+  [
+   "#",
+   "Siglas",
+   "CIP",
+   "Nombre del programa"
+  ],
+  [
+   "*",
+   "CIS",
+   "450101",
+   "Derecho, Economía y Relaciones Internacionales / Exploración"
+  ],
+  [
+   "7",
+   "BIR",
+   "450901",
+   "B.A. in International Relations"
+  ],
+  [
+   "8",
+   "LEC",
+   "450601",
+   "Licenciatura en Economía"
+  ],
+  [
+   "9",
+   "LED",
+   "220101",
+   "Licenciatura en Derecho"
+  ],
+  [
+   "10",
+   "LRI",
+   "450901",
+   "Licenciatura en Relaciones Internacionales"
+  ],
+  [
+   "11",
+   "LTP",
+   "440401",
+   "Licenciatura en Gobierno y Transformación Pública"
+  ]
+ ],
+ [
+  [
+   "#",
+   "Siglas",
+   "CIP",
+   "Nombre del programa"
+  ],
+  [
+   "*",
+   "HCM",
+   "000000",
+   "Humanidades, Comunicación y Tecnología Musical / Exploración"
+  ],
+  [
+   "11",
+   "BCD",
+   "090102",
+   "B.A. in Communication and Digital Production"
+  ],
+  [
+   "12",
+   "LC",
+   "090102",
+   "Licenciatura en Comunicación y Producción Digital"
+  ],
+  [
+   "13",
+   "LEI",
+   "130101",
+   "Licenciatura en Innovación y Transformación Educativa"
+  ],
+  [
+   "14",
+   "LHD",
+   "305202",
+   "Licenciatura en Humanidades Digitales e Inteligencia Artificial"
+  ],
+  [
+   "15",
+   "LLE",
+   "160905",
+   "Licenciatura en Letras y Emprendimiento Editorial"
+  ],
+  [
+   "16",
+   "LTM",
+   "500901",
+   "Licenciatura en Tecnología y Producción Musical"
+  ]
+ ],
+ [
+  [
+   "#",
+   "Siglas",
+   "CIP",
+   "Nombre del programa"
+  ],
+  [
+   "*",
+   "ICT",
+   "110103",
+   "Computación e Inteligencia Artificial / Exploración"
+  ],
+  [
+   "17",
+   "BI",
+   "270301",
+   "B.S. in Artificial Intelligence and Data Science"
+  ],
+  [
+   "18",
+   "BCT",
+   "110701",
+   "B.S. in Computer Science and Technology"
+  ],
+  [
+   "19",
+   "BEF",
+   "270305",
+   "B.S. in Financial Engineering"
+  ],
+  [
+   "20",
+   "IDM",
+   "270301",
+   "Ingeniería en Inteligencia Artificial y Ciencia de Datos"
+  ],
+  [
+   "21",
+   "IRS",
+   "140901",
+   "Ingeniería en Robótica y Sistemas Inteligentes"
+  ],
+  [
+   "22",
+   "ITC",
+   "110701",
+   "Ingeniería en Tecnologías Computacionales"
+  ],
+  [
+   "23",
+   "ITD",
+   "521201",
+   "Ingeniería en Transformación Digital de Negocios"
+  ]
+ ],
+ [
+  [
+   "#",
+   "Siglas",
+   "CIP",
+   "Nombre del programa"
+  ],
+  [
+   "*",
+   "ING",
+   "140101",
+   "Ingeniería / Exploración"
+  ],
+  [
+   "24",
+   "BBE",
+   "261201",
+   "B.S. in Biotechnology Engineering"
+  ],
+  [
+   "25",
+   "BIE",
+   "143501",
+   "B.S. in Industrial and Systems Engineering"
+  ],
+  [
+   "26",
+   "BME",
+   "141001",
+   "B.S. in Mechatronics Engineering"
+  ],
+  [
+   "27",
+   "IAG",
+   "011102",
+   "Ingeniería en Biosistemas Agroalimentarios"
+  ],
+  [
+   "28",
+   "IAL",
+   "011002",
+   "Ingeniería en Alimentos"
+  ],
+  [
+   "29",
+   "IBT",
+   "261201",
+   "Ingeniería en Biotecnología"
+  ],
+  [
+   "30",
+   "IC",
+   "140801",
+   "Ingeniería Civil"
+  ],
+  [
+   "31",
+   "IDS",
+   "141401",
+   "Ingeniería en Desarrollo Sustentable"
+  ],
+  [
+   "32",
+   "IE",
+   "141001",
+   "Ingeniería en Electrónica y Semiconductores"
+  ],
+  [
+   "33",
+   "IFI",
+   "141201",
+   "Ingeniería en Física Industrial"
+  ],
+  [
+   "34",
+   "IID",
+   "140101",
+   "Ingeniería en Innovación y Desarrollo"
+  ],
+  [
+   "35",
+   "IIS",
+   "143501",
+   "Ingeniería Industrial y de Sistemas"
+  ],
+  [
+   "36",
+   "IM",
+   "141901",
+   "Ingeniería Mecánica"
+  ],
+  [
+   "37",
+   "IMD",
+   "140501",
+   "Ingeniería Biomédica"
+  ],
+  [
+   "38",
+   "IMT",
+   "141001",
+   "Ingeniería en Mecatrónica"
+  ],
+  [
+   "39",
+   "INA",
+   "143101",
+   "Ingeniería en Nanotecnología y Materiales"
+  ],
+  [
+   "40",
+   "IQ",
+   "140701",
+   "Ingeniería Química"
+  ]
+ ],
+ [
+  [
+   "#",
+   "Siglas",
+   "CIP",
+   "Nombre del programa"
+  ],
+  [
+   "*",
+   "SLD",
+   "510000",
+   "Salud / Exploración"
+  ],
+  [
+   "41",
+   "LBC",
+   "511201",
+   "Licenciatura en Biociencias"
+  ],
+  [
+   "42",
+   "LNB",
+   "190501",
+   "Licenciatura en Nutrición y Bienestar Integral"
+  ],
+  [
+   "43",
+   "LPS",
+   "420101",
+   "Licenciatura en Psicología Clínica y de la Salud"
+  ],
+  [
+   "44",
+   "MC",
+   "511201",
+   "Médico Cirujano"
+  ],
+  [
+   "45",
+   "MO",
+   "510401",
+   "Médico Cirujano Odontólogo"
+  ]
+ ],
+ [
+  [
+   "#",
+   "Siglas",
+   "CIP",
+   "Nombre del programa"
+  ],
+  [
+   "*",
+   "NEG",
+   "520201",
+   "Negocios / Exploración"
+  ],
+  [
+   "46",
+   "BBA",
+   "520201",
+   "B.A. in Strategy and Business Transformation"
+  ],
+  [
+   "47",
+   "BBI",
+   "520201",
+   "B.A. in Business Intelligence"
+  ],
+  [
+   "48",
+   "BFI",
+   "520801",
+   "B.A. in Finance"
+  ],
+  [
+   "49",
+   "BGB",
+   "521101",
+   "B.A. in Global Business"
+  ],
+  [
+   "50",
+   "BM",
+   "521401",
+   "B.A. in Marketing"
+  ],
+  [
+   "51",
+   "CPF",
+   "520301",
+   "Licenciatura en Contaduría Pública y Finanzas"
+  ],
+  [
+   "52",
+   "LAE",
+   "520201",
+   "Licenciatura en Estrategia y Transformación de Negocios"
+  ],
+  [
+   "53",
+   "LAF",
+   "520801",
+   "Licenciatura en Finanzas"
+  ],
+  [
+   "54",
+   "LDE",
+   "520703",
+   "Licenciatura en Emprendimiento e Innovación"
+  ],
+  [
+   "55",
+   "LDO",
+   "521003",
+   "Licenciatura en Desarrollo de Talento y Cultura Organizacional"
+  ],
+  [
+   "56",
+   "LEM",
+   "521401",
+   "Licenciatura en Mercadotecnia"
+  ],
+  [
+   "57",
+   "LIN",
+   "521101",
+   "Licenciatura en Negocios Internacionales"
+  ],
+  [
+   "58",
+   "LIT",
+   "520201",
+   "Licenciatura en Inteligencia de Negocios"
+  ]
+ ]
+]

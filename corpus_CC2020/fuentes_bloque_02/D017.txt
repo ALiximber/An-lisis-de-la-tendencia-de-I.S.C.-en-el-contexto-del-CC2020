@@ -1,0 +1,61 @@
+
+--- PAGINA 1 ---
+                                                                   Ingeniería en Sistemas Computacionales - 2020
+                                                                                                               Escuela Superior de Cómputo                                                                                                                                                            ISC
+
+
+
+           Créditos Totales:387                                                                     Estancia                                      Desarrollo de                                   Trabajo                                      Gestión                                     Liderazgo
+  Horas Teoría Totales:153                                                                       Profesional                                 para la Al ta DirecciónHabilidades Sociales       Terminal II                                Empresarial                                       Personal                                                                         Sem. 8
+Horas Práctica Totales:81                                                                      0/3                        3                  0/3                        3                  3/6                        12                3/ 1.5                    7.  5                3/ 1.5                   7.  5
+
+
+
+
+
+                                                      Desarrollo                                                                                                                                  Trabajo                                                                                   Sistemas                                  Administración
+                                                  de Aplicaciones                               Optativa A2                                   Optativa B2                                                                                                                               Distribuidos                                  de Servicios en                        Sem. 7
+                                                  Móviles Nativas                                                                                                                              Terminal I                                                                                                                                       Red                                                                                                                      7.  5
+                                                3/ 1.5                   7.  5                 3/ 1.5                   7.  5                3/ 1.5                   7.  5                3/6                        12                                                               3/ 1.5                   7.  5                3/ 1.5
+
+
+
+                                                    Sistemas                                                                                                                                       Métodos                                   Ingeniería                                  Inteligencia                                 Aplicaciones para
+                                                     en Chip                                    Optativa A1                                   Optativa B1                                    Cuantitativos para la Toma de Decisiones      de Software                                      Artiﬁcial                                  Comunicaciones                        Sem. 6
+                                                                                                                                                                                                                                                                                                                                              en Red                                                                                         7.  5
+                                                3/ 1.5                   7.  5                 3/ 1.5                   7.  5                3/ 1.5                   7.  5                 3/ 1.5                    7.  5              3/ 1.5                   7.  5                3/ 1.5                   7.  5                3/ 1.5
+
+
+
+
+                                                Instrumentación                                Arquitectura de                                                                              Análisis y Diseño                                  Formulación y                                                                               Redes de
+  Procesamiento                                        y Control                                Computadoras                                                                                    de Sistemas                                    Evaluación de                           Compiladores                                                                          Sem. 5
+  Digital de Señales                                                                                                                                                                                                                             Proyectos                                                                           Computadoras
+ 3/ 1.5                   7.  5                3/ 1.5                    7.  5                 3/ 1.5                   7.  5                                                              3/ 1.5                    7.  5               1.5/3                                                                                                                                                                                                                                                                                                                                                                          6Informáticos3/ 1.57.  53/ 1.57.  5
+
+
+
+
+  Probabilidad y                                   Matemáticas                                   Electrónica                                     Diseño de                                       Tecnologías                                                                               Sistemas                                     Teoría de la
+                                                 Avanzadas para                                                                                                                              para el Desarrollo                                                                                                                                                              Sem. 4
+     Estadística                                    la Ingeniería                                          9Analógica                        Sistemas Digitales                               de Aplicaciones                                                                            Operativos                                   Computación
+4.5/0                       9                  4.5/0                                           3/ 1.5                   7.  5               3/ 1.5                    7.  5                 3/ 1.5     We  b                                                                                                                     7.  53/ 1.57.  53/ 1.5        7.  5
+
+
+
+                                                  Ecuaciones                                       Circuitos                                  Fundamentos                                       Bases de                                       Finanzas                                   Paradigmas de                              Análisis y Diseño                       Sem. 3
+                                                Diferenciales                                     Eléctricos                                  de Diseño Digital                                    Datos                                  Empresariales                                    Programación                                 de Algoritmos
+
+                                               4.5/0                       9                   3/ 1.5                   7.  5               3/ 1.5                    7.  5                3/ 1.5                    7.  5               3/ 1.5                   7.  5                  3/ 1.5                    7.  5             3/ 1.5                    7.  5
+
+
+
+       Álgebra                                        Cálculo                                      Mecánica y                                                                                  Ingeniería,                                Fundamentos                                         Algoritmos y                                                                   Sem. 2
+         Lineal                                      Aplicado                                  Electrómagnetismo                                                                            Ética y Sociedad                                Económicos                                         Estructuras
+                            9                                            7.  5                                         10.5                                                                                            9                                           7.  5                         de Datos                                                                    7.  5
+4.5/0                                          3/ 1.5                                          4.5/ 1.5                                                                                    4.5/0                                         3/ 1.5                                          3/ 1.5
+
+
+                                                   Cálculo                                           Análisis                                Matemáticas                                    Comunicación                                                                                 Fundamentos deProgramación                                                           Sem. 1
+                                                                                                   Vectorial                                     Discretas                                   Oral y Escrita
+                                               3/ 1.5                    7.  5                3/ 1.5                     7.  5              4.5/ 1.5                 10.5                  3/ 1.5                    7.  5                                                               3/ 1.5                    7.  5

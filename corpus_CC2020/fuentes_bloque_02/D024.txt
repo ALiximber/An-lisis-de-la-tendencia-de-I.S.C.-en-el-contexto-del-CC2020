@@ -1,0 +1,93 @@
+                                                                                 Plan de estudios - Ingeniería de Sistemas
+                                                                                                                                                       Código SNIES: 2776 / Registro calificado: Resolución No. 001032 - 3 de febrero de 2023
+
+
+
+Periodo 1 Créditos: 17       Periodo 2 Créditos: 17       Periodo 3 Créditos: 18       Periodo 4 Créditos: 17       Periodo 5 Créditos: 18       Periodo 6 Créditos: 17       Periodo 7 Créditos: 17       Periodo 8 Créditos: 17       Periodo 9 Créditos: 11
+
+
+Introducción a la             Teoría de Sistemas en       Fundamentos en              Análisis y Especificación      Diseño de Software           Verificación y Validación      Calidad de Software           Electivo Disciplinar            Electivo Disciplinar
+Ingeniería de Sistemas         las Organizaciones           Gestión Integral           de Requerimientos                                 de Software                                  Común I               Común II
+
+                                              
+Código: 90013        Código: 204016        Código: 112001             Código: 202016894      Código: 202016897      Código: 202016900      Código: 202016903 
+
+
+Catedra Unadista             Cálculo Diferencial          Álgebra Lineal               Cálculo Integral             Diseño de Bases de          Bases de Datos              Administración de Bases      Electivo Formación            Electivo Formación
+                                                                                                         Datos                                            de Datos                  Complementaria II          Complementaria III
+
+
+Código: 80017              Código: 100410        Código: 208046        Código: 100411        Código: 202016899      Código: 202016896      Código: 202016902 
+
+
+Pensamiento Lógico        Fundamentos de            Programación                  Física General                Estructura de Datos           Electivo Disciplinar            Electivo Disciplinar            Electivo Disciplinar            Electivo Disciplinar
+Matemático                Programación                                                                                                            Específico I                   Específico II                   Específico III                  Específico IV
+
+
+Código: 200611             Código: 213022        Código: 213023        Código: 100413        Código: 301305                                               
+
+
+Herramientas Digitales       Matemáticas Discretas        Arquitectura de            Fundamentos y              Sistemas Operativos         Redes y                       Electivo Formación           Information Security         Proyecto de Grado
+para la Gestión del                                  Computadores              Generalidades de                                     Comunicaciones            Complementaria I
+Conocimiento                                                                            Investigación
+
+Código: 200610             Código: 204041             Código: 202016893      Código: 150001             Código: 202016895      Código: 202016898                                Código: 202016905      Código: 202016907 
+
+
+Ética y Ciudadanía          Competencias                 Estadística Descriptiva        Probabilidad                Proyecto de Ingeniería I      Formulación y               Proyecto de Ingeniería II     Emprendimiento de
+                           Comunicativas                                                                                                     Evaluación de Proyectos                                Base Tecnológica
+                                                                                                                         de Ing.
+
+Código: 40002              Código: 40003              Código: 204040        Código: 100402        Código: 202337120      Código: 202337119       Código: 202337121       Código: 202016906
+
+
+Electivo Interdisciplinar       Inglés A1                      Inglés A2                     Inglés B1                      Inglés B2                      Electivo Interdisciplinar       Arquitectura                Gestión de TI
+Básico Común I                                                                                                                                Básico Común II             Empresarial
+
+
+                          Código: 900001        Código: 900002        Código: 900003        Código: 900005                                  Código: 202016901          Código: 202016904
+
+
+Prestación servicio
+social unadista
+
+
+Código: 700004
+
+
+
+
+                                                                                                            Institución de Educación Superior sujeta a inspección y vigilancia por el Ministerio de Educación Nacional
+                                                Cursos electivos
+
+
+Electivo Disciplinar Específico                                                                   Electiva Interdisciplinar Básico Común
+Línea de profundización I: Sistemas de Información                                                            Algebra, Trigonometría y Geom. Analítica - Código: 301301 - Créditos: 3
+                                                                                                                            Contabilidad y Costos - Código: 212018 - Créditos: 3
+     Análisis de Datos - Código: 202016908 - Créditos: 3                                                                          Teoría de las decisiones - Código: 212066 - Créditos: 3
+     Servicios en la Nube - Código: 202016910 - Créditos: 3                                                                      Biología - Código: 201101 - Créditos: 3
+     Social media - Código: 202016909 - Créditos: 3                                                                               Excel Avanzado - Código: 212059 - Créditos: 3
+     Big Data - Código: 202016911 - Créditos: 3                                                                                    Inferencia Estadística - Código: 212064 - Créditos: 3
+
+Línea de profundización II: Tecnologías de Información
+     Realidad Virtual - Código: 202016912 - Créditos: 3
+    Computación Distribuida - Código: 202016914 - Créditos: 3                                              Electivo Disciplinar Común
+     Bases de datos Distribuidas - Código: 202016913 - Créditos: 3
+                                                                                                                             Introducción a los Metadatos - Código: 204031 - Créditos: 3     Internet de las Cosas - Código: 202016915 - Créditos: 3
+                                                                                                                            Tecnologías ETL - Código: 204032 - Créditos: 3
+                                                                                      BPM con TI (Gestión de procesos Tecnológicos con T.I) - Código: 212063 - Créditos: 3
+Línea de profundización III: Ingeniería de Software
+
+     Interacción Humano Computador - Código: 202016916 - Créditos: 3
+    Diseño Centrado en el Usuario - Código: 202016917 - Créditos: 3
+     Evaluación de Experiencia de Usuario - Código: 202016918 - Créditos: 3                                                                                                Electivo Formación Complementaria    Diseño Accesible - Código: 202016919 - Créditos: 3
+                                                                                                                       Proyecto de Vida - Código: 80002 - Créditos: 2
+                                                                                                                Pedagogía para la Solución de Conflictos - Código: 80008 - Créditos: 2
+Línea de profundización IV: Gestión de Proyectos                                                               Actividad Física para la Salud - Código: 80020 - Créditos: 2
+                                                                                                                       Salud Oral - Código: 80003 - Créditos: 2     Planificación, Program. y Control de Proyectos - Código: 212055 - Créditos: 3
+                                                                                                                        Discapacidad y Sexualidad - Código: 80011 - Créditos: 2    Metodologías de Gestión de Proyectos - Código: 212056 - Créditos: 3
+                                                                                                                            Ser Trascendente - Código: 80004 - Créditos: 2     Gestión de Alcance Tiempo y Costos - Código: 212058 - Créditos: 3                                                                                                          Danza - Código: 80012 - Créditos: 2     Herramientas y Software para Gestión de Proyectos - Código: 212057 - Créditos: 3
+                                                                                                                                Creatividad para el Emprendimiento - Código: 80018 - Créditos: 2
+
+Nota: Para los cursos Electivo Disciplinar Específico I, II, III y IV, el estudiante debe seleccionar una de las Líneas de
+profundización y matricular los cursos de esa línea.

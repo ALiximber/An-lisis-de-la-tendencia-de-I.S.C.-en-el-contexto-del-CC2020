@@ -1,0 +1,281 @@
+[
+  [
+    [
+      "Nombre",
+      "Carga Horaria",
+      "Correlativas"
+    ],
+    [
+      "Primer Año"
+    ],
+    [
+      "Primer Cuatrimestre"
+    ],
+    [
+      "- Conjuntos numéricos y operaciones (números naturales, enteros, racionales, reales). - Ecuaciones e Inecuaciones (de primer y segundo grado). - Funciones (lineales, cuadráticas, polinómicas, trigonométricas). - Trigonometría (ángulos, identidades trigonométricas, resolución de triángulos). ','Preliminares de Matemática')\">Preliminares de Matemática",
+      "60",
+      ""
+    ],
+    [
+      "▪ Introducción al lenguaje de los conjuntos. ▪ Sistemas numéricos: Presentación intuitiva de los números naturales. Principio de Inducción. Números complejos. ▪ Elementos de combinatoria. Binomio de Newton. ▪ Polinomios formales en una indeterminada con coeficientes complejos. ▪ Vectores en el plano y el espacio. Producto escalar y vectorial. Rectas y planos. ▪ Rn como espacio vectorial. Subespacios de Rn; bases y dimensión. El espacio vectorial Cn. ▪ Sistemas de ecuaciones lineales. Espacios solución. Compatibilidad. ▪ Matrices con coeficientes reales o complejos. Espacios vectoriales Rnxn y Cnxn. Expresión matricial de un sistema. ▪ Determinantes. Matriz de cofactores. Regla de Cramer. ','Álgebra')\">Álgebra",
+      "112",
+      "Preliminares de Matemática"
+    ],
+    [
+      "Cálculo Diferencial: • Funciones de variable real. • Límite y continuidad de funciones. • Derivada y sus aplicaciones. • Teoremas del valor medio. Consecuencias. • Aproximación de funciones por polinomios de Taylor. • Antiderivadas. ','Análisis Matemático I - a')\">Análisis Matemático I - a",
+      "80",
+      "Preliminares de Matemática"
+    ],
+    [
+      "● Conceptualización de la Informática. Evolución Histórica ● Representación de la información. Sistemas de Numeración. ● Unidades funcionales de una computadora. ● Lenguajes de Programación. ● Algoritmos y programación. ● Lenguaje de Representación de Algoritmos y técnicas básicas de programación. ● Entornos de desarrollo para seudocódigo. ● Estructuras de control y expresiones lógicas. ● Programación modular. ','Introducción a la Informática')\">Introducción a la Informática",
+      "96",
+      ""
+    ],
+    [
+      "Segundo Cuatrimestre"
+    ],
+    [
+      "• Integral definida. Teorema fundamental del Cálculo. • Integrales impropias. • Funciones trascendentes. • Formas indeterminadas. Regla de L`Hopital. • Sucesiones y series. Series de Taylor. • Ecuaciones diferenciales ordinarias de primer orden. ','Análisis Matemático I – b')\">Análisis Matemático I – b",
+      "64",
+      "Análisis Matemático I - a"
+    ],
+    [
+      "● Álgebra Lineal: Espacios vectoriales reales, transformaciones lineales y matrices. Autovalores y autovectores. Operadores y matrices diagonalizables. ● Espacios euclidianos: Productos internos y normas. Proyecciones ortogonales. Mejor aproximación por cuadrados mínimos. ● Transformaciones y matrices ortogonales. Diagonalización ortogonal de matrices simétricas. ● Formas cuadráticas: Diagonalización y clasificación. Aplicación al estudio de las secciones cónicas y las superficies cuadráticas. ','Geometría Analítica')\">Geometría Analítica",
+      "96",
+      "Álgebra Análisis Matemático I - a"
+    ],
+    [
+      "● Lógica, cálculo proposicional. Predicados. ● Demostración formal: tipos de demostraciones. ● Velocidad de crecimiento, notación O. ● Definiciones recursivas. ● Relaciones binarias. Relaciones de equivalencia. Relaciones de orden. ● Estructuras algebraicas. Aritmética modular. ● Álgebras de Boole. Funciones booleanas. Circuitos lógicos. ● Grafos y árboles. ','Matemática Discreta')\">Matemática Discreta",
+      "88",
+      "Álgebra Análisis Matemático I - a"
+    ],
+    [
+      "● Resoluciones de problemas mediante programación. ● El paradigma procedural / imperativo. ● Un lenguaje de programación procedural. ● Tipos de datos predefinidos y definidos por el usuario. ● Estructuras de control. ● Programación modular. ● Estructuras de datos. Algoritmos de ordenamiento y búsqueda. ● Conceptos y técnicas de programación. Programación estructurada. ● Administración de datos persistentes: archivos. ● Recursividad ','Programación Procedural')\">Programación Procedural",
+      "120",
+      "Introducción a la Informática"
+    ],
+    [
+      "Segundo Año"
+    ],
+    [
+      "Primer Cuatrimestre"
+    ],
+    [
+      "- Funciones de varias variables reales. Límites y continuidad. - Derivadas parciales, funciones diferenciables y aproximaciones lineales. - Extremos libres y restringidos de campos escalares. - Integrales dobles (de área) y triples (de volumen). Cambios de variables. - Ecuaciones diferenciales lineales de segundo orden. Estudio del caso general. Resolución en el caso de coeficientes constantes. - Series de Fourier. Propiedades de los coeficientes. - Transformada de Laplace. Resolución de ecuaciones diferenciales lineales. Función transferencia. ','Cálculo Avanzado')\">Cálculo Avanzado",
+      "96",
+      "Análisis Matemático I – b Geometría Analítica"
+    ],
+    [
+      "- Diseño y análisis de algoritmos - Estructura de datos, uniones y tipos de datos abstractos - Listas, Pilas y Filas - Grafos y Árboles - Métodos avanzados de búsqueda y ordenamiento ','Estructura de Datos y Algoritmos')\">Estructura de Datos y Algoritmos",
+      "96",
+      "Matemática Discreta Programación Procedural"
+    ],
+    [
+      "- Introducción a Mecánica Clásica - Cinemática para un cuerpo puntual - Dinámica para un cuerpo puntual - Consideraciones Energéticas - Fundamentos de Electricidad y Magnetismo - Circuitos eléctricos de corrientes estacionarias y variables en el tiempo - Electromagnetismo - Ondas Electromagnéticas ','Física General')\">Física General",
+      "72",
+      "Álgebra Análisis Matemático I – b"
+    ],
+    [
+      "- Teoría General de Sistemas - Ciclo de Vida de un Sistema - La Organización - La Administración - Sistemas de Información - Formulación y Evaluación de Proyectos TIC's - El Sistema de decisión - Visión Estratégica de la Organización - Dirección ejecutiva de organizaciones de software ','Sistemas y Organizaciones')\">Sistemas y Organizaciones",
+      "120",
+      "Introducción a la Informática"
+    ],
+    [
+      "Segundo Cuatrimestre"
+    ],
+    [
+      "- Fundamentos de Sistemas y Naturaleza de los Sistemas de Información - Procesos organizacionales y de desarrollo de software - Análisis de Requisitos Orientado a Objetos - Seguridad en Sistemas de Información ','Análisis y Diseño de Sistemas I')\">Análisis y Diseño de Sistemas I",
+      "96",
+      "Estructura de Datos y Algoritmos Sistemas y Organizaciones"
+    ],
+    [
+      "● Circuitos lógicos y sistemas digitales básicos. ● Organización de computadoras. ● Arquitectura de computadoras. ● Arquitecturas paralelas y no convencionales. ● Programación de bajo nivel de microprocesadores y microcontroladores. ','Arquitectura de Computadoras')\">Arquitectura de Computadoras",
+      "96",
+      "Estructura de Datos y Algoritmos Física General"
+    ],
+    [
+      "● Lenguajes Formales. Gramáticas y Autómatas. Autómata finito determinístico y no determinístico. ● Expresiones Regulares. Gramáticas libres de contexto. BNF. ● Computabilidad: Máquinas de Turing y sus extensiones. Máquina de Turing Universal, Lenguajes No-Decidibles. Implicaciones de la No-Decibilidad de lenguajes. ● Complejidad: Introducción a problemas tratables e intratables. Definición de las clases P y NP. Problemas NP completos. ','Autómatas y Lenguajes')\">Autómatas y Lenguajes",
+      "72",
+      "Estructura de Datos y Algoritmos"
+    ],
+    [
+      "▪ Aritmética de punto flotante, errores de redondeo. ▪ Solución de ecuaciones no lineales y sistemas de ecuaciones no lineales por métodos iterativos. ▪ Integración y diferenciación numérica. ▪ Aproximación de funciones: interpolación polinómica, diferencias divididas, splines, método de los mínimos cuadrados. ▪ Solución de sistemas lineales por métodos directos e iterativos. ▪ Ecuaciones diferenciales ordinarias: métodos Runge-Kutta, métodos multipaso, métodos de diferencias finitas. ▪ Ecuaciones diferenciales en derivadas parciales: diferencias finitas para ecuaciones elípticas, parabólicas e hiperbólicas. ','Métodos Numéricos')\">Métodos Numéricos",
+      "56",
+      "Cálculo Avanzado"
+    ],
+    [
+      "1. El concepto de probabilidad y de variable aleatoria 2. Distribuciones discretas y continuas importantes 3. Distribución Normal 4. Teorema Central del Límite 5. Estadística descriptiva. Medidas centrales y de dispersión 6. Inferencia estadística. Estimación de parámetros y pruebas de hipótesis 7. Regresión lineal ','Probabilidad y Estadística')\">Probabilidad y Estadística",
+      "88",
+      "Álgebra Análisis Matemático I – b"
+    ],
+    [
+      "Tercer Año"
+    ],
+    [
+      "Primer Cuatrimestre"
+    ],
+    [
+      "- Introducción a base de datos. - Sistemas administradores de bases de datos –DBMS-. - Modelado de base de datos. Normalización. - Enfoque relacional. Álgebra Relacional. SQL. - Integridad de los datos. - Acceso eficaz y eficiente a los datos ante la escalabilidad en el volumen de los mismos. - Uso seguro de los datos y de la información. - Bases de Datos NoSQL. ','Base de Datos I')\">Base de Datos I",
+      "96",
+      "Análisis y Diseño de Sistemas I"
+    ],
+    [
+      "● Revisión de Fundamentos de Orientación a Objetos ● Diseño de la Solución ● Fundamentos de aspectos Sintácticos y Semánticos de un lenguaje específico de programación Orientado a Objetos ● Programación en un lenguaje específico de Orientación a Objetos ● Resolución de un Proyecto integral bajo el Paradigma Orientado a Objetos. ','Programación Orientada a Objetos')\">Programación Orientada a Objetos",
+      "88",
+      "Análisis y Diseño de Sistemas I"
+    ],
+    [
+      "● Redes de computadoras ● Introducción a la teoría de la Información y la comunicación ● Modelos de referencias OSI y TCP/IP ● Protocolos de capa de enlace, red y transporte ● Protocolos de encaminamiento en Internet ● Servicios de aplicación en Internet ','Redes y Comunicaciones I')\">Redes y Comunicaciones I",
+      "96",
+      "Arquitectura de Computadoras"
+    ],
+    [
+      "● Introducción a los sistemas operativos. ● Concepto de proceso. Administración de procesos. Planificación. Concurrencia. Procesos concurrentes. Mecanismos de intercomunicación y sincronización. Interbloqueo ● Administración de memoria. Memoria virtual. ● Administración de la información. Sistema de archivos ● Administración de dispositivos de E/S. ● Seguridad y protección en Sistemas Operativos ● Conceptos de sistemas operativos para redes de computadoras, sistemas distribuidos, sistemas embebidos, sistemas de tiempo real. ● Virtualización. Máquinas virtuales. ','Sistemas Operativos')\">Sistemas Operativos",
+      "112",
+      "Arquitectura de Computadoras"
+    ],
+    [
+      "Segundo Cuatrimestre"
+    ],
+    [
+      "- Ingeniería de software. - Procesos de desarrollo de software. - Sistemas de información.- Modelos de requerimientos, análisis, diseño, implementación. - Modelo y lenguaje UML. - Arquitectura. Diseño. Patrones. - Herramientas y técnicas de modelado. - Especificación formal de software. ','Análisis y Diseño de Sistemas II')\">Análisis y Diseño de Sistemas II",
+      "96",
+      "Base de Datos I Programación Orientada a Objetos"
+    ],
+    [
+      "- Administración de servicios en Red - Automatización de tareas bajo GNU/Linux - Seguridad en servicios de aplicación de red (introducción) ','Laboratorio de Redes y Comunicaciones')\">Laboratorio de Redes y Comunicaciones",
+      "96",
+      "Redes y Comunicaciones I Sistemas Operativos"
+    ],
+    [
+      "- Paradigma de programación declarativo. Comparación con otros paradigmas de programación. - Programación lógica. - Programación funcional. ','Programación Lógica y Funcional')\">Programación Lógica y Funcional",
+      "80",
+      "Matemática Discreta"
+    ],
+    [
+      "▪ Introducción a aplicaciones Web y sus generaciones. ▪ Introducción al modelo cliente-servidor ▪ Técnicas de programación del lado del cliente y del servidor. ▪ El lenguaje HTML y sucesores. ▪ Programación del servidor. ▪ Programación del cliente. ▪ Proyecto Integrador. ','Programación Orientada a la Web')\">Programación Orientada a la Web",
+      "104",
+      "Base de Datos I Programación Orientada a Objetos"
+    ],
+    [
+      "Cuarto Año"
+    ],
+    [
+      "Primer Cuatrimestre"
+    ],
+    [
+      "- Aspectos Introductorios de Economía (Enfoque gerencial) - Microeconomía - Macroeconomía - Finanzas de la empresa - Análisis de Costos para la toma de decisiones - Estrategias de Gestión - Planificación y Presupuestos - Financiamiento de empresas. - Indicadores Financieros. - Análisis de inversiones. - Formulación y evaluación de proyectos de inversión. - Aspectos básicos de un Plan de Negocios. ','Economía y Gestión de Empresas')\">Economía y Gestión de Empresas",
+      "120",
+      "Sistemas y Organizaciones"
+    ],
+    [
+      "● Desarrollo ágil. ● Estimación y planificación de proyectos de software. ● Métricas de proyecto. ● Gestión de riesgos. ● Gestión de la configuración de software. ● Verificación y validación del software. ● Evolución del software. ● Reingeniería de software. ','Ingeniería de Software I')\">Ingeniería de Software I",
+      "96",
+      "Análisis y Diseño de Sistemas II Programación Orientada a la Web"
+    ],
+    [
+      "● Redes de transporte ● Redes de acceso ● Fibra óptica: tipos y aplicaciones ● Protocolos para la administración de redes de transporte ● Seguridad en protocolos de infraestructura de redes ','Redes y Comunicaciones II')\">Redes y Comunicaciones II",
+      "96",
+      "Laboratorio de Redes y Comunicaciones"
+    ],
+    [
+      "- Salud ocupacional. - Legislación laboral y ambiental. - Prevención de accidentes de trabajo y enfermedades profesionales. - Planes de prevención de riesgos físicos, químicos y ergonómicos. - Contaminación ambiental y sonora. Carga térmica. Radiaciones. - Riesgo mecánico, eléctrico y de incendio. - Condiciones de interacción con el medio ambiente. Estudios de impacto ambiental. - Análisis y control de efluentes sólidos, líquidos y gaseosos. - Normas ISO. - Proyecto y diseño de ingeniería (diseño de un sistema de prevención de riesgos en una planta industrial, comercial o de servicios en temáticas de la asignatura). ','Seguridad, Higiene y Gestión Ambiental')\">Seguridad, Higiene y Gestión Ambiental",
+      "85",
+      "Sistemas y Organizaciones"
+    ],
+    [
+      "Segundo Cuatrimestre"
+    ],
+    [
+      "● Conceptos de proceso y calidad en organizaciones de software. ● Modelos y estándares ISO relacionados a la calidad para organizaciones que producen bienes y servicios de software. ● Modelo de madurez/calidad de la capacidad organizacional a partir de áreas de procesos software. ● Auditoría y peritaje informático. ● Metodología de control interno, seguridad y auditoría informática. ','Gestión de Calidad y Auditoría')\">Gestión de Calidad y Auditoría",
+      "96",
+      "Economía y Gestión de Empresas Ingeniería de Software I"
+    ],
+    [
+      "- Tópicos generales de ética. - Conceptos generales de Legislación e Informática. - Contratos informáticos. Comercio electrónico. Contratación electrónica. Propiedad intelectual. - Protección de datos personales. Documento electrónico y firma electrónica. Introducción al Peritaje informático. Delitos informáticos. - Gobierno de TI. - Innovación y emprendedorismo. ','Legislación Informática')\">Legislación Informática",
+      "64",
+      "Economía y Gestión de Empresas"
+    ],
+    [
+      "● Teoría general de sistemas y modelos. ● Introducción a la simulación de sistemas. ● Repaso de conceptos de probabilidad y estadística. ● Manejo de muestras probabilísticas. ● Simulación de sistemas discretos. ● Simulación de sistemas continuos. ● Lenguajes de simulación. ● Verificación y validación de modelos para simulación. ● Análisis de los resultados de la simulación. ','Modelos y Simulación')\">Modelos y Simulación",
+      "80",
+      "Métodos Numéricos Probabilidad y Estadística"
+    ],
+    [
+      "● Estilos arquitectónicos y arquitecturas en SD. ● Comunicación en sistemas distribuidos. ● Nombramiento en sistemas distribuidos. ● Coordinación en sistemas distribuidos. ● Consistencia, Replicación y Memoria Compartida Distribuida. ● Seguridad en sistemas distribuidos. ● Fallos y tolerancia a fallos. ','Sistemas Distribuidos I')\">Sistemas Distribuidos I",
+      "88",
+      "Programación Orientada a la Web Redes y Comunicaciones I Sistemas Operativos"
+    ],
+    [
+      "Quinto Año"
+    ],
+    [
+      "Primer Cuatrimestre"
+    ],
+    [
+      "▪ Entes y Categorías de Entes de interés en proyectos de Ingeniería de Software. ▪ Requisitos de Calidad. Modelos de Calidad estructurados en Características y Atributos. Estándares. ▪ Métricas e Indicadores. ▪ Procesos y Métodos de Medición y Evaluación.Estándares. ▪ Estrategias para distintos propósitos de Medición y Evaluación considerando Vistas de Calidad. ','Ingeniería de Software II')\">Ingeniería de Software II",
+      "64",
+      "Gestión de Calidad y Auditoría"
+    ],
+    [
+      "- Fundamentos de Seguridad Informática. - Aspectos de Confidencialidad, Integridad, Disponibilidad. - Autenticación y control de acceso. - Amenazas. Políticas y mecanismos. - Seguridad en sistemas de computación y software de base. - Seguridad en aplicaciones en red e Internet. Distintos recursos y servicios a proteger. - Fundamentos de Criptografía y sus aplicaciones. - Técnicas y herramientas de análisis de vulnerabilidades. - Herramientas y técnicas de defensa. - Estándares sobre Seguridad Informática. - Desarrollo de aplicaciones seguras. - Seguridad en el proceso de desarrollo de software. - Aspectos Legales en Seguridad y auditorías. ','Seguridad informática')\">Seguridad informática",
+      "80",
+      "Gestión de Calidad y Auditoría Redes y Comunicaciones II"
+    ],
+    [
+      "● Fundamentos de sistemas distribuidos. ● Sistemas distribuidos con objetos y orientado a servicios. ● Arquitectura de sistemas distribuidos. ● Nuevas tendencias en tecnologías de sistemas distribuidos. ● Seguridad en sistemas distribuidos. ','Sistemas Distribuidos II')\">Sistemas Distribuidos II",
+      "96",
+      "Ingeniería de Software I Sistemas Distribuidos I"
+    ],
+    [
+      "Segundo Cuatrimestre"
+    ],
+    [
+      "- Conceptos de Bases de Datos Distribuidas. - Conceptos de Data Warehousing. - Conceptos de Data Minning. - Conceptos de Big Data. - Nuevas tendencias en el uso y manejo de los datos. ','Base de Datos II')\">Base de Datos II",
+      "80",
+      "Base de Datos I Sistemas Distribuidos I"
+    ],
+    [
+      "● Introducción a la IA. Agentes inteligentes. ● Resolución de problemas mediante búsqueda. ● Razonamiento. ● Aprendizaje Automático (Machine Learning). ','Sistemas Inteligentes')\">Sistemas Inteligentes",
+      "80",
+      "Autómatas y Lenguajes Ingeniería de Software I Modelos y Simulación Programación Lógica y Funcional"
+    ]
+  ],
+  [
+    [
+      "Actividades",
+      "Carga Horaria",
+      "Condiciones a tener en cuenta"
+    ],
+    [
+      "Inglés I",
+      "72",
+      "Para poder cursar las asignaturas del 1º cuatrimestre de 3º año se deberá haber acreditado Inglés Nivel I."
+    ],
+    [
+      "Inglés II",
+      "72",
+      "Para poder cursar las asignaturas del 2º cuatrimestre de 4º año se deberá haber acreditado Inglés Nivel II."
+    ],
+    [
+      "Inglés III",
+      "72",
+      "Para poder cursar las asignaturas del 2º semestre de 5º año se deberá haber acreditado Inglés Nivel III"
+    ],
+    [
+      "Prácticas Comunitarias (PC)",
+      "40",
+      "Para poder realizar las PC se necesita tener el 40% de la carrera aprobada"
+    ],
+    [
+      "Práctica Profesional Supervisada (PPS)",
+      "200",
+      "Para poder realizar las PPS se necesita tener el 70% de la carrera aprobada"
+    ],
+    [
+      "Proyecto Final (PF)",
+      "200",
+      "Para presentar el anteproyecto el/la estudiante puede tener un máximo de 3 (tres) actividades curriculares pendientes de aprobación/ acreditación, sin contar el Proyecto Final. Es necesario aclarar que el concepto actividad curricular contiene tanto a las asignaturas del Plan de Estudios, como a aquellas actividades dentro del punto “Otros Requisitos” del Anexo de la Resolución 032/23 del Consejo Superior (Práctica Comunitaria, Práctica Profesional Supervisada, Inglés I, Inglés II e Inglés III)."
+    ]
+  ]
+]

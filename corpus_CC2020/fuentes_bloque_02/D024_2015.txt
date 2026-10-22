@@ -1,0 +1,109 @@
+
+PAGE 1
+Ingeniería de Sistemas
+ESCUELA DE CIENCIAS CIENCIAS BÁSICAS TECNOLOGÍA E INGENIERÍA
+
+Duración estimada del programa: 9 Semestres
+Alta Calidad: Resolución N° 17254 de agosto 30 de 2017 del Ministerio de Educación Nacional/ Vigente hasta el 30 de agosto de 2021
+Registro Calificado: Resolución N° 011685 de noviembre 07 de 2019 del Ministerio de Educación Nacional/Vigente hasta el 07 de noviembre de 2026
+
+
+
+
+
+            PERIODO I       PERIODO II       PERIODO III       PERIODO IV       PERIODO V       PERIODO VI      PERIODO VII      PERIODO VIII      PERIODO IX
+
+
+             T           2            T             3          T           3            T           3       M          3        M           3       M          3       M          3       M           3
+               Introducción a                                                                                                             Redes y            Arquitectura                  la Ingeniería de      Calculo Diferencial      Algebra Lineal        Calculo Integral    Sistemas Operativos                                                Gestión de TI       Proyecto de Grado                                                                                                             Comunicaciones        Empresarial                 Sistemas
+                  código        90013          código       100410       código      208046        código          110411        código     202016895       código     202016898      código      202016901       código     202016904       código     202016907
+
+                                      T             3      M          3       M          3       M          3        M           3       M          3       M          3
+                                  Matemáticas        Arquitectura de                         Diseño de Bases de                         Administración de   Information Security                                                                                           Física General                           Bases de Datos                                         Discretas         Computadores                               Datos                              Bases de Datos                    (*)
+                                              código       204041       código     202016893       código        100413        código     202016899       código     202016896      código     202016902       código      202016905
+
+                                      T             2          T           3       M          3       M          3        M           3       M          3       M          3
+                                          Teoría de                                       Análisis y                                   Verificación y                                                                 Estadística                                                                                 Emprendimiento de                                   Sistemas en las                             Especificación de    Diseño de Software      Validación de      Calidad de Software                                                               Descriptiva                                                                                   Base Tecnológica                                   Organizaciones                          Requerimientos                              Software                                     Obligatorios                                  código       204016       código      204040        código     202016894      código     202016897       código     202016900      código     202016903       código     202016906
+
+                       M            3      M          3            T           2       M          3        M          2       M          3
+                                                                                                                  Formulación y       DISCIPLINAR                          Fundamentos de                                                                                           Proyecto de                                                    Programación         Probabilidad      Estructura de Datos      Evaluación de                                 programación                                                                                                     Ingeniería II                                                                                                                       Proyectos de Ing.
+                                              código        213022       código        213023        código       100402        código       301305         código        212015        código   CAMPO                                                                     M          3
+                                                                                                   Proyecto de
+                                                                                                             Ingeniería I
+                                                                                                                               código
+
+                                                                                                                                T/M         3           T/M         3           T/M         3           T/M         3
+                                                                                                                                   Electivo Disciplinar    Electivo Disciplinar    Electivo Disciplinar    Electivo Disciplinar
+                                                                                                                                 Específico I           Específico II          Específico III          Específico IV
+                                                                                                                                                          código                     código                     código                      código                            Electivos                                                                                                                                                                   T/M         3           T/M         3
+                                                                                                                                                                                  Electivo Disciplinar    Electivo Disciplinar
+                                                                                                                          Común I          Común II
+                                                                                                                                                                                                                 código                      código
+
+        M          3
+   AIU        Cátedra Unadista CAMPO                                  Obligatorio     código       80017
+
+             T           3            T             3          T           3            T           3
+                                                                  Fundamentos y           Pensamiento Lógico     Competencias      Fundamentos en                                                                            Generalidades de              Matemático        Comunicativas       Gestión Integral                                                                                    Investigación
+                  código        200611         código       40003       código         112001         código        150001
+
+        M          3       M            3      M          3       M          3       M          3
+              Herramientas
+                 Digitales Para                                          Ingles A1              Ingles A2              Ingles B1              Ingles B2
+  IBC              la Gestión del              Conocimiento                                     Obligatorios                  código       200610         código       900001       código      900002        código      900003       código      900005
+
+             T           3   CAMPO
+              Ética y Ciudadanía
+
+                  código      40002
+
+             T/M         3                                                                                                       T/M         3
+                    Electivo                                                                                                             Electivo
+                 Interdisciplinar                                                                                                           Interdisciplinar
+              Básico Común I                                                                                           Básico Común II                            Electivos
+                  código                                                                                                                                  código
+
+                                                                                                                                                       T/M         2           T/M         2           T/M         2
+
+                                                                                                                                                          Electivo Formación    Electivo Formación    Electivo Formación
+                                                                                                                              Complementaria I    Complementaria II   Complementaria III  CAMPO          FORMACIÓN             Electivos                          COMPLEMENTARIA                                                                                                                                                                               código                     código                      código
+
+                Créditos        17         Créditos        17        Créditos       18        Créditos        17        Créditos       18         Créditos        17        Créditos        17        Créditos        17         Créditos          11
+
+
+
+                                                                                                ELECTIVO DISCIPLINAR ESPECÍFICO
+              ELECTIVO INTERDISCIPLINAR BÁSICO COMÚN
+                                                                                 Línea de profundización I: Sistemas de Información    Línea de profundización II: Tecnologías de Información
+
+T                3          M               3          M               3          M               3          M              3           M               3          M               3
+   Algebra, Trigonometría y                                          Biología                   Excel Avanzado                 Análisis de Datos                 Social media                Realidad Virtual         Bases de datos Distribuidas      Geom. Analítica
+      código             301301              código               201101              código             212059              código          202016908           código          202016909            código           202016912            código           202016913
+T                3                 T                3                 T                3          M               3          M              3           M               3          M               3
+
+    Contabilidad y Costos       Administración Financiera        Inferencia Estadística            Servicios en la nube                Big Data            Computación Distribuida         Internet de las cosas
+
+      código              212018              código            102022              código            212064              código           202016910            código            202016911             código           202016914            código           202016915
+T                3                                                    M               3          M              3           M               3          M               3
+                                                                                                   Interacción Humano            Diseño centrado            Planificación, Program. y         Gestión de Alcance    Teoría de las decisiones                                                                                  Computador               en el usuario               control de proyectos           tiempo y costos
+      código                                código                                código                                código           202016916            código           202016917             código             212055              código             212058
+                                                               M               3          M              3                 T                3          M               3
+                                                                                         Evaluación de experiencia de                               Metodologías de gestión de     Herramientas y Software                                                                                                                    Diseño Accesible                                                                                                  Usuario                                                   proyectos            para gestión de Proyectos
+                                                                                                                       código           202016917            código           202016919             código             212056             código             212057
+
+
+                  ELECTIVO FORMACIÓN COMPLEMENTARIA                                         ELECTIVO DISCIPLINAR COMÚN
+
+M               2                 T                2          M               2          M               3          M              3           M               3
+                                                                                                       BPM con TI (Gestión de
+      Proyecto de vida                 Salud Oral                   Danza             Introducción a los Metadatos         Tecnologías ETL           procesos Tecnológicos
+                                                                                                                                           con T.I )
+      código           80002              código           80003              código             80012              código            204031             código           204032              código             212063
+M               2          M               2          M               2
+  Pedagogía para la solución                                        Creatividad para el                              Discapacidad y sexualidad       de conflictos                                        Emprendimiento
+      código           80008              código              80011              código            80018
+M               2          M               2
+
+ Actividad física para la salud         Ser trascendente
+
+      código           80020              código           80004

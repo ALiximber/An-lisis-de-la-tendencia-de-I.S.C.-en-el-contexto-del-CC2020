@@ -1,0 +1,1663 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Expires" content="0">
+        <meta http-equiv="Last-Modified" content="0">
+        <meta http-equiv="Cache-Control" content="no-cache, mustrevalidate">
+        <meta http-equiv="Pragma" content="no-cache">
+        <link rel="stylesheet" type="text/css" href="/static/css/bootstrap.css?v=104">
+        <link rel="stylesheet" type="text/css" href="/static/OwlCarousel2-2.3.4/css/owl.carousel.min.css?v=104">
+        <link rel="stylesheet" type="text/css" href="/static/OwlCarousel2-2.3.4/css/owl.theme.default.min.css?v=104">
+        <link rel="stylesheet" type="text/css" href="/static/css/font-awesome.all.css?v=104">
+        <link rel="stylesheet" type="text/css" href="/static/css/style.css?v=110">
+        <link rel="stylesheet" type="text/css" href="/static/css/modal.css?v=104">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" charset="utf-8">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
+
+        <!--      -->
+        <script src="https://kit.fontawesome.com/808781cc1c.js" crossorigin="anonymous"></script>
+
+        
+        
+
+        <link rel="shortcut icon" type="image/png" href="/static/img/fav%20icon.png"/>
+
+        <!--BORRAR CON FORMULARIO-->
+        <style>
+            .swal-button {
+            background-color: #2f5388;
+            border: 0px;
+            border-radius: 0;
+            }
+
+            @-webkit-keyframes spinner-border {
+                to {
+                    -webkit-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                }
+            }
+
+            @keyframes spinner-border {
+                to {
+                    -webkit-transform: rotate(360deg);
+                    transform: rotate(360deg);
+                }
+            }
+
+            .spinner-border {
+                display: inline-block;
+                width: 2rem;
+                height: 2rem;
+                vertical-align: text-bottom;
+                border: 0.25em solid currentColor;
+                border-right-color: transparent;
+                border-radius: 50%;
+                -webkit-animation: spinner-border .75s linear infinite;
+                animation: spinner-border .75s linear infinite;
+            }
+
+            .spinner-border-sm {
+                width: 1rem;
+                height: 1rem;
+                border-width: 0.2em;
+            }
+
+            @-webkit-keyframes spinner-grow {
+                0% {
+                    -webkit-transform: scale(0);
+                    transform: scale(0);
+                }
+                50% {
+                    opacity: 0;
+                }
+            }
+
+            @keyframes spinner-grow {
+                0% {
+                    -webkit-transform: scale(0);
+                    transform: scale(0);
+                }
+                50% {
+                    opacity: 1;
+                }
+            }
+
+            .spinner-grow {
+                display: inline-block;
+                width: 2rem;
+                height: 2rem;
+                vertical-align: text-bottom;
+                background-color: currentColor;
+                border-radius: 50%;
+                opacity: 0;
+                -webkit-animation: spinner-grow .75s linear infinite;
+                animation: spinner-grow .75s linear infinite;
+            }
+
+            .spinner-grow-sm {
+                width: 2rem;
+                height: 2rem;
+            }
+
+            .btn-primary.disabled, .btn-primary:disabled {
+                background-color: #0069d9;
+                border-color: #0069d9;
+            }
+            .btn-primary:hover {
+                color: #fff;
+                background-color: #868e96;
+                border-color: #868e96;
+            }
+            .btn.disabled, .btn:disabled {
+                opacity: 1;
+            }
+            .btn:focus, .btn:hover {
+                text-decoration: none;
+            }
+            .btn-primary {
+                color: #fff;
+                background-color: #dc3545;
+                border-color: #dc3545;
+            }
+            .btn {
+                display: inline-block;
+                font-weight: 400;
+                text-align: center;
+                white-space: nowrap;
+                vertical-align: middle;
+                -webkit-user-select: none;
+                -moz-user-select: none;
+                -ms-user-select: none;
+                user-select: none;
+                border: 1px solid transparent;
+                border-top-color: transparent;
+                border-right-color: transparent;
+                border-bottom-color: transparent;
+                border-left-color: transparent;
+                padding: 0.375rem 0.75rem;
+                font-size: 1rem;
+                line-height: 1.5;
+                border-radius: 0.25rem;
+                transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+            }
+
+            .banner-aviso .banner-images {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+            }
+
+            @media (max-width: 767px) {
+                .banner-aviso .banner-images {
+                    -webkit-box-orient: vertical;
+                    -webkit-box-direction: normal;
+                    -ms-flex-direction: column;
+                    flex-direction: column;
+                }
+            }
+
+            .banner-aviso .banner-images.horizontal {
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                flex-direction: column;
+            }
+
+            .banner-aviso .banner-images .imagen {
+                width: 100%;
+            }
+
+            @media (max-width: 767px) {
+                .banner-aviso .banner-images .imagen {
+                display: none;
+                }
+            }
+
+            .banner-aviso .banner-images .imagen img {
+                width: 100%;
+                max-height: 250px;
+                -o-object-fit: cover;
+                object-fit: cover;
+                height: 100%;
+            }
+
+            .banner-aviso .banner-images .imagen-mobil {
+                width: 100%;
+            }
+
+            @media (min-width: 768px) {
+                .banner-aviso .banner-images .imagen-mobil {
+                    display: none;
+                }
+            }
+
+            .banner-aviso .banner-images .imagen-mobil img {
+                width: 100%;
+                max-height: 250px;
+                -o-object-fit: cover;
+                object-fit: cover;
+                height: 100%;
+            }
+        </style>
+
+        <!--CDN SWEET ALERT SACAR CON FORMULARIO -->
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+        <!--BORRAR CON FORMULARIO-->
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145271582-1"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-145271582-1');
+        </script>
+
+        <title>Facultad de Ingeniería - UNLPam</title>
+    </head>
+    <body>
+        
+        
+
+        <!--MENU FLOTANTE-->
+        <div id="container-floating">
+            <a target="__blank" href="http://campusvirtual.ing.unlpam.edu.ar/">
+                <img class="iconFloatingImg"
+                     style="background-color: #ffffff;"
+                     src="/static/img/fav%20icon.png"
+                     alt="Campus Virtual"
+                     title="Campus Virtual">
+            </a>
+            <a target="__blank" href="https://g3.unlpam.edu.ar/g3w3/">
+                <img class="iconFloatingImg" style="border-radius: 10px; margin-left: 2px;"
+                     src="/static/img/siuuu.jpg"
+                     alt="SIU Guaraní"
+                     title="SIU Guaraní">
+            </a>
+            <a target="_blank" href="https://wa.me/+5492302416955">
+                <img style ="height: 61%; width: 62%;"
+                     src="/static/img/whatsapp.ico"
+                     alt="WhatsApp Facultad de Ingenieria"
+                     title="WhatsApp Facultad de Ingenieria">
+            </a>
+        </div>
+
+        <header>
+        <!-- Menú superior con submenús por comunidad -->
+        <div id="menu-comunidad" class="menu-comunidad">
+            <button id="menu-toggle" class="menu-toggle" aria-label="Abrir menú">
+                <i class="fas fa-bars"></i>
+            </button>
+            <!-- Bloque Izquierdo (logos institucionales) -->
+            <div class="menu-columna menu-izquierda" id="menuLogosInstitucionales">
+                <a class="mx-2" href="https://unlpam.edu.ar/index.php" target="_blank">
+                    <img id="logoMenuUNLPam" src="/static/img/Logo-UNLPam.png" title="UNLPam"/>
+                </a>
+                
+                    <a class="mx-2" href="/.">
+                        <img style="margin-top: 6px;" id="logoMenuFI" src="/media/uploads/web/img/Logo_Original_2025-10-14_070550.293584Logo-FIng.png" title="Facultad de Ingeniería de la UNLPam"/>
+                    </a>
+                
+            </div>
+            <!-- Bloque Central (menú comunidad) -->
+            <div class="menu-columna menu-centro">
+                <div class="menu-item">
+                    <span>Ingresantes</span>
+                    <div class="submenu">
+                        <a href="/comunidad/ingresantes/como_ingresar">¿Cómo ingreso?</a>
+                        <a href="/comunidad/ingresantes/bienestar_estudiantil">Bienestar estudiantil</a>
+                        <a href="/comunidad/ingresantes/tutorias">Programa de Tutorías de Pares</a>
+                        <a href="/comunidad/ingresantes/demanda_universitaria">Departamento de Demanda Universitaria</a>
+                        <a href="/comunidad/ingresantes/violencia_genero">Protocolo de Violencia de Género</a>
+                        <a href="/comunidad/ingresantes/accesibilidad">Accesibilidad y Discapacidad</a>
+                    </div>
+                </div>
+                <div class="menu-item">
+                    <span>Estudiantes</span>
+                    <div class="submenu">
+                        <a href="/comunidad/estudiantes/vida_academica">Vida académica</a>
+                        <a href="/comunidad/estudiantes/tramites_academicos">Trámites Académicos</a>
+                        <a href="/comunidad/estudiantes/practicas_formacionprofesional">Prácticas y Formación Profesional</a>
+                        <a href="/comunidad/estudiantes/trabajo_final">Trabajo Final (TF)</a>
+                        <a href="/comunidad/estudiantes/oportunidades_estudiantiles">Oportunidades Estudiantiles</a>
+                        <a href="/comunidad/estudiantes/bienestar_estudiantil">Servicios al Estudiante</a>
+                        <a href="/comunidad/estudiantes/ciudadania_estudiantil">Vida Institucional Estudiantil</a>
+                        <a href="/comunidad/estudiantes/normativas_protocolos">Normativas y Protocolos</a>
+
+
+
+
+                    </div>
+                </div>
+                <div class="menu-item">
+                    <span>Docentes</span>
+                    <div class="submenu">
+                        <a href="/docentes">Planta docente</a>
+                        <a href="/recursos">Recursos para docentes</a>
+                        <a href="/concursos">Concursos regulares abiertos</a>
+                        <a href="/carrera_docente">Carrera docente</a>
+                        <a href="/becasconvocatorias/docentes/">Becas y convocatorias</a>
+                        <a href="/oportunidadeslaborales/docentes/">Oportunidades laborales</a>
+                    </div>
+                </div>
+                <div class="menu-item is-disabled" aria-disabled="true" title="En desarrollo">
+                    <span>Nodocentes</span>
+                    <div class="submenu">
+                    </div>
+                </div>
+                <div class="menu-item is-disabled" aria-disabled="true" title="En desarrollo">
+                    <span>Graduados</span>
+                    <div class="submenu">
+                    </div>
+                </div>
+            </div>
+            <!-- Bloque Derecho (buscador) -->
+            <div class="menu-columna menu-derecha">
+                <form id="menuComunidadBuscador" method="post" class="form-inline">
+                    <input type='hidden' name='csrfmiddlewaretoken' value='YwFmFP7wYXvaudnIhBlJLm6lK42fwF7sSjaDXwhJBMDyQpjNTbXaS7hhrBiiEfSK' />
+                    
+                    <input hidden type="submit" class="btn" name="busquedaGeneral">
+                    <i class="fas fa-search" id="headerBuscadorLupaIcon"></i>
+                    
+                </form>
+            </div>
+        </div>
+
+        <!-- Menu secundario azul  -->
+        <nav id="headerInferior" class=" navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="#"></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#headerMenu" aria-controls="headerMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse " id="headerMenu">
+                    <ul class="navbar-nav mx-auto" style="font-size: 1.05em;">
+                        <li class="nav-item ">
+                            <div class="dropdown">
+                                <a class="nav-link headerMenuBoton" href="#" role="button" id="menuLaFacu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    Institucional
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="menuLaFacu">
+                                    <a class="dropdown-item" href="/historia">Historia</a>
+                                    <a class="dropdown-item" href="/autoridades">Autoridades</a>
+                                    <a class="dropdown-item" href="/misionypoliticas">Misión y Políticas</a>
+                                    <a class="dropdown-item" href="/novedadesresoluciones">Novedades y Resoluciones</a>
+                                    <a class="dropdown-item" href="/cdirectivo">Consejo Directivo</a>
+                                    <a class="dropdown-item" href="/informe_gestion">Informes de Gestión</a>
+                                    <a class="dropdown-item" href="/actividades">Calendario de<br>actividades</a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <a class="nav-link headerMenuBoton"
+                                   id="menuCarrerasArbol"
+                                   href="#"
+                                   role="button"
+                                   data-toggle="dropdown"
+                                   aria-haspopup="true"
+                                   aria-expanded="false">
+                                    Carreras
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="menuCarrerasArbol">
+                                    <!-- Ofertas académicas -->
+                                    <div class="dropdown-submenu">
+                                        <a class="dropdown-item dropdown-toggle" href="#">Oferta académica</a>
+                                        <div class="dropdown-menu">
+                                            <a class="dropdown-item" href="/carreras?p=analistaprogramador">Analista Programador</a>
+                                            <a class="dropdown-item" href="/carreras?p=tecnicatura">Tecnicatura Universitaria en <br>Telecomunicaciones</a>
+                                            <a class="dropdown-item" href="/carreras?p=ingenieriaensistemas">Ingeniería en Sistemas</a>
+                                            <a class="dropdown-item" href="/carreras?p=ingenieriaindustrial">Ingeniería Industrial</a>
+                                            <a class="dropdown-item" href="/carreras?p=ingenieriaencomputacion">Ingeniería en Computación</a>
+                                            <a class="dropdown-item" href="/carreras?p=ingenieriaelectromecanica">Ingeniería Electromecánica</a>
+                                            <a class="dropdown-item" href="/carreras?p=ingenieriamecatronica">Ingeniería Mecatrónica</a>
+                                            <a class="dropdown-item" href="/carreras?p=ingenieriaelectromecanicaconorientacion">
+                                                Ingeniería Electromecánica<br>
+                                                <span style="font-size: 0.9em;">con orientación</span><br>
+                                                <span style="font-size: 0.7em;">(Inscripción cerrada)</span>
+                                            </a>
+                                            <a class="dropdown-item" href="/carreras?p=ingenieriabiomedica">
+                                                Ingeniería Biomédica<br>
+                                                <span style="font-size: 0.7em;">(Inscripción cerrada)</span>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <!-- Posgrado -->
+                                    <div class="dropdown-submenu">
+                                        <a class="dropdown-item dropdown-toggle" href="#">Posgrado</a>
+                                        <div class="dropdown-menu">
+                                            <a class="dropdown-item" href="/posgrado/maestria-gestion-informacion">
+                                                Maestría en Gestión<br> de la Información
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <!-- Diplomaturas -->
+                                    <div class="dropdown-submenu">
+                                        <a class="dropdown-item dropdown-toggle" href="#">Diplomaturas</a>
+                                        <div class="dropdown-menu">
+                                            <a class="dropdown-item" href="/diplomaturas/inteligencia_artificial_ensenar_aprender">
+                                                Diplomatura en IA<br>para enseñar y aprender
+                                            </a>
+                                            <a class="dropdown-item" href="/diplomaturas/innovacion-tecnologica-control-publico-gubernamental">
+                                                Diplomatura en Innovación<br>Tecnológica aplicada al <br>Control Público
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link headerMenuBoton"
+                               id="menuExtension"
+                               href="http://cytext.ing.unlpam.edu.ar/">
+                               Investigación - Extensión
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link headerMenuBoton" id="menuContacto" href="/contacto">Contacto</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        </header>
+        
+
+    
+      
+
+<nav class="breadcrumb-nav" aria-label="breadcrumb">
+  <div class="container d-flex flex-wrap align-items-center py-2">
+    
+        
+            <a class="breadcrumb-item" href="/">Inicio</a>
+            <span class="material-icons breadcrumb-sep">chevron_right</span>
+        
+    
+        
+            <span class="breadcrumb-item active">Carreras</span>
+        
+    
+  </div>
+</nav>
+<style>
+    /* === Breadcrumb Moderno === */
+.breadcrumb-nav {
+    background: transparent;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    margin-bottom: 1.5rem;
+}
+
+.breadcrumb-item {
+    color: #2f548a;
+    font-weight: 500;
+    font-size: 0.95rem;
+    text-decoration: none;
+    transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+.breadcrumb-item:hover {
+    color: #1e3965;
+    text-decoration: underline;
+}
+
+.breadcrumb-item.active {
+    color: #6c757d;
+    font-weight: 500;
+    pointer-events: none;
+}
+
+.breadcrumb-sep {
+    font-size: 1rem;
+    color: #9aa5b1;
+    margin: 0 6px;
+    vertical-align: middle;
+}
+
+</style>
+    
+ 
+ 
+ 
+ 
+<div id="cuerpoCarrera" class="container">
+        <div id="seccionTituloCarreraCollpase">
+                        <div id="tituloCarrera">Ingeniería en Sistemas </div>
+                        <div id="orientacion" style="display: none;">Orientación</div>
+                        <div id="orientacionDescripcion" style="display: none;"></div>   
+        </div>
+       
+    
+
+<div id="estructuraOrganizacionPlanDeEstudio">Plan de estudio (2023)</div>
+
+
+
+<br>
+
+<div id="estructuraOrganizacionPlanDeEstudio">Estructura y Organización</div>
+<div id="estructuraOrganizacionDescripcion"><p>Este diseño curricular de carrera consta de 38 asignaturas cuatrimestrales y<br />de los espacios curriculares: Proyecto Final, Práctica Profesional Supervisada y Práctica<br />Comunitaria. Está diseñada para desarrollarse en cinco años con una carga de 3820 horas.</p></div>
+<br>
+
+<ul>
+    
+    <li><b>Director de carrera:</b> Mg. Hugo ALFONSO</li>
+    
+    
+    <li><b>Contacto:</b> alfonsoh@ing.unlpam.edu.ar</li>
+    
+</ul>
+<br>
+<div class="row wordwrap" id="pdfPlanDeEstudio">
+    <div class="col-2"><img class="pdf" src="/static/img/pdf.png"/></div>
+    <div class="col-10 row">
+        <div id="nombrePdfPlanDeEstudios" class="col-12">Resolución N°<div id="numeroResolucionPdf"></div>032/2023</div>
+        <a id="linkPdfPlanDeEstudios" href="/media/uploads/carreras/Ingeniera en Sistemas/planesDeEstudio/2023/2023-08-18_080626.4805774_7_2023_32.pdf" download><div class="col-12">Para descargar haga clic aquí.</div></a>
+    </div>
+</div>    
+<br>
+ <table class="table-striped"  width="100%"  border="1">
+ <thead>
+    <tr class="table-ligth">
+    
+        <th scope="col">Nombre</th>
+        <th scope="col">Carga Horaria</th>
+        <th scope="col">Correlativas</th>
+    </tr>
+ </thead>
+ <tbody>
+
+            <tr>
+                <th  colspan="4" class="table-danger">Primer Año</th>  
+            </tr>
+
+ 
+  
+        
+            <tr>
+                <th colspan="4" class="table-info">Primer Cuatrimestre</th>  
+            </tr>
+ 
+
+            
+                
+                 
+            
+                
+                 
+            
+                
+                 
+            
+                
+                        <tbody>
+                            <tr>
+
+                            <td><a href="javascript:sendData('<p>- Conjuntos numéricos y operaciones (números naturales, enteros, racionales, reales).<br />- Ecuaciones e Inecuaciones (de primer y segundo grado).<br />- Funciones (lineales, cuadráticas, polinómicas, trigonométricas).<br />- Trigonometría (ángulos, identidades trigonométricas, resolución de triángulos).</p>','Preliminares de Matemática')">Preliminares de Matemática</a></td>
+                            <td>60</td>
+                            <td><ul>
+                                    </ul>
+                            </td>
+                            </tr>
+                        </tbody>
+                    
+                 
+               
+
+            
+                
+               
+                            <tr>
+
+                            <td><a href="javascript:sendData('<p>▪	Introducción al lenguaje de los conjuntos. <br />▪	Sistemas numéricos: Presentación intuitiva de los números naturales. Principio de Inducción. Números complejos.<br />▪	Elementos de combinatoria. Binomio de Newton.<br />▪	Polinomios formales en una indeterminada con coeficientes complejos.<br />▪	Vectores en el plano y el espacio. Producto escalar y vectorial. Rectas y planos.<br />▪	Rn como espacio vectorial. Subespacios de Rn; bases y dimensión. El espacio vectorial Cn.<br />▪	Sistemas de ecuaciones lineales. Espacios solución. Compatibilidad.<br />▪	Matrices con coeficientes reales o complejos. Espacios vectoriales Rnxn y Cnxn. Expresión matricial de un sistema.<br />▪	Determinantes. Matriz de cofactores. Regla de Cramer.</p>','Álgebra')">Álgebra</a></td>
+                            <td>112</td>
+                            <td><ul> 
+                                    
+                                        <li> Preliminares de Matemática</li>
+                        
+                                
+                                    
+                                    </ul>
+                            </td>
+                            </tr>
+       
+                    
+                 
+            
+                
+               
+                            <tr>
+
+                            <td><a href="javascript:sendData('<p>Cálculo Diferencial:<br />•	Funciones de variable real.<br />•	Límite y continuidad de funciones.<br />•	Derivada y sus aplicaciones.<br />•	Teoremas del valor medio. Consecuencias.<br />•	Aproximación de funciones por polinomios de Taylor.<br />•	Antiderivadas.</p>','Análisis Matemático I - a')">Análisis Matemático I - a</a></td>
+                            <td>80</td>
+                            <td><ul> 
+                                    
+                                        <li> Preliminares de Matemática</li>
+                        
+                                
+                                    
+                                    </ul>
+                            </td>
+                            </tr>
+       
+                    
+                 
+            
+                
+               
+                            <tr>
+
+                            <td><a href="javascript:sendData('<p>●	Conceptualización de la Informática. Evolución Histórica<br />●	Representación de la información. Sistemas de Numeración. <br />●	Unidades funcionales de una computadora. <br />●	Lenguajes de Programación. <br />●	Algoritmos y programación.<br />●	Lenguaje de Representación de Algoritmos y técnicas básicas de programación.<br />●	Entornos de desarrollo para seudocódigo.<br />●	Estructuras de control y expresiones lógicas.<br />●	Programación modular.</p>','Introducción a la Informática')">Introducción a la Informática</a></td>
+                            <td>96</td>
+                            <td><ul>
+                                    </ul>
+                            </td>
+                            </tr>
+       
+                    
+                 
+            
+                
+                 
+               
+            
+ 
+ 
+ 
+  
+
+    
+        
+            <tr>
+                <th colspan="4" class="table-info">Segundo Cuatrimestre</th>  
+            </tr>
+
+
+            
+            
+                
+                <tr>
+ 
+                <td><a href="javascript:sendData('<p>•	Integral definida. Teorema fundamental del Cálculo. <br />•	Integrales impropias.<br />•	Funciones trascendentes.<br />•	Formas indeterminadas. Regla de L`Hopital.<br />•	Sucesiones y series. Series de Taylor.<br />•	Ecuaciones diferenciales ordinarias de primer orden.</p>','Análisis Matemático I – b')">Análisis Matemático I – b</a></td>
+                <td>64</td>
+                <td><ul> 
+                        
+                            <li> Análisis Matemático I - a</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+            
+                
+                <tr>
+ 
+                <td><a href="javascript:sendData('<p>●	Álgebra Lineal: Espacios vectoriales reales, transformaciones lineales y matrices. Autovalores y autovectores. Operadores  y matrices diagonalizables.<br />●	Espacios euclidianos: Productos internos y normas.  Proyecciones ortogonales. Mejor aproximación por cuadrados mínimos.<br />●	Transformaciones y matrices ortogonales. Diagonalización ortogonal de matrices simétricas. <br />●	Formas cuadráticas:  Diagonalización y clasificación. Aplicación al estudio de las secciones cónicas y las superficies cuadráticas.</p>','Geometría Analítica')">Geometría Analítica</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Álgebra</li>
+            
+                    
+                         
+                        
+                            <li> Análisis Matemático I - a</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+            
+                
+                <tr>
+ 
+                <td><a href="javascript:sendData('<p>●	 Lógica, cálculo proposicional. Predicados.<br />●	Demostración formal: tipos de demostraciones.<br />●	Velocidad de crecimiento, notación O.<br />●	Definiciones recursivas.<br />●	Relaciones binarias. Relaciones de equivalencia. Relaciones de orden.<br />●	 Estructuras algebraicas. Aritmética modular.<br />●	Álgebras de Boole. Funciones booleanas. Circuitos lógicos.<br />●	 Grafos y árboles.</p>','Matemática Discreta')">Matemática Discreta</a></td>
+                <td>88</td>
+                <td><ul> 
+                        
+                            <li> Álgebra</li>
+            
+                    
+                         
+                        
+                            <li> Análisis Matemático I - a</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+            
+                
+                <tr>
+ 
+                <td><a href="javascript:sendData('<p>●      Resoluciones de problemas mediante programación.<br />●      El paradigma procedural / imperativo.<br />●      Un lenguaje de programación procedural.<br />●      Tipos de datos predefinidos y definidos por el usuario.<br />●      Estructuras de control.<br />●      Programación modular.<br />●      Estructuras de datos. Algoritmos de ordenamiento y búsqueda.<br />●      Conceptos y técnicas de programación. Programación estructurada.<br />●      Administración de datos persistentes: archivos.<br />●  	Recursividad</p>','Programación Procedural')">Programación Procedural</a></td>
+                <td>120</td>
+                <td><ul> 
+                        
+                            <li> Introducción a la Informática</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+            
+   
+ 
+
+            <tr>
+                <th  colspan="4" class="table-danger">Segundo Año</th>  
+            </tr>
+
+ 
+ 
+
+           
+            <tr>
+                <th colspan="4" class="table-info">Primer Cuatrimestre</th>  
+            </tr>
+
+
+            
+
+                <tr>
+           
+               <td><a href="javascript:sendData('<p>- Funciones de varias variables reales. Límites y continuidad. <br />- Derivadas parciales, funciones diferenciables y aproximaciones lineales. <br />- Extremos libres y restringidos de campos escalares.<br />- Integrales dobles (de área) y triples (de volumen). Cambios de variables. <br />- Ecuaciones diferenciales lineales de segundo orden. Estudio del caso general. Resolución en el caso de coeficientes constantes. <br />- Series de Fourier. Propiedades de los coeficientes. <br />- Transformada de Laplace. Resolución de ecuaciones diferenciales lineales. Función transferencia.</p>','Cálculo Avanzado')">Cálculo Avanzado</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Análisis Matemático I – b</li>
+            
+                    
+                         
+                        
+                            <li> Geometría Analítica</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+           
+               <td><a href="javascript:sendData('<p>- Diseño y análisis de algoritmos<br />- Estructura de datos, uniones y tipos de datos abstractos<br />- Listas, Pilas y Filas<br />- Grafos y Árboles<br />- Métodos avanzados de búsqueda y ordenamiento</p>','Estructura de Datos y Algoritmos')">Estructura de Datos y Algoritmos</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Matemática Discreta</li>
+            
+                    
+                         
+                        
+                            <li> Programación Procedural</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+           
+               <td><a href="javascript:sendData('<p>- Introducción a Mecánica Clásica<br />- Cinemática para un cuerpo puntual<br />- Dinámica para un cuerpo puntual<br />- Consideraciones Energéticas<br />- Fundamentos de Electricidad y Magnetismo<br />- Circuitos eléctricos de corrientes estacionarias y variables en el tiempo<br />- Electromagnetismo<br />- Ondas Electromagnéticas</p>','Física General')">Física General</a></td>
+                <td>72</td>
+                <td><ul> 
+                        
+                            <li> Álgebra</li>
+            
+                    
+                         
+                        
+                            <li> Análisis Matemático I – b</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+           
+               <td><a href="javascript:sendData('<p>- Teoría General de Sistemas<br />- Ciclo de Vida de un Sistema<br />- La Organización<br />- La Administración<br />- Sistemas de Información<br />- Formulación y Evaluación de Proyectos TIC&#39;s<br />- El Sistema de decisión<br />- Visión Estratégica de la Organización<br />- Dirección ejecutiva de organizaciones de software</p>','Sistemas y Organizaciones')">Sistemas y Organizaciones</a></td>
+                <td>120</td>
+                <td><ul> 
+                        
+                            <li> Introducción a la Informática</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+   
+ 
+ 
+  
+
+ 
+            <tr>
+                <th colspan="4" class="table-info">Segundo Cuatrimestre</th>  
+            </tr>
+
+
+            
+
+                <tr>
+            
+               <td><a href="javascript:sendData('<p>- Fundamentos de Sistemas y  Naturaleza de los Sistemas de Información<br />- Procesos organizacionales y de desarrollo de software<br />- Análisis de Requisitos Orientado a Objetos<br />- Seguridad en Sistemas de Información</p>','Análisis y Diseño de Sistemas I')">Análisis y Diseño de Sistemas I</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Estructura de Datos y Algoritmos</li>
+            
+                    
+                         
+                        
+                            <li> Sistemas y Organizaciones</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+            
+               <td><a href="javascript:sendData('<p>●	Circuitos lógicos y sistemas digitales básicos.<br />●	Organización de computadoras.<br />●	Arquitectura de computadoras.<br />●	Arquitecturas paralelas y no convencionales.<br />●	Programación de bajo nivel de microprocesadores y microcontroladores.</p>','Arquitectura de Computadoras')">Arquitectura de Computadoras</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Estructura de Datos y Algoritmos</li>
+            
+                    
+                         
+                        
+                            <li> Física General</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+            
+               <td><a href="javascript:sendData('<p>●	Lenguajes Formales. Gramáticas y Autómatas. Autómata finito determinístico y no determinístico.<br />●	Expresiones Regulares. Gramáticas libres de contexto. BNF.<br />●	Computabilidad: Máquinas de Turing y sus extensiones. Máquina de Turing Universal, Lenguajes No-Decidibles. Implicaciones de la No-Decibilidad de lenguajes.<br />●	Complejidad: Introducción a problemas tratables e intratables. Definición de las clases P y NP. Problemas NP completos.</p>','Autómatas y Lenguajes')">Autómatas y Lenguajes</a></td>
+                <td>72</td>
+                <td><ul> 
+                        
+                            <li> Estructura de Datos y Algoritmos</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+            
+               <td><a href="javascript:sendData('<p>▪	  Aritmética de punto flotante, errores de redondeo.<br />▪	  Solución de ecuaciones no lineales y sistemas de ecuaciones no lineales por métodos iterativos.<br />▪	  Integración y diferenciación numérica.<br />▪	Aproximación de funciones: interpolación polinómica, diferencias divididas, splines, método de los mínimos cuadrados.<br />▪	  Solución de sistemas lineales por métodos directos e iterativos.<br />▪	Ecuaciones diferenciales ordinarias: métodos Runge-Kutta, métodos multipaso, métodos de diferencias finitas.<br />▪	 Ecuaciones diferenciales en derivadas parciales: diferencias finitas para ecuaciones elípticas, parabólicas e hiperbólicas.</p>','Métodos Numéricos')">Métodos Numéricos</a></td>
+                <td>56</td>
+                <td><ul> 
+                        
+                            <li> Cálculo Avanzado</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+            
+               <td><a href="javascript:sendData('<p>1.	El concepto de probabilidad y de variable aleatoria<br />2.	Distribuciones discretas y continuas importantes<br />3.	Distribución Normal<br />4.	Teorema Central del Límite<br />5.	Estadística descriptiva. Medidas centrales y de dispersión<br />6.	Inferencia estadística. Estimación de parámetros y pruebas de hipótesis<br />7.	Regresión lineal</p>','Probabilidad y Estadística')">Probabilidad y Estadística</a></td>
+                <td>88</td>
+                <td><ul> 
+                        
+                            <li> Álgebra</li>
+            
+                    
+                         
+                        
+                            <li> Análisis Matemático I – b</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+            
+    
+ 
+ 
+ 
+            <tr>
+                <th  colspan="4" class="table-danger">Tercer Año</th>  
+            </tr>
+
+ 
+ 
+       
+        
+            <tr>
+                <th colspan="4" class="table-info">Primer Cuatrimestre</th>  
+            </tr>
+
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>- Introducción a base de datos.<br />- Sistemas administradores de bases de datos –DBMS-.<br />- Modelado de base de datos. Normalización.<br />- Enfoque relacional. Álgebra Relacional. SQL.<br />- Integridad de los datos.<br />- Acceso eficaz y eficiente a los datos ante la escalabilidad en el volumen de los mismos.<br />- Uso seguro de los datos y de la información. <br />- Bases de Datos NoSQL.</p>','Base de Datos I')">Base de Datos I</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Análisis y Diseño de Sistemas I</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>●	Revisión de Fundamentos de Orientación a Objetos<br />●	Diseño de la Solución<br />●	Fundamentos de aspectos Sintácticos y Semánticos de un lenguaje específico de programación Orientado a Objetos<br />●	Programación en un lenguaje específico de Orientación a Objetos <br />●	Resolución de un Proyecto integral bajo el Paradigma Orientado a Objetos.</p>','Programación Orientada a Objetos')">Programación Orientada a Objetos</a></td>
+                <td>88</td>
+                <td><ul> 
+                        
+                            <li> Análisis y Diseño de Sistemas I</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>●	Redes de computadoras<br />●	Introducción a la teoría de la Información y la comunicación<br />●	Modelos de referencias OSI y TCP/IP<br />●	Protocolos de capa de enlace, red y transporte<br />●	Protocolos de encaminamiento en Internet<br />●	Servicios de aplicación en Internet</p>','Redes y Comunicaciones I')">Redes y Comunicaciones I</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Arquitectura de Computadoras</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>●	Introducción a los sistemas operativos.<br />●	Concepto de proceso. Administración de procesos. Planificación. Concurrencia. Procesos concurrentes. Mecanismos de intercomunicación y sincronización. Interbloqueo<br />●	Administración de memoria. Memoria virtual. <br />●	Administración de la información. Sistema de archivos<br />●	Administración de dispositivos de E/S.<br />●	Seguridad y protección en Sistemas Operativos<br />●	Conceptos de sistemas operativos para redes de computadoras, sistemas distribuidos, sistemas embebidos, sistemas de tiempo real.<br />●	Virtualización. Máquinas virtuales.</p>','Sistemas Operativos')">Sistemas Operativos</a></td>
+                <td>112</td>
+                <td><ul> 
+                        
+                            <li> Arquitectura de Computadoras</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+            
+ 
+ 
+ 
+  
+
+           
+        
+            <tr>
+                <th colspan="4" class="table-info">Segundo Cuatrimestre</th>  
+            </tr>
+
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>- Ingeniería de software.<br />- Procesos de desarrollo de software.<br />- Sistemas de información.- Modelos de requerimientos, análisis, diseño, implementación.<br />- Modelo y lenguaje UML.<br />- Arquitectura. Diseño. Patrones.<br />- Herramientas y técnicas de modelado.<br />- Especificación formal de software.</p>','Análisis y Diseño de Sistemas II')">Análisis y Diseño de Sistemas II</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Base de Datos I</li>
+            
+                    
+                         
+                        
+                            <li> Programación Orientada a Objetos</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>- Administración de servicios en Red<br />- Automatización de tareas bajo GNU/Linux<br />- Seguridad en servicios de aplicación de red (introducción)</p>','Laboratorio de Redes y Comunicaciones')">Laboratorio de Redes y Comunicaciones</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Redes y Comunicaciones I</li>
+            
+                    
+                         
+                        
+                            <li> Sistemas Operativos</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>- Paradigma de programación declarativo. Comparación con otros paradigmas de programación.<br />- Programación lógica.<br />- Programación funcional.</p>','Programación Lógica y Funcional')">Programación Lógica y Funcional</a></td>
+                <td>80</td>
+                <td><ul> 
+                        
+                            <li> Matemática Discreta</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>▪	Introducción a aplicaciones Web y sus generaciones.<br />▪	Introducción al modelo cliente-servidor<br />▪	Técnicas de programación del lado del cliente y del servidor.<br />▪	El lenguaje HTML y sucesores.<br />▪	Programación del servidor.<br />▪	Programación del cliente.<br />▪	Proyecto Integrador.</p>','Programación Orientada a la Web')">Programación Orientada a la Web</a></td>
+                <td>104</td>
+                <td><ul> 
+                        
+                            <li> Base de Datos I</li>
+            
+                    
+                         
+                        
+                            <li> Programación Orientada a Objetos</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+            
+ 
+ 
+ 
+ 
+            <tr>
+                <th  colspan="4" class="table-danger">Cuarto Año</th>  
+            </tr>
+
+ 
+ 
+
+            <tr>
+                <th colspan="4" class="table-info">Primer Cuatrimestre</th>  
+            </tr>
+
+
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>- Aspectos Introductorios de Economía (Enfoque gerencial)<br />- Microeconomía<br />- Macroeconomía<br />- Finanzas de la empresa<br />- Análisis de Costos para la toma de decisiones<br />- Estrategias de Gestión<br />- Planificación y Presupuestos<br />- Financiamiento de empresas.<br />- Indicadores Financieros.<br />- Análisis de inversiones.<br />- Formulación y evaluación de proyectos de inversión.<br />- Aspectos básicos de un Plan de Negocios.</p>','Economía y Gestión de Empresas')">Economía y Gestión de Empresas</a></td>
+                <td>120</td>
+                <td><ul> 
+                        
+                            <li> Sistemas y Organizaciones</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+ 
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>●	Desarrollo ágil.<br />●	Estimación y planificación de proyectos de software.<br />●	Métricas de proyecto.<br />●	Gestión de riesgos.<br />●	Gestión de la configuración de software.<br />●	Verificación y validación del software.<br />●	Evolución del software.<br />●	Reingeniería de software.</p>','Ingeniería de Software I')">Ingeniería de Software I</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Análisis y Diseño de Sistemas II</li>
+            
+                    
+                         
+                        
+                            <li> Programación Orientada a la Web</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+ 
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>●	Redes de transporte<br />●	Redes de acceso<br />●	Fibra óptica: tipos y aplicaciones<br />●	Protocolos para la administración de redes de transporte<br />●	Seguridad en protocolos de infraestructura de redes</p>','Redes y Comunicaciones II')">Redes y Comunicaciones II</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Laboratorio de Redes y Comunicaciones</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+ 
+            
+
+                <tr>
+
+                <td><a href="javascript:sendData('<p>- Salud ocupacional.<br />- Legislación laboral y ambiental.<br />- Prevención de accidentes de trabajo y enfermedades profesionales.<br />- Planes de prevención de riesgos físicos, químicos y ergonómicos.<br />- Contaminación ambiental y sonora. Carga térmica. Radiaciones.<br />- Riesgo mecánico, eléctrico y de incendio.<br />- Condiciones de interacción con el medio ambiente. Estudios de impacto ambiental.<br />- Análisis y control de efluentes sólidos, líquidos y gaseosos.<br />- Normas ISO.<br />- Proyecto y diseño de ingeniería (diseño de un sistema de prevención de riesgos en una planta industrial, comercial o de servicios en temáticas de la asignatura).</p>','Seguridad, Higiene y Gestión Ambiental')">Seguridad, Higiene y Gestión Ambiental</a></td>
+                <td>85</td>
+                <td><ul> 
+                        
+                            <li> Sistemas y Organizaciones</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+ 
+               
+            
+     
+ 
+ 
+  
+
+            
+        
+            <tr>
+                <th colspan="4" class="table-info">Segundo Cuatrimestre</th>  
+            </tr>
+
+            
+
+                <tr>
+                <td><a href="javascript:sendData('<p>●  	Conceptos de proceso y calidad en organizaciones de software.<br />●  	Modelos y estándares ISO relacionados a la calidad para organizaciones que producen bienes y servicios de software.  <br />●  	Modelo de madurez/calidad de la capacidad organizacional a partir de áreas de procesos software.<br />●  	Auditoría y peritaje informático.<br />●  	Metodología de control interno, seguridad y auditoría informática.</p>','Gestión de Calidad y Auditoría')">Gestión de Calidad y Auditoría</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Economía y Gestión de Empresas</li>
+            
+                    
+                         
+                        
+                            <li> Ingeniería de Software I</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+                <td><a href="javascript:sendData('<p>- Tópicos generales de ética. <br />- Conceptos generales de Legislación e Informática.<br />- Contratos informáticos. Comercio electrónico. Contratación electrónica. Propiedad intelectual.<br />- Protección de datos personales. Documento electrónico y firma electrónica. Introducción al Peritaje informático. Delitos informáticos. <br />- Gobierno de TI.<br />- Innovación y emprendedorismo.</p>','Legislación Informática')">Legislación Informática</a></td>
+                <td>64</td>
+                <td><ul> 
+                        
+                            <li> Economía y Gestión de Empresas</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+                <td><a href="javascript:sendData('<p>●	Teoría general de sistemas y modelos.<br />●	Introducción a la simulación de sistemas.<br />●	Repaso de conceptos de probabilidad y estadística.<br />●	Manejo de muestras probabilísticas.<br />●	Simulación de sistemas discretos.<br />●	Simulación de sistemas continuos.<br />●	Lenguajes de simulación.<br />●	Verificación y validación de modelos para simulación.<br />●	Análisis de los resultados de la simulación.</p>','Modelos y Simulación')">Modelos y Simulación</a></td>
+                <td>80</td>
+                <td><ul> 
+                        
+                            <li> Métodos Numéricos</li>
+            
+                    
+                         
+                        
+                            <li> Probabilidad y Estadística</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+                <td><a href="javascript:sendData('<p>●      Estilos arquitectónicos y arquitecturas en SD.<br />●      Comunicación en sistemas distribuidos.<br />●      Nombramiento en sistemas distribuidos.<br />●  	Coordinación en sistemas distribuidos.<br />●  	Consistencia, Replicación y Memoria Compartida Distribuida.<br />●  	Seguridad en sistemas distribuidos.<br />●  	Fallos y tolerancia a fallos.</p>','Sistemas Distribuidos I')">Sistemas Distribuidos I</a></td>
+                <td>88</td>
+                <td><ul> 
+                        
+                            <li> Programación Orientada a la Web</li>
+            
+                    
+                         
+                        
+                            <li> Redes y Comunicaciones I</li>
+            
+                    
+                         
+                        
+                            <li> Sistemas Operativos</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+            
+    
+ 
+ 
+
+ 
+            <tr>
+                <th  colspan="4" class="table-danger">Quinto Año</th>  
+            </tr>
+
+ 
+
+         
+        
+            <tr>
+                <th colspan="4" class="table-info">Primer Cuatrimestre</th>  
+            </tr>
+
+
+            
+
+                <tr>
+                <td><a href="javascript:sendData('<p>▪	Entes y Categorías de Entes de interés en proyectos de Ingeniería de Software.<br />▪	Requisitos de Calidad. Modelos de Calidad estructurados en Características y Atributos. Estándares.<br />▪	Métricas e Indicadores.<br />▪	Procesos y Métodos de Medición y Evaluación.Estándares.<br />▪	Estrategias para distintos propósitos de Medición y Evaluación considerando Vistas de Calidad.</p>','Ingeniería de Software II')">Ingeniería de Software II</a></td>
+                <td>64</td>
+                <td><ul> 
+                        
+                            <li> Gestión de Calidad y Auditoría</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+                <td><a href="javascript:sendData('<p>- Fundamentos de Seguridad Informática. <br />- Aspectos de Confidencialidad, Integridad, Disponibilidad. <br />- Autenticación y control de acceso.<br />- Amenazas. Políticas y mecanismos.<br />- Seguridad en sistemas de computación y software de base.<br />- Seguridad en aplicaciones en red e Internet. Distintos recursos y servicios a proteger.<br />- Fundamentos de Criptografía y sus aplicaciones.<br />- Técnicas y herramientas de análisis de vulnerabilidades.<br />- Herramientas y técnicas de defensa.<br />- Estándares sobre Seguridad Informática.<br />- Desarrollo de aplicaciones seguras.<br />- Seguridad en el proceso de desarrollo de software.<br />- Aspectos Legales en Seguridad y auditorías.</p>','Seguridad informática')">Seguridad informática</a></td>
+                <td>80</td>
+                <td><ul> 
+                        
+                            <li> Gestión de Calidad y Auditoría</li>
+            
+                    
+                         
+                        
+                            <li> Redes y Comunicaciones II</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+
+                <tr>
+                <td><a href="javascript:sendData('<p>●	Fundamentos de sistemas distribuidos.<br />●	Sistemas distribuidos con objetos y orientado a servicios.<br />●	Arquitectura de sistemas distribuidos.<br />●	Nuevas tendencias en tecnologías de sistemas distribuidos.<br />●	Seguridad en sistemas distribuidos.</p>','Sistemas Distribuidos II')">Sistemas Distribuidos II</a></td>
+                <td>96</td>
+                <td><ul> 
+                        
+                            <li> Ingeniería de Software I</li>
+            
+                    
+                         
+                        
+                            <li> Sistemas Distribuidos I</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+            
+        
+ 
+ 
+  
+
+        
+            <tr>
+                <th colspan="4" class="table-info">Segundo Cuatrimestre</th>  
+            </tr>
+
+            
+               
+                <tr>
+                <td><a href="javascript:sendData('<p>- Conceptos de Bases de Datos Distribuidas.<br />- Conceptos de Data Warehousing.<br />- Conceptos de Data Minning.<br />- Conceptos de Big Data.<br />- Nuevas tendencias en el uso y manejo de los datos.</p>','Base de Datos II')">Base de Datos II</a></td>
+                <td>80</td>
+                <td><ul> 
+                        
+                            <li> Base de Datos I</li>
+            
+                    
+                         
+                        
+                            <li> Sistemas Distribuidos I</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+            
+               
+                <tr>
+                <td><a href="javascript:sendData('<p>●      Introducción a la IA. Agentes inteligentes.<br />●      Resolución de problemas mediante búsqueda.<br />●      Razonamiento.<br />●      Aprendizaje Automático (Machine Learning).</p>','Sistemas Inteligentes')">Sistemas Inteligentes</a></td>
+                <td>80</td>
+                <td><ul> 
+                        
+                            <li> Autómatas y Lenguajes</li>
+            
+                    
+                         
+                        
+                            <li> Ingeniería de Software I</li>
+            
+                    
+                         
+                        
+                            <li> Modelos y Simulación</li>
+            
+                    
+                         
+                        
+                            <li> Programación Lógica y Funcional</li>
+            
+                    
+                        
+                        </ul>
+                </td>
+                </tr>
+
+               
+            
+       
+ 
+    
+            
+ 
+ 
+ </tbody>
+ </table>
+
+ 
+    
+    <br>
+    <div id="estructuraOrganizacionPlanDeEstudio">Otros requisitos:</div>
+    <br><br>
+    <table class="table-striped"  width="100%" border="1">
+        <thead>
+            <tr class="table-info">    
+                    <th scope="col" >Actividades</th>
+                    <th scope="col">Carga Horaria</th>
+                    <th scope="col">Condiciones a tener en cuenta</th>
+            </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td>Inglés I</td>
+                    <td>72</td>
+                    <td>Para poder cursar las asignaturas del 1º cuatrimestre de 3º año se deberá haber acreditado Inglés Nivel I. </td>
+                </tr>
+                <tr>
+                    <td>Inglés II</td>
+                    <td>72</td>
+                    <td>Para poder cursar las asignaturas del 2º cuatrimestre de 4º año se deberá haber acreditado Inglés Nivel II. </td>
+                </tr>
+                <tr>
+                    <td>Inglés III</td>
+                    <td>72</td>
+                    <td>Para poder cursar las asignaturas del 2º semestre de 5º año se deberá haber acreditado Inglés Nivel III </td>
+                </tr>
+                <tr>
+                    <td>Prácticas Comunitarias (PC)</td>
+                    <td>40</td>
+                    <td>Para poder realizar las PC se necesita tener el 40% de la carrera aprobada</td>
+                </tr>
+                <tr>
+                    <td>Práctica Profesional Supervisada (PPS)</td>
+                    <td>200</td>
+                    <td>Para poder realizar las PPS se necesita tener el 70% de la carrera aprobada</td>
+                </tr>
+                <tr>
+                    <td>Proyecto Final (PF)</td>
+                    <td>200</td>
+                    <td>	Para presentar el anteproyecto el/la estudiante puede tener un máximo de 3 (tres) actividades curriculares pendientes de aprobación/ acreditación, sin contar el Proyecto Final. Es necesario aclarar que el concepto actividad curricular contiene tanto a las asignaturas del Plan de Estudios, como a aquellas actividades dentro del punto “Otros Requisitos” del Anexo de la Resolución 032/23 del Consejo Superior (Práctica Comunitaria, Práctica Profesional Supervisada, Inglés I, Inglés II e Inglés III). </td>
+                </tr>
+        </tbody>
+    </table>  
+    
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+  
+ </div>
+
+ <!--<a href="#" onclick="sendData('')">click</a> -->
+
+<div id="myModal" class="modal">
+
+  <div id="contentModal" class="modal-content">
+   <h2 id="titulo"></h2>
+    <p id="contenido"></p>
+   <span class="close">&times;</span>
+  </div>
+  
+</div>
+ 
+ 
+
+        <!-- Servicios -->
+        
+
+        <!-- Pie de página -->
+        <footer>
+            <div class="container">
+                <div id="logosFooter1" class="row align-items-center justify-content-center">
+                    <div class="col contenedorImgFooter">
+                        <a href="https://www.ib.edu.ar/" target="_blank"><img class="imgFooter" id="balseiroFooter" src="/static/img/logo-instituto-balseiro_blanco.png" /></a>
+                    </div>
+                    <div class="col contenedorImgFooter">
+                        <a target="_blank" href="http://www.invap.com.ar/"><img class="imgFooter" id="invapFooter" src="/static/img/invap%20footer.png" /></a>
+                    </div>
+                    <div class="col contenedorImgFooter">
+                        <a href="http://www.lapampa.gob.ar/" target="_blank"><img class="imgFooter" id="gobiernoPampaFooter" src="/static/img/gobierno%20pampa%20footer.png" /></a>
+                    </div>
+                    <div class="col hideOnMobile contenedorImgFooter">
+                        <a target="_blank" href="http://www.ceretlapampa.org.ar/"><img class="imgFooter" id="ceretFooter" src="/static/img/ceret%20footer.png" /></a>
+                    </div>
+                    <div class="col hideOnMobile contenedorImgFooter">
+                        <a target="_blank" href="http://www.generalpico.gob.ar/"><img class="imgFooter" id="picoFooter" src="/static/img/pico%20footer.png" /></a>
+                    </div>
+                    <div class="col hideOnMobile contenedorImgFooter">
+                        <a target="_blank" href="https://www.instagram.com/fundacion_regional/?hl=es/"><img class="imgFooter" id="fdrFooter"  src="/static/img/FDR%20footer.png" /></a>
+                    </div>
+                    <div class="col hideOnMobile contenedorImgFooter">
+                        <a target="_blank" href="http://www.confedi.org.ar/"><img class="imgFooter" id="confediFooter" src="/static/img/confedi%20footer.png" /></a>
+                    </div>
+                    <div class="col  contenedorImgFooter">
+                        <a target="_blank" href="https://sites.google.com/view/riisic/"><img class="imgFooter" id="confediFooter" src="/static/img/riisic-scclaro.png" /></a>
+                    </div>
+                    <div class="col hideOnMobile contenedorImgFooter">
+                        <a target="_blank" href="http://www.unlpam.edu.ar/"><img class="imgFooter" id="unlpamFooter" src="/static/img/unlpam%20footer.png" /></a>
+                    </div>
+                </div>
+                <div id="logosFooter2" class="row align-items-center justify-content-center">
+                    <div class="col  contenedorImgFooter">
+                        <a target="_blank" href="http://www.ceretlapampa.org.ar/"><img class="imgFooter" id="ceretFooter" src="/static/img/ceret%20footer.png" /></a>
+                    </div>
+                    <div class="col  contenedorImgFooter">
+                        <a target="_blank" href="http://www.generalpico.gob.ar/"><img class="imgFooter" id="picoFooter" src="/static/img/pico%20footer.png" /></a>
+                    </div>
+                    <div class="col  contenedorImgFooter">
+                        <a target="_blank" href="https://www.instagram.com/fundacion_regional/?hl=es/"><img class="imgFooter" id="fdrFooter"  src="/static/img/FDR%20footer.png" /></a>
+                    </div>
+                    <div class="col  contenedorImgFooter">
+                        <a target="_blank" href="http://www.confedi.org.ar/"><img class="imgFooter" id="confediFooter" src="/static/img/confedi%20footer.png" /></a>
+                    </div>
+                    <div class="col  contenedorImgFooter">
+                        <a target="_blank" href="http://www.unlpam.edu.ar/"><img class="imgFooter" id="unlpamFooter" src="/static/img/unlpam%20footer.png" /></a>
+                    </div>
+                </div>
+                <!-- Redes sociales de abajo -->
+                <div id="redesSocialesFooter">
+                    <div id="iconosRedesSociales">
+                        
+                            <div class="contenedorIconoRedSocialFooter">
+                                <img
+                                    class="iconoRedSocialFooter"
+                                    src="/media/uploads/web/img/facebook_2025-10-14_071430.702315logo_facebook_inf.png"
+                                    data-color="/media/uploads/web/img/facebook_2018-03-06_105438.927822dsadas_2018-02-23_143730.076066facebook.png"
+                                    data-gray="/media/uploads/web/img/facebook_2025-10-14_071430.702315logo_facebook_inf.png"
+                                    alt="facebook"
+                                    title="facebook"
+                                />
+                            </div>
+                        
+                            <div class="contenedorIconoRedSocialFooter">
+                                <img
+                                    class="iconoRedSocialFooter"
+                                    src="/media/uploads/web/img/x_2025-10-14_071419.897777logo_x_inf.png"
+                                    data-color="/media/uploads/web/img/x_2024-05-30_112722.977286logo_x_sup.png"
+                                    data-gray="/media/uploads/web/img/x_2025-10-14_071419.897777logo_x_inf.png"
+                                    alt="x"
+                                    title="x"
+                                />
+                            </div>
+                        
+                            <div class="contenedorIconoRedSocialFooter">
+                                <img
+                                    class="iconoRedSocialFooter"
+                                    src="/media/uploads/web/img/instagram_2025-10-14_071406.789051logo_instagram_inf.png"
+                                    data-color="/media/uploads/web/img/https:/www.instagram.com/facultaddeingenieria.unlpam/2018-03-06_105655.6_hXCuGoi.png"
+                                    data-gray="/media/uploads/web/img/instagram_2025-10-14_071406.789051logo_instagram_inf.png"
+                                    alt="instagram"
+                                    title="instagram"
+                                />
+                            </div>
+                        
+                            <div class="contenedorIconoRedSocialFooter">
+                                <img
+                                    class="iconoRedSocialFooter"
+                                    src="/media/uploads/web/img/linkedin_2025-10-14_071314.963451logo_linkedin_inf.png"
+                                    data-color="/media/uploads/web/img/linkedin_2018-03-06_110019.712404a_2018-02-22_085756.174993linkedin.png"
+                                    data-gray="/media/uploads/web/img/linkedin_2025-10-14_071314.963451logo_linkedin_inf.png"
+                                    alt="linkedin"
+                                    title="linkedin"
+                                />
+                            </div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div id="textoInformativoFooter">
+                
+            </div>
+        </footer>
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="/static/js/jquery.min.js"></script>
+        <script src="/static/js/popper.min.js"></script>
+        <script src="/static/js/bootstrap.min.js"></script>
+        <script src="/static/js/jquery.smooth-scroll.js"></script>
+        <script src="/static/OwlCarousel2-2.3.4/js/owl.carousel.min.js"></script>
+
+        
+
+        <script src="/static/js/script.js"></script>
+        <script>
+            $(function() {
+                $('#id_query').attr('minlength','3');
+            });
+        </script>
+        <!-- Bootstrap JS + Popper (necesario para collapse, tooltips, etc.) -->
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+
+        <script>
+            document.getElementById('menu-toggle')
+                .addEventListener('click', function() {
+                    document.getElementById('menu-comunidad')
+                        .classList.toggle('responsive');
+                });
+        </script>
+        <script>
+          document.querySelectorAll('.iconoRedSocialFooter').forEach(img => {
+              const gray = img.dataset.gray;
+              const color = img.dataset.color;
+              img.addEventListener('mouseenter', () => {
+                  img.src = color;
+              });
+              img.addEventListener('mouseleave', () => {
+                  img.src = gray;
+              });
+          });
+        </script>
+    </body>
+</html>
+
+
+        <script type="text/javascript" src="/static/js/modal.js?v=104"></script>
+
+

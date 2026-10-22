@@ -1,0 +1,3728 @@
+{
+  "D031": [
+    {
+      "Asignatura": "Química",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Fundamentos de Programación",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Álgebra",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Cálculo y Geometría Analítica",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Fundamentos de Física",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Mecánica",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Cálculo Integral",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Redacción y Exposición de Temas de Ingeniería",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Estructura de Datos y Algoritmos I",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Probabilidad",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Cálculo Vectorial",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Estructura de Datos y Algoritmos II",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Cultura y Comunicación",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Electricidad y Magnetismo",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Matemáticas Avanzadas",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Análisis Numérico",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Estructuras Discretas",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Circuitos Eléctricos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Dispositivos Electrónicos",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Lenguajes Formales y Autómatas",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Redes y Conectividad",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 14.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Diseño Digital Moderno",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Microcomputadoras",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Computación Gráfica e Interacción Humano-Computadora",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Introducción a la Economía",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Diseño Digital VLSI",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Compiladores",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Finanzas en la Ingeniería en Computación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Sistemas de Comunicaciones",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Redes de Datos Seguras",
+      "Peso": 14.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Ética Profesional",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Optativa de Ciencias Sociales y Humanidades",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Recursos y Necesidades de México",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Organización y Arquitectura de Computadoras",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Optativa del Campo de Profundización 1",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    },
+    {
+      "Asignatura": "Asignaturas del Campo de Profundización",
+      "Peso": 40.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Tomo I, pp. 48-51; créditos oficiales UNAM"
+    }
+  ],
+  "D032": [
+    {
+      "Asignatura": "Taller de Habilidades Interpersonales",
+      "Peso": 1.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Empresa y su Entorno",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Programación 2",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Algoritmia y Estructura de Datos",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Fundamentos de Sistemas de Información",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Base de Datos",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Ingeniería de Requisitos",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Contabilidad y Finanzas",
+      "Peso": 2.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 2.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Programación 3",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Arquitectura de Software",
+      "Peso": 2.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Algoritmos Avanzados",
+      "Peso": 2.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Experimentación Numérica",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Modelado y Automatización de Procesos Empresariales",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Administración de Sistemas Operativos",
+      "Peso": 2.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Diseño de Software",
+      "Peso": 2.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Ingeniería Económica",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Formulación de Proyecto de Fin de Carrera",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Ética y RSU en Ingeniería Informática",
+      "Peso": 2.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Innovación y Emprendimiento con Tecnologías de Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Gobierno y Gestión de Tecnologías de Información",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Seguridad de Información",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Sistemas de Información para los Negocios",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Proyecto de Fin de Carrera 1",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Arquitectura Empresarial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Implantación de Sistemas de Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Proyecto de Diseño y Desarrollo de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Práctica Supervisada Preprofesional",
+      "Peso": 0.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Cursos electivos ciclo 9",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Proyecto de Fin de Carrera 2",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Proyecto de Implementación de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Estrategia y Gestión de Sistemas de Información",
+      "Peso": 3.5,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    },
+    {
+      "Asignatura": "Cursos electivos ciclo 10",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "PDF Oficial FCI-2026-2; créditos PUCP"
+    }
+  ],
+  "D033": [
+    {
+      "Asignatura": "Introducción al Cálculo",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Introducción al Álgebra",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Introducción a la Física Clásica",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Herramientas Computacionales para Ingeniería y Ciencias",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Desafíos de Innovación en Ingeniería y Ciencias",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Aplicaciones de la Biología a la Ingeniería y Ciencias",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial e Integral",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Introducción a la Física Moderna",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Introducción a la Programación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Proyecto de Innovación en Ingeniería y Ciencias",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Formación General, Humanistas, Idiomas y Deportes I",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Cálculo en Varias Variables",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales Ordinarias",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Métodos Experimentales",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Mecánica",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Química",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Economía",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Cálculo Avanzado y Aplicaciones",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Electromagnetismo",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Termodinámica",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Módulo Interdisciplinario",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Formación General, Humanistas, Idiomas y Deportes II",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Algoritmos y Estructuras de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas para la Computación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Modelación y Computación Gráfica para Ingenieros",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Probabilidades y Estadística",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Metodologías de Diseño y Programación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Teoría de la Computación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Programación de Software de Sistemas",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Electivo de Licenciatura 1",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Diseño y Análisis de Algoritmos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Minería de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Electivo de Licenciatura 2",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Práctica Profesional I",
+      "Peso": 7.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Lenguajes de Programación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Redes",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Formulación, Evaluación y Gestión de Proyectos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Electivo de Licenciatura 3",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Electivo de Licenciatura 4",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Núcleo Gestión para Ingenieros",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Proyecto de Software",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    },
+    {
+      "Asignatura": "Trabajo de Título",
+      "Peso": 24.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular 2019, DU N°0046362; créditos FCFM"
+    }
+  ],
+  "D034": [
+    {
+      "Asignatura": "Cálculo Diferencial",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Desarrollo Sustentable",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Fundamentos de Investigación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Fundamentos de Programación",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Taller de Ética",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Cálculo Integral",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Química",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Taller de Administración",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Cálculo Vectorial",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Contabilidad Financiera",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Estructura de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Física General",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Investigación de Operaciones",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Fundamentos de Bases de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Métodos Numéricos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Principios Eléctricos y Aplicaciones Digitales",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Taller de Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Tópicos Avanzados de Programación",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Fundamentos de Ingeniería de Software",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Fundamentos de Telecomunicaciones",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Graficación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Simulación",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Taller de Bases de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Administración de Bases de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Cultura Empresarial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Lenguajes de Interfaz",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Lenguajes y Autómatas I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Conmutación y Enrutamiento de Redes de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Lenguajes y Autómatas II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Programación Lógica y Funcional",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Programación Web",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Taller de Investigación I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Taller de Investigación II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Asignaturas de Especialidad",
+      "Peso": 25.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    },
+    {
+      "Asignatura": "Residencia Profesional",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Retícula Nacional TecNM ISIC-2010-224; créditos SATCA"
+    }
+  ],
+  "D035": [
+    {
+      "Asignatura": "Matemática A",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Programación I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Química",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Matemática B",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Programación II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Sistemas de Representación C",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Física I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Programación III",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Taller de Lenguaje I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Conceptos de Arquitectura de Computadoras",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Matemática C",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Física II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Conceptos de Sistemas Operativos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Taller de Lenguajes II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Probabilidades",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Matemática D1",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Electrotecnia y Electrónica",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Conceptos de Bases de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Introducción al Diseño Lógico",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Estadística",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Introducción al Procesamiento de Señales",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Taller de Arquitectura",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Redes de Datos 1",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Concurrencia y Paralelismo",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Instrumentación y Control",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Circuitos Digitales y Microcontroladores",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Economía y Emprendedorismo",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Redes de Datos II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Sistemas de Tiempo Real",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Taller de Proyecto I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos y Paralelos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Aspectos Legales de Ingeniería Informática",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Taller de Proyecto II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    },
+    {
+      "Asignatura": "Práctica Profesional Supervisada",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2024 UNLP; horas semanales / créditos equivalentes"
+    }
+  ],
+  "D036": [
+    {
+      "Asignatura": "Introducción a la Computación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Introducción a la Matemática para Computación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Estrategias de Lectura en Inglés I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Curso Integrado de Humanidades I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Estructuras Discretas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Programación I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Cálculo para Computación I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Curso Integrado de Humanidades II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Programación II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Fundamentos de Arquitectura",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Álgebra Lineal para Computación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Cálculo para Computación II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Seminario de Realidad Nacional I",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Análisis de Algoritmos y Estructuras de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística para Computación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Programación Paralela y Concurrente",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Lenguajes Ensambladores y Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Seminario de Realidad Nacional II",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Redes y Comunicaciones de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Ingeniería del Software I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Autómatas y Compiladores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Ingeniería del Software II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de Tecnologías de Información",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Ciberseguridad",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Ética y Ejercicio Profesional",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    },
+    {
+      "Asignatura": "Proyecto de Graduación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Resolución VD-R-9492-2016; créditos UCR"
+    }
+  ],
+  "D037": [
+    {
+      "Asignatura": "Algoritmos y Resolución de Problemas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos Matemáticos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Tecnologías de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Metodología de la Investigación y Técnicas de Estudio",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Computación y Sociedad",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Humanismo, Universidad y Cultura",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Hardware",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Computación Ubicua",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Antropología Básica",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Programación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Cálculo Integral",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Estructuras Discretas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadores y Sistemas Operativos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Ética y Moral",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Tecnologías Web",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Base de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Modelado de Sistemas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Estadística para las Ingenierías y la Arquitectura",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Comunicación de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Interacción Humano-Computador",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Desarrollo Web",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Administración de Bases de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Ingeniería de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Redes de Dispositivos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Planificación Estratégica y Sistemas de Calidad Empresarial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Metodologías de Desarrollo",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Gestión de la Calidad de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Ingeniería de Requisitos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Arquitectura de Redes",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Arquitectura de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Arquitectura Empresarial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos y Aplicación de Seguridad de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Aplicación de Matemáticas y Estadística en Tecnologías de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Organización y Administración de Infraestructura de Tecnologías de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Gobernanza de Tecnologías de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Evaluación de la Seguridad en Sistemas de Tecnologías de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Proyectos de Tecnologías de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Emprendimiento",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    },
+    {
+      "Asignatura": "Prácticum",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Oficial UTPL Modalidad a Distancia; créditos académicos"
+    }
+  ],
+  "D038": [
+    {
+      "Asignatura": "Intro. a la Ing. en Sistemas Comp.",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Español General",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Matemática I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Sociología",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Inglés I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Programación Estructurada",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Filosofía",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Geometría y Trigonometría",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Inglés II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Vectores y Matrices",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Inglés III",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Matemática Discreta",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Física I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Historia de Honduras",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Paradigmas de Programación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Estadística",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Física II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Administración",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Instalaciones Eléctricas para Centros de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Fundamentos de Base de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Contabilidad Financiera",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Redes de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Sistemas Operativos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Teoría de la Computación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Sistemas de Información",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Redes de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Sistemas Operativos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Programación Web",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Compiladores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Análisis de Requerimientos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Diseño Digital",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Programación Móvil",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Administración de Servidores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Administración de Bases de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Seguridad Informática",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Industria de TI",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Calidad de Software",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Ciencia de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Tecnologías Emergentes",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Proyectos de TI",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Auditoría Informática",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Ejecución de Proyectos de TI",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    },
+    {
+      "Asignatura": "Práctica Profesional Supervisada",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Flujograma Oficial UNAH; Unidades Valorativas (CA)"
+    }
+  ],
+  "D039": [
+    {
+      "Asignatura": "Introducción a la Ingeniería de Sistemas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Introducción a la Programación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos Matemáticos para Computación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Precálculo y Cálculo Diferencial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Física I",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Cálculo Integral y Ecuaciones Diferenciales",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Estructuras de Datos y Algoritmos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Diseño y Programación Orientada a Objetos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Lenguajes y Máquinas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Infraestructura Tecnológica",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Desarrollo de Software en Equipo",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Redes de Computadores",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Arquitectura y Diseño de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Modelado, Simulación y Optimización",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Sistemas Empresariales",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Ciberseguridad",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Computación Visual",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Gerencia y Gestión de Proyectos de TI",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Electivas de profundización",
+      "Peso": 18.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    },
+    {
+      "Asignatura": "Proyecto de Grado",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan Curricular ISIS UniAndes; créditos académicos"
+    }
+  ],
+  "D040": [
+    {
+      "Asignatura": "Fundamentos de Programación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Habilidades de Comunicación",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Estructuras de Datos y Algoritmos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Cálculo Integral",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Física Mecánica",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadores",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Cálculo en Varias Variables",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Redes y Comunicaciones",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Diseño de Experiencia de Usuario",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Análisis y Diseño de Algoritmos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Física de Electricidad y Magnetismo",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Modelación y Simulación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Arquitectura de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Ciberseguridad",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de TI",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Gestión Estratégica de TI",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Proyecto Integrador 1",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Calidad y Pruebas de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Proyecto Integrador 2",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    },
+    {
+      "Asignatura": "Práctica Profesional",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios Pregrado EAFIT; créditos académicos"
+    }
+  ],
+  "D041": [
+    {
+      "Asignatura": "Pensamiento Computacional",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Análisis Matemático A",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Álgebra A",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Física A",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Introducción al Conocimiento de la Sociedad y el Estado",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Introducción al Pensamiento Científico",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Algoritmos y Estructuras de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Introducción al Desarrollo de Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Álgebra Lineal Computacional",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Análisis Matemático II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Organización del Computador",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Física de los Sistemas de Información",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Paradigmas de Programación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Teoría de Algoritmos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Matemática Discreta",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Taller de Programación",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Arquitectura del Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Legislación y Ejercicio Profesional",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Base de Datos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Ciencia de Datos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Modelación y Optimización",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Seguridad en Sistemas y Redes",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    },
+    {
+      "Asignatura": "Trabajo Profesional de Grado",
+      "Peso": 14.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan 2020 FIUBA; créditos universitarios"
+    }
+  ],
+  "D042": [
+    {
+      "Asignatura": "Introducción a la Programación",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Mecánica y Termodinámica",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Desafíos de la Ingeniería",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Programación Avanzada",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Electricidad y Magnetismo",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Química para Ingeniería",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Estructuras de Datos y Algoritmos",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Arquitectura de Sistemas y Computadores",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Sistemas Operativos y Redes",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Optimización y Modelación",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Teoría de Autómatas y Lenguajes Formales",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Ciberseguridad",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de TI",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Ética para Ingeniería",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    },
+    {
+      "Asignatura": "Proyecto de Software Capstone",
+      "Peso": 20.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Malla Curricular Escuela de Ingeniería UC; créditos UC"
+    }
+  ],
+  "D043": [
+    {
+      "Asignatura": "Introducción al Cálculo",
+      "Peso": 11.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Introducción a la Física",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Programación Estructurada",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Mecánica y Dinámica de Partículas",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Introducción al Álgebra Lineal",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Cálculo Integral",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Dinámica del Cuerpo Rígido",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales Ordinarias",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Introducción a la Electrostática y Magnetostática",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Métodos Numéricos en Ingeniería",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Lógica",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Lenguajes y Autómatas",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Diseño Lógico",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Laboratorio de Diseño Lógico",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Fundamentos de Redes de Computadoras",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Microprocesadores",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Laboratorio de Sistemas Digitales con Microprocesadores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Diseño y Administración de Redes de Computadoras",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Microelectrónica",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Seguridad en Redes de Computadoras",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Proyecto Terminal I",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    },
+    {
+      "Asignatura": "Proyecto Terminal II",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Catálogo de UEA DCBI UAM Azcapotzalco; créditos UEA"
+    }
+  ],
+  "D044": [
+    {
+      "Asignatura": "Fundamentos de Programación",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Programación Estructurada",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Lógica Matemática",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Precálculo",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial e Integral",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Fundamentos de Física",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Mecánica de la Partícula",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Introducción a la Ingeniería",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Ética y Legislación",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Electricidad y Magnetismo",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Métodos Numéricos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Circuitos Lógicos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Taller de Sistemas Operativos",
+      "Peso": 7.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Lenguajes de Interfaz y Ensamblador",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Compiladores",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Administración de Redes",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Seguridad en Cómputo",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Administración de Proyectos Tecnológicos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    },
+    {
+      "Asignatura": "Proyecto Modular",
+      "Peso": 14.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Plan de Estudios ICOM CUCEI UdeG; créditos universitarios"
+    }
+  ],
+  "D045": [
+    {
+      "Asignatura": "Fundamentos de Programación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Modelación Matemática Fundamental",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Análisis de la Biología Computacional",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de la Estructura de la Materia",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Pensamiento Computacional para Ingeniería",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Modelación Computacional del Movimiento",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Análisis de Sistemas Eléctricos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Estructuras de Datos y Algoritmos Fundamentales",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Análisis y Diseño de Algoritmos Avanzados",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Matemáticas Computacionales y Discretas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Organización y Arquitectura de Computadoras",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Fundamentos de Redes y Telecomunicaciones",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Implementación de Métodos Computacionales",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Calidad y Pruebas de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Desarrollo de Aplicaciones Web y Móviles",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Seguridad de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Computación en la Nube y Sistemas Distribuidos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial y Aprendizaje Automático",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Ingeniería de Software Concurrente",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Formulación y Gestión de Proyectos de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Ética, Liderazgo y Sostenibilidad",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    },
+    {
+      "Asignatura": "Proyecto Integrador de Tecnologías Computacionales",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Modelo Tec21 ITESM ITC; créditos académicos"
+    }
+  ]
+}

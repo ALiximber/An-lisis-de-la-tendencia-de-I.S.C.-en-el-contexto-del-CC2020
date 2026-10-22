@@ -1,0 +1,89 @@
+
+--- PAGINA 1 ---
+                                                                                                       FACULTAD DE  INGENIERÍA
+                                                                           CARRERA PROFESIONAL DE INGENIERÍA DE SISTEMAS COMPUTACIONALES
+                                                                                                                                                               MODALIDAD: PRESENCIAL
+                                                                                                        PLAN DE ESTUDIOS 2020
+
+      CICLO       CÓDIGO                                        CURSO                                      CR     HT     HP    HL     PC                                           REQUISITOS
+                  BANNER
+                 RRHH1101      DESARROLLO DEL TALENTO (*)                                                   2      2      0     0      0
+                 MATH1002      COMPLEMENTO MATEMÁTICO PARA INGENIEROS                                       5      4      2     0      0
+        1        SIST1101A     INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS COMPUTACIONALES                     4      4      0     0      0
+                 HUMA1111      RESPONSABILIDAD SOCIAL (*)                                                   2      2      0     0      0
+                 LENG1001      COMUNICACIÓN 1 (*)                                                           5      4      2     0      0
+                                                                                       TOTAL CICLO          18    16      4     0      0
+                 MATH1003      MATEMÁTICA BÁSICA PARA INGENIERÍA                                            5      4      2     0      0   COMPLEMENTO MATEMÁTICO PARA INGENIEROS
+                COMP1201A      FUNDAMENTOS DE ALGORITMOS                                                    4      2      2     2      0   INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS COMPUTACIONALES
+        2         INVE1101     METODOLOGÍA UNIVERSITARIA (*)                                                3      2      2     0      0
+                  IDIO1401     PRE BEGINNER 1 (*)                                                           1      1      0     0      0
+                 LENG1002      COMUNICACIÓN 2 (*)                                                           5      4      2     0      0   COMUNICACIÓN 1 (*)
+                                                                                       TOTAL CICLO          18    13      8     2      0
+                MATH1101A      CÁLCULO 1(*)                                                                 5      4      2     0      0   MATEMÁTICA BÁSICA PARA INGENIERÍA
+                 SIST1102A     FUNDAMENTOS DE PROGRAMACIÓN                                                  4      2      2     2      0   FUNDAMENTOS DE ALGORITMOS
+                 MATH1103      MATEMÁTICA DISCRETA                                                          4      4      0     0      0   MATEMÁTICA BÁSICA PARA INGENIERÍA
+        3        FISI1204A     MECÁNICA, OSCILACIÓN Y ONDAS(*)                                              3      2      0     2      0   COMPLEMENTO MATEMÁTICO PARA INGENIEROS
+                  IDIO1402     PRE BEGINNER 2 (*)                                                           1      1      0     0      0   PRE BEGINNER 1 (*)
+                 LENG1003      COMUNICACIÓN 3                                                               5      4      2     0      0   COMUNICACIÓN 2 (*)
+                                                                                       TOTAL CICLO          22    17      6     4      0
+                 SIST1201A     ESTRUCTURA DE DATOS                                                          4      2      2     2      0   FUNDAMENTOS DE PROGRAMACIÓN
+                MATH1202A      CÁLCULO 2(*)                                                                 5      4      2     0      0   CÁLCULO 1(*)
+        4        STAT1203A     PROBABILIDAD Y ESTADÍSTICA (*)                                               5      4      2     0      0   MATEMÁTICA BÁSICA PARA INGENIERÍA
+                 INFO1120A     HERRAMIENTAS INFORMÁTICAS (*)                                                2      2      0     0      0
+                 FISI1206A     ELECTRICIDAD, MAGNETISMO Y ÓPTICA(*)                                         4      2      2     2      0   MECÁNICA, OSCILACIÓN Y ONDAS(*)
+                                                                                       TOTAL CICLO          20    14      8     4      0
+                 SIST1202A     TÉCNICAS DE PROGRAMACIÓN ORIENTADA A OBJETOS                                 5      2      0     4      2   FUNDAMENTOS DE PROGRAMACIÓN
+                 ISOF1201      BASE DE DATOS                                                                4      2      0     4      0   ESTRUCTURA DE DATOS
+                  FISI1205     ELECTRÓNICA DIGITAL                                                          4      2      0     2      2   MATEMÁTICA DISCRETA
+        5        COMP1303      ANÁLISIS DE ALGORITMOS Y ESTRATEGIAS DE PROGRAMACIÓN                         3      2      0     2      0   ESTRUCTURA DE DATOS
+                 OPER1305      OPTIMIZACIÓN Y SIMULACIÓN                                                    4      2      0     4      0   CÁLCULO 1(*)
+                 PSGE1106      PSICOLOGÍA DE LA FELICIDAD (*)                                               2      2      0     0      0
+                                                                                       TOTAL CICLO          22    12      0    16      4
+                 ISOF1302A     TALLER DE BASE DE DATOS                                                      4      2      0     4      0   BASE DE DATOS
+                 RRHH1303      EMPLEABILIDAD (*)                                                            4      2      0     0      4
+        6        ISOF1301      MODELAMIENTO Y ANÁLISIS DE SOFTWARE                                          5      4      0     2      0   TÉCNICAS DE PROGRAMACIÓN ORIENTADA A OBJETOS
+                COMP1401A      COMPUTACIÓN GRÁFICA Y VISUAL                                                 3      2      0     2      0   ANÁLISIS DE ALGORITMOS Y ESTRATEGIAS DE PROGRAMACIÓN
+                 ITEC1302A     ARQUITECTURA DEL COMPUTADOR                                                  3      2      0     2      0   ELECTRÓNICA DIGITAL
+                                                                                       TOTAL CICLO          19    12      0    10      4
+                  ITEC1303     SISTEMAS OPERATIVOS                                                          4      2      0     4      0   ARQUITECTURA DEL COMPUTADOR
+                 COMP1302      INTERACCION HUMANO COMPUTADOR                                                4      2      0     2      2   COMPUTACIÓN GRÁFICA Y VISUAL
+                 ITEC1301A     REDES 1                                                                      3      0      2     4      0   ARQUITECTURA DEL COMPUTADOR
+        7        ISOF1303A     DISEÑO Y ARQUITECTURA DE SOFTWARE                                            4      2      0     4      0   MODELAMIENTO Y ANÁLISIS DE SOFTWARE
+                  INVE1301     METODOLOGÍA DE LA INVESTIGACIÓN(*)                                           3      2      2     0      0   METODOLOGÍA UNIVERSITARIA (*)
+                 HUMA1406      PROYECTO SOCIAL (*)                                                          1      1      0     0      0
+                                                                                       TOTAL CICLO          19     9      4    14      2
+                 SIST1402A     SOLUCIONES WEB Y APLICACIONES DISTRIBUIDAS                                   3      0      2     4      0   MODELAMIENTO Y ANÁLISIS DE SOFTWARE
+                 ITEC1402A     REDES 2                                                                      3      0      2     4      0   REDES 1
+        8        ISOF1401A     CALIDAD Y PRUEBAS DE SOFTWARE                                                4      0      2     4      2   DISEÑO Y ARQUITECTURA DE SOFTWARE
+                 INVE1446A     PRÁCTICA PREPROFESIONAL(*)                                                   8      2      0     0     12   EMPLEABILIDAD (*) + DISEÑO Y ARQUITECTURA DE SOFTWARE
+                 ROPS1403      TALLER DE ROBÓTICA                                                           4      0      2     2      4   ARQUITECTURA DEL COMPUTADOR
+                                                                                       TOTAL CICLO          22     2      8    14     18
+                 SIST1401B     VIDEOJUEGOS Y APLICACIONES MÓVILES                                           5      0      2     4      4   COMPUTACIÓN GRÁFICA Y VISUAL
+                 INVE1570A     TALLER DE TESIS 1 (*)                                                        8      2      2     0     10   METODOLOGÍA DE LA INVESTIGACIÓN(*) + SOLUCIONES WEB Y APLICACIONES DISTRIBUÍDAS
+        9                      ELECTIVO 1                                                                   2      2      0     0      0   TALLER DE BASE DE DATOS
+                COMP1501B      SISTEMAS INTELIGENTES                                                        4      2      0     4      0   ANÁLISIS DE ALGORITMOS Y ESTRATEGIAS DE PROGRAMACIÓN
+                 ISOF1402A     ADMINISTRACIÓN DE PROYECTOS DE SOFTWARE                                      3      2      0     2      0   CALIDAD Y PRUEBAS DE SOFTWARE
+                                                                                       TOTAL CICLO          22     8      4    10     14
+                 INVE1535A     CAPSTONE PROJECT SISTEMAS                                                    4      0      4     0      4   SOLUCIONES WEB Y APLICACIONES DISTRIBUIDAS
+                  INVE1632     TALLER DE TESIS 2 (*)                                                        8      2      2     0     10   TALLER DE TESIS 1 (*)
+        10      MAGM1517A      GESTIÓN DE PROCESOS BPM  Y PLANEAMIENTO ESTRATÉGICO                          4      4      0     0      0   ADMINISTRACIÓN DE PROYECTOS DE SOFTWARE
+                               ELECTIVO 2                                                                   2      2      0     0      0   ELECTIVO 1
+                                                                                       TOTAL CICLO          18     8      6     0     14
+                                                                            TOTAL PLAN DE ESTUDIOS         200    111    48    74     56
+
+
+
+                                  CURSOS ELECTIVOS - INGENIERÍA EN SISTEMAS COMPUTACIONALES
+
+      CICLO       CÓDIGO       ELECTIVO  1                                                                 CR     HT     HP    HL     PC
+                  BANNER
+        9        SIST1501A      BIG DATA & MACHINE LEARNING                                                 2      2      0     0      0
+        9        ITEC1520B      REDES INALÁMBRICAS Y TELECOMUNICACIONES                                     2      2      0     0      0
+
+                  CÓDIGO       ELECTIVO  2                                                                 CR     HT     HP    HL     PC
+      CICLO       BANNER
+        10       ISOF1521A      EVOLUCIÓN Y CONFIGURACIÓN DE SOFTWARE                                       2      2      0     0      0
+        10       INFO1520A      E-BUSINESS Y ANALÍTICA WEB                                                  2      2      0     0      0
+
+
+              Para optar el grado de Bachiller en Ingeniería de Sistemas Computacionales es indispensable cumplir con los requisitos establecido en el Reglamento de Grados y Títulos vigente.

@@ -1,0 +1,2021 @@
+{
+  "D016": [
+    {
+      "Asignatura": "Algoritmos y Programación",
+      "Peso": 6.0,
+      "Codigo": "LIS1013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre1"
+    },
+    {
+      "Asignatura": "Cultura Digital",
+      "Peso": 6.0,
+      "Codigo": "DIG0013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre1"
+    },
+    {
+      "Asignatura": "Física General",
+      "Peso": 6.0,
+      "Codigo": "FIS1033",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre1"
+    },
+    {
+      "Asignatura": "Laboratorio de Física General",
+      "Peso": 3.0,
+      "Codigo": "FIS1043",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre1"
+    },
+    {
+      "Asignatura": "Lengua Extranjera I",
+      "Peso": 6.0,
+      "Codigo": "LEX0113",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre1"
+    },
+    {
+      "Asignatura": "Matemáticas Universitarias",
+      "Peso": 6.0,
+      "Codigo": "MAT1013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre1"
+    },
+    {
+      "Asignatura": "Optativa de Estudio General de Matemáticas",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Semestre1"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 6.0,
+      "Codigo": "MAT1033",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre2"
+    },
+    {
+      "Asignatura": "Argumentación Académica",
+      "Peso": 6.0,
+      "Codigo": "ESP0013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre2"
+    },
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 6.0,
+      "Codigo": "MAT1023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre2"
+    },
+    {
+      "Asignatura": "Lengua Extranjera II",
+      "Peso": 6.0,
+      "Codigo": "LEX0123",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre2"
+    },
+    {
+      "Asignatura": "Optativa de Estudio General de Ciencias Sociales",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Semestre2"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 6.0,
+      "Codigo": "LIS1023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre2"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 6.0,
+      "Codigo": "MAT2013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre3"
+    },
+    {
+      "Asignatura": "Circuitos Eléctricos",
+      "Peso": 6.0,
+      "Codigo": "LRT2013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre3"
+    },
+    {
+      "Asignatura": "Escritura Académica",
+      "Peso": 6.0,
+      "Codigo": "ESP0023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre3"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 6.0,
+      "Codigo": "LIS2013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre3"
+    },
+    {
+      "Asignatura": "Laboratorio de Circuitos Eléctricos",
+      "Peso": 2.0,
+      "Codigo": "LRT2023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre3"
+    },
+    {
+      "Asignatura": "Lengua Extranjera III",
+      "Peso": 6.0,
+      "Codigo": "LEX0133",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre3"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 6.0,
+      "Codigo": "MAT2073",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre3"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 6.0,
+      "Codigo": "LIS2033",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre4"
+    },
+    {
+      "Asignatura": "Diseño Digital",
+      "Peso": 6.0,
+      "Codigo": "LRT2033",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre4"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales Ordinarias",
+      "Peso": 6.0,
+      "Codigo": "MAT2033",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre4"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 6.0,
+      "Codigo": "LIS2023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre4"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 6.0,
+      "Codigo": "LIS2043",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre4"
+    },
+    {
+      "Asignatura": "Optativa de Estudio General de Ciencias Naturales",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Semestre4"
+    },
+    {
+      "Asignatura": "Optativa de Estudio General de Humanidades",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Semestre4"
+    },
+    {
+      "Asignatura": "Análisis Numérico",
+      "Peso": 6.0,
+      "Codigo": "LFA3123",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre5"
+    },
+    {
+      "Asignatura": "Interacción Humano-Computadora",
+      "Peso": 6.0,
+      "Codigo": "LIS3033",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre5"
+    },
+    {
+      "Asignatura": "Optativa de Estudio General de Artes",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Semestre5"
+    },
+    {
+      "Asignatura": "Prácticas en la Profesión 1",
+      "Peso": 6.0,
+      "Codigo": "LIS3053",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre5"
+    },
+    {
+      "Asignatura": "Sistemas Embebidos",
+      "Peso": 6.0,
+      "Codigo": "LIS3013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre5"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 6.0,
+      "Codigo": "LIS3043",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre5"
+    },
+    {
+      "Asignatura": "Teoría de la Computación",
+      "Peso": 6.0,
+      "Codigo": "LIS3023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre5"
+    },
+    {
+      "Asignatura": "Bases de Datos Avanzadas",
+      "Peso": 6.0,
+      "Codigo": "LIS3093",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre6"
+    },
+    {
+      "Asignatura": "Desarrollo y Operaciones",
+      "Peso": 6.0,
+      "Codigo": "LIS3083",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre6"
+    },
+    {
+      "Asignatura": "Diseño y Desarrollo de Videojuegos",
+      "Peso": 6.0,
+      "Codigo": "LIS3073",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre6"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 6.0,
+      "Codigo": "LIS3063",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre6"
+    },
+    {
+      "Asignatura": "Laboratorio de Redes y Telecomunicaciones",
+      "Peso": 2.0,
+      "Codigo": "LIS3113",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre6"
+    },
+    {
+      "Asignatura": "Redes y Telecomunicaciones",
+      "Peso": 6.0,
+      "Codigo": "LIS3103",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre6"
+    },
+    {
+      "Asignatura": "Temas Selectos",
+      "Peso": 6.0,
+      "Codigo": "TSI3013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre6"
+    },
+    {
+      "Asignatura": "Desarrollo de Aplicaciones Móviles",
+      "Peso": 6.0,
+      "Codigo": "LIS4043",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre7"
+    },
+    {
+      "Asignatura": "Perspectivas Disciplinares",
+      "Peso": 6.0,
+      "Codigo": "TSI4013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre7"
+    },
+    {
+      "Asignatura": "Prácticas en la Profesión 2",
+      "Peso": 6.0,
+      "Codigo": "LIS4013",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre7"
+    },
+    {
+      "Asignatura": "Seguridad Informática",
+      "Peso": 6.0,
+      "Codigo": "LIS4023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre7"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 6.0,
+      "Codigo": "LIS4053",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre7"
+    },
+    {
+      "Asignatura": "Visión Artificial",
+      "Peso": 6.0,
+      "Codigo": "LIS4033",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre7"
+    },
+    {
+      "Asignatura": "Aprendizaje de Máquina",
+      "Peso": 6.0,
+      "Codigo": "LIS4073",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre8"
+    },
+    {
+      "Asignatura": "Cómputo en la Nube y Datos Masivos",
+      "Peso": 6.0,
+      "Codigo": "LIS4093",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre8"
+    },
+    {
+      "Asignatura": "Diseño y Gestión de Sistemas",
+      "Peso": 6.0,
+      "Codigo": "LIS4083",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre8"
+    },
+    {
+      "Asignatura": "Innovación y Gestión de Proyectos",
+      "Peso": 6.0,
+      "Codigo": "LIS4063",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre8"
+    },
+    {
+      "Asignatura": "Tópicos de Vanguardia",
+      "Peso": 6.0,
+      "Codigo": "TSI4023",
+      "Condicion": "Obligatoria",
+      "Localizador": "Semestre8"
+    },
+    {
+      "Asignatura": "MATEMÁTICAS Y CIENCIA EXPERIMENTAL",
+      "Peso": 6.0,
+      "Codigo": "EGM0013",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "INTRODUCCIÓN A LAS MATEMÁTICAS DEL DINERO",
+      "Peso": 6.0,
+      "Codigo": "EGM0023",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "INTRODUCCIÓN A LAS MATEMÁTICAS DE LOS DATOS",
+      "Peso": 6.0,
+      "Codigo": "EGM0033",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "REDESCUBRIENDO LAS MATEMÁTICAS: ENTRE JUEGO Y ARTE",
+      "Peso": 6.0,
+      "Codigo": "EGM0043",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "ÉTICA, SOCIEDAD Y MEDIO AMBIENTE",
+      "Peso": 6.0,
+      "Codigo": "EGS0013",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "COMPORTAMIENTO Y SALUD MENTAL",
+      "Peso": 6.0,
+      "Codigo": "EGS0023",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "DIVERSIDAD, EQUIDAD E INCLUSIÓN",
+      "Peso": 6.0,
+      "Codigo": "EGS0033",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "ESTUDIOS SOCIALES DE MÉXICO",
+      "Peso": 6.0,
+      "Codigo": "EGS0043",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "ALIMENTACIÓN Y VIDA",
+      "Peso": 6.0,
+      "Codigo": "EGC0013",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "EVOLUCIÓN Y BIODIVERSIDAD",
+      "Peso": 6.0,
+      "Codigo": "EGC0023",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "ENFERMEDADES EMERGENTES",
+      "Peso": 6.0,
+      "Codigo": "EGC0033",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "DE LAS PARTÍCULAS AL UNIVERSO",
+      "Peso": 6.0,
+      "Codigo": "EGC0043",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "HUMANIDADES AMBIENTALES",
+      "Peso": 6.0,
+      "Codigo": "EGH0013",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "PENSAMIENTO HUMANISTA",
+      "Peso": 6.0,
+      "Codigo": "EGH0023",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "CIENCIA FICCIÓN Y FILOSOFÍA",
+      "Peso": 6.0,
+      "Codigo": "EGH0033",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "LATINOAMÉRICA EN SUS LITERATURAS",
+      "Peso": 6.0,
+      "Codigo": "EGH0043",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "ARTE CONTEMPORÁNEO",
+      "Peso": 6.0,
+      "Codigo": "EGA0013",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "ARTES ESCÉNICAS CONTEMPORÁNEAS",
+      "Peso": 6.0,
+      "Codigo": "EGA0023",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "MÚSICA Y CULTURA POP",
+      "Peso": 6.0,
+      "Codigo": "EGA0033",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    },
+    {
+      "Asignatura": "CINE DE ARTE",
+      "Peso": 6.0,
+      "Codigo": "EGA0043",
+      "Condicion": "Obligatoria",
+      "Localizador": null
+    }
+  ],
+  "D019": [
+    {
+      "Asignatura": "DESARROLLO DEL TALENTO (*)",
+      "Peso": 2.0,
+      "Codigo": "RRHH1101",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "COMPLEMENTO MATEMÁTICO PARA INGENIEROS",
+      "Peso": 5.0,
+      "Codigo": "MATH1002",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS COMPUTACIONALES",
+      "Peso": 4.0,
+      "Codigo": "SIST1101A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "RESPONSABILIDAD SOCIAL (*)",
+      "Peso": 2.0,
+      "Codigo": "HUMA1111",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "COMUNICACIÓN 1 (*)",
+      "Peso": 5.0,
+      "Codigo": "LENG1001",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "MATEMÁTICA BÁSICA PARA INGENIERÍA",
+      "Peso": 5.0,
+      "Codigo": "MATH1003",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "FUNDAMENTOS DE ALGORITMOS",
+      "Peso": 4.0,
+      "Codigo": "COMP1201A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "METODOLOGÍA UNIVERSITARIA (*)",
+      "Peso": 3.0,
+      "Codigo": "INVE1101",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PRE BEGINNER 1 (*)",
+      "Peso": 1.0,
+      "Codigo": "IDIO1401",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "COMUNICACIÓN 2 (*)",
+      "Peso": 5.0,
+      "Codigo": "LENG1002",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CÁLCULO 1(*)",
+      "Peso": 5.0,
+      "Codigo": "MATH1101A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "FUNDAMENTOS DE PROGRAMACIÓN",
+      "Peso": 4.0,
+      "Codigo": "SIST1102A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "MATEMÁTICA DISCRETA",
+      "Peso": 4.0,
+      "Codigo": "MATH1103",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "MECÁNICA, OSCILACIÓN Y ONDAS(*)",
+      "Peso": 3.0,
+      "Codigo": "FISI1204A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PRE BEGINNER 2 (*)",
+      "Peso": 1.0,
+      "Codigo": "IDIO1402",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "COMUNICACIÓN 3",
+      "Peso": 5.0,
+      "Codigo": "LENG1003",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ESTRUCTURA DE DATOS",
+      "Peso": 4.0,
+      "Codigo": "SIST1201A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CÁLCULO 2(*)",
+      "Peso": 5.0,
+      "Codigo": "MATH1202A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PROBABILIDAD Y ESTADÍSTICA (*)",
+      "Peso": 5.0,
+      "Codigo": "STAT1203A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "HERRAMIENTAS INFORMÁTICAS (*)",
+      "Peso": 2.0,
+      "Codigo": "INFO1120A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ELECTRICIDAD, MAGNETISMO Y ÓPTICA(*)",
+      "Peso": 4.0,
+      "Codigo": "FISI1206A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "TÉCNICAS DE PROGRAMACIÓN ORIENTADA A OBJETOS",
+      "Peso": 5.0,
+      "Codigo": "SIST1202A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "BASE DE DATOS",
+      "Peso": 4.0,
+      "Codigo": "ISOF1201",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ELECTRÓNICA DIGITAL",
+      "Peso": 4.0,
+      "Codigo": "FISI1205",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ANÁLISIS DE ALGORITMOS Y ESTRATEGIAS DE PROGRAMACIÓN",
+      "Peso": 3.0,
+      "Codigo": "COMP1303",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "OPTIMIZACIÓN Y SIMULACIÓN",
+      "Peso": 4.0,
+      "Codigo": "OPER1305",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PSICOLOGÍA DE LA FELICIDAD (*)",
+      "Peso": 2.0,
+      "Codigo": "PSGE1106",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "TALLER DE BASE DE DATOS",
+      "Peso": 4.0,
+      "Codigo": "ISOF1302A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "EMPLEABILIDAD (*)",
+      "Peso": 4.0,
+      "Codigo": "RRHH1303",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "MODELAMIENTO Y ANÁLISIS DE SOFTWARE",
+      "Peso": 5.0,
+      "Codigo": "ISOF1301",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "COMPUTACIÓN GRÁFICA Y VISUAL",
+      "Peso": 3.0,
+      "Codigo": "COMP1401A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ARQUITECTURA DEL COMPUTADOR",
+      "Peso": 3.0,
+      "Codigo": "ITEC1302A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "SISTEMAS OPERATIVOS",
+      "Peso": 4.0,
+      "Codigo": "ITEC1303",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "INTERACCION HUMANO COMPUTADOR",
+      "Peso": 4.0,
+      "Codigo": "COMP1302",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "REDES 1",
+      "Peso": 3.0,
+      "Codigo": "ITEC1301A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "DISEÑO Y ARQUITECTURA DE SOFTWARE",
+      "Peso": 4.0,
+      "Codigo": "ISOF1303A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN(*)",
+      "Peso": 3.0,
+      "Codigo": "INVE1301",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PROYECTO SOCIAL (*)",
+      "Peso": 1.0,
+      "Codigo": "HUMA1406",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "SOLUCIONES WEB Y APLICACIONES DISTRIBUIDAS",
+      "Peso": 3.0,
+      "Codigo": "SIST1402A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "REDES 2",
+      "Peso": 3.0,
+      "Codigo": "ITEC1402A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CALIDAD Y PRUEBAS DE SOFTWARE",
+      "Peso": 4.0,
+      "Codigo": "ISOF1401A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PRÁCTICA PREPROFESIONAL(*)",
+      "Peso": 8.0,
+      "Codigo": "INVE1446A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "TALLER DE ROBÓTICA",
+      "Peso": 4.0,
+      "Codigo": "ROPS1403",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "VIDEOJUEGOS Y APLICACIONES MÓVILES",
+      "Peso": 5.0,
+      "Codigo": "SIST1401B",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "TALLER DE TESIS 1 (*)",
+      "Peso": 8.0,
+      "Codigo": "INVE1570A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "SISTEMAS INTELIGENTES",
+      "Peso": 4.0,
+      "Codigo": "COMP1501B",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ADMINISTRACIÓN DE PROYECTOS DE SOFTWARE",
+      "Peso": 3.0,
+      "Codigo": "ISOF1402A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CAPSTONE PROJECT SISTEMAS",
+      "Peso": 4.0,
+      "Codigo": "INVE1535A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "TALLER DE TESIS 2 (*)",
+      "Peso": 8.0,
+      "Codigo": "INVE1632",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "GESTIÓN DE PROCESOS BPM  Y PLANEAMIENTO ESTRATÉGICO",
+      "Peso": 4.0,
+      "Codigo": "MAGM1517A",
+      "Condicion": "Obligatoria",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ELECTIVO 1",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ELECTIVO 2",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "p. 1"
+    }
+  ],
+  "D023": [
+    {
+      "Asignatura": "TEORÍA DE LA INFORMACIÓN Y CODIFICACIÓN",
+      "Peso": 4.0,
+      "Codigo": "ISEE101",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CÁLCULO I",
+      "Peso": 4.0,
+      "Codigo": "ISEG101",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "MATEMÁTICA BÁSICA",
+      "Peso": 4.0,
+      "Codigo": "ISEG102",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ECONOMÍA DE LA EMPRESA",
+      "Peso": 3.0,
+      "Codigo": "ISEG103",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "IDIOMA I",
+      "Peso": 2.0,
+      "Codigo": "ISEG104",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "ACTIVIDADES CULTURALES",
+      "Peso": 3.0,
+      "Codigo": "ISEG105",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PROGRAMACIÓN ESTRUCTURADA",
+      "Peso": 4.0,
+      "Codigo": "ISEE201",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS",
+      "Peso": 3.0,
+      "Codigo": "ISEE202",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "FÍSICA I",
+      "Peso": 4.0,
+      "Codigo": "ISEG201",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CONTABILIDAD EMPRESARIAL",
+      "Peso": 3.0,
+      "Codigo": "ISEG202",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CALCULO II",
+      "Peso": 4.0,
+      "Codigo": "ISEG203",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "IDIOMA II",
+      "Peso": 2.0,
+      "Codigo": "ISEG204",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "PROGRAMACIÓN ORIENTADA A OBJETOS I",
+      "Peso": 4.0,
+      "Codigo": "ISEE301",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "BASE DE DATOS I",
+      "Peso": 3.0,
+      "Codigo": "ISEE302",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "FÍSICA II",
+      "Peso": 4.0,
+      "Codigo": "ISEG301",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "CALCULO III",
+      "Peso": 4.0,
+      "Codigo": "ISEG302",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 1"
+    },
+    {
+      "Asignatura": "METODOLOGÍA DE LA INVESTIGACIÓN Y REDACCIÓN",
+      "Peso": 3.0,
+      "Codigo": "ISEG303",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "IDIOMA III",
+      "Peso": 2.0,
+      "Codigo": "ISEG304",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "PROGRAMACIÓN ORIENTADA A OBJETOS II",
+      "Peso": 4.0,
+      "Codigo": "ISEE401",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "BASE DE DATOS II",
+      "Peso": 4.0,
+      "Codigo": "ISEE402",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "CIRCUITOS ELÉCTRICOS Y ELECTRÓNICOS",
+      "Peso": 4.0,
+      "Codigo": "ISEE403",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "TEORÍA DE SISTEMAS",
+      "Peso": 4.0,
+      "Codigo": "ISEE404",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "PROGRAMACIÓN WEB I",
+      "Peso": 4.0,
+      "Codigo": "ISEE405",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "COSTOS Y PRESUPUESTO",
+      "Peso": 4.0,
+      "Codigo": "ISEE501",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "INVESTIGACIÓN DE OPERACIONES",
+      "Peso": 4.0,
+      "Codigo": "ISEE502",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "PROGRAMACIÓN WEB II",
+      "Peso": 4.0,
+      "Codigo": "ISEE503",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "SISTEMAS DIGITALES",
+      "Peso": 4.0,
+      "Codigo": "ISEE504",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "BASE DE DATOS III",
+      "Peso": 4.0,
+      "Codigo": "ISEE505",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 2"
+    },
+    {
+      "Asignatura": "ROBOTICA Y AUTOMATIZACION DE PROCESOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE601",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "ANÁLISIS DE SISTEMAS DE INFORMACIÓN",
+      "Peso": 4.0,
+      "Codigo": "ISEE602",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "ARQUITECTURA Y ORGANIZACIÓN DE LA COMPUTADORA",
+      "Peso": 3.0,
+      "Codigo": "ISEE603",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "SIMULACIÓN DE SISTEMAS",
+      "Peso": 3.0,
+      "Codigo": "ISEE604",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "ESTADÍSTICA PARA LA INVESTIGACION CIENTIFÍCA",
+      "Peso": 4.0,
+      "Codigo": "ISEE605",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "MÉTODOS NUMÉRICOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE606",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "DINÁMICA DE SISTEMAS",
+      "Peso": 3.0,
+      "Codigo": "ISEE701",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "SISTEMAS OPERATIVOS",
+      "Peso": 4.0,
+      "Codigo": "ISEE702",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "INGENIERÍA ECONÓMICA Y FINANCIERA",
+      "Peso": 3.0,
+      "Codigo": "ISEE703",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "DISEÑO DE SISTEMAS DE INFORMACIÓN",
+      "Peso": 4.0,
+      "Codigo": "ISEE704",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "DISEÑO Y GESTIÓN DE PROCESOS ORGANIZACIONALES",
+      "Peso": 3.0,
+      "Codigo": "ISEE705",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "MODELO DE PROCESOS ORGANIZACIONALES",
+      "Peso": 3.0,
+      "Codigo": "ISEE791",
+      "Condicion": "Electivo",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "TELECOMUNICACIONES Y REDES",
+      "Peso": 3.0,
+      "Codigo": "ISEE792",
+      "Condicion": "Electivo",
+      "Localizador": "p. 3"
+    },
+    {
+      "Asignatura": "SEGURIDAD INFORMÁTICA",
+      "Peso": 3.0,
+      "Codigo": "ISEE793",
+      "Condicion": "Electivo",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "GESTIÓN DEL CONOCIMIENTO",
+      "Peso": 3.0,
+      "Codigo": "ISEE801",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "TESIS I",
+      "Peso": 4.0,
+      "Codigo": "ISEE802",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "SEGURIDAD DE REDES I",
+      "Peso": 4.0,
+      "Codigo": "ISEE803",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "FORMULACIÓN Y EVALUACIÓN DE PROYECTOS DE INVERSIÓN",
+      "Peso": 3.0,
+      "Codigo": "ISEE804",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "SISTEMA DE GESTIÓN DE CALIDAD",
+      "Peso": 3.0,
+      "Codigo": "ISEE805",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "TEORÍA DE LENGUAJES Y COMPILADORES",
+      "Peso": 3.0,
+      "Codigo": "ISEE891",
+      "Condicion": "Electivo",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "SISTEMAS DISTRIBUIDOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE892",
+      "Condicion": "Electivo",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "TALLER DE PROCESOS ORGANIZACIONALES",
+      "Peso": 3.0,
+      "Codigo": "ISEE893",
+      "Condicion": "Electivo",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "INGENIERÍA DE SOFTWARE",
+      "Peso": 4.0,
+      "Codigo": "ISEE901",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "TESIS II",
+      "Peso": 4.0,
+      "Codigo": "ISEE902",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "GESTIÓN DE PROCESOS TECNOLÓGICOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE903",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "SEGURIDAD DE REDES II",
+      "Peso": 3.0,
+      "Codigo": "ISEE904",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 4"
+    },
+    {
+      "Asignatura": "PROYECTO DE SISTEMAS",
+      "Peso": 3.0,
+      "Codigo": "ISEE905",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "APLICACIONES DE NEGOCIOS ELECTRÓNICOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE991",
+      "Condicion": "Electivo",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "SISTEMAS COMPLEJOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE992",
+      "Condicion": "Electivo",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "SEGURIDAD DE REDES DE DATOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE993",
+      "Condicion": "Electivo",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "SISTEMAS BASADOS EN CONOCIMIENTO",
+      "Peso": 3.0,
+      "Codigo": "ISEE1001",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "TESIS III",
+      "Peso": 4.0,
+      "Codigo": "ISEE1002",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "AUDITORIA DE SISTEMAS",
+      "Peso": 4.0,
+      "Codigo": "ISEE1003",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "SEGURIDAD DE LA INFORMACION",
+      "Peso": 3.0,
+      "Codigo": "ISEE1004",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "INTELIGENCIA DE NEGOCIOS",
+      "Peso": 3.0,
+      "Codigo": "ISEE1005",
+      "Condicion": "Obligatorio",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "ARTÍCULO CIENTÍFICO",
+      "Peso": 3.0,
+      "Codigo": "ISEE1091",
+      "Condicion": "Electivo",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "REALIDAD VIRTUAL",
+      "Peso": 3.0,
+      "Codigo": "ISEE1092",
+      "Condicion": "Electivo",
+      "Localizador": "p. 5"
+    },
+    {
+      "Asignatura": "PLANEAMIENTO ESTRATÉGICO DE SISTEMAS",
+      "Peso": 3.0,
+      "Codigo": "ISEE1093",
+      "Condicion": "Electivo",
+      "Localizador": "p. 5"
+    }
+  ],
+  "D026": [
+    {
+      "Asignatura": "- Conjuntos numéricos y operaciones (números naturales, enteros, racionales, reales). - Ecuaciones e Inecuaciones (de primer y segundo grado). - Funciones (lineales, cuadráticas, polinómicas, trigonométricas). - Trigonometría (ángulos, identidades trigonométricas, resolución de triángulos). ','Preliminares de Matemática')\">Preliminares de Matemática",
+      "Peso": 60.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "▪ Introducción al lenguaje de los conjuntos. ▪ Sistemas numéricos: Presentación intuitiva de los números naturales. Principio de Inducción. Números complejos. ▪ Elementos de combinatoria. Binomio de Newton. ▪ Polinomios formales en una indeterminada con coeficientes complejos. ▪ Vectores en el plano y el espacio. Producto escalar y vectorial. Rectas y planos. ▪ Rn como espacio vectorial. Subespacios de Rn; bases y dimensión. El espacio vectorial Cn. ▪ Sistemas de ecuaciones lineales. Espacios solución. Compatibilidad. ▪ Matrices con coeficientes reales o complejos. Espacios vectoriales Rnxn y Cnxn. Expresión matricial de un sistema. ▪ Determinantes. Matriz de cofactores. Regla de Cramer. ','Álgebra')\">Álgebra",
+      "Peso": 112.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial: • Funciones de variable real. • Límite y continuidad de funciones. • Derivada y sus aplicaciones. • Teoremas del valor medio. Consecuencias. • Aproximación de funciones por polinomios de Taylor. • Antiderivadas. ','Análisis Matemático I - a')\">Análisis Matemático I - a",
+      "Peso": 80.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Conceptualización de la Informática. Evolución Histórica ● Representación de la información. Sistemas de Numeración. ● Unidades funcionales de una computadora. ● Lenguajes de Programación. ● Algoritmos y programación. ● Lenguaje de Representación de Algoritmos y técnicas básicas de programación. ● Entornos de desarrollo para seudocódigo. ● Estructuras de control y expresiones lógicas. ● Programación modular. ','Introducción a la Informática')\">Introducción a la Informática",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "• Integral definida. Teorema fundamental del Cálculo. • Integrales impropias. • Funciones trascendentes. • Formas indeterminadas. Regla de L`Hopital. • Sucesiones y series. Series de Taylor. • Ecuaciones diferenciales ordinarias de primer orden. ','Análisis Matemático I – b')\">Análisis Matemático I – b",
+      "Peso": 64.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Álgebra Lineal: Espacios vectoriales reales, transformaciones lineales y matrices. Autovalores y autovectores. Operadores y matrices diagonalizables. ● Espacios euclidianos: Productos internos y normas. Proyecciones ortogonales. Mejor aproximación por cuadrados mínimos. ● Transformaciones y matrices ortogonales. Diagonalización ortogonal de matrices simétricas. ● Formas cuadráticas: Diagonalización y clasificación. Aplicación al estudio de las secciones cónicas y las superficies cuadráticas. ','Geometría Analítica')\">Geometría Analítica",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Lógica, cálculo proposicional. Predicados. ● Demostración formal: tipos de demostraciones. ● Velocidad de crecimiento, notación O. ● Definiciones recursivas. ● Relaciones binarias. Relaciones de equivalencia. Relaciones de orden. ● Estructuras algebraicas. Aritmética modular. ● Álgebras de Boole. Funciones booleanas. Circuitos lógicos. ● Grafos y árboles. ','Matemática Discreta')\">Matemática Discreta",
+      "Peso": 88.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Resoluciones de problemas mediante programación. ● El paradigma procedural / imperativo. ● Un lenguaje de programación procedural. ● Tipos de datos predefinidos y definidos por el usuario. ● Estructuras de control. ● Programación modular. ● Estructuras de datos. Algoritmos de ordenamiento y búsqueda. ● Conceptos y técnicas de programación. Programación estructurada. ● Administración de datos persistentes: archivos. ● Recursividad ','Programación Procedural')\">Programación Procedural",
+      "Peso": 120.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Funciones de varias variables reales. Límites y continuidad. - Derivadas parciales, funciones diferenciables y aproximaciones lineales. - Extremos libres y restringidos de campos escalares. - Integrales dobles (de área) y triples (de volumen). Cambios de variables. - Ecuaciones diferenciales lineales de segundo orden. Estudio del caso general. Resolución en el caso de coeficientes constantes. - Series de Fourier. Propiedades de los coeficientes. - Transformada de Laplace. Resolución de ecuaciones diferenciales lineales. Función transferencia. ','Cálculo Avanzado')\">Cálculo Avanzado",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Diseño y análisis de algoritmos - Estructura de datos, uniones y tipos de datos abstractos - Listas, Pilas y Filas - Grafos y Árboles - Métodos avanzados de búsqueda y ordenamiento ','Estructura de Datos y Algoritmos')\">Estructura de Datos y Algoritmos",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Introducción a Mecánica Clásica - Cinemática para un cuerpo puntual - Dinámica para un cuerpo puntual - Consideraciones Energéticas - Fundamentos de Electricidad y Magnetismo - Circuitos eléctricos de corrientes estacionarias y variables en el tiempo - Electromagnetismo - Ondas Electromagnéticas ','Física General')\">Física General",
+      "Peso": 72.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Teoría General de Sistemas - Ciclo de Vida de un Sistema - La Organización - La Administración - Sistemas de Información - Formulación y Evaluación de Proyectos TIC's - El Sistema de decisión - Visión Estratégica de la Organización - Dirección ejecutiva de organizaciones de software ','Sistemas y Organizaciones')\">Sistemas y Organizaciones",
+      "Peso": 120.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Fundamentos de Sistemas y Naturaleza de los Sistemas de Información - Procesos organizacionales y de desarrollo de software - Análisis de Requisitos Orientado a Objetos - Seguridad en Sistemas de Información ','Análisis y Diseño de Sistemas I')\">Análisis y Diseño de Sistemas I",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Circuitos lógicos y sistemas digitales básicos. ● Organización de computadoras. ● Arquitectura de computadoras. ● Arquitecturas paralelas y no convencionales. ● Programación de bajo nivel de microprocesadores y microcontroladores. ','Arquitectura de Computadoras')\">Arquitectura de Computadoras",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Lenguajes Formales. Gramáticas y Autómatas. Autómata finito determinístico y no determinístico. ● Expresiones Regulares. Gramáticas libres de contexto. BNF. ● Computabilidad: Máquinas de Turing y sus extensiones. Máquina de Turing Universal, Lenguajes No-Decidibles. Implicaciones de la No-Decibilidad de lenguajes. ● Complejidad: Introducción a problemas tratables e intratables. Definición de las clases P y NP. Problemas NP completos. ','Autómatas y Lenguajes')\">Autómatas y Lenguajes",
+      "Peso": 72.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "▪ Aritmética de punto flotante, errores de redondeo. ▪ Solución de ecuaciones no lineales y sistemas de ecuaciones no lineales por métodos iterativos. ▪ Integración y diferenciación numérica. ▪ Aproximación de funciones: interpolación polinómica, diferencias divididas, splines, método de los mínimos cuadrados. ▪ Solución de sistemas lineales por métodos directos e iterativos. ▪ Ecuaciones diferenciales ordinarias: métodos Runge-Kutta, métodos multipaso, métodos de diferencias finitas. ▪ Ecuaciones diferenciales en derivadas parciales: diferencias finitas para ecuaciones elípticas, parabólicas e hiperbólicas. ','Métodos Numéricos')\">Métodos Numéricos",
+      "Peso": 56.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "1. El concepto de probabilidad y de variable aleatoria 2. Distribuciones discretas y continuas importantes 3. Distribución Normal 4. Teorema Central del Límite 5. Estadística descriptiva. Medidas centrales y de dispersión 6. Inferencia estadística. Estimación de parámetros y pruebas de hipótesis 7. Regresión lineal ','Probabilidad y Estadística')\">Probabilidad y Estadística",
+      "Peso": 88.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Introducción a base de datos. - Sistemas administradores de bases de datos –DBMS-. - Modelado de base de datos. Normalización. - Enfoque relacional. Álgebra Relacional. SQL. - Integridad de los datos. - Acceso eficaz y eficiente a los datos ante la escalabilidad en el volumen de los mismos. - Uso seguro de los datos y de la información. - Bases de Datos NoSQL. ','Base de Datos I')\">Base de Datos I",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Revisión de Fundamentos de Orientación a Objetos ● Diseño de la Solución ● Fundamentos de aspectos Sintácticos y Semánticos de un lenguaje específico de programación Orientado a Objetos ● Programación en un lenguaje específico de Orientación a Objetos ● Resolución de un Proyecto integral bajo el Paradigma Orientado a Objetos. ','Programación Orientada a Objetos')\">Programación Orientada a Objetos",
+      "Peso": 88.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Redes de computadoras ● Introducción a la teoría de la Información y la comunicación ● Modelos de referencias OSI y TCP/IP ● Protocolos de capa de enlace, red y transporte ● Protocolos de encaminamiento en Internet ● Servicios de aplicación en Internet ','Redes y Comunicaciones I')\">Redes y Comunicaciones I",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Introducción a los sistemas operativos. ● Concepto de proceso. Administración de procesos. Planificación. Concurrencia. Procesos concurrentes. Mecanismos de intercomunicación y sincronización. Interbloqueo ● Administración de memoria. Memoria virtual. ● Administración de la información. Sistema de archivos ● Administración de dispositivos de E/S. ● Seguridad y protección en Sistemas Operativos ● Conceptos de sistemas operativos para redes de computadoras, sistemas distribuidos, sistemas embebidos, sistemas de tiempo real. ● Virtualización. Máquinas virtuales. ','Sistemas Operativos')\">Sistemas Operativos",
+      "Peso": 112.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Ingeniería de software. - Procesos de desarrollo de software. - Sistemas de información.- Modelos de requerimientos, análisis, diseño, implementación. - Modelo y lenguaje UML. - Arquitectura. Diseño. Patrones. - Herramientas y técnicas de modelado. - Especificación formal de software. ','Análisis y Diseño de Sistemas II')\">Análisis y Diseño de Sistemas II",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Administración de servicios en Red - Automatización de tareas bajo GNU/Linux - Seguridad en servicios de aplicación de red (introducción) ','Laboratorio de Redes y Comunicaciones')\">Laboratorio de Redes y Comunicaciones",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Paradigma de programación declarativo. Comparación con otros paradigmas de programación. - Programación lógica. - Programación funcional. ','Programación Lógica y Funcional')\">Programación Lógica y Funcional",
+      "Peso": 80.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "▪ Introducción a aplicaciones Web y sus generaciones. ▪ Introducción al modelo cliente-servidor ▪ Técnicas de programación del lado del cliente y del servidor. ▪ El lenguaje HTML y sucesores. ▪ Programación del servidor. ▪ Programación del cliente. ▪ Proyecto Integrador. ','Programación Orientada a la Web')\">Programación Orientada a la Web",
+      "Peso": 104.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Aspectos Introductorios de Economía (Enfoque gerencial) - Microeconomía - Macroeconomía - Finanzas de la empresa - Análisis de Costos para la toma de decisiones - Estrategias de Gestión - Planificación y Presupuestos - Financiamiento de empresas. - Indicadores Financieros. - Análisis de inversiones. - Formulación y evaluación de proyectos de inversión. - Aspectos básicos de un Plan de Negocios. ','Economía y Gestión de Empresas')\">Economía y Gestión de Empresas",
+      "Peso": 120.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Desarrollo ágil. ● Estimación y planificación de proyectos de software. ● Métricas de proyecto. ● Gestión de riesgos. ● Gestión de la configuración de software. ● Verificación y validación del software. ● Evolución del software. ● Reingeniería de software. ','Ingeniería de Software I')\">Ingeniería de Software I",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Redes de transporte ● Redes de acceso ● Fibra óptica: tipos y aplicaciones ● Protocolos para la administración de redes de transporte ● Seguridad en protocolos de infraestructura de redes ','Redes y Comunicaciones II')\">Redes y Comunicaciones II",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Salud ocupacional. - Legislación laboral y ambiental. - Prevención de accidentes de trabajo y enfermedades profesionales. - Planes de prevención de riesgos físicos, químicos y ergonómicos. - Contaminación ambiental y sonora. Carga térmica. Radiaciones. - Riesgo mecánico, eléctrico y de incendio. - Condiciones de interacción con el medio ambiente. Estudios de impacto ambiental. - Análisis y control de efluentes sólidos, líquidos y gaseosos. - Normas ISO. - Proyecto y diseño de ingeniería (diseño de un sistema de prevención de riesgos en una planta industrial, comercial o de servicios en temáticas de la asignatura). ','Seguridad, Higiene y Gestión Ambiental')\">Seguridad, Higiene y Gestión Ambiental",
+      "Peso": 85.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Conceptos de proceso y calidad en organizaciones de software. ● Modelos y estándares ISO relacionados a la calidad para organizaciones que producen bienes y servicios de software. ● Modelo de madurez/calidad de la capacidad organizacional a partir de áreas de procesos software. ● Auditoría y peritaje informático. ● Metodología de control interno, seguridad y auditoría informática. ','Gestión de Calidad y Auditoría')\">Gestión de Calidad y Auditoría",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Tópicos generales de ética. - Conceptos generales de Legislación e Informática. - Contratos informáticos. Comercio electrónico. Contratación electrónica. Propiedad intelectual. - Protección de datos personales. Documento electrónico y firma electrónica. Introducción al Peritaje informático. Delitos informáticos. - Gobierno de TI. - Innovación y emprendedorismo. ','Legislación Informática')\">Legislación Informática",
+      "Peso": 64.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Teoría general de sistemas y modelos. ● Introducción a la simulación de sistemas. ● Repaso de conceptos de probabilidad y estadística. ● Manejo de muestras probabilísticas. ● Simulación de sistemas discretos. ● Simulación de sistemas continuos. ● Lenguajes de simulación. ● Verificación y validación de modelos para simulación. ● Análisis de los resultados de la simulación. ','Modelos y Simulación')\">Modelos y Simulación",
+      "Peso": 80.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Estilos arquitectónicos y arquitecturas en SD. ● Comunicación en sistemas distribuidos. ● Nombramiento en sistemas distribuidos. ● Coordinación en sistemas distribuidos. ● Consistencia, Replicación y Memoria Compartida Distribuida. ● Seguridad en sistemas distribuidos. ● Fallos y tolerancia a fallos. ','Sistemas Distribuidos I')\">Sistemas Distribuidos I",
+      "Peso": 88.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "▪ Entes y Categorías de Entes de interés en proyectos de Ingeniería de Software. ▪ Requisitos de Calidad. Modelos de Calidad estructurados en Características y Atributos. Estándares. ▪ Métricas e Indicadores. ▪ Procesos y Métodos de Medición y Evaluación.Estándares. ▪ Estrategias para distintos propósitos de Medición y Evaluación considerando Vistas de Calidad. ','Ingeniería de Software II')\">Ingeniería de Software II",
+      "Peso": 64.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Fundamentos de Seguridad Informática. - Aspectos de Confidencialidad, Integridad, Disponibilidad. - Autenticación y control de acceso. - Amenazas. Políticas y mecanismos. - Seguridad en sistemas de computación y software de base. - Seguridad en aplicaciones en red e Internet. Distintos recursos y servicios a proteger. - Fundamentos de Criptografía y sus aplicaciones. - Técnicas y herramientas de análisis de vulnerabilidades. - Herramientas y técnicas de defensa. - Estándares sobre Seguridad Informática. - Desarrollo de aplicaciones seguras. - Seguridad en el proceso de desarrollo de software. - Aspectos Legales en Seguridad y auditorías. ','Seguridad informática')\">Seguridad informática",
+      "Peso": 80.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Fundamentos de sistemas distribuidos. ● Sistemas distribuidos con objetos y orientado a servicios. ● Arquitectura de sistemas distribuidos. ● Nuevas tendencias en tecnologías de sistemas distribuidos. ● Seguridad en sistemas distribuidos. ','Sistemas Distribuidos II')\">Sistemas Distribuidos II",
+      "Peso": 96.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "- Conceptos de Bases de Datos Distribuidas. - Conceptos de Data Warehousing. - Conceptos de Data Minning. - Conceptos de Big Data. - Nuevas tendencias en el uso y manejo de los datos. ','Base de Datos II')\">Base de Datos II",
+      "Peso": 80.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "● Introducción a la IA. Agentes inteligentes. ● Resolución de problemas mediante búsqueda. ● Razonamiento. ● Aprendizaje Automático (Machine Learning). ','Sistemas Inteligentes')\">Sistemas Inteligentes",
+      "Peso": 80.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "Inglés I",
+      "Peso": 72.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "Inglés II",
+      "Peso": 72.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "Inglés III",
+      "Peso": 72.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "Prácticas Comunitarias (PC)",
+      "Peso": 40.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "Práctica Profesional Supervisada (PPS)",
+      "Peso": 200.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    },
+    {
+      "Asignatura": "Proyecto Final (PF)",
+      "Peso": 200.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "tabla del plan 2023"
+    }
+  ],
+  "D028": [
+    {
+      "Asignatura": "ALGORITMIA Y PROGRAMACIÓN",
+      "Peso": 4.0,
+      "Codigo": "603101",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "INTRODUCCIÓN A LA INGENIERÍA DE SISTEMAS",
+      "Peso": 4.0,
+      "Codigo": "603102",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CÁLCULO DIFERENCIAL",
+      "Peso": 4.0,
+      "Codigo": "603103",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "DESARROLLO DEL PENSAMIENTO LÓGICO MATEMÁTICO",
+      "Peso": 2.0,
+      "Codigo": "603104",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "PROCESOS COMUNICATIVOS",
+      "Peso": 2.0,
+      "Codigo": "603105",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "PROGRAMACIÓN ORIENTADA A OBJETOS",
+      "Peso": 4.0,
+      "Codigo": "603201",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "SISTEMAS DIGITALES",
+      "Peso": 3.0,
+      "Codigo": "603202",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CÁLCULO INTEGRAL",
+      "Peso": 4.0,
+      "Codigo": "603203",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ÁLGEBRA LINEAL",
+      "Peso": 3.0,
+      "Codigo": "603204",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "FÍSICA MECÁNICA",
+      "Peso": 4.0,
+      "Codigo": "603205",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ESTRUCTURAS DE DATOS",
+      "Peso": 4.0,
+      "Codigo": "603301",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "MÁQUINAS DIGITALES",
+      "Peso": 3.0,
+      "Codigo": "603302",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CÁLCULO MULTIVARIADO",
+      "Peso": 4.0,
+      "Codigo": "603303",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ELECTRICIDAD Y MAGNETISMO",
+      "Peso": 4.0,
+      "Codigo": "603304",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "DEMOCRACIAS Y PAZ",
+      "Peso": 2.0,
+      "Codigo": "603305",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "BASES DE DATOS",
+      "Peso": 4.0,
+      "Codigo": "603401",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "SISTEMAS OPERATIVOS",
+      "Peso": 4.0,
+      "Codigo": "603402",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ECUACIONES DIFERENCIALES Y MODELADO MATEMÁTICO",
+      "Peso": 3.0,
+      "Codigo": "603403",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ESTADÍSTICA Y PROBABILIDAD",
+      "Peso": 4.0,
+      "Codigo": "603404",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "OSCILACIONES Y ONDAS",
+      "Peso": 3.0,
+      "Codigo": "603405",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "INGENIERÍA DE SOFTWARE I",
+      "Peso": 4.0,
+      "Codigo": "603501",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "PENSAMIENTO SISTÉMICO",
+      "Peso": 3.0,
+      "Codigo": "603502",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "MATEMÁTICAS ESPECIALES",
+      "Peso": 3.0,
+      "Codigo": "603503",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "PROCESOS ESTOCÁSTICOS",
+      "Peso": 3.0,
+      "Codigo": "603504",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "SISTEMAS DE COMUNICACIONES",
+      "Peso": 3.0,
+      "Codigo": "603505",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CIENCIAS, TECNOLOGÍA Y DESARROLLO",
+      "Peso": 2.0,
+      "Codigo": "603506",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "INGENIERÍA DE SOFTWARE II",
+      "Peso": 3.0,
+      "Codigo": "603601",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "MÉTODOS NUMÉRICOS",
+      "Peso": 3.0,
+      "Codigo": "603602",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "PROCESAMIENTO DE SEÑALES E IMÁGENES",
+      "Peso": 3.0,
+      "Codigo": "603603",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "OPTIMIZACIÓN",
+      "Peso": 3.0,
+      "Codigo": "603604",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "REDES DE COMPUTADORES",
+      "Peso": 4.0,
+      "Codigo": "603605",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ADMINISTRACIÓN FINANCIERA PARA INGENIERÍA",
+      "Peso": 2.0,
+      "Codigo": "603606",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "METODOLOGÍA DE INVESTIGACIÓN",
+      "Peso": 3.0,
+      "Codigo": "603701",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "TECNOLOGÍAS AVANZADAS",
+      "Peso": 3.0,
+      "Codigo": "603702",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ÉTICA Y HUMANISTICA",
+      "Peso": 2.0,
+      "Codigo": "603703",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "SISTEMAS DISTRIBUIDOS",
+      "Peso": 3.0,
+      "Codigo": "603704",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "SEGURIDAD DE LA INFORMACIÓN",
+      "Peso": 3.0,
+      "Codigo": "603705",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "FORMULACIÓN Y GESTIÓN DE PROYECTOS TI",
+      "Peso": 3.0,
+      "Codigo": "603706",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CURSO I PROFUNDIZACIÓN",
+      "Peso": 3.0,
+      "Codigo": "603801",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ELECTIVA PROFESIONAL I",
+      "Peso": 3.0,
+      "Codigo": "603802",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "SIMULACIÓN COMPUTACIONAL",
+      "Peso": 3.0,
+      "Codigo": "603803",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ARQUITECTURA EMPRESARIAL",
+      "Peso": 3.0,
+      "Codigo": "603804",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "TRABAJO DE GRADO I",
+      "Peso": 2.0,
+      "Codigo": "603805",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CÁTEDRA ORINOQUIA",
+      "Peso": 2.0,
+      "Codigo": "603806",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CURSO II PROFUNDIZACIÓN",
+      "Peso": 3.0,
+      "Codigo": "603901",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ELECTIVA PROFESIONAL II",
+      "Peso": 3.0,
+      "Codigo": "603902",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ELECTIVA PROFESIONAL III",
+      "Peso": 3.0,
+      "Codigo": "603903",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "LENGUAJES DE PROGRAMACIÓN",
+      "Peso": 3.0,
+      "Codigo": "603904",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ELECTIVA PROFESIONAL IV",
+      "Peso": 3.0,
+      "Codigo": "603905",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "CURSO III PROFUNDIZACIÓN",
+      "Peso": 3.0,
+      "Codigo": "603001",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ELECTIVA PROFESIONAL V",
+      "Peso": 3.0,
+      "Codigo": "603002",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "TRABAJO DE GRADO II",
+      "Peso": 4.0,
+      "Codigo": "603003",
+      "Condicion": "Obligatoria",
+      "Localizador": "plan PIS 603 2018-I"
+    },
+    {
+      "Asignatura": "ELECTIVA COMPLEMENTARIA",
+      "Peso": 2.0,
+      "Codigo": "603004",
+      "Condicion": "Optativa",
+      "Localizador": "plan PIS 603 2018-I"
+    }
+  ]
+}

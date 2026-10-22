@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# C-extensions and local site-packages installed for research
+.deps/
+.researchdeps/
+*.dist-info/
+*.libs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Temporary and test scripts
+_probar_busqueda.py
+_urls_prueba.txt
+_fuentes_lote*.json
+*.tmp

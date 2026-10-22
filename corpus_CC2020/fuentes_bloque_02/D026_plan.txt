@@ -1,0 +1,2317 @@
+
+PAGE 1
+              RESOLUCIÓN Nº 032
+              SANTA ROSA,15 de marzo de 2023
+
+VISTO:
+
+       El Expediente Nº 35/2023, registro de la Facultad de Ingeniería, caratulado: “Eleva
+R.003-23 Cd - Proyecto Diseño Curricular 2023 Ingeniería en Sistemas”; y
+
+CONSIDERANDO:
+
+      Que   mediante    las   Resoluciones  RESFC-2022-149-APN-CONEAU#ME   y
+RESFC-2022-157-APN-CONEAU#ME de la Comisión Nacional de Evaluación y Acreditación
+Universitaria (CONEAU), se procede a la convocatoria correspondiente a la acreditación de
+carreras de Ingeniería.
+
+      Que la UNLPam incorporó en 2003 dentro de su oferta académica la carrera de
+Ingeniería en Sistemas en el ámbito de la Facultad de Ingeniería (Resolución N° 196/2003 del
+Consejo Superior).
+
+      Que el Artículo 43° de la Ley de Educación Superior (LES) Nº 24.521 establece que
+los planes de estudio de carreras correspondientes a profesiones reguladas por el Estado,
+cuyo ejercicio pudiera comprometer el interés público, poniendo en riesgo de modo directo la
+salud, la seguridad o los bienes de los habitantes, deben tener en cuenta la carga horaria
+mínima, los contenidos curriculares básicos y los criterios sobre intensidad de la formación
+práctica que establezca el Ministerio de Educación de Nación en acuerdo con el Consejo de
+Universidades.
+
+      Que además  el Ministerio de Educación de Nación debe  fijar, con acuerdo del
+Consejo de  Universidades,  las  actividades  profesionales reservadas exclusivamente a
+quienes hayan obtenido un título comprendido en la nómina del Artículo 43° de dicha LES.
+
+     Que la LES en el Artículo 46° establece que la Comisión Nacional de Evaluación y
+Acreditación  Universitaria (CONEAU) es el organismo descentralizado, que funciona en
+jurisdicción del Ministerio de Educación.
+
+     Que dicho organismo tiene entre sus funciones la de acreditar las carreras de grado a
+que se refiere el Artículo 43°, cualquiera sea el ámbito en que se desarrollen, conforme a los
+estándares que establezca  el  Ministerio de Educación en consulta con el Consejo de
+Universidades.
+
+     Que en  el año 2008,  el  Ministerio de Educación de Nación incluye  el  título de
+INGENIERO EN SISTEMAS DE INFORMACIÓN/INFORMÁTICA en el régimen del Artículo
+43° de la LES (Resolución Ministerial 852/2008).
+
+PAGE 2
+                            Corresponde Resolución N° 032/2023
+
+      Que a  continuación  el mismo organismo aprueba  los Contenidos Curriculares
+Básicos, la Carga Horaria Mínima, los Criterios de Intensidad de la Formación Práctica y los
+Estándares para la Acreditación de las carreras correspondientes a los títulos de INGENIERO
+EN SISTEMAS DE INFORMACIÓN/INFORMÁTICA, así como la nómina de Actividades
+Reservadas (Resolución Ministerial N° 786/2009).
+
+     Que con el objetivo de cumplir con los estándares de acreditación detallados en la
+mencionada Resolución Ministerial y para atender las recomendaciones de CONEAU, que
+surgen de los procesos de acreditación, se han efectuado reformas al Diseño Curricular
+original de la carrera Ingeniería en Sistemas de la Facultad de Ingeniería de la UNLPam a
+través de la Resolución N° 146/2011 de Consejo Superior.
+
+     Que la Resolución Nº 1221/2012 de CONEAU, con fecha 18 de diciembre de 2012,
+acredita por tres años la carrera Ingeniería en Sistemas de la Facultad de Ingeniería de la
+Universidad Nacional de La Pampa (UNLPam), aprobada por Resolución N° 146/2011 del
+Consejo Superior.
+
+     Que mediante Resolución N° 378/2014 del Consejo Superior se aprueba la reforma del
+Diseño Curricular 2011 de la carrera Ingeniería en Sistemas.
+
+     Que la carrera se presentó a la Convocatoria correspondiente a la acreditación de
+carreras de  ingeniería, Segunda Fase, establecida en  la Resolución Nº 967/2015 de
+CONEAU.
+
+     Que el informe del Comité de Pares de CONEAU definió tres déficits, entre los cuales
+uno de ellos implicó la modificación del Diseño Curricular de Ingeniería en Sistemas aprobado
+mediante Resolución N° 378/2014 de Consejo Superior.
+
+       Que, a consecuencia de ello, mediante Resolución N° 213/2017 del Consejo Superior
+se aprueba el Diseño Curricular 2017 de la carrera de Ingeniería en Sistemas en la Facultad
+de Ingeniería de la UNLPam.
+
+      Que la Resolución de CONEAU RESFC-2017-456-APN-CONEAU#ME, con fecha 11
+de Octubre de 2017, extiende la acreditación de la carrera de Ingeniería en Sistemas de la
+Facultad de Ingeniería de la Universidad Nacional de La Pampa por un período de tres años
+computados a partir del vencimiento de la acreditación otorgada por Resolución Nº 1221/2012
+de CONEAU.
+
+      Que en 2013 el Consejo de Universidades consideró necesaria una revisión de la
+aplicación del Artículo 43° de la LES, a partir de la experiencia recogida durante más de una
+década de aplicación. Como resultado de dicho trabajo, el Ministerio de Educación emite la
+Resolución Ministerial N° 1254/2018 que determina los Alcances del Título y define las
+
+
+
+                                                                          1
+
+PAGE 3
+                            Corresponde Resolución N° 032/2023
+
+Actividades  Profesionales  Reservadas  exclusivamente  al  Título  de INGENIERO EN
+SISTEMAS DE INFORMACIÓN/INFORMÁTICA en su Anexo XXXII.
+
+       Que, mediante Resolución Ministerial N° 1557/2021,  el Ministerio de Educación
+modifica la Resolución ME N° 786/09 respecto de los Contenidos Curriculares Básicos, Carga
+Horaria Mínima, Criterios de Intensidad de la Formación Práctica y Estándares para la
+Acreditación    de     las    carreras    de   INGENIERÍA   EN   SISTEMAS   DE
+INFORMACIÓN/INFORMÁTICA y aprueba  los nuevos Contenidos Curriculares Básicos,
+Carga Horaria Mínima, Criterios de Intensidad de la Formación Práctica y Estándares para la
+Acreditación de la carrera mencionada.
+
+      Que el Consejo Federal de Decanos de Ingeniería (CONFEDI), del cual la Facultad
+de Ingeniería es miembro, aprobó la “Propuesta de Estándares de Segunda Generación para
+la  Acreditación de  Carreras de  Ingeniería en  la República Argentina  (Libro Rojo de
+CONFEDI)”. En la misma se fijan las condiciones curriculares e institucionales comunes a
+todas las carreras de Ingeniería. La propuesta se encuentra construida, a partir de un cambio
+de paradigma pedagógico y  curricular, desde  la  formación basada en competencias,
+lineamiento que se sigue en la elaboración de este nuevo diseño curricular.
+
+     Que la Resolución de CONEAU N° RESFC-2022-149-APN-CONEAU#ME convoca a
+proceso de acreditación a todas las carreras de Ingeniería, con el carácter previsto en el
+inciso b. del Artículo 43° de la LES, incluyendo a Ingeniería en Sistemas.
+
+     Que, según Artículo 2° de la misma Resolución, se organiza la convocatoria en etapas.
+
+     Que las carreras que se incluyen en la primera etapa son aquellas “cuyo plazo de
+acreditación haya vencido al 31 de diciembre de 2018, carreras que deban iniciar su primer
+ciclo de acreditación y carreras que, habiendo sido acreditadas como proyectos, hayan
+completado el ciclo de duración teórica a la fecha establecida para la presentación de esta
+etapa”.
+
+     Que la Resolución de CONEAU, RESFC-2017-456-APN-CONEAU#ME, que extendió
+la acreditación de la carrera en la Facultad de Ingeniería, fija la fecha de vencimiento de la
+acreditación de la carrera de Ingeniería en Sistemas el día 18 de diciembre de 2018.
+
+     Que debido a la fecha de vencimiento mencionada, dicha carrera debe presentarse
+para  la acreditación en CONEAU en  la primera etapa establecida por Resolución N°
+RESFC-2022-149-APN-CONEAU#ME.
+
+     Que, según Artículo 4° de la RESFC-2022-149-APN-CONEAU#ME, se establecen las
+siguientes fechas para la presentación:
+
+
+
+
+                                                                          2
+
+PAGE 4
+                            Corresponde Resolución N° 032/2023
+
+      ●  Formalización de la presentación a través de CONEAU Global y apertura del
+             Expediente Electrónico a través de la Plataforma TAD (Trámite a Distancia): 14
+            de Octubre de 2022.
+      ●  Fecha  límite para  la presentación del formulario CONEAU Global con la
+              respectiva autoevaluación CPRES Metropolitano, Noreste, Noroeste y Sur: 31
+            de mayo de 2023.
+
+     Que  la  Universidad  Nacional de La Pampa generó  la apertura del Expediente
+Electrónico y la Facultad de Ingeniería formalizó su presentación en CONEAU Global en los
+tiempos establecidos.
+
+     Que además  la Resolución de CONEAU N° RESFC-2022-157-APN-CONEAU#ME,
+convoca de manera  voluntaria a  las instituciones universitarias que dictan carreras de
+ingeniería y sistemas, que se mencionan en la convocatoria nacional, a participar del proceso
+de acreditación por el Sistema ARCU-SUR.
+
+     Que en la apertura de Expediente por parte de la Universidad Nacional de La Pampa
+se solicita no sólo la inclusión de la carrera Ingeniería en Sistemas al proceso de acreditación
+Nacional, sino también a la convocatoria ARCU-SUR.
+
+     Que desde la Dirección de la carrera y la Secretaría Académica se coordinó el proceso
+de transformación curricular a partir de la construcción colectiva con docentes, estudiantes,
+graduados/as y agentes no docentes.
+
+     Que en dicho proceso mantuvo una activa participación la Comisión Curricular de la
+carrera de Ingeniería en Sistemas.
+
+     Que  los cambios más  significativos en  relación  al Diseño Curricular 2017 están
+vinculados a la revisión y actualización de los contenidos curriculares y la carga horaria, en
+concordancia con la evolución de la disciplina Informática, de los avances tecnológicos y
+científicos relacionados a ella y de los descriptores y ejes que exige la Resolución Ministerial
+de estándares.
+
+     Que se plantea una malla curricular centrada en el estudiante, desde la formación
+basada en competencias, siendo esta la primera carrera que se presenta siguiendo esta
+perspectiva en la UNLPam y la Facultad de Ingeniería en particular.
+
+      Que con estos insumos se construyó  el nuevo Diseño Curricular de la Carrera
+Ingeniería en Sistemas que implicó  la elaboración de: propósito clave, perfil de egreso,
+competencias considerando  las  actividades reservadas a esta  titulación y  criterios de
+realización que deben evidenciarse en los graduados. Además de los nuevos programas de
+
+
+
+
+                                                                          3
+
+PAGE 5
+                            Corresponde Resolución N° 032/2023
+
+las asignaturas y las correspondientes matrices de contribución de cada asignatura a las
+competencias y los ejes.
+
+      Que el Consejo Directivo de la Facultad de Ingeniería aprobó las Competencias y los
+Criterios de Realización correspondientes al perfil del/de la Ingeniero/a en Sistemas mediante
+la Resolución N° 001/2023 del Consejo Directivo.
+
+     Que  se  definieron  competencias  del   perfil  de  egreso,  contenidos  mínimos,
+distribuciones vertical y horizontal considerando las normativas correspondientes.
+
+      Que este Diseño  Curricular debe indicar las equivalencias respecto del Diseño
+Curricular 2017 de la carrera de Ingeniería en Sistemas y también determinar todas las
+Equivalencias que correspondan con otros diseños curriculares de carreras de la disciplina
+Informática de la Facultad de Ingeniería, en el marco del Reglamento de Equivalencias y
+Acreditaciones  de  la UNLPam  (Resolución  del  Consejo  Superior N°  147/2002),  el
+“Reglamento de equivalencias puntuales” de  la Facultad de Ingeniería (Resolución del
+Consejo Directivo N° 113/2002 ) y atendiendo el concepto de “asignatura común” (Resolución
+del Consejo Directivo N° 002/2023 ).
+
+     Que dado que por Resolución Nº 297/2011 el Consejo Superior de la UNLPam
+encomienda a cada Unidad Académica la incorporación de las Prácticas Comunitarias en los
+Planes de Estudio de todas las carreras de grado, se mantiene esta actividad en el plan
+elaborado.
+
+     Que por Resolución N° 243/2011 del Consejo Superior se aprobó la “Guía para la
+presentación de diseños  curriculares de nuevas carreras o la reformulación de las ya
+existentes".
+
+     Que esta presentación de reformulación de diseño curricular se ajusta a la misma en
+casi todos sus términos, a excepción del apartado “3.3.5. Congruencia interna de la carrera”
+en la que se debía indicar  la congruencia entre las actividades profesionales del título
+establecidas en el punto 2.3, de la citada resolución, y los contenidos de las actividades
+curriculares de  la  carrera. Dado que este diseño curricular se ha formulado desde la
+formación basada en competencias es que la congruencia interna se presenta analizando las
+asignaturas y el aporte que realizan las mismas al perfil profesional delimitado basado en las
+competencias definidas.
+
+     Que se deja expresamente aclarado que para atender a la implementación de la
+modificación proyectada no se requiere financiamiento presupuestario adicional.
+     Que estatutariamente corresponde al Consejo Directivo aprobar y proponer al Consejo
+Superior su evaluación y tratamiento.
+
+
+
+
+                                                                          4
+
+PAGE 6
+                            Corresponde Resolución N° 032/2023
+
+     Que el Consejo Directivo en Reunión Extraordinaria del día 17/02/2023 aprobó por
+unanimidad el despacho presentado por las Comisiones de Legislación y Reglamento y de
+Enseñanza.
+
+    Que por Resolución Nº 003/2023 del Consejo Directivo se propone al Consejo Superior
+el tratamiento y aprobación del Diseño Curricular 2023 de la carrera “Ingeniería en Sistemas”.
+
+    Que la Comisión de Enseñanza e Investigación del Consejo Superior emite despacho
+en tal sentido el que, puesto a consideración del Cuerpo en Sesión Ordinaria del día de la
+fecha, resulta aprobado por unanimidad con modificaciones.
+
+POR ELLO,
+
+       EL CONSEJO SUPERIOR DE LA UNIVERSIDAD NACIONAL DE LA PAMPA
+
+                             RESUELVE:
+
+ARTÍCULO 1º: Aprobar el Diseño Curricular 2023 de la carrera “Ingeniería en Sistemas” de la
+Facultad de Ingeniería de la Universidad Nacional de La Pampa, cuyo texto completo forma
+parte, como Anexo, de la presente Resolución.
+ARTÍCULO 2º: Mantener la vigencia del Diseño Curricular 2017 de la carrera Ingeniería en
+Sistemas aprobado mediante Resolución Nº 213/2017 del Consejo Superior durante seis
+años académicos a partir del reconocimiento oficial del título por parte del Ministerio de
+Educación, exclusivamente para el estudiantado que la esté cursando.
+ARTÍCULO 3º: Establecer que para atender la implementación del presente Diseño Curricular
+de la carrera Ingeniería en Sistemas, no se requiere financiamiento presupuestario adicional.
+ARTÍCULO 4º: Regístrese, comuníquese. Pase a conocimiento de la Secretaría Académica y
+a la Facultad de Ingeniería de la UNLPam. Cumplido, archívese.
+                           Firmado
+                              digitalmente
+                            por Cristian
+                              Parodi
+         Secretaría de Consejo Superior                            Presidencia
+          y Relaciones Institucionales                        Consejo Superior
+       Universidad Nacional de La Pampa               Universidad Nacional de La Pampa
+
+
+
+
+
+                                                                          5
+
+PAGE 7
+                            Corresponde Resolución N° 032/2023
+
+                           ANEXO
+
+                      DISEÑO CURRICULAR 2023
+                         INGENIERÍA EN SISTEMAS
+
+
+1.  IDENTIFICACIÓN DE LA CARRERA
+    1.1. FUNDAMENTOS
+       1.1.1.Necesidades
+      La Facultad de Ingeniería de la Universidad Nacional de la Pampa (UNLPam) cuenta
+con seis carreras de grado. Todas ellas fueron presentadas a procesos de acreditación de la
+Comisión Nacional de Evaluación y Acreditación Universitaria (CONEAU) obteniendo su
+debida validación por parte de dicho organismo. En el caso particular de la carrera Ingeniería
+en Sistemas, el Plan 2011 (aprobado por Resolución N° 146/2011 de Consejo Superior) se
+presentó en convocatoria de CONEAU y obtuvo la acreditación de la carrera por tres años,
+con compromisos establecidos para la Institución. En una segunda instancia, luego de la
+presentación de nuevos planes (siendo el Diseño Curricular 2017 el último aprobado por
+Resolución N° 213/2017 de Consejo  Superior)  la carrera obtiene  la extensión de  la
+acreditación por tres años más, teniendo como fecha de vencimiento el 18 de diciembre de
+2018.
+
+      La presentación de dicha carrera se ajustó a  lo pautado por el Ministerio de
+Educación en la Resolución Ministerial N° 786/2009 que aprobó los Contenidos Curriculares
+Básicos, la carga horaria mínima, los criterios de Intensidad de la Formación Práctica y los
+Estándares para la Acreditación de dicha titulación.
+
+      En relación a la normativa y directiva nacional relacionada al título Ingeniería en
+Sistemas se considera necesario destacar algunos puntos:
+  ●  En 2013,  el Consejo de Universidades consideró necesaria una revisión de la
+        aplicación del Artículo 43° de la Ley de Educación Superior (LES), a partir de la
+        experiencia recogida durante más de una década de aplicación. Como resultado de
+        dicho trabajo, el Ministerio de Educación emite la Resolución ME N° 1254/2018 que
+       determina los Alcances del Título y define las Actividades Profesionales Reservadas
+       exclusivamente     al     título    de   INGENIERO   EN   SISTEMAS   DE
+      INFORMACIÓN/INFORMÁTICA en su Anexo XXXII.
+  ●  Posteriormente,  el  Ministerio de Educación, mediante Resolución Ministerial N°
+       1557/2021, modifica la Resolución Ministerial N° 786/09 respecto de los Contenidos
+        Curriculares Básicos, Carga Horaria Mínima, Criterios de Intensidad de la Formación
+        Práctica y Estándares para la Acreditación de las carreras de Ingeniería en Sistemas
+       de Información/Informática. La normativa fija nuevos estándares de acreditación; por
+        tanto dicho acto implica una nueva convocatoria para carreras de Ingeniería de parte
+       de CONEAU. De esta manera, este último organismo convoca mediante Resolución
+
+
+
+                                                                          6
+
+PAGE 8
+                            Corresponde Resolución N° 032/2023
+
+       N.° RESFC-2022-149-APN-CONEAU#ME a proceso de acreditación a todas las
+        carreras de Ingeniería, separando el proceso en etapas.
+  ●  Además, el Consejo Federal de Decanos de Ingeniería (CONFEDI) aprueba en junio
+       de 2018 la “Propuesta de Estándares de Segunda Generación para la Acreditación
+       de Carreras de Ingeniería en la República Argentina (Libro Rojo de CONFEDI)”. En la
+      misma se fijan las condiciones curriculares e institucionales comunes a todas las
+        carreras de Ingeniería. La propuesta se encuentra construida, a partir de un cambio
+       de perspectiva pedagógica y curricular, desde la formación basada en competencias.
+        Diversos estudios históricos expresan que la Universidad ha mantenido durante sus
+       años de  historia una  visión  enciclopédica de  la enseñanza, posicionando  los
+        contenidos en el centro de las prácticas. De esta manera, la nueva perspectiva
+       propuesta por CONFEDI plantea un desafío para las Universidades de todo el país y,
+        específicamente para las unidades académicas que dictan carreras de Ingeniería. La
+        formación basada en  competencias  favorece  la  formación en  conocimientos,
+        destrezas y habilidades necesarias que le pueden permitir al graduado o a la
+       graduada intervenir en una comunidad cambiante, para satisfacer las necesidades
+        vertiginosas que proponen los desafíos regionales, nacionales e internacionales en la
+        actualidad.
+      De esta manera, y como se expresa anteriormente,  la nueva convocatoria de
+CONEAU separa en etapas la presentación de carreras, teniendo en cuenta la fecha de
+vencimiento como parámetro. La carrera de Ingeniería en Sistemas de la Facultad de
+Ingeniería de la UNLPam, considerando su fecha de fin de plazo, debe presentarse en la
+primera etapa que tiene como fecha límite para la presentación el día 31 de mayo de 2023.
+       Ante esta demanda formal y la necesidad de actualización curricular en una carrera
+donde  las  vertiginosas  transformaciones en cuanto a  la tecnología son  centrales, se
+desarrolló  el  proceso de  transformación  curricular.  Este  último  fue  llevado a cabo
+considerando los estándares de acreditación definidos por el Ministerio de Educación, la
+formación basada en competencias,  las recomendaciones de CONEAU,  los avances
+tecnológicos en relación a la informática y la idiosincrasia institucional y regional. Desde la
+Dirección de Carrera de Ingeniería en Sistemas y la Secretaría Académica se coordinó un
+proceso de construcción colectiva donde participaron docentes, graduados/as, estudiantes y
+agentes n docentes. Durante todo el proceso se mantuvo una activa participación de los
+integrantes de la Comisión Curricular de la carrera de Ingeniería en Sistemas. La amplia
+participación en dicho proceso de revisión, evaluación y análisis de cambios, desde la
+diversidad de roles institucionales, ha permitido elaborar una propuesta consistente con los
+objetivos planteados.
+        El mencionado proceso comenzó con la revisión del Diseño Curricular 2017 y la
+actualización de los contenidos, a la luz de la evolución de la disciplina Informática y de los
+avances tecnológicos y científicos relacionados a ella. Este estudio ha demandado un trabajo
+coordinado con el cuerpo docente, no sólo para revisar los contenidos de las asignaturas a
+cargo sino también para trabajar en la elaboración de una malla curricular centrada en el
+estudiante. La misma debe considerar los procesos de enseñanza y de aprendizaje que debe
+
+
+
+                                                                          7
+
+PAGE 9
+                            Corresponde Resolución N° 032/2023
+
+transitar el estudiantado, además de responder a la construcción de un nuevo perfil elaborado
+desde la formación basada en competencias. Esta es la primera propuesta académica que se
+presenta siguiendo esta perspectiva en la UNLPam.
+      Además, para enriquecer este proceso de  revisión, se  realizaron encuestas a
+graduados/as y estudiantes avanzados/as, para evaluar, a través de su experiencia laboral
+reciente, los aciertos y déficits que ellos/as han observado en el cursado reciente de la
+carrera.
+      Con todos estos insumos se construyó el nuevo Diseño Curricular 2023 de la Carrera
+Ingeniería en Sistemas que implicó la elaboración de: propósito clave, competencias y su
+desagregación en niveles de complejidad, criterios de realización que deben evidenciarse en
+los graduados, los nuevos programas de las asignaturas y las correspondientes matrices de
+contribución de cada asignatura a las competencias y ejes. Otros cambios están vinculados a
+la fusión de algunas asignaturas, el desplazamiento de otras para favorecer la articulación
+vertical y horizontal, la incorporación de contenidos y ejes que exige la Resolución Ministerial
+de estándares y la adecuación de la cantidad de horas totales de todas las asignaturas.
+También se eliminaron algunas asignaturas en este nuevo Diseño Curricular debido a que sus
+contenidos  ya no  figuran en  los  descriptores, como  lo  son: Química, Sistemas de
+Representación e Ingeniería y Sistemas Socioeconómicos. Las asignaturas que presentan
+cambios  significativos  son  Física  General,  Sistemas  y  Organizaciones y  Legislación
+Informática. Física General surge como una propuesta académica específica que cubra los
+contenidos  estrictamente  necesarios para esta  carrera, retomando así  la idea  original
+plasmada en el primer plan de estudios de la misma. La segunda nombrada se constituye en
+una nueva propuesta que toma contenidos de las asignaturas Sistemas Organizacionales I y
+II, e incorpora nuevos. Por su parte, Legislación Informática surge a partir de la asignatura
+Legislación, común a todas las carreras de Ingeniería de la Facultad, y se reemplaza ya que
+en Ingeniería en Sistemas requiere abordar temas legales distintivos a la realidad de la
+disciplina.
+       Este proceso de transformación curricular también se ve estimulado por el hecho de
+que la carrera de Ingeniería en Sistemas cuenta con la mayor cantidad de inscripciones por
+año en relación a las demás ofertas académicas de la Facultad. A continuación, se presenta
+la siguiente tabla donde se muestran las inscripciones en los últimos diez años:
+
+
+
+
+
+                                                                          8
+
+PAGE 10
+                            Corresponde Resolución N° 032/2023
+
+
+
+
+
+       Los números de inscripciones presentados muestran la demanda de dicha oferta
+académica, en la provincia y la región, en relación a la totalidad de carreras de la Facultad de
+Ingeniería.
+       Por otra parte, es necesario destacar que desde el comienzo del dictado de esta
+carrera, los/as egresados/as han tenido una rápida inserción laboral tanto en instituciones
+públicas como privadas de la provincia, la región y el país. Incluso, con el teletrabajo que se
+extendió como efecto colateral de la pandemia de COVID-19 que se atravesó en 2020-2021,
+graduados/as de la Facultad tuvieron la oportunidad de trabajar para empresas del exterior,
+algunos iniciando de forma remota para finalmente emigrar.
+        Al igual que lo que se viene observando en universidades a lo largo del país, la
+inserción laboral no está cerrada a los/as graduados/as sino que se extiende también a los/as
+estudiantes con mayor grado de avance de la carrera. Ello, si bien es un beneficio importante
+para ellos/as, contribuye a una extensión en la duración del cursado de la carrera y muchas
+veces  al abandono. La Facultad de Ingeniería  intenta mitigar este efecto a través de
+Programas de Terminalidad de Carrera para incentivar la prosecución de los estudios de
+quienes se insertaron laboralmente y también para reducir el desgranamiento que se produce
+en la carrera en general.
+
+        1.1.2.Posibilidades
+      La Facultad de Ingeniería dispone de recursos económicos, humanos y tecnológicos
+para implementar el Diseño Curricular 2023. Si bien los cambios curriculares son importantes,
+la Unidad Académica cuenta con un cuerpo docente regular, en su gran mayoría con
+formación de posgrado, a cargo de la casi totalidad de las asignaturas. Para el caso de las
+nuevas asignaturas que se deben incorporar, existen docentes en el área, pero de las
+carreras de Ingeniería en Computación y Analista Programador, que pueden hacerse cargo
+del dictado de las mismas. En cuanto a los recursos tecnológicos y de laboratorio, la Facultad
+
+
+
+
+                                                                          9
+
+PAGE 11
+                            Corresponde Resolución N° 032/2023
+
+de Ingeniería dispone de instalaciones apropiadas, y además es importante mencionar que
+recientemente se ha actualizado todo el equipamiento de los distintos laboratorios.
+
+    1.2. DENOMINACIÓN DE LA CARRERA Y TITULACIONES
+        Carrera: Ingeniería en Sistemas
+         Título: Ingeniero/a en Sistemas
+         Nivel: Grado.
+
+    1.3. DEPENDENCIA DE LA CARRERA
+La carrera se desarrollará en el ámbito académico de la Facultad de Ingeniería de la
+Universidad Nacional de La Pampa. La Comisión Curricular de la carrera de Ingeniería en
+Sistemas tendrá a su cargo la implementación y el seguimiento del nuevo Diseño Curricular.
+
+    1.4. MODALIDAD DE DICTADO
+El dictado de la carrera “Ingeniería en Sistemas” será presencial.
+
+2.  HORIZONTES DE LA CARRERA
+    2.1. OBJETIVOS DE LA CARRERA
+        2.1.1.Propósito clave de la carrera
+        El propósito de esta carrera desde su creación en el año 2003, sucintamente ha sido
+y es, la de brindar una oferta educativa actualizada, acorde con las necesidades de la región
+y el país. Además, de formar profesionales competentes para gestionar conocimiento en
+forma autónoma y permanente, con compromiso ético y social, que a través del uso de las
+tecnologías de la informática, puedan resolver problemas reales en contextos heterogéneos y
+cambiantes.
+      Desde la docencia, la investigación y la extensión, se aportan métodos, tecnologías y
+herramientas que permitan la elaboración de soluciones informáticas integrales. Estas últimas
+asociadas a  las áreas de  desarrollo de sistemas de  información, de software y de
+telecomunicaciones; al uso de hardware y, por último, a la administración y organización
+empresarial. De esta forma, se propende al mejoramiento de la calidad en la formación de
+profesionales y en la producción, difusión y transferencia del conocimiento a la sociedad.
+     A lo largo del proceso formativo propuesto, las personas egresadas deben desarrollar
+un conjunto de competencias que guiarán su desempeño profesional. Competencias que
+deberían ser genéricas a todo/a profesional tanto las relacionadas a su actuación ética y
+responsable, que atienda y entienda las demandas sociales y políticas en el entorno donde se
+desempeña, como  las  actitudinales que  le favorecerá en su desarrollo laboral en una
+disciplina en constante evolución. Y otras competencias que son propias a la formación de
+un/a Ingeniero/a en Sistemas, las cuales se pueden separar en genéricas tecnológicas y
+aquellas que son específicas al perfil a alcanzar con esta propuesta formativa.
+
+      2.1.2 Objetivos Generales
+Con la carrera se pretende:
+
+
+
+                                                                         10
+
+PAGE 12
+                            Corresponde Resolución N° 032/2023
+
+  ●  Brindar una oferta educativa actualizada, acorde con las necesidades del mercado
+         laboral, y que permita formar profesionales competentes, con compromiso ético,
+         social y ambiental, que a través del uso de las tecnologías de la informática, puedan
+        resolver problemas reales en contextos heterogéneos y cambiantes.
+  ●  Concientizar  al/la futuro/a egresado/a de la necesidad de proyectar sistemas de
+        información y seleccionar  la infraestructura tecnológica de soporte, acorde a las
+       nuevas tendencias de la disciplina informática y a la evolución tecnológica.
+  ●  Favorecer el desarrollo de competencias relacionadas a una actitud crítica y reflexiva
+       en el profesional, para el análisis de las diferentes estrategias que permitan abordar
+         los desafíos de la vida profesional.
+  ●  Proponer una formación equilibrada de competencias científicas, tecnológicas y de
+        gestión, que posibiliten al profesional adaptarse rápidamente a la constante evolución
+       de la disciplina informática.
+  ●  Promover la formación de la dimensión actitudinal, además de la cognitiva, para
+          facilitar al/a la profesional el trabajo interdisciplinario, permitiendo la comunicación
+         fluida con profesionales de esta y de otras especialidades.
+  ●  Propender a la formación de profesionales capaces de generar innovaciones y/o
+        desarrollos tecnológicos.
+  ●  Consolidar a la Facultad como centro científico-tecnológico de la región, tomando
+      como pilar fundamental el capital más importante que la institución posee: el Recurso
+      Humano.
+  ●   Contribuir al desarrollo nacional y regional con creatividad y multiplicidad de visión.
+
+    2.2. PERFIL DEL TÍTULO
+Las Competencias del Perfil del/ de la Ingeniero/a en Sistemas fueron definidas en un primer
+nivel en tres grupos:
+             i) Competencias Genéricas Sociales, Políticas y Actitudinales
+              ii) Competencias Genéricas Tecnológicas
+               iii) Competencias Específicas.
+
+Las siguientes tablas presentan las competencias de estos tres grandes grupos.
+
+      COMPETENCIAS GENÉRICAS SOCIALES, POLÍTICAS Y ACTITUDINALES
+
+ CGS1   Desempeñarse de manera efectiva en equipos de trabajo
+
+ CGS2   Comunicarse de forma efectiva y clara
+
+ CGS3    Actuar con ética, responsabilidad profesional y compromiso social
+
+          Evaluar y actuar en relación con el impacto económico, social y ambiental de su
+ CGTU
+           actividad en el contexto local, regional y global
+
+
+
+
+                                                                              11
+
+PAGE 13
+                            Corresponde Resolución N° 032/2023
+
+ CGS5   Aprender en forma continua y autónoma
+
+ CGS6    Desarrollar una actitud emprendedora en el abordaje de sistemas de información
+
+
+               COMPETENCIAS GENÉRICAS TECNOLÓGICAS
+
+                Identificar, formular y resolver problemas de ingeniería en sistemas de
+CGT1
+             información.
+
+             Concebir, diseñar y desarrollar proyectos de ingeniería en sistemas de
+CGT2
+             información.
+
+             Gestionar, planificar, ejecutar y controlar proyectos de ingeniería en sistemas de
+CGT3
+             información.
+
+                Utilizar técnicas y herramientas de aplicación en la ingeniería en sistemas de
+CGT4
+             información
+
+CGT5       Generar desarrollos tecnológicos y/o innovaciones tecnológicas.
+
+           Conocer e interpretar los conceptos, teorías y métodos matemáticos, relativos a
+CGT6         la ingeniería en sistemas de información, a partir de problemas concretos de la
+               disciplina.
+
+              Desarrollar y aplicar pensamiento lógico, deductivo y abstracto para la
+CGT7
+              interpretación de problemas y búsqueda de su resolución.
+
+
+                     COMPETENCIAS ESPECÍFICAS
+
+          PRIMER NIVEL
+
+CE1          Especificar, proyectar y desarrollar sistemas de información
+
+CE2          Especificar, proyectar y desarrollar sistemas de comunicación de datos
+
+CE3          Especificar, proyectar y desarrollar software
+
+CE4         Proyectar y dirigir políticas de seguridad informática
+
+CE5         Establecer métricas y normas de calidad de software.
+
+
+
+
+                                                                          12
+
+PAGE 14
+                            Corresponde Resolución N° 032/2023
+
+
+              Auditar y certificar el funcionamiento, condición de uso o estado de sistemas de
+CE6          información, sistemas de comunicación de datos, software, seguridad
+              informática y calidad de software.
+
+                 Dirigir y controlar la implementación, operación y mantenimiento de sistemas de
+CE7          información, sistemas de comunicación de datos, software, seguridad
+              informática y calidad de software.
+
+CE8         Organizar y dirigir el área de sistemas de una organización
+
+              Realizar  pericias  y  tasaciones en sistemas de  información, sistemas de
+CE9
+            comunicación de datos, software, seguridad informática y calidad de software.
+
+              Realizar tareas de investigación, docencia y extensión en el área disciplinar de la
+CE10
+              informática y su aplicación en otras áreas.
+
+                Planificar, diseñar, dirigir y realizar la capacitación de usuarios en la utilización
+CE11       de sistemas de información, sistemas de comunicación de datos, software,
+             seguridad informática y calidad de software.
+
+ Particularmente, las Competencias Específicas se desagregan en dos o tres niveles según su
+grado de complejidad. El conjunto completo de competencias para la carrera de Ingeniería en
+Sistemas y su correspondiente desagregación fue aprobada por el Consejo Directivo de la FI
+de la UNLPam mediante Resolución N° 001/2023. La contribución de cada asignatura de la
+ carrera a cada una de las competencias será indicada en cada uno de los programas,
+mediante un código único asignado en dicha resolución.
+De  la misma manera,  los  Criterios de Realización correspondientes  al  perfil del/de la
+ Ingeniero/a en Sistemas, que cada asignatura pueda evaluar o medir, se detallan en la
+Resolución N° 001/2023 del Consejo Directivo en su Anexo  II con su correspondiente
+desagregación. A continuación se listan los Criterios de Realización genéricos:
+     1.  Conoce y aplica las competencias básicas de la disciplina informática.
+     2.  Identifica y analiza situaciones problemáticas y proyecta y evalúa posibles soluciones
+         utilizando la informática.
+     3.  Diseña e implementa sistemas informáticos.
+     4.  Evalúa y perita sistemas informáticos.
+     5.  Comprende la relevancia de considerar el contexto económico, jurídico, social, ético y
+        medioambiental en el desempeño de su práctica profesional.
+     6.  Demuestra competencias organizativas, comunicacionales y participativas en su
+       desempeño individual y grupal.
+
+
+
+
+
+                                                                          13
+
+PAGE 15
+                            Corresponde Resolución N° 032/2023
+
+Finalmente, se indican los Ejes y Enunciados multidimensionales y transversales definidos
+mediante Resolución Ministerial N° 1557/2021 para la carrera de Ingeniería en Sistemas, que
+deben tener congruencia con las competencias definidas para este Diseño Curricular. La
+contribución se asignará por asignatura. Los 18 Ejes y Enunciados son:
+    1.  Especificación, proyecto y desarrollo de sistemas de información.
+    2.  Especificación, proyecto y desarrollo de sistemas de comunicación de datos.
+    3.  Especificación, proyecto y desarrollo de software.
+    4.  Proyecto y dirección en lo referido a seguridad informática.
+    5.  Establecimiento de métricas y normas de calidad de software.
+    6.  Procedimientos y certificaciones del funcionamiento, condición de uso o estado de
+       sistemas de información, sistemas de comunicación de datos, software, seguridad
+        informática y calidad de software.
+    7.  Dirección y control de la implementación, operación y mantenimiento de sistemas de
+        información, sistemas de comunicación de datos, software, seguridad informática y
+        calidad de software.
+    8.  Identificación, formulación y resolución de problemas de ingeniería en sistemas de
+        información/informática.
+    9.  Concepción,  diseño  y  desarrollo de  proyectos de  ingeniería en sistemas de
+        información / informática.
+    10. Gestión, planificación, ejecución y control de proyectos de ingeniería en sistemas de
+        información / informática.
+    11. Utilización de técnicas y herramientas de aplicación en la ingeniería en sistemas de
+        información / informática.
+    12. Generación de desarrollos tecnológicos y/o innovaciones tecnológicas.
+    13. Desempeño en equipos de trabajo.
+    14. Comunicación efectiva.
+    15. Actuación profesional ética y responsable.
+    16. Evaluación y actuación en relación con el impacto social de su actividad profesional
+       en el contexto global y local.
+    17. Aprendizaje continuo.
+    18. Desarrollo de una actitud profesional emprendedora.
+
+    2.3. ALCANCES O ACTIVIDADES PROFESIONALES DEL TÍTULO
+       Las actividades profesionales reservadas al título Ingeniero/a en Sistemas, definidas
+por Resolución Ministerial N° 1254/2018 (Anexo XXXII) son:
+
+    1.  Especificar,  proyectar  y  desarrollar  sistemas  de  información,  sistemas  de
+       comunicación de datos y software cuya utilización pueda afectar la seguridad, salud,
+       bienes o derechos.
+    2.  Proyectar y dirigir lo referido a seguridad informática.
+    3.  Establecer métricas y normas de calidad de software.
+
+
+
+
+                                                                         14
+
+PAGE 16
+                            Corresponde Resolución N° 032/2023
+
+    4.  Certificar  el  funcionamiento,  condición  de  uso o  estado de  lo mencionado
+        anteriormente.
+    5.   Dirigir y controlar la implementación, operación y mantenimiento de lo anteriormente
+       mencionado.
+
+Son alcances del título de Ingeniero/a en Sistemas:
+    6.  Evaluar y seleccionar  los lenguajes de  especificación, herramientas de diseño,
+       procesos de  desarrollo, lenguajes de programación y arquitectura de software
+        relacionados con el punto 1.
+    7.  Evaluar y seleccionar las arquitecturas tecnológicas de procesamiento, sistemas de
+       comunicación de datos y software de base, para su utilización por el software
+        vinculado al punto 1.
+    8.  Diseñar metodologías y tecnologías para el desarrollo de software vinculados al
+       punto 1.
+    9.  Realizar arbitrajes, peritajes y tasaciones referidas a las áreas específicas de su
+        aplicación y entendimiento.
+
+3.  DISEÑO CURRICULAR DE LA CARRERA
+    3.1. REQUISITOS DE INGRESO A LA CARRERA
+Los requisitos de ingreso a la carrera serán aquellos que se encuentren vigentes en el
+Estatuto de la Universidad Nacional de La Pampa y en la normativa de la Facultad de
+Ingeniería.
+
+    3.2. DURACIÓN ESTIMADA
+La duración de la carrera es de cinco años.
+
+    3.3. ESTRUCTURA Y ORGANIZACIÓN DEL PLAN DE ESTUDIO
+Características: Este diseño curricular de carrera consta de 38 asignaturas cuatrimestrales y
+de los espacios curriculares: Proyecto Final, Práctica Profesional Supervisada y Práctica
+Comunitaria. Está diseñada para desarrollarse en cinco años con una carga de 3820 horas.
+La agrupación de las asignaturas por Bloques de Conocimiento es la siguiente:
+  ●  Ciencias Básicas de  la  Ingeniería:  Incluye  los contenidos  curriculares y  los
+       fundamentos necesarios para el desarrollo de las competencias lógico-matemáticas y
+         científicas para la carrera de Ingeniería en Sistemas, en función de los avances
+         científicos y tecnológicos, a  fin de asegurar una formación conceptual para el
+        sustento de la disciplina. Comprende 10 asignaturas distribuidas en 812 horas (812
+       de 3820 —- 21.26 %).
+  ●  Tecnológicas Básicas: Incluye los contenidos curriculares basados en las ciencias
+       exactas y  naturales y  los fundamentos  necesarios para  el  desarrollo de  las
+       competencias científico-tecnológicas que permiten la modelación de los fenómenos
+        relevantes a la Ingeniería en Sistemas en formas aptas para su manejo y eventual
+         utilización en sistemas o procesos. Sus principios fundamentales son aplicados luego
+
+
+
+                                                                         15
+
+PAGE 17
+                            Corresponde Resolución N° 032/2023
+
+       en la resolución de problemas propios de la carrera. Comprende 9 asignaturas
+         distribuidas en 832 horas (832 de 3820 —- 21,78 %).
+  ●  Tecnológicas Aplicadas: Incluye los contenidos curriculares para la aplicación de
+         las Ciencias Básicas de la Ingeniería y las Tecnologías Básicas y los fundamentos
+        necesarios para el diseño, cálculo y proyecto de sistemas, componentes, procesos o
+        productos, para la resolución de problemas y para el desarrollo de las competencias
+        propias de la carrera Ingeniería en Sistemas. Comprende las horas de Práctica
+        Profesional Supervisada, Trabajo Final y las correspondientes a 15 asignaturas
+         distribuidas en 1368 horas (1368 de 3820 —- 35.81%).
+  ●  Ciencias y Tecnologías Complementarias: Incluye los contenidos curriculares y los
+       fundamentos necesarios para poner la práctica de la Ingeniería en el contexto
+        profesional, social, histórico, ambiental y económico en que ésta se desenvuelve,
+       asegurando el desarrollo de las competencias sociales, políticas y actitudinales del
+        ingeniero/a para el desarrollo sostenible. Comprende 4 asignaturas distribuidas en
+       368 horas (368 de 3820 – 9,63%).
+
+El detalle de las asignaturas por Áreas de Conocimiento se detallan a continuación:
+
+Ciencias Básicas de la Ingeniería:
+
+    ●Preliminares de Matemática             ●Matemática Discreta
+   ●Álgebra                            ●Cálculo Avanzado
+    ●Análisis Matemático I-a                 ●Física General
+    ●Análisis Matemático I-b               ●Métodos Numéricos
+   ●Geometría Analítica                     ●Probabilidad y Estadística
+
+Tecnológicas Básicas:
+
+   ●  Introducción a la Informática          ●  Programación Lógica y Funcional
+   ●  Programación Procedural           ●  Programación Orientada a la Web
+   ●  Estructuras de Datos y Algoritmos      ●  Autómatas y Lenguajes
+   ●  Arquitectura de Computadoras        ●  Modelos y Simulación
+   ●  Programación Orientada a Objetos
+
+Tecnológicas Aplicadas:
+
+    ●Análisis y Diseño de Sistemas I          ●Gestión de Calidad y Auditoría
+   ●Base de Datos I                     ●Sistemas Distribuidos I
+   ●Redes y Comunicaciones I               ●Ingeniería de Software II
+   ●Sistemas Operativos                  ●Seguridad Informática
+
+
+
+                                                                         16
+
+PAGE 18
+                            Corresponde Resolución N° 032/2023
+
+    ●Análisis y Diseño de Sistemas II          ●Sistemas Distribuidos II
+    ●Laboratorio     de     Redes     y   ●Base de Datos II
+      Comunicaciones                     ●Sistemas Inteligentes
+    ●Ingeniería de Software I
+   ●Redes y Comunicaciones II
+
+Ciencias y Tecnologías Complementarias:
+
+   ●Sistemas y Organizaciones            ●Economía y Gestión de Empresas
+    ●Legislación Informática                 ●Seguridad,    Higiene    y    Gestión
+                                                   Ambiental
+
+Además, se consideran tres actividades curriculares:
+  ●  Práctica Comunitaria: Es un espacio de aprendizaje donde se ponen en juego
+       saberes y actitudes para abordar diferentes situaciones de intervención social que
+        propicien el contacto solidario del estudiantado con la realidad. Cuenta con una carga
+        horaria de 40 horas.
+
+  ●  Práctica Profesional Supervisada: Tiene por objetivo lograr que el/la estudiante
+        adquiera práctica en su futura actividad profesional fuera del ámbito académico, al
+         frente de situaciones que pueden no ser concebidas durante el desarrollo del resto
+        del Plan de Estudio. Comprende una carga horaria de 200 horas.
+
+  ●  Proyecto  Final: Tiene  por  objetivo favorecer  la capacidad de  análisis  crítico,
+       promover la creatividad y el espíritu de innovación del estudiantado, a fin de lograr la
+        integración de los contenidos abordados a lo largo de la carrera y su aplicación en
+       áreas de incumbencia propios de un/a Ingeniero/a en Sistemas. Comprende una
+       carga horaria de 200 horas.
+
+Tanto la Práctica Profesional Supervisada como el Proyecto Final para este nuevo Diseño
+Curricular, serán reglamentados a través de resoluciones del Consejo Directivo.
+
+La formación práctica en sus diferentes modalidades (formación experimental, problemas
+abiertos de ingeniería y actividades de diseño y proyecto) en el Diseño Curricular de la
+carrera están incluidas y distribuidas en algunas horas de cátedras específicas. También se
+contabilizan en las actividades correspondientes a la Práctica Profesional Supervisada y
+Proyecto Final, alcanzando un total de 1057 horas, lo cual cubre los mínimos requeridos en
+los estándares de la resolución ministerial.
+
+      Además de la Práctica Profesional Supervisada, el espacio de Proyecto Final y la
+Práctica  Comunitaria,  la Facultad promueve actividades prácticas en  el marco de  las
+
+
+
+                                                                         17
+
+PAGE 19
+                            Corresponde Resolución N° 032/2023
+
+asignaturas específicas de  la  carrera,  tales como:  visitas a empresas, organizaciones,
+instituciones y laboratorios. Esto le permite al estudiantado profundizar la formación práctica
+en estrecha relación con el medio o el contexto en el que posteriormente deberá insertarse
+como  profesional. Además,  ello  se  vincula  con  la  necesidad de  la  formación  por
+competencias, en donde los requerimientos de las prácticas en sus diferentes modalidades y
+su estrecha articulación con el conocimiento teórico es un requisito esencial en el proceso de
+formación por competencias.
+
+         3.3.1. Selección de actividades curriculares y contenidos
+       Los contenidos mínimos de cada asignatura junto con el detalle de las competencias
+a las que aporta aparecen al final del presente documento.
+
+         3.3.2. Distribución horizontal y vertical
+         a) Distribución horizontal:
+      La distribución de las asignaturas, como así también la carga horaria semanal y total,
+se muestran en el siguiente cuadro:
+
+
+
+
+
+                                                                         18
+
+PAGE 20
+                            Corresponde Resolución N° 032/2023
+
+(*) El espacio Preliminares de Matemática se cursará en forma intensiva durante el primer
+mes del calendario académico, previo a las asignaturas de Álgebra y Análisis Matemático I-a.
+
+            b) Cómputo total de asignación horaria:
+Teniendo en cuenta todas  las  instancias,  la carga horaria del Diseño Curricular es la
+siguiente:
+
+
+
+
+
+            c)   Distribución vertical
+
+                              Para cursar tener
+      Asignaturas                                    Para aprobar tener aprobada
+                                   regularizada
+
+ Preliminares de
+ Matemática
+
+ Introducción a la
+ Informática
+
+ Análisis Matemático I-a     Preliminares de Matemática      Preliminares de Matemática
+
+ Álgebra                   Preliminares de Matemática      Preliminares de Matemática
+
+ Programación Procedural  Introducción a la Informática      Introducción a la Informática
+
+                          Álgebra - Análisis Matemático    Álgebra - Análisis Matemático
+ Matemática Discreta
+                                 I-a                                     I-a
+
+                          Álgebra - Análisis Matemático    Álgebra - Análisis Matemático
+ Geometría Analítica
+                                 I-a                                     I-a
+
+ Análisis Matemático I-b     Análisis Matemático I-a            Análisis Matemático I-a
+
+
+
+
+
+                                                                         19
+
+PAGE 21
+                           Corresponde Resolución N° 032/2023
+
+                             Análisis Matemático I-b -          Análisis Matemático I-b -
+Cálculo Avanzado
+                        Geometría Analítica            Geometría Analítica
+
+Estructuras de Datos y    Matemática Discreta -           Matemática Discreta -
+Algoritmos               Programación Procedural        Programación Procedural
+
+                         Álgebra - Análisis Matemático    Álgebra - Análisis Matemático
+Física General
+                                I-b                                     I-b
+
+Sistemas y
+                           Introducción a la Informática      Introducción a la Informática
+Organizaciones
+
+Métodos Numéricos       Cálculo Avanzado               Cálculo Avanzado
+
+                           Estructuras de Datos y           Estructuras de Datos y
+Análisis y Diseño de
+                          Algoritmos - Sistemas y          Algoritmos - Sistemas y
+Sistemas I
+                         Organizaciones                 Organizaciones
+
+                           Estructuras de Datos y           Estructuras de Datos y
+Autómatas y Lenguajes
+                          Algoritmos                       Algoritmos
+
+Probabilidad y              Análisis Matemático I-b -          Análisis Matemático I-b -
+Estadística               Álgebra                        Álgebra
+
+Arquitectura de            Estructuras de Datos y           Estructuras de Datos y
+Computadoras            Algoritmos - Física General       Algoritmos - Física General
+
+Base de Datos I            Análisis y Diseño de Sistemas I   Análisis y Diseño de Sistemas I
+
+Programación Orientada
+                             Análisis y Diseño de Sistemas I   Análisis y Diseño de Sistemas I
+a Objetos
+
+Sistemas Operativos       Arquitectura de Computadoras    Arquitectura de Computadoras
+
+Redes y Comunicaciones
+                            Arquitectura de Computadoras    Arquitectura de Computadoras
+I
+
+Programación Orientada   Base de Datos I - Programación  Base de Datos I - Programación
+a la Web                 Orientada a Objetos             Orientada a Objetos
+
+Análisis y Diseño de      Base de Datos I - Programación  Base de Datos I - Programación
+Sistemas II               Orientada a Objetos             Orientada a Objetos
+
+
+
+
+
+                                                                        20
+
+PAGE 22
+                           Corresponde Resolución N° 032/2023
+
+Laboratorio de Redes y    Sistemas Operativos - Redes y   Sistemas Operativos - Redes y
+Comunicaciones          Comunicaciones I              Comunicaciones I
+
+Programación Lógica y
+                        Matemática Discreta            Matemática Discreta
+Funcional
+
+                        Programación Orientada a la     Programación Orientada a la
+Ingeniería de Software I   Web - Análisis y Diseño de     Web - Análisis y Diseño de
+                        Sistemas II                    Sistemas II
+
+Redes y Comunicaciones  Laboratorio de Redes y           Laboratorio de Redes y
+II                      Comunicaciones               Comunicaciones
+
+Seguridad, Higiene y
+                        Sistemas y Organizaciones      Sistemas y Organizaciones
+Gestión Ambiental
+
+Economía y Gestión de
+                        Sistemas y Organizaciones      Sistemas y Organizaciones
+Empresas
+
+                            Ingeniería de Software I -         Ingeniería de Software I -
+Gestión de Calidad y
+                      Economía y Gestión de         Economía y Gestión de
+Auditoría
+                      Empresas                   Empresas
+
+                        Programación Orientada a la     Programación Orientada a la
+Sistemas Distribuidos I   Web - Sistemas Operativos -    Web - Sistemas Operativos -
+                     Redes y Comunicaciones I      Redes y Comunicaciones I
+
+                       Métodos Numéricos -           Métodos Numéricos -
+Modelos y Simulación
+                           Probabilidad y Estadística        Probabilidad y Estadística
+
+                      Economía y Gestión de         Economía y Gestión de
+Legislación Informática
+                      Empresas                   Empresas
+
+Ingeniería de Software II   Gestión de Calidad y Auditoría    Gestión de Calidad y Auditoría
+
+                            Ingeniería de Software I -         Ingeniería de Software I -
+Sistemas Distribuidos II
+                        Sistemas Distribuidos I          Sistemas Distribuidos I
+
+                         Gestión de Calidad y Auditoría -  Gestión de Calidad y Auditoría -
+Seguridad Informática
+                     Redes y Comunicaciones II      Redes y Comunicaciones II
+
+                      Base de Datos I - Sistemas      Base de Datos I - Sistemas
+Base de Datos II
+                             Distribuidos I                      Distribuidos I
+
+
+
+                                                                        21
+
+PAGE 23
+                            Corresponde Resolución N° 032/2023
+
+                             Ingeniería de Software I -         Ingeniería de Software I -
+                        Autómatas y Lenguajes -        Autómatas y Lenguajes -
+ Sistemas inteligentes      Programación Lógica y          Programación Lógica y
+                           Funcional - Modelos y            Funcional - Modelos y
+                          Simulación                     Simulación
+
+         3.3.3. Otros requisitos
+
+Proyecto Final: El Proyecto Final tiene por objetivo favorecer la capacidad de análisis crítico,
+promover la creatividad y el espíritu de innovación del estudiantado, a  fin de lograr la
+integración de los contenidos estudiados a lo largo de la carrera e incentivarlos en su
+desenvolvimiento como futuros profesionales. El mismo consiste en la formulación de un
+proyecto de diseño y/o desarrollo, ya sea de un producto o un proceso, en el que quede
+reflejado la aplicación e integración de distintas temáticas de la carrera. Las condiciones para
+el desarrollo de esta instancia están definidas en la normativa específica vigente.
+
+Práctica Profesional Supervisada: En esta instancia el/la estudiante deberá desarrollar una
+práctica profesional en una Organización de Producción de Bienes y/o Servicios, o bien en
+proyectos concretos desarrollados por la institución para estos sectores o en colaboración
+con ellos. El objetivo fundamental de la práctica gira en torno a insertar al estudiantado en un
+ámbito laboral concreto que le permita aprehender las herramientas necesarias para el futuro
+desenvolvimiento profesional.
+
+Práctica Comunitaria: En esta instancia el/la estudiante deberá desarrollar una práctica de
+intervención social que enriquezca su formación profesional y humanística en asociaciones
+civiles, organizaciones sociales sin fines de lucro, ONG, cooperativas o instituciones públicas.
+
+Acreditación de Nivel de Idiomas:
+    Para la obtención del título será necesario acreditar tres niveles de idioma:
+  ●  Inglés Nivel I
+  ●  Inglés Nivel II
+  ●  Inglés Nivel III
+
+       Para  acreditar  Inglés  Nivel   I  el/la  estudiante  deberá  desarrollar  las  cuatro
+macro-habilidades de lectura, escritura, escucha y habla, para que los estudiantes logren
+comunicarse en un  nivel elemental, correspondiente  al  nivel A1-A2 del Marco Común
+Europeo de las Lenguas, en situaciones del ámbito académico, laboral y social, sobre los
+siguientes tópicos:
+  ●  Intercambio de información personal en el mundo académico y laboral
+  ●  Rutina y estilos de vida
+  ●  Planes para el futuro
+
+
+
+
+                                                                         22
+
+PAGE 24
+                            Corresponde Resolución N° 032/2023
+
+  ●  Biografías
+  ●  Predicciones
+
+       Para  acreditar  Inglés  Nivel   II  el/la  estudiante  deberá  desarrollar  las  cuatro
+macro-habilidades de lectura, escritura, escucha y habla, para que los estudiantes logren
+comunicarse en un nivel pre-intermedio, correspondiente  al nivel A2 del Marco Común
+Europeo de las Lenguas, en situaciones del ámbito académico, laboral y social, sobre los
+siguientes tópicos:
+  ●  La facultad y el estudiante de ingeniería
+  ●  Socialización en el mundo académico
+  ●  La empresa y sus productos o servicios
+  ●  Viajes por motivos laborales, académicos y de placer
+  ●  La entrevista de trabajo.
+
+       Para acreditar Inglés Nivel  III  el/la estudiante deberá desarrollar las cuatro
+macro-habilidades de lectura, escritura, escucha y habla, para que los estudiantes logren
+comunicarse en un nivel intermedio, correspondiente  al nivel B1 del Marco Común
+Europeo de las Lenguas, en situaciones del ámbito académico, laboral y social, sobre los
+siguientes tópicos:
+  ●  Importancia de inglés a nivel global.
+  ●  Presentaciones académicas.
+  ●   Estilos de trabajo y carreras profesionales.
+  ●  CVs y perfiles profesionales.
+  ●  Nuevas tendencias y tecnologías.
+
+       Para la acreditación de los mismos, la Facultad dispondrá de cuatro (4) mesas de
+llamados a examen en  el año, que  coincidirán con  las que  figuran en el Calendario
+Académico para  las asignaturas que componen  el Diseño Curricular de la carrera. La
+calificación de los exámenes de acreditación será:
+  ●  Acreditó
+  ●  No Acreditó
+
+Las condiciones de exigencia respecto a la acreditación de los niveles de idioma es la
+siguiente:
+    1.  Para poder cursar las asignaturas del 1º cuatrimestre de 3º año se deberá haber
+        acreditado Inglés Nivel I.
+    2.  Para poder cursar las asignaturas del 2º cuatrimestre de 4º año se deberá haber
+        acreditado Inglés Nivel II.
+    3.  Para poder cursar las asignaturas del 2º semestre de 5º año se deberá haber
+        acreditado Inglés Nivel III.
+
+        3.3.4.Articulación con otros planes de estudio
+
+
+
+                                                                         23
+
+PAGE 25
+                            Corresponde Resolución N° 032/2023
+
+       Para posibilitar a los Estudiantes el pase de los planes vigentes al nuevo plan, se ha
+establecido el siguiente régimen de equivalencias.
+
+a) Asignaturas comunes (equivalencias automáticas)
+a-1) Con “Ingeniería en Sistemas” (Plan 2017):
+       ●  Preliminares de Matemática
+       ●  Algebra
+       ●   Análisis Matemático I-a
+       ●  Introducción a la Informática
+       ●   Análisis Matemático I-b
+       ●  Geometría Analítica
+       ●  Estructuras de Datos y Algoritmos
+       ●  Arquitectura de Computadoras
+       ●  Autómatas y Lenguajes
+       ●  Métodos Numéricos
+       ●  Probabilidad y Estadística
+       ●  Programación Orientada a Objetos
+       ●  Redes y Comunicaciones I
+       ●  Sistemas Operativos
+       ●   Análisis y Diseño Sistemas II
+       ●  Laboratorio de Redes y Comunicaciones
+       ●  Programación Orientada a la Web
+       ●  Economía y Gestión de Empresas
+       ●  Ingeniería de Software I
+       ●  Gestión de Calidad y Auditoría
+       ●  Modelos y Simulación
+       ●  Sistemas Distribuidos I
+       ●  Ingeniería de Software II
+       ●  Sistemas Inteligentes
+
+a-2) Con “Ingeniería en Sistemas” (Plan 2011):
+       ●  Introducción a la Informática
+       ●   Análisis Matemático I – a
+       ●  Álgebra
+       ●  Geometría Analítica
+       ●   Análisis Matemático I – b
+       ●  Estructura de Datos y Algoritmos
+       ●  Probabilidad y Estadística
+       ●  Autómatas y Lenguajes
+       ●  Métodos Numéricos
+       ●  Programación Orientada a Objetos
+       ●  Arquitectura de Computadoras
+
+
+
+                                                                         24
+
+PAGE 26
+                            Corresponde Resolución N° 032/2023
+
+       ●   Análisis y Diseño de Sistemas II
+       ●  Programación Orientada a la Web
+       ●  Redes y Comunicaciones I
+       ●  Sistemas Operativos
+       ●  Ingeniería de Software I
+       ●  Economía y Gestión de Empresas
+       ●  Laboratorio de Redes y Comunicaciones
+       ●  Sistemas Distribuidos I
+       ●  Modelos y Simulación
+       ●  Gestión de Calidad y Auditoria
+       ●  Ingeniería de Software II
+       ●  Sistemas Inteligentes
+
+a-3) Con “Ingeniería en Computación” (Plan 2015):
+       ●  Preliminares de Matemática
+       ●  Algebra
+       ●   Análisis Matemático I-a
+       ●   Análisis Matemático I-b
+       ●  Geometría Analítica
+       ●  Estructuras de Datos y Algoritmos
+       ●  Arquitectura de Computadoras
+       ●  Autómatas y Lenguajes
+       ●  Métodos Numéricos
+       ●  Probabilidad y Estadística
+       ●  Programación Orientada a Objetos
+       ●  Redes y Comunicaciones I
+       ●  Sistemas Operativos
+       ●  Laboratorio de Redes y Comunicaciones
+       ●  Economía y Gestión de Empresas
+       ●  Ingeniería de Software I
+       ●  Gestión de Calidad y Auditoría
+       ●  Modelos y Simulación
+       ●  Sistemas Distribuidos I
+       ●  Sistemas Inteligentes
+       ●  Seguridad Informática
+
+a-4) Con “Analista Programador” (Plan 2019):
+       ●  Preliminares de Matemática
+       ●  Algebra
+       ●   Análisis Matemático I-a
+       ●  Introducción a la Informática
+       ●   Análisis Matemático I-b
+
+
+
+                                                                         25
+
+PAGE 27
+                            Corresponde Resolución N° 032/2023
+
+       ●  Estructuras de Datos y Algoritmos
+       ●  Arquitectura de Computadoras
+       ●  Probabilidad y Estadística
+       ●  Programación Orientada a Objetos
+       ●  Sistemas Operativos
+       ●   Análisis y Diseño Sistemas II
+       ●  Laboratorio de Redes y Comunicaciones
+       ●  Programación Orientada a la Web
+       ●  Programación Lógica y Funcional
+
+a-5) Con “Analista Programador” (Plan 2015): CS 388/2014
+       ●  Preliminares de Matemática
+       ●  Algebra
+       ●   Análisis Matemático I-a
+       ●  Introducción a la Informática
+       ●   Análisis Matemático I-b
+       ●  Estructuras de Datos y Algoritmos
+       ●  Arquitectura de Computadoras
+       ●  Probabilidad y Estadística
+       ●  Programación Orientada a Objetos
+       ●  Sistemas Operativos
+       ●   Análisis y Diseño Sistemas II
+       ●  Programación Orientada a la Web
+       ●  Programación Lógica y Funcional
+
+b) Equivalencia Total (equivalencias automáticas)
+b-1) Con “Ingeniería en Sistemas” (Plan 2017):
+
+       Ingeniería en Sistemas Plan 2017             Ingeniería en Sistemas
+               (el que tiene aprobado)                       (equivale a)
+
+    Análisis Matemático II                    Cálculo Avanzado
+    Física I
+                                               Física General
+    Física II
+
+    Seguridad, Higiene e Ingeniería Ambiental Seguridad, Higiene y Gestión Ambiental
+
+
+
+b-2) Con “Ingeniería en Sistemas” (Plan 2011):
+
+
+
+
+
+                                                                         26
+
+PAGE 28
+                            Corresponde Resolución N° 032/2023
+
+       Ingeniería en Sistemas Plan 2011             Ingeniería en Sistemas
+               (el que tiene aprobado)                       (equivale a)
+
+    Análisis Matemático II                    Cálculo Avanzado
+    Física I
+                                               Física General
+    Física II
+
+    Seguridad, Higiene e Ingeniería Ambiental Seguridad, Higiene y Gestión Ambiental
+
+
+b-3) Con “Ingeniería en Computación” (Plan 2015):
+
+     Ingeniería en Computación Plan 2015           Ingeniería en Sistemas
+               (el que tiene aprobado)                       (equivale a)
+   Computación I                            Introducción a la Informática
+
+       3.3.5.Congruencia interna de la carrera
+        El perfil del/de la Ingeniero/a en Sistemas fue definido oportunamente a partir de un
+conjunto de  competencias  profesionales que  las personas egresadas deberán haber
+desarrollado una vez concluido su proceso formativo.
+      La definición clara y precisa del perfil profesional es sumamente importante dado que
+constituye el punto de partida para la elaboración del diseño curricular. Ello comprende las
+líneas curriculares que se seleccionen y los contenidos más apropiados para cada una de
+ellas, las metodologías y actividades que se determinen, los tiempos que se establezcan y los
+entornos de  aprendizaje que se  organicen,  entre  otros componentes  didácticos que
+conforman los procesos de enseñanza y de aprendizaje.
+      En este sentido, el presente apartado pretende dar cuenta del aporte que realizan las
+asignaturas al perfil profesional delimitado basado en las competencias definidas. Es decir, la
+coherencia  interna  existente  entre  los  contenidos  seleccionados y  las competencias
+profesionales del perfil.
+     Como ya se detalló en el apartado 2.2, las Competencias del perfil fueron definidas
+en un primer nivel en tres grupos:
+             i) Competencias Genéricas Sociales, Políticas y Actitudinales
+              ii) Competencias Genéricas Tecnológicas
+              iii) Competencias Específicas.
+     Y particularmente, las Competencias Específicas se desagregan a nivel dos o tres
+según la complejidad de las mismas. El conjunto completo de competencias para la carrera
+de Ingeniería en Sistemas y su correspondiente desagregación fue aprobada mediante
+Resolución N.° 001/23 del Consejo Directivo de la Facultad de Ingeniería de la Universidad
+Nacional de La Pampa. La contribución de cada asignatura de la carrera a cada una de las
+competencias es indicada en cada uno de los programas, mediante un código único asignado
+en dicha Resolución.
+
+
+
+
+                                                                         27
+
+PAGE 29
+                            Corresponde Resolución N° 032/2023
+
+      La contribución de cada asignatura a las competencias, indicadas en el apartado 6 de
+Contenidos Mínimos, permite elaborar una Matriz de Contribución Global. En este proceso, se
+coloca un 1 (uno) a cada una de las Competencias Genéricas y a cada una de las
+Competencias Específicas desagregadas a las que cada asignatura contribuye.
+       Para visualizar más fácilmente la información generada, se presenta a continuación
+una Matriz Resumen de Contribución a Competencias por Asignaturas. En ella, para cada
+asignatura, se suman todos los 1’s (unos) correspondientes a las desagregaciones de una
+competencia, obteniendo así un valor numérico que se normaliza dividiendo por la cantidad
+de sub competencias en la que se desagrega. Además, estos valores se suman para cada
+competencia en un Total que sirve de indicador de énfasis en el tratamiento de cada
+competencia en el conjunto total de asignaturas de la carrera.
+
+Matriz Resumen de Contribución a Competencias por Asignaturas
+
+
+
+
+
+                                                                         28
+
+PAGE 30
+                            Corresponde Resolución N° 032/2023
+
+Finalmente, se presenta  la contribución de cada asignatura a  los Ejes y Enunciados
+multidimensionales y transversales. Esta contribución está definida de acuerdo al nivel de
+profundidad con el que cada asignatura lo aborda: 1 (bajo), 2 (medio) y 3 (alto). La siguiente
+matriz  recopila estas contribuciones, según  lo indicado por cada cátedra y el  total de
+contribución global nos indica la intensidad con que cada eje es abordado en la carrera.
+
+Matriz de Contribución a Ejes y Enunciados multidimensionales y transversales por
+Asignaturas
+
+
+
+
+
+4.- PRESENTACIÓN DE DISEÑOS CURRICULARES CON MODALIDAD A DISTANCIA
+      La carrera Ingeniería en Sistemas no prevé la implementación de la Modalidad a
+Distancia.
+
+
+
+
+                                                                         29
+
+PAGE 31
+                            Corresponde Resolución N° 032/2023
+
+
+5.- RECURSOS NECESARIOS PARA LA IMPLEMENTACIÓN DEL DISEÑO CURRICULAR
+
+5.1.- RECURSOS NECESARIOS PARA LA IMPLEMENTACIÓN DEL PROYECTO:
+      La ejecución del presente Diseño Curricular de Ingeniería en Sistemas no requiere,
+para su implementación, realizar cambios significativos en los recursos humanos y en la
+infraestructura existente en la Facultad de Ingeniería.
+
+         5.1.1. Recursos Humanos
+         5.1.1.1. Docentes y no docentes
+      La implementación del Diseño Curricular 2023 en el que se incorporan algunas
+nuevas asignaturas requerirá un casi nulo incremento en el cuerpo docente ya que muchas
+de ellas serán impartidas por la planta docente actual, pudiendo cubrir dichos cargos con el
+presupuesto propio de la Facultad de Ingeniería. En cuanto al cuerpo no docente no será
+necesario incrementar su número debido a que los procesos de seguimiento de estudiantes
+están debidamente sistematizados.
+
+         5.1.2.- Infraestructura y Equipamiento
+       Para el desarrollo del nuevo plan se usarán las instalaciones, vehículos, material
+bibliográfico y equipamiento afectados actualmente al plan vigente de Ingeniería en Sistemas,
+existente en las aulas y laboratorios en el edificio Centro Universitario de calle 7 N° 479 (O) y
+Biblioteca de la UNLPam.
+
+         5.2.- Recursos necesarios para la implementación del plan
+       Para la implementación de este plan no serán necesarios nuevos recursos.
+
+6. CONTENIDOS MÍNIMOS
+A continuación, se presentan las distintas asignaturas que conforman el Diseño Curricular,
+indicando para cada una de ellas la carga horaria total, año y cuatrimestre de dictado, las
+competencias a las que aportan (utilizando la codificación presentada en la Resolución N.°
+001/2023 de Consejo Directivo) y, finalmente, los contenidos mínimos.
+Nombre de la Asignatura: PRELIMINARES DE MATEMÁTICA
+Carga Horaria Total: 60 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Primer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2- CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+
+
+
+
+                                                                         30
+
+PAGE 32
+                            Corresponde Resolución N° 032/2023
+
+  ●Conjuntos numéricos y operaciones (números naturales, enteros, racionales,
+       reales).
+  ●Ecuaciones e inecuaciones (de primer y segundo grado).
+  ●Funciones (lineales, cuadráticas, polinómicas, trigonométricas).
+   ●Trigonometría (ángulos, identidades trigonométricas, resolución de triángulos).
+
+Nombre de la Asignatura: ÁLGEBRA
+Carga Horaria Total: 112 horas.
+
+Año y Cuatrimestre en el Diseño Curricular:
+Primer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+   ●Introducción al lenguaje de los conjuntos.
+  ●Sistemas numéricos: Presentación  intuitiva de los números naturales. Principio de
+      Inducción. Números complejos.
+  ●Elementos de combinatoria. Binomio de Newton.
+   ●Polinomios formales en una indeterminada con coeficientes complejos.
+  ●Vectores en el plano y el espacio. Producto escalar y vectorial. Rectas y planos.
+  ●Rn como espacio vectorial. Subespacios de Rn; bases y dimensión. El espacio vectorial
+       Cn.
+  ●Sistemas de ecuaciones lineales. Espacios solución. Compatibilidad.
+  ●Matrices con  coeficientes  reales o  complejos. Espacios  vectoriales  Rnxn y  Cnxn.
+      Expresión matricial de un sistema.
+   ●Determinantes. Matriz de cofactores. Regla de Cramer.
+
+Nombre de la Asignatura: ANÁLISIS MATEMÁTICO I-a
+Carga Horaria Total: 80 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Primer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+Cálculo Diferencial:
+  ●Funciones de variable real.
+  ●Límite y continuidad de funciones.
+
+
+
+                                                                         31
+
+PAGE 33
+                            Corresponde Resolución N° 032/2023
+
+  ●Derivada y sus aplicaciones.
+  ●Teoremas del valor medio. Consecuencias.
+   ●Aproximación de funciones por polinomios de Taylor.
+   ●Antiderivadas.
+
+Nombre de la Asignatura: INTRODUCCIÓN A LA INFORMÁTICA
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Primer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT1 - CGT4 - CE3.1 - CE3.2.1 - CE3.3.3 - CE3.3.5
+
+Contenidos Mínimos:
+   ●Conceptualización de la Informática. Evolución histórica
+   ●Representación de la información. Sistemas de numeración.
+  ●Unidades funcionales de una computadora.
+  ●Lenguajes de programación.
+   ●Algoritmos y programación.
+  ●Lenguaje de representación de algoritmos y técnicas básicas de programación.
+  ●Entornos de desarrollo para seudocódigo.
+   ●Estructuras de control y expresiones lógicas.
+  ●Programación modular.
+
+Nombre de la Asignatura: ANÁLISIS MATEMÁTICO I-b
+Carga Horaria Total: 64 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Primer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+  ●   Integral definida. Teorema fundamental del cálculo.
+  ●  Integrales impropias.
+  ●  Funciones trascendentes.
+  ●  Formas indeterminadas. Regla de L`Hopital.
+  ●  Sucesiones y series. Series de Taylor.
+  ●  Ecuaciones diferenciales ordinarias de primer orden.
+
+
+
+
+                                                                         32
+
+PAGE 34
+                            Corresponde Resolución N° 032/2023
+
+Nombre de la Asignatura: GEOMETRÍA ANALÍTICA
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Primer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+  ●Álgebra  Lineal: espacios  vectoriales  reales, transformaciones  lineales y matrices.
+      Autovalores y autovectores. Operadores y matrices diagonalizables.
+  ●Espacios euclidianos: productos internos y normas. Proyecciones ortogonales. Mejor
+      aproximación por cuadrados mínimos.
+   ●Transformaciones y  matrices  ortogonales.  Diagonalización  ortogonal de matrices
+       simétricas.
+  ●Formas cuadráticas:  Diagonalización y clasificación. Aplicación  al estudio de las
+      secciones cónicas y las superficies cuadráticas.
+
+Nombre de la Asignatura: MATEMÁTICA DISCRETA
+Carga Horaria Total: 88 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Primer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+  ●Lógica, cálculo proposicional. Predicados.
+  ●Demostración formal: tipos de demostraciones.
+   ●Velocidad de crecimiento, notación O.
+   ●Definiciones recursivas.
+  ●Relaciones binarias.Relaciones de equivalencia. Relaciones de orden.
+   ●Estructuras algebraicas. Aritmética modular.
+  ●Álgebras de Boole. Funciones booleanas. Circuitos lógicos.
+  ●Grafos y árboles.
+
+Nombre de la Asignatura: PROGRAMACIÓN PROCEDURAL
+Carga Horaria Total: 120 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+
+
+
+                                                                         33
+
+PAGE 35
+                            Corresponde Resolución N° 032/2023
+
+Primer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 – CGT1 - CGT4 - CE3.1 - CE3.2.1 - CE3.3.3 - CE3.3.5
+
+Contenidos Mínimos:
+   ●Resoluciones de problemas mediante programación.
+  ●El paradigma procedural / imperativo.
+  ●Un lenguaje de programación procedural.
+  ●Tipos de datos predefinidos y definidos por el usuario.
+   ●Estructuras de control.
+  ●Programación modular.
+   ●Estructuras de datos. Algoritmos de ordenamiento y búsqueda.
+  ●Conceptos y técnicas de programación. Programación estructurada.
+   ●Administración de datos persistentes: archivos.
+   ●Recursividad
+
+Nombre de la Asignatura: CÁLCULO AVANZADO
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+  ●Funciones de varias variables reales. Límites y continuidad.
+  ●Derivadas parciales, funciones diferenciables y aproximaciones lineales.
+  ●Extremos libres y restringidos de campos escalares.
+   ●Integrales dobles (de área) y triples (de volumen). Cambios de variables.
+  ●Ecuaciones  diferenciales  lineales de segundo  orden.  Estudio  del caso general.
+      Resolución en el caso de coeficientes constantes.
+  ●Series de Fourier. Propiedades de los coeficientes.
+  ●Transformada de Laplace. Resolución de ecuaciones diferenciales lineales. Función
+       transferencia.
+
+Nombre de la Asignatura: ESTRUCTURAS DE DATOS Y ALGORITMOS
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Primer Cuatrimestre
+
+
+
+                                                                         34
+
+PAGE 36
+                            Corresponde Resolución N° 032/2023
+
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT2 - CGT4 - CE3.1.1 - CE3.3.1- CE3.3.5
+
+Contenidos Mínimos:
+  ●Diseño y análisis de algoritmos
+   ●Estructura de datos, uniones y tipos de datos abstractos
+   ●Listas, pilas y filas
+  ●Grafos y árboles
+  ●Métodos avanzados de búsqueda y ordenamiento
+
+Nombre de la Asignatura: FÍSICA GENERAL
+Carga Horaria Total: 72 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3  - CGS5 - CGT5 - CE2
+
+Contenidos Mínimos:
+   ●Introducción a mecánica clásica.
+  ●Cinemática para un cuerpo puntual.
+  ●Dinámica para un cuerpo puntual.
+   ●Consideraciones energéticas.
+  ●Fundamentos de electricidad y magnetismo.
+   ●Circuitos eléctricos de corrientes estacionarias y variables en el tiempo.
+   ●Electromagnetismo.
+  ●Ondas electromagnéticas.
+
+Nombre de la Asignatura: SISTEMAS Y ORGANIZACIONES
+Carga Horaria Total: 120 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS4 -CGS5 - CGS6 - CGT1 -CGT4 - CE1.1.1 - CE8.1
+
+Contenidos Mínimos:
+  ●Teoría general de sistemas.
+  ●Ciclo de vida de un sistema.
+
+
+
+                                                                         35
+
+PAGE 37
+                            Corresponde Resolución N° 032/2023
+
+  ●La organización.
+  ●La administración.
+  ●Sistemas de información.
+   ●Formulación y evaluación de proyectos TIC's.
+  ●El sistema de decisión.
+  ●Visión estratégica de la organización.
+   ●Dirección ejecutiva de organizaciones de software.
+
+Nombre de la Asignatura: ANÁLISIS Y DISEÑO DE SISTEMAS I
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 -CGS3 - CGS4 - CGS6 - CGT1 - CGT2 - CGT3 - CGT4 - CE1.1 -  CE1.2.1    -
+CE1.2.2 - CE3.1 - CE3.2.1 - CE3.2.2
+
+Contenidos Mínimos:
+  ●Fundamentos de sistemas y naturaleza de los sistemas de información.
+  ●Procesos organizacionales y de desarrollo de software.
+   ●Análisis de requisitos orientado a objetos.
+  ●Seguridad en sistemas de información.
+
+Nombre de la Asignatura: ARQUITECTURA DE COMPUTADORAS
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT1 - CGT4 - CE3.3.1  - CE3.3.2 - CE3.3.5
+
+Contenidos Mínimos:
+   ●Circuitos lógicos y sistemas digitales básicos.
+   ●Organización de computadoras.
+   ●Arquitectura de computadoras.
+   ●Arquitecturas paralelas y no convencionales.
+  ●Programación de bajo nivel de microprocesadores y microcontroladores.
+
+Nombre de la Asignatura: AUTÓMATAS Y LENGUAJES
+Carga Horaria Total: 72 horas
+
+
+
+                                                                         36
+
+PAGE 38
+                            Corresponde Resolución N° 032/2023
+
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGS6 - CGT1 - CGT2 - CGT3 - CGT4 - CE3 - CE7 - CE10.1
+
+Contenidos Mínimos:
+  ●Lenguajes formales. Gramáticas y autómatas. Autómata  finito determinístico y no
+       determinístico.
+   ●Expresiones regulares. Gramáticas libres de contexto. BNF.
+   ●Computabilidad: máquinas de Turing y sus extensiones. Máquina de Turing Universal,
+      lenguajes no-decidibles. Implicaciones de la no-decibilidad de lenguajes.
+   ●Complejidad: introducción a problemas tratables e intratables. Definición de las clases
+    P y NP. Problemas NP completos.
+
+Nombre de la Asignatura: MÉTODOS NUMÉRICOS
+Carga Horaria Total: 56 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Segundo año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6
+
+Contenidos Mínimos:
+   ●Aritmética de punto flotante, errores de redondeo.
+  ●Solución de ecuaciones no  lineales y sistemas de ecuaciones no lineales por
+     métodos iterativos.
+   ●Integración y diferenciación numérica.
+   ●Aproximación de funciones: interpolación polinómica, diferencias divididas, splines,
+     método de los mínimos cuadrados.
+  ●Solución de sistemas lineales por métodos directos e iterativos.
+  ●Ecuaciones  diferenciales  ordinarias: métodos Runge-Kutta, métodos  multipaso,
+     métodos de diferencias finitas.
+  ●Ecuaciones diferenciales en derivadas parciales: diferencias finitas para ecuaciones
+       elípticas, parabólicas e hiperbólicas.
+
+Nombre de la Asignatura: PROBABILIDAD Y ESTADÍSTICA
+Carga Horaria Total: 88 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+
+
+
+                                                                         37
+
+PAGE 39
+                            Corresponde Resolución N° 032/2023
+
+Segundo año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT6 - CGT7
+
+Contenidos Mínimos:
+  ●El concepto de probabilidad y de variable aleatoria.
+   ●Distribuciones discretas y continuas importantes.
+   ●Distribución normal.
+  ●Teorema central del límite.
+   ●Estadística descriptiva. Medidas centrales y de dispersión.
+   ●Inferencia estadística. Estimación de parámetros y pruebas de hipótesis.
+  ●Regresión lineal.
+
+Nombre de la Asignatura: BASE DE DATOS I
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGS6 - CGT1 - CGT2  - CGT4 - CGT7 - CE1.1 - CE1.2 -
+CE1.3.1 - CE1.3.2 - CE1.3.3 - CE4.1 - CE4.2 - CE4.3 - CE7
+
+Contenidos Mínimos:
+   ●Introducción a base de datos.
+  ●Sistemas administradores de bases de datos –DBMS-.
+  ●Modelado de base de datos. Normalización.
+  ●Enfoque relacional. Álgebra Relacional. SQL.
+   ●Integridad de los datos.
+  ●Acceso eficaz y eficiente a los datos ante la escalabilidad en el volumen de los mismos.
+  ●Uso seguro de los datos y de la información.
+  ●Bases de Datos NoSQL.
+
+Nombre de la Asignatura: PROGRAMACIÓN ORIENTADA A OBJETOS
+Carga Horaria Total: 88 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT2 - CGT4 - CE3.1.1 - CE3.3.1 - CE3.3.2 - CE3.3.5 - CE3.3.6
+
+
+
+                                                                         38
+
+PAGE 40
+                            Corresponde Resolución N° 032/2023
+
+
+Contenidos Mínimos:
+  ●Revisión de fundamentos de orientación a objetos.
+  ●Diseño de la Solución.
+  ●Fundamentos de aspectos sintácticos y semánticos de un lenguaje específico de
+      programación orientado a objetos.
+  ●Programación en un lenguaje específico de orientación a objetos.
+  ●Resolución de un proyecto integral bajo el paradigma orientado a objetos.
+
+Nombre de la Asignatura: REDES Y COMUNICACIONES I
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGT1 -CGT3  - CGT4 - CE2 - CE4 - CE7 - CE10 - CE11
+
+Contenidos Mínimos:
+  ●Redes de computadoras.
+   ●Introducción a la teoría de la Información y la comunicación.
+  ●Modelos de referencias OSI y TCP/IP.
+   ●Protocolos de capa de enlace, red y transporte.
+   ●Protocolos de encaminamiento en Internet.
+   ●Servicios de aplicación en Internet.
+
+Nombre de la Asignatura: SISTEMAS OPERATIVOS
+Carga Horaria Total: 112 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1  - CGS2  - CGS3  - CGS5 - CGT1 - CGT2 - CGT4 - CE1.2.3 - CE2.2.3 - CE3.2.3 -
+CE3.3.2 - CE3.3.3 - CE3.3.5 - CE4.1
+
+Contenidos Mínimos:
+   ●Introducción a los sistemas operativos.
+  ●Concepto de proceso. Administración de procesos. Planificación. Concurrencia.
+      Procesos concurrentes. Mecanismos de intercomunicación y sincronización.
+      Interbloqueo
+   ●Administración de memoria. Memoria virtual.
+
+
+
+                                                                         39
+
+PAGE 41
+                            Corresponde Resolución N° 032/2023
+
+   ●Administración de la información. Sistema de archivos
+   ●Administración de dispositivos de E/S.
+  ●Seguridad y protección en Sistemas Operativos
+  ●Conceptos de sistemas operativos para redes de computadoras, sistemas distribuidos,
+      sistemas embebidos, sistemas de tiempo real.
+   ●Virtualización. Máquinas virtuales.
+
+Nombre de la Asignatura: ANÁLISIS Y DISEÑO DE SISTEMAS II
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS5 - CGT1 - CGT2 - CGT4 - CE1.1.1 - CE1.1.2  - CE1.2.2 - CE1.2.3 - CE1.3.1 -
+CE1.3.2 - CE1.3.3 - CE1.3.5 - CE3.1 - CE4.1 - CE4.2 - CE4.3
+
+Contenidos Mínimos:
+   ●Ingeniería de software.
+  ●Procesos de desarrollo de software.
+  ●Sistemas de información.
+  ●Modelos de requerimientos, análisis, diseño, implementación.
+  ●Modelo y lenguaje UML.
+   ●Arquitectura. Diseño. Patrones.
+   ●Herramientas y técnicas de modelado.
+   ●Especificación formal de software.
+
+Nombre de la Asignatura: LABORATORIO DE REDES Y COMUNICACIONES
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGT1  - CGT3  - CGT4 - CE2 - CE4 - CE7 - CE10 - CE11
+
+Contenidos Mínimos:
+   ●Administración de servicios en Red
+   ●Automatización de tareas bajo GNU/Linux
+  ●Seguridad en servicios de aplicación de red (introducción)
+
+Nombre de la Asignatura: PROGRAMACIÓN LÓGICA Y FUNCIONAL
+
+
+
+                                                                         40
+
+PAGE 42
+                            Corresponde Resolución N° 032/2023
+
+Carga Horaria Total: 80 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT4 - CE3.1.2 - CE3.3.1 - CE3.3.2 - CE3.3.3
+
+Contenidos Mínimos:
+  ●Paradigma de programación  declarativo. Comparación con otros paradigmas de
+      programación.
+  ●Programación lógica.
+  ●Programación funcional.
+
+Nombre de la Asignatura: PROGRAMACIÓN ORIENTADA A LA WEB
+Carga Horaria Total: 104 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Tercer año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGS6 - CGT1 - CGT2 - CGT3 - CGT4 - CE1 - CE3 - CE7
+
+Contenidos Mínimos:
+   ●Introducción a aplicaciones Web y sus generaciones.
+   ●Introducción al modelo cliente-servidor.
+  ●Técnicas de programación del lado del cliente y del servidor.
+  ●El lenguaje HTML y sucesores.
+  ●Programación del servidor.
+  ●Programación del cliente.
+  ●Proyecto integrador.
+
+Nombre de la Asignatura: ECONOMÍA Y GESTIÓN DE EMPRESAS
+Carga Horaria Total: 120 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS4 - CGS5 - CGS6 - CGT3 - CGT4 - CGT5 - CE1.1.1 - CE8 -
+CE9.2
+
+
+
+
+                                                                         41
+
+PAGE 43
+                            Corresponde Resolución N° 032/2023
+
+Contenidos Mínimos:
+  ●Aspectos Introductorios de Economía (Enfoque gerencial).
+   ●Microeconomía.
+  ●Macroeconomía.
+  ●Finanzas de la empresa.
+   ●Análisis de costos para la toma de decisiones.
+   ●Estrategias de gestión.
+   ●Planificación y presupuestos.
+   ●Financiamiento de empresas.
+   ●Indicadores financieros.
+   ●Análisis de inversiones.
+   ●Formulación y evaluación de proyectos de inversión.
+  ●Aspectos básicos de un plan de negocios.
+
+Nombre de la Asignatura: INGENIERÍA DE SOFTWARE I
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGS6 - CGT1 - CGT2 - CGT3 - CGT4 - CGT5 - CE1.1 -
+CE1.2.1 - CE1.2.2 - CE1.3.3 - CE1.3.4 - CE1.3.6 - CE3.1 - CE3.2.1 - CE3.2.2 - CE3.3.3 -
+CE3.3.4 - CE3.3.6 - CE6.1 - CE7
+
+Contenidos Mínimos:
+   ●Desarrollo ágil.
+   ●Estimación y planificación de proyectos de software.
+  ●Métricas de proyecto.
+  ●Gestión de riesgos.
+  ●Gestión de la configuración de software.
+   ●Verificación y validación del software.
+   ●Evolución del software.
+   ●Reingeniería de software.
+
+Nombre de la Asignatura: REDES Y COMUNICACIONES II
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+
+
+
+                                                                         42
+
+PAGE 44
+                            Corresponde Resolución N° 032/2023
+
+CGS1 - CGS2 - CGS3 - CGS5 – CGT1 - CGT3 - CGT4 - CE2 - CE4 - CE7 - CE10 - CE11
+
+
+Nombre de la Asignatura: SEGURIDAD, HIGIENE Y GESTIÓN AMBIENTAL
+Carga Horaria Total: 64 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS4 - CGS5 - CE8.1
+
+Contenidos Mínimos:
+  ●Salud ocupacional.
+   ●Legislación.
+   ●Accidentes de trabajo.
+   ●Protección personal.
+  ●Riesgos de incendio.
+  ●Riesgo eléctrico.
+   ●Iluminación y color.
+  ●Ergonomía.
+  ●Riesgos Mecánicos y de la Construcción.
+  ●Primeros auxilios.
+  ●Ruidos y vibraciones.
+  ●Carga térmica.
+   ●Radiación.
+  ●Sistema de seguridad ambiental.
+   ●Toxicología.
+  ●Contaminación ambiental.
+  ●Green IT.
+   ●Tratamientos de efluentes.
+
+Nombre de la Asignatura: LEGISLACIÓN INFORMÁTICA
+Carga Horaria Total: 64 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS3 - CGS4 - CGS5 - CGT4
+
+Contenidos Mínimos:
+
+
+
+                                                                         43
+
+PAGE 45
+                            Corresponde Resolución N° 032/2023
+
+  ●Tópicos generales de ética.
+  ●Conceptos generales de Legislación e Informática.
+   ●Contratos  informáticos. Comercio  electrónico. Contratación  electrónica. Propiedad
+       intelectual. Protección de datos personales. Documento electrónico y firma electrónica.
+      Introducción al Peritaje informático. Delitos informáticos.
+  ●Gobierno de TI.
+   ●Innovación y emprendedorismo.
+
+Nombre de la Asignatura: GESTIÓN DE CALIDAD Y AUDITORÍA
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGT1 - CGT4 - CE3.2.2 - CE4.5 - CE5.2 - CE6.1 - CE7.3 -
+CE9.1
+
+Contenidos Mínimos:
+  ●Conceptos de proceso y calidad en organizaciones de software.
+  ●Modelos y estándares ISO relacionados a la calidad para organizaciones que producen
+      bienes y servicios de software.
+  ●Modelo de madurez/calidad de la capacidad organizacional a partir de áreas de
+      procesos software.
+   ●Auditoría y peritaje informático.
+  ●Metodología de control interno, seguridad y auditoría informática.
+
+Nombre de la Asignatura: MODELOS Y SIMULACIÓN
+Carga Horaria Total: 80 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGT1 - CGT4  - CGT6 - CE1.1 - CE1.2 - CE1.3.1 - CE1.3.2 -
+CE1.3.3 - CE10.1 - CE10.3
+
+Contenidos Mínimos:
+  ●Teoría general de sistemas y modelos.
+   ●Introducción a la simulación de sistemas.
+  ●Repaso de conceptos de probabilidad y estadística.
+  ●Manejo de muestras probabilísticas.
+
+
+
+                                                                         44
+
+PAGE 46
+                            Corresponde Resolución N° 032/2023
+
+   ●Simulación de sistemas discretos.
+   ●Simulación de sistemas continuos.
+  ●Lenguajes de simulación.
+   ●Verificación y validación de modelos para simulación.
+   ●Análisis de los resultados de la simulación.
+
+Nombre de la Asignatura: SISTEMAS DISTRIBUIDOS I
+Carga Horaria Total: 88 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Cuarto año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGT1 - CGT2 - CGT3 - CGT4 - CE1.2.3 - CE2.2.3 - CE3.2.3
+- CE3.3.2 - CE3.3.3 - CE3.3.5 - CE4.1 - CE4.2 - CE4.3 - CE10.1 - CE10.2
+
+Contenidos Mínimos:
+   ●Estilos arquitectónicos y arquitecturas en SD.
+  ●Comunicación en sistemas distribuidos.
+  ●Nombramiento en sistemas distribuidos.
+   ●Coordinación en sistemas distribuidos.
+   ●Consistencia, Replicación y Memoria Compartida Distribuida.
+  ●Seguridad en sistemas distribuidos.
+  ●Fallos y tolerancia a fallos.
+
+Nombre de la Asignatura: INGENIERÍA DE SOFTWARE II
+Carga Horaria Total: 64 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Quinto año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS3 - CGS5 - CGT1 - CGT4 - CE5 - CE6.1 - CE6.2
+
+Contenidos Mínimos:
+  ●Entes y categorías de entes de interés en proyectos de ingeniería de software.
+   ●Requisitos de calidad. Modelos de calidad estructurados en características y atributos.
+      Estándares.
+  ●Métricas e indicadores.
+  ●Procesos y métodos de medición y evaluación. Estándares.
+   ●Estrategias para distintos propósitos de medición y evaluación considerando vistas de
+       calidad.
+
+
+
+                                                                         45
+
+PAGE 47
+                            Corresponde Resolución N° 032/2023
+
+
+Nombre de la Asignatura: SEGURIDAD INFORMÁTICA
+Carga Horaria Total: 80 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Quinto año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS3 - CGS4 - CGT5 - CGT7 - CE4 - CE6 - CE7 - CE9.1 - CE11
+
+Contenidos Mínimos:
+  ●Fundamentos de seguridad informática.
+  ●Aspectos de confidencialidad, Integridad, Disponibilidad.
+   ●Autenticación y control de acceso.
+  ●Amenazas. Políticas y mecanismos.
+  ●Seguridad en sistemas de computación y software de base.
+  ●Seguridad en aplicaciones en red e Internet. Distintos recursos y servicios a proteger.
+  ●Fundamentos de criptografía y sus aplicaciones.
+  ●Técnicas y herramientas de análisis de vulnerabilidades.
+   ●Herramientas y técnicas de defensa.
+  ●Estándares sobre seguridad informática.
+   ●Desarrollo de aplicaciones seguras.
+  ●Seguridad en el proceso de desarrollo de software.
+  ●Aspectos Legales en seguridad y auditorías.
+
+Nombre de la Asignatura: SISTEMAS DISTRIBUIDOS II
+Carga Horaria Total: 96 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Quinto año - Primer Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGT1 - CGT2 - CGT4 - CGT5 - CE1.2.3 - CE3.1 - CE3.2.3 - CE3.3.1
+- CE3.3.2
+
+Contenidos Mínimos:
+  ●Fundamentos de sistemas distribuidos.
+  ●Sistemas distribuidos con objetos y orientado a servicios.
+   ●Arquitectura de sistemas distribuidos.
+  ●Nuevas tendencias en tecnologías de sistemas distribuidos.
+  ●Seguridad en sistemas distribuidos.
+
+
+
+
+                                                                         46
+
+PAGE 48
+                            Corresponde Resolución N° 032/2023
+
+
+Nombre de la Asignatura: BASE DE DATOS II
+Carga Horaria Total: 80 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Quinto año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2  - CGS3 - CGS5 - CGT1 - CGT2 - CGT4 - CGT7 - CE1.1 - CE1.2.2 - CE1.2.3 -
+CE1.3.1 - CE1.3.2 - CE1.3.3 - CE4.4 - CE10.1 - CE10.2
+
+Contenidos Mínimos:
+  ●Conceptos de Bases de Datos Distribuidas.
+  ●Conceptos de Data Warehousing.
+  ●Conceptos de Data Minning.
+  ●Conceptos de Big Data.
+  ●Nuevas tendencias en el uso y manejo de los datos.
+
+Nombre de la Asignatura: SISTEMAS INTELIGENTES
+Carga Horaria Total: 80 horas
+
+Año y Cuatrimestre en el Diseño Curricular:
+Quinto año - Segundo Cuatrimestre
+
+Competencias del perfil a las que contribuye:
+CGS1 - CGS2 - CGS5 - CGS6 - CGT1 - CGT2 - CGT4 - CE1.3 - CE3.3
+
+Contenidos Mínimos:
+   ●Introducción a la IA. Agentes inteligentes.
+  ●Resolución de problemas mediante búsqueda.
+  ●Razonamiento.
+   ●Aprendizaje Automático (Machine Learning).
+
+
+
+
+
+                                   Firmado digitalmente por: MARTIN
+                                    Maria Ema
+                                  Fecha y hora: 28.03.2023 12:14:1547

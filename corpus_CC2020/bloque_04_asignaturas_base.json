@@ -1,0 +1,3245 @@
+{
+  "D046": [
+    {
+      "Asignatura": "Cálculo Diferencial e Integral en una Variable",
+      "Peso": 13.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Geometría y Álgebra Lineal 1",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación 1",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática Discreta 1",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial e Integral en Varias Variables",
+      "Peso": 13.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Geometría y Álgebra Lineal 2",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación 2",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lógica",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física 1",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación 3",
+      "Peso": 15.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Teoría de Lenguajes",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 15.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 15.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Investigación de Operaciones",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Programación",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad Informática",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Proyecto de Fin de Carrera",
+      "Peso": 30.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Materias Optativas y Electivas de Especialización",
+      "Peso": 60.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas de Ciencias Sociales y Humanas",
+      "Peso": 15.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D047": [
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras Discretas I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción al Desarrollo de Software",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a la Ingeniería",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Relaciones Humanas en Empresas de Software",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Metodología del Trabajo Académico",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática Básica",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo en una Variable",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras Discretas II",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción al Desarrollo Web",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Desarrollo de Software Orientado a Objetos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Realidad Nacional",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo de Varias Variables",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algoritmos y Estructuras de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura y Organización de Computadores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Fundamentos de Sistemas de Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física para la Computación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes y Comunicación de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estadística y Probabilidades",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes y Comunicación de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ciberseguridad",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de Tecnologías de Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura Empresarial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Proyecto de Fin de Carrera I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Proyecto de Fin de Carrera II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D048": [
+    {
+      "Asignatura": "Introducción a la Ingeniería Informática",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a la Programación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Química General",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructura de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Desarrollo Orientado al Objeto",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lógica",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo III",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis de Algoritmos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Computacionales y Arquitectura de Computadores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Probabilidades y Estadística",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión Informática",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Informática y Sociedad",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Optimización",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Proyecto de Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Memoria de Título",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Electivos de Especialidad",
+      "Peso": 16.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D049": [
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Fundamentos de Programación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Química Básica",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Lenguaje",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ética Ciudadana",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Biología para Ingenieros",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo III",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos y Análisis de Algoritmos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física III",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Electricidad y Electrónica",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Autómatas y Lenguajes Formales",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Digitales",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis Numérico I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Pensamiento Sistémico y Organizacional",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Dirección Empresarial I",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadores I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación en la Web",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas de Información",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estadística I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería del Software I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadores II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operacionales",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería del Software II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Simulación Digital",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería Económica",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Trabajo de Grado I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Trabajo de Grado II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas Electivas Profesionales",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D050": [
+    {
+      "Asignatura": "Metodología de la Programación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra para Ingeniería",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Geometría Analítica",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Mecánica Clásica y Laboratorio",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Química General y Laboratorio",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cultura de Paz y Derechos Humanos",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo Integral",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Aplicación Práctica de Programación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ondas y Calor y Laboratorio",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Responsabilidad Social y Desarrollo Sustentable",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Electricidad y Magnetismo y Laboratorio",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguajes de Programación y Laboratorio",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructura de Datos y Diseño de Algoritmos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos y Laboratorio",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Digitales y Laboratorio",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Series de Fourier y Transformadas de Laplace",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Métodos Numéricos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Interacción Humano-Computadora y Laboratorio",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Transmisión y Comunicación de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Verificación y Validación de Software",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Modelado y Simulación de Sistemas Dinámicos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cómputo Integrado",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Servicio Social",
+      "Peso": 16.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Prácticas Profesionales",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Optativas Profesionales",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D051": [
+    {
+      "Asignatura": "Fundamentos de Matemáticas",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática Discreta",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Organización y Arquitectura de Computadoras I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algoritmos y Estructuras de Datos I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Expresión Oral y Escrita",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Organización y Arquitectura de Computadoras II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguajes de Programación I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algoritmos y Estructuras de Datos II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física General",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lógica para Ciencias de la Computación",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguajes de Programación II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadoras I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Teoría de Lenguajes y Compiladores",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadoras II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad Informática",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de Software",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Economía y Finanzas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Pasantía Profesional Supervisada",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Trabajo Final de Grado",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas Optativas y Electivas",
+      "Peso": 20.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D052": [
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Dibujo Asistido por Computadoras",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Desarrollo Lógico y Algoritmos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Tecnología de Información y Comunicación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Comunicación Oral y Escrita",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo III",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguaje de Programación I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Química I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructura de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física I (Mecánica)",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estadística con Apoyo Informático",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguaje de Programación II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras Discretas para la Computación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales Ordinarias",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructura de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física II (Electricidad y Magnetismo)",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Métodos Numéricos para Ingeniería",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Interacción Humano Computador",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Formulación y Evaluación de Proyectos Informáticos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Organización y Arquitectura de Computadoras",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Herramientas de Computación Gráfica",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis de Datos y Toma de Decisiones",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad en Sistemas Computacionales",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Práctica Profesional o Trabajo de Graduación",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D053": [
+    {
+      "Asignatura": "Área Matemática Básica 1",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Técnicas de Estudio e Investigación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Área Social Humanística 1",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Área Matemática Básica 2",
+      "Peso": 9.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física Básica",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a los Algoritmos y Flujo de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática para Computación 1",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática Intermedia 1",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física 1",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructura de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Organización Computacional",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática para Computación 2",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguajes Formales y de Programación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadores 1",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos 1",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Manejo e Implementación de Archivos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis y Diseño de Sistemas 1",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Organización de Lenguajes y Compiladores 1",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos 2",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas de Bases de Datos 1",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadores 2",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis y Diseño de Sistemas 2",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadoras 1",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas de Bases de Datos 2",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial 1",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Software Avanzado",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad y Auditoría de Sistemas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seminario de Sistemas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Práctica Inicial, Intermedia y Final",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seminario de Investigación de Graduación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D054": [
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algorítmica I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a la Ingeniería de Sistemas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Comunicación y Redacción",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física General",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algorítmica II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática Discreta",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Métodos Estadísticos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructura de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Organización y Arquitectura de Computadoras",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Teoría General de Sistemas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis y Diseño de Sistemas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes y Conectividad",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Dinámica de Sistemas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión de Procesos de Negocio",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia de Negocios",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad de la Información",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de TI",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Planeamiento Estratégico de TI",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Tesis I",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Tesis II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas Electivas",
+      "Peso": 16.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D055": [
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a la Ingeniería de Sistemas",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Fundamentos de Programación Orientada a Objetos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Expresión Oral y Escrita",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física I",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación Interactiva",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo III",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física II",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadores",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Desarrollo de Software I",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Comunicación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Modelos y Optimización",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Desarrollo de Software II",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Simulación Computacional",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión y Calidad de Proyectos de TI",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ciberseguridad",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas de Información Organizacionales",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Trabajo de Grado I",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Trabajo de Grado II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas Electivas Profesionales",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D056": [
+    {
+      "Asignatura": "Álgebra y Geometría Analítica I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis Matemático I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra y Geometría Analítica II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis Matemático II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos y Algoritmos I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguajes Formales y Computabilidad",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Complementos de Matemática I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura del Computador",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lógica",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Métodos Numéricos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Probabilidad y Estadística",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos y Algoritmos II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Modelos Físicos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis de Lenguajes de Programación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Comunicaciones",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Teoría de Base de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a la Inteligencia Artificial",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Compiladores",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Complementos de Matemática II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad Informática",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Práctica Profesional",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Tesina",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas Electivas Avanzadas",
+      "Peso": 16.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D057": [
+    {
+      "Asignatura": "Introducción a la Programación",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra y Geometría",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción al Cálculo",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a la Física",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Introducción a la Ingeniería",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Comunicación Efectiva",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física General I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Química y Sociedad",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo III",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física General III",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Teoría de Sistemas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras Discretas",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ecuaciones Diferenciales",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Informática Teórica",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguajes de Programación",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Probabilidades y Estadística Computacional",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura y Organización de Computadores",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Economía para Ingenieros",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes y Ciberseguridad",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis y Diseño de Software",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Optimización",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Organizaciones y Sistemas de Información",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algoritmos y Complejidad",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Distribuidos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Computación Científica",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial I",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Fundamentos de Ciencia de Datos",
+      "Peso": 5.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Diseño de Experiencia Usuaria",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión de Proyectos de Informática",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Desarrollo de Proyectos de Informática",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Memoria de Título",
+      "Peso": 15.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Electivos Disciplinares",
+      "Peso": 15.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D058": [
+    {
+      "Asignatura": "Química A",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Pensamiento Algorítmico",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Temas Selectos de Matemáticas",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Herramientas de Software",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Metodología de la Investigación",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo A",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemáticas Discretas II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra B",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Fundamentos de Circuitos Eléctricos",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo B",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos II",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Lenguajes de Programación",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Dispositivos Semiconductores",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo D",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Tecnología Orientada a Objetos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algoritmos y Complejidad",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Bases de Datos",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Fundamentos de Diseño Digital",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis Numérico",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Interfaces Gráficas con Aplicaciones",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Gestión de Servidores y Seguridad",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física A",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Diseño Digital",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos Avanzados",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Procesamiento de Señales",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Proyectos Computacionales",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas Optativas y Humanísticas",
+      "Peso": 16.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D059": [
+    {
+      "Asignatura": "Tecnologías de la Información y Comunicación",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Algoritmos y Pseudocódigo",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática Básica",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física y Laboratorio",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación Estructurada y Funcional",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo Diferencial e Integral",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Electrónicos Digitales",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras Discretas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructura de Datos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadores",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estadística y Probabilidades",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes Inalámbricas",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Desarrollo Basado en Plataformas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos I",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos II",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad Informática",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Integración de Sistemas",
+      "Peso": 4.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Emprendimiento Tecnológico",
+      "Peso": 3.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ética Personal y Socioambiental",
+      "Peso": 2.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Titulación e Integración Curricular",
+      "Peso": 12.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    }
+  ],
+  "D060": [
+    {
+      "Asignatura": "Introducción a la Informática",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física I y Laboratorio",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Métodos de Programación",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estructuras de Datos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Álgebra Lineal",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Cálculo II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Física II y Laboratorio",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Programación Orientada a Objetos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Estadística y Probabilidades",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Matemática Discreta",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Sistemas Operativos",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Arquitectura de Computadoras II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Análisis y Diseño de Sistemas",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Investigación Operativa I",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Redes de Computadoras",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Base de Datos II",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Ingeniería de Software",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Inteligencia Artificial",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Seguridad y Auditoría de Sistemas",
+      "Peso": 6.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Grado I",
+      "Peso": 8.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Taller de Grado II",
+      "Peso": 10.0,
+      "Codigo": "",
+      "Condicion": "Obligatoria",
+      "Localizador": "Oficial"
+    },
+    {
+      "Asignatura": "Asignaturas Electivas de Especialidad",
+      "Peso": 18.0,
+      "Codigo": "",
+      "Condicion": "Optativa",
+      "Localizador": "Oficial"
+    }
+  ]
+}

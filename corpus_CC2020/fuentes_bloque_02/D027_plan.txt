@@ -1,0 +1,2020 @@
+
+--- PAGINA 1 ---
+                                                    TANDIL, 16/12/2022
+                                                  RCA 382/22
+
+
+
+
+
+VISTO:
+
+       La reunión de Consejo Académico efectuada el día 16/12/22; y
+
+
+CONSIDERANDO:
+
+      Que, durante el transcurso de la misma se llevó a tratamiento la propuesta de cambio
+
+de Plan de Estudios de la carrera Ingeniería de Sistemas presentada para su tratamiento por
+
+la comisión designada para tal fin.
+
+
+      Que, la facultad de Ciencias Exactas en su proyecto estratégico institucional (2020-
+
+2015) PEI RCA 100/21 establece como objetivo estratégico, rediseñar progresivamente los
+
+planes de estudio y de formación continua de todos los actores institucionales para propiciar
+
+una articulación con el territorio, formando profesionales responsables éticamente y con
+
+compromiso social, capaces de aportar a la transformación su entorno.
+
+
+      Que, una Comisión Curricular conformada ad hoc comenzó su trabajo en Octubre de
+
+2021, tomando la propuesta de nuevos estándares y contenidos aprobada por el CIN y
+
+construyó, sobre la base de consultas a docentes, estudiantes y egresados/as, un estado de
+
+situación diagnóstica de la carrera identificando sus fortalezas y sus debilidades. Con este
+
+conocimiento de la situación real y a partir de las sugerencias realizadas por los interlocutores,
+
+se elaboró el plan propuesto.
+
+
+      Que, la propuesta intenta disminuir la brecha entre la duración teórica y real promedio
+
+de la carrera, optimizando las prácticas profesionales supervisadas y el proyecto final de
+
+carrera como única unidad curricular.
+
+
+      Que, los Directores y Miembros de la Junta Departamental vigente del Departamento
+
+de Computación y Sistemas avalan la propuesta de plan de estudio de la carrera Ingeniería de
+
+Sistemas.
+
+
+      Que, la Comisión de Asuntos Académicos, Estudiantiles y de Reglamento (CAER)
+
+recomienda aprobar la propuesta de nuevo Plan de Estudios de la carrera Ingeniería de
+
+Sistemas.
+
+
+
+
+                                                                                     Página 1 de 38
+
+--- PAGINA 2 ---
+                                                  RCA 382/22
+
+
+
+
+
+      Que, el Consejo Académico resuelve por unanimidad aprobar la propuesta de nuevo
+
+Plan de Estudios de la carrera Ingeniería de Sistemas.
+
+
+      Por ello, en uso de las atribuciones conferidas por el Estatuto de la Universidad
+
+Nacional del Centro de la Provincia de Buenos Aires;
+
+
+                              EL CONSEJO ACADÉMICO
+
+                   DE LA FACULTAD DE CIENCIAS EXACTAS
+
+                            R E S U E L V E
+
+
+
+ARTÍCULO 1º: Aprobar el cambio de Plan de Estudios de la carrera Ingeniería de Sistemas, el
+
+cual se anexa a la presente Resolución.
+
+
+ARTÍCULO 2º: Elevar la presentación para su tratamiento al Consejo Superior.
+
+
+ARTÍCULO 3º: Regístrese, publíquese, notifíquese y archívese.-
+
+
+
+
+
+                                                                                     Página 2 de 38
+
+--- PAGINA 3 ---
+                                                  RCA 382/22
+
+
+
+
+
+                         ANEXO
+
+
+
+    1.  PRESENTACIÓN
+        1.1.   Nombre de la carrera
+    Ingeniería de Sistemas
+
+
+        1.2.   Titulaciones que otorga:
+   Intermedia: Analista Universitaria/o en Desarrollo de Sistemas (AUDeS)
+    Final: Ingeniero/a de Sistemas
+
+
+        1.3.   Años de duración:
+    Cinco (5)
+
+
+        1.4.   Cantidad de horas totales:
+   3600 hrs.
+
+
+        1.5.   Modalidad de cursado:
+    Presencial
+
+
+
+    2.  FUNDAMENTACIÓN
+
+   La carrera de Ingeniería de Sistemas fue creada en la Universidad Nacional del Centro de la
+Provincia de Buenos Aires (UNCPBA) por Resolución del CS N° 107/76 quedando por este
+medio aprobada la primera versión del Plan de estudio que fue modificado en posteriores
+presentaciones, mediante Resolución de CS N°596/90; CS1818/95; CS3841/11. Realizó su
+primer proceso de acreditación en CONEAU en el año 2011, el 16 de noviembre de 2011 fue
+otorgado su reconocimiento oficial y la consecuente validez nacional por el plazo de TRES (3)
+años a contar desde la fecha de la Resolución CONEAU N° 932 del 2011. Posteriormente, fue
+acreditada y validado oficialmente su título nuevamente por tres años mediante Resolución
+CONEAU N° 979/17 y RM 4387/17 de noviembre de 2017 respectivamente. En el último
+proceso de evaluación, obtuvo acreditación por seis (6) años por Resolución de CONEAU
+336/20 del 23 de octubre de 2020 y se está a la espera de la Resolución Ministerial que
+reconoce oficialmente la titulación por dicho período.
+
+
+
+
+
+                                                                                     Página 3 de 38
+
+--- PAGINA 4 ---
+                                                  RCA 382/22
+
+
+
+
+
+  Contemporáneamente a ello, desde la Secretaría de Políticas Universitarias y desde el
+propio CIN, se comenzó a debatir fuertemente la necesidad de plasmar planes de estudio que
+incluyan  titulaciones intermedias con  habilitaciones profesionales o  certificaciones de
+saberes, estructuras curriculares que no concentren en los tres primeros años la totalidad de
+las Ciencias Básicas y carreras cuya duración real sea coincidente con su duración teórica.
+
+   Este escenario, en el ámbito de las políticas académicas, convive en la actualidad con
+propuestas del ámbito pedagógico desde las cuales se insta a acortar las distancias entre la
+formación teórica y la formación en la práctica profesional y se aboga por diseñar algunos
+cursos a partir del trabajo con problemas profesionales, proyectos o formatos similares cuyo
+eje esté centrado en el/la estudiante y los problemas reales de la profesión.
+
+  A su vez, en el ámbito de los polos tecnológicos, las áreas de servicios, las empresas y
+organizaciones y la administración pública se continúa demandando inversión en la formación
+de profesionales que se caractericen por disponer de los conocimientos, las capacidades y las
+habilidades atinentes a las necesidades productivas y de empleo y al desarrollo de las
+tecnologías en cada uno de los sectores involucrados.
+
+   La facultad de Ciencias Exactas en su proyecto estratégico institucional ( 2020-2015) PEI
+RCA 100/21 establece como objetivo estratégico, rediseñar progresivamente los planes de
+estudio y de formación continua de todos los actores institucionales para propiciar una
+articulación con  el  territorio, formando profesionales responsables éticamente y con
+compromiso social, capaces de aportar a la transformación su entorno.
+
+  A los efectos de dar mejor respuesta a la región, desde el momento de su creación, la
+carrera de Ingeniería de Sistemas tuvo su sede en Tandil, que se encuentra en la zona centro
+de la provincia de Buenos Aires, con un buen acceso por medio de rutas nacionales y
+provinciales, en una ubicación estratégica de producción industrial y tecnológica.
+
+   La evolución que ha sufrido especialmente en los últimos decenios, a nivel mundial el
+ejercicio profesional de la Ingeniería de Sistemas amerita considerar al menos dos factores:
+las necesidades sociales a las que responde y el contexto particular y global en el que se
+desarrolla.
+
+  Con este marco y considerando también las demandas provenientes de los ámbitos de las
+políticas públicas, de las prácticas pedagógicas, del medio productivo local y del propio
+proyecto institucional de la UNCPBA, es que la carrera de Ingeniería en Sistemas elabora su
+nuevo plan de estudio.
+
+
+
+                                                                                     Página 4 de 38
+
+--- PAGINA 5 ---
+                                                  RCA 382/22
+
+
+
+
+
+  Una Comisión Curricular conformada ad hoc comenzó su trabajo en Octubre de 2021. Tomó
+como piedra basal, para aquel entonces, la propuesta de nuevos estándares y contenidos
+aprobada por el CIN y construyó, sobre la base de consultas a docentes, estudiantes y
+egresados/as, un estado de situación diagnóstica de la carrera identificando sus fortalezas y
+sus debilidades. Con este conocimiento de la situación real y a partir de las sugerencias
+realizadas por los interlocutores, se elaboró un primer esquema curricular. Lo que siguió
+fueron extensas reuniones con  los/as docentes agrupados por áreas en  las que se
+consensuaron unidades curriculares, contenidos nucleares, cargas horarias. El resultado fue
+una primera propuesta de diseño de la carrera que volvió a discutirse en reuniones con
+docentes por áreas, egresados/as y estudiantes tras las cuales se elaboró el diseño definitivo
+que incluye una titulación intermedia, que desconcentra las ciencias básicas de los primeros
+años, que soluciona cada uno de los déficits detectados.
+
+   Este nuevo plan de estudio propone una formación académica integral de un/a Ingeniero/a
+de Sistemas que se asume como sujeto social y protagonista de una amplia práctica
+profesional.
+
+  Atendiendo a las necesidades actuales, se incorpora una titulación intermedia por lo cual
+se han concentrado durante los tres primeros años los contenidos y prácticas referidas al eje
+de la programación.
+
+   La carrera incorpora los siguientes enfoques transversales:
+         -  Identificación, formulación y resolución de problemas de ingeniería en sistemas de
+         información/informática.
+         -  Concepción, diseño y desarrollo de proyectos de ingeniería en sistemas de
+         información/informática.
+         -  Gestión, planificación, ejecución y control de proyectos de ingeniería en sistemas de
+         información/informática.
+         -  Utilización de técnicas y herramientas de aplicación en la ingeniería en sistemas de
+         información/informática.
+         -  Generación de desarrollos tecnológicos y/o innovaciones tecnológicas.
+         -  Fundamentos para el desempeño en equipos de trabajo.
+         -  Fundamentos para una comunicación efectiva.
+         -  Fundamentos para una actuación profesional ética y responsable.
+         -  Fundamentos para evaluar y actuar en relación con el impacto social de su actividad
+         profesional en el contexto global y local.
+         -  Fundamentos para el aprendizaje continuo.
+
+
+
+                                                                                     Página 5 de 38
+
+--- PAGINA 6 ---
+                                                  RCA 382/22
+
+
+
+
+
+         -  Fundamentos para el desarrollo de una actitud profesional emprendedora.
+
+   La UNCPBA asume con esta propuesta su compromiso de formar profesionales idóneos,
+responsables y éticos caracterizados como  dúctiles y abiertos  al conocimiento de  lo
+emergente y flexibles e innovadores para resolver nuevos problemas.
+
+
+
+3. OBJETIVOS DE LA CARRERA
+
+    Los objetivos que la UNCPBA Universidad Nacional del Centro de la Provincia de Buenos
+Aires se propone con esta carrera son:
+
+         -  Abordar las necesidades presentes y futuras del sector tecnológico formando
+         profesionales que se incorporen a los distintos ámbitos en los que se requieren
+         diseños, proyectos, desarrollos, gestión y evaluación de sistemas informáticos y del
+         desarrollo científico y tecnológico del país.
+         -  Formar profesionales con las disponibilidades teóricas, metodológicas y prácticas
+         necesarias para el estudio, la comprensión y la intervención pertinente y profesional
+        ante la necesidad de mejorar el comportamiento tecnológico en los distintos
+         sectores que lo requieran.
+         -  Generar un espacio formativo que fomente el estudio y la consolidación de una
+         perspectiva  profesional que  valore  tanto  el conocimiento  teórico como  el
+        conocimiento práctico sistematizado, que bregue por la necesidad de formación
+         continua y que considere positivamente el trabajo en equipos interdisciplinarios.
+         -  Promover acciones formativas, de  investigación y extensión que desarrollen
+        competencias sociales, políticas y actitudinales del ingeniero para el desarrollo
+         sostenible considerando la tecnología como un servicio a la comunidad.
+
+
+
+4. PERFIL DEL/LA EGRESADO/A
+
+   4.1. Perfil del/la Analista Universitario en Desarrollo de Sistemas
+
+         -  Posee la formación teórica y práctica necesaria para su desempeño, acompañado
+          por un bagaje de recursos que permiten la aplicación inmediata y productiva de
+          sus conocimientos en el contexto en que se desempeñe.
+         -  Posee amplios conocimientos acerca de las principales técnicas y herramientas
+         de software que le permite su inmediata adecuación a las demandas laborales.
+         -  Puede  desempeñarse  en  diferentes  ambientes  laborales,  ya  sea  en
+
+
+
+                                                                                     Página 6 de 38
+
+--- PAGINA 7 ---
+                                                  RCA 382/22
+
+
+
+
+
+          organizaciones pequeñas como de gran tamaño y de diversos dominios de
+           desarrollo.
+         -  Posee condiciones para adaptarse a  la aparición de nuevas tecnologías o
+          herramientas de desarrollo de software.
+         -  Posee conocimientos y aptitudes necesarias para contribuir positivamente en la
+          sociedad que usa intensivamente los sistemas de software.
+
+
+
+   4.2. Perfil del/la Ingeniero/a de Sistemas
+
+         -  Posee una sólida formación en las ciencias básicas de la ingeniería, informática,
+           arquitectura  de  computadoras,  ingeniería  de  software  y  gestión  de
+           organizaciones, conjuntamente con una visión práctica que permite resolver
+         problemas eficaz y eficientemente en el contexto que se desempeñe.
+         -  Posee una adecuada formación científica, técnica y profesional que lo prepara
+          para aprender, ejercer, desarrollar y emprender nuevas tecnologías.
+         -   Identifica, diseña, gestiona, desarrolla, ejecuta y controla proyectos de ingeniería
+         de sistemas, considerando  la incidencia de aspectos políticos, económicos,
+            sociales, ambientales y culturales desde una perspectiva global, tomando en
+          cuenta las necesidades de la sociedad.
+         -  Posee aptitudes para una actuación profesional ética y responsable y para evaluar
+          y actuar en relación con el impacto social de su actividad profesional en el
+          contexto global y local.
+         -  Comprende los principios de la Ingeniería y posee las habilidades que permiten su
+           aplicación a los proyectos de desarrollo de software.
+         -  Posee aptitudes para generar desarrollos e innovaciones tecnológicas y para
+          asumir una actitud emprendedora.
+         -  Posee aptitudes para su desempeño en equipos de trabajo multidisciplinarios,
+          para una comunicación efectiva y para el aprendizaje continuo.
+         -  Posee capacidad para contribuir al progreso de la disciplina a través de la
+          innovación profesional, la investigación y el desarrollo.
+
+
+
+
+5. ALCANCES Y ACTIVIDADES RESERVADAS
+
+
+   5.1. Alcances del título de Analista Universitario en Desarrollo de Sistemas
+
+
+
+                                                                                     Página 7 de 38
+
+--- PAGINA 8 ---
+                                                RCA 382/22
+
+
+
+
+
+       -  Analizar,  implementar, poner en  funcionamiento  y documentar  sistemas
+        informáticos destinados a actividades de producción,  servicios, gobierno y
+       autogestión social.
+       -  Implementar  tecnologías  específicas de  desarrollo en  diferentes  sistemas
+        informáticos.
+       -  Proyectar estrategias de solución a problemas específicos de desarrollo de
+        sistemas.
+       -  Intervenir en el seguimiento del proceso de desarrollo de sistemas de software y
+       redes de comunicación de datos.
+       -  Desempeñar funciones, cargos y comisiones y empleos públicos y privados que
+       requieran idoneidad y conocimientos informáticos específicos.
+
+
+5.2. Alcances del título de Ingeniero/a de Sistemas
+       -  Analizar, diseñar, implementar, evaluar,  instalar, documentar y administrar
+       sistemas informáticos destinados a actividades de producción, servicios, gobierno
+       y autogestión social.
+       -  Elaborar proyectos y realizar estudios de factibilidad técnico-económico de
+       sistemas informáticos:
+       -  Identificar  requisitos,  evaluación y  selección de equipos de  desarrollo e
+        infraestructura informática.
+       -  Definir, identificar, evaluar y seleccionar la tecnología apropiada a necesidades
+        específicas del proyecto a desarrollar.
+       -  Desarrollar sistemas socio-técnicos de gestión, producción y servicio.
+       -  Intervenir en procesos de decisiones estratégicas, tácticas y operativas vinculadas
+       con  la  obtención,  elaboración,  resguardo  y  aplicación  de  información
+        sistematizada relativa a la gestión de organizaciones públicas y privadas.
+       -  Realizar funciones de auditoría de sistemas informáticos.
+       -  Diseñar, organizar, dirigir y controlar centros de procesamiento informático y
+       redes de comunicación de datos.
+       -  Elaborar, desarrollar y aplicar modelos y soluciones informáticas en otras
+         disciplinas y campos de actividad y saber humano.
+       -  Desempeñar funciones, cargos y comisiones y empleos públicos y privados que
+       requieran idoneidad y conocimientos informáticos específicos.
+       -  Realizar pericias, tasaciones e informes referidos a sistemas, equipamiento y
+
+
+
+
+
+                                                                                  Página 8 de 38
+
+--- PAGINA 9 ---
+                                                  RCA 382/22
+
+
+
+
+
+         temas referidos a la obtención, elaboración, distribución, acceso y seguridad de
+          datos e información.
+           -  Intervenir en cuestiones relativas a la aplicación de normas, reglamentaciones y
+           leyes que afecten a los sistemas informáticos de empresas y organizaciones
+           públicas y privadas.
+           -  Desarrollar  actividades  de  investigación,  docencia  universitaria  superior,
+           capacitación y extensión en áreas relativas o vinculadas a la especialidad.
+
+
+   5.3. Actividades reservadas al título de Ingeniero/a de Sistemas:
+
+           -  Especificar,  proyectar  y  desarrollar  sistemas de  información,  sistemas de
+         comunicación de datos y software cuya utilización pueda afectar la seguridad,
+           salud, bienes o derechos.
+           -  Proyectar y dirigir lo referido a seguridad informática.
+           -  Establecer métricas y normas de calidad de software.
+           -  Certificar  el funcionamiento, condición de uso o estado de  lo mencionado
+          anteriormente.
+           -  Dirigir  y  controlar  la  implementación,  operación  y mantenimiento de  lo
+          anteriormente mencionado
+
+
+
+6. CONDICIONES DE INGRESO
+
+   Para ingresar a la carrera de Ingeniería de Sistemas se requiere:
+
+          -   contar con título de educación secundaria o equivalente;
+          -   excepcionalmente, podrán ingresar los/as mayores de veinticinco (25) años que no
+         reúnan esa condición, de acuerdo a lo establecido por  la Ley 24521 y su
+           modificatoria, y demuestren a través de las evaluación que establezca la UNCPBA,
+         que tienen preparación y/o experiencia laboral acorde con los estudios que se
+         proponen iniciar, así como aptitudes y conocimientos suficientes para cursarlos
+           satisfactoriamente.
+
+
+7. SEGUIMIENTO CURRICULAR DE LA CARRERA
+
+   Las carreras del campo de la informática y la computación se encuentran en continua
+evolución, debido a  la  aparición  constante de nuevos  lenguajes de  programación,
+
+
+
+
+
+                                                                                     Página 9 de 38
+
+--- PAGINA 10 ---
+                                                   RCA 382/22
+
+
+
+
+
+ metodologías de desarrollo, plataformas, entre otros temas. En este contexto, a fin de formar
+ profesionales actualizados, es indispensable reevaluar de forma periódica las herramientas
+ informáticas y computacionales utilizadas en la carrera y la propuesta de unidades curriculares
+ que atienden dichos aspectos. A su vez, para no sobrecargar a los/as estudiantes y prolongar
+ los tiempos de egreso, dicha actualización debe ser planteada de forma integral.
+
+
+   En función de ello se prevé el funcionamiento de una Comisión de Carrera que realice, entre
+ otras tareas de coordinación y de tipo administrativo-académicas, el seguimiento curricular
+ del plan de estudio. Dicha Comisión será nombrada por el Consejo Académico de la Facultad
+ de Ciencias Exactas por propuesta del Departamento de Computación y Sistemas, y estará
+ conformada por dos (2) docentes del Departamento de Computación y Sistemas, un/a (1)
+ graduado/a y un/a (1) estudiante. La Comisión de Carrera trabajará en conjunto con los/as
+ docentes para articular el dictado de los cursos.
+
+
+
+
+
+ 8. ESTRUCTURA CURRICULAR
+
+
+    8.1. Estructura curricular por ciclos
+
+     Se identifican en la currícula dos trayectos: uno correspondiente al ciclo de Analista y otro
+ correspondiente al ciclo de Ingeniería.
+
+      El  ciclo de Analista constituye un avance  vertical en  el plan de estudios hasta
+ cumplimentar los saberes y desempeños propios de la titulación sin que esto signifique la
+ aprobación de la totalidad de las unidades curriculares de los tres primeros años de la carrera.
+
+     Constituyen el Ciclo de Analista Universitario/a en Desarrollo de Sistemas (AUDeS) a cuya
+ finalización se expide la titulación de Analista Universitario/a en Desarrollo de Sistemas, las
+ unidades curriculares que se listan a continuación junto a las horas correspondientes a
+ actividades académicas electivas:
+
+                      1er. Cuatrimestre                          2do. Cuatrimestre
+
+1er.  6111. Introducción a la Programación I          6121. Diseño Lógico
+ A   6112. Introducción al Álgebra                   6122. Introducción a la Programación II
+ Ñ   6113. Introducción a los Sistemas Informáticos   6124. Cálculo I
+ O   6114. Inglés
+
+
+
+
+
+                                                                                     Página 10 de 38
+
+--- PAGINA 11 ---
+                                                   RCA 382/22
+
+
+
+
+
+ 2do  6211. Arquitectura de Computadoras I           6221. Redes de Computadoras I
+  A   6212. Análisis y Diseño de Algoritmos I           6222. Metodologías de Desarrollo de
+  Ñ   6213. Programación Orientada a Objetos        Software
+  O                                                6223. Análisis y Diseño de Algoritmos II
+  3er  6311. Sistemas Operativos                     6321. Programación Web
+  A   6312. Base de Datos I
+  Ñ
+  O
+
+
+
+      Constituyen el Ciclo de Ingeniería a cuya finalización se expide la titulación de Ingeniero/a
+  de Sistemas, las siguientes unidades curriculares junto a las horas correspondientes a
+  actividades académicas electivas y actividades de libre elección o formación complementaria:
+
+
+
+
+                     1er. Cuatrimestre                           2do. Cuatrimestre
+
+1er  6111. Introducción a la Programación I         6121. Diseño Lógico
+ A   6112. Introducción al Álgebra                  6122. Introducción a la Programación II
+ Ñ   6113. Introducción a los sistemas informáticos   6123. Lenguajes Formales y Autómatas
+ O   6114. Inglés                                 6124. Cálculo I
+
+
+2do  6211. Arquitectura de computadoras I          6221. Redes de Computadoras I
+ A   6212. Análisis y Diseño de Algoritmos I          6222. Metodologías de Desarrollo de
+ Ñ   6213. Programación Orientada a Objetos       Software
+ O   6214. Algebra Lineal                          6223. Análisis y Diseño de Algoritmos II
+                                                 6224. Cálculo II
+
+3er   6311. Sistemas Operativos                    6321. Programación Web
+ A   6312. Base de Datos I                         6322. Bases de Datos II
+ Ñ   6313. Física I                                6323. Probabilidad y Estadística
+ O   6314. Lenguajes y Paradigmas                 6324. Ingeniera de Software I
+
+
+4to   6411. Organización y Gestión Empresarial       6421. Calidad de Software
+ A   6412.Teoría de la Información                 6422. Arquitectura de Computadoras II
+ Ñ   6413. Redes de Computadoras II               6423. Fundamentos de la Ciencia de Datos
+ O   6414. Física II                                6424. Compiladores e Intérpretes
+5to   6511. Ingeniería de Software II                 6521. Formulación y Evaluación de
+ A   6512. Ciberseguridad                         Proyectos TICs
+
+
+
+
+
+                                                                                       Página 11 de 38
+
+--- PAGINA 12 ---
+                                                  RCA 382/22
+
+
+
+
+
+Ñ   6513. Inteligencia Artificial                    6522. Ética y Legislación de la práctica
+O                                                   profesional
+                                                6523. Práctica Profesional Supervisada y
+                                                Proyecto integrador
+
+
+
+
+     8.2. Estructura curricular por bloques
+
+    El plan de estudio está estructurado en cuatro bloques:
+
+   Ciencias Básicas de la Ingeniería: Incluye los contenidos curriculares y los fundamentos
+   necesarios para el desarrollo de las competencias lógico-matemáticas y científicas para las
+   carreras de ingeniería, en función de los avances científicos y tecnológicos, a fin de
+   asegurar una formación conceptual para el sustento de las disciplinas específicas. Integran
+   esta área las siguientes unidades curriculares:
+           -   Introducción al Álgebra
+           -   Cálculo I
+           -   Algebra Lineal
+           -   Cálculo II
+           -   Física I
+           -   Probabilidad y Estadística
+           -   Física II
+           -  Fundamentos de la Ciencia de Datos
+
+
+     Tecnologías Básicas: Incluye los contenidos curriculares basados en las Ciencias Exactas
+    y Naturales y los fundamentos necesarios para el desarrollo de las competencias
+     científico-tecnológicas que permiten la modelación de los fenómenos relevantes a la
+     Ingeniería en formas aptas para su manejo y eventual utilización en sistemas o procesos.
+    Sus principios fundamentales son aplicados luego en la resolución de problemas de
+     ingeniería. Integran esta área las siguientes unidades curriculares:
+           -   Introducción a la Programación I
+           -   Introducción a los Sistemas Informáticos
+           -   Diseño Lógico
+           -   Introducción a la Programación II
+           -   Lenguajes formales y autómatas
+           -   Arquitectura de Computadoras I
+           -   Análisis y Diseño de Algoritmos I
+
+
+
+                                                                                     Página 12 de 38
+
+--- PAGINA 13 ---
+                                               RCA 382/22
+
+
+
+
+
+    -  Programación Orientada a Objetos
+    -   Análisis y Diseño de Algoritmos II
+    -   Lenguajes y Paradigmas
+    -  Programación WEB
+    -   Teoría de la Información
+    -   Arquitectura de Computadoras II
+    -   Compiladores e Intérpretes
+
+
+Tecnologías Aplicadas: Incluye los contenidos curriculares para la aplicación de las
+Ciencias Básicas de la Ingeniería y las Tecnologías Básicas y los fundamentos necesarios
+para el diseño, cálculo y proyecto de sistemas, componentes, procesos o productos, para
+la resolución de problemas y para el desarrollo de las competencias propias de la
+terminal. Integran esta área las siguientes unidades curriculares:
+    -  Redes de Computadoras I
+    -   Metodologías de Desarrollo de Software
+    -   Sistemas Operativos
+    -  Base de Datos I
+    -  Base de Datos II
+    -   Ingeniería de Software I
+    -  Redes de Computadoras II
+    -   Calidad de Software
+    -   Ingeniería de Software II
+    -   Ciberseguridad
+    -   Inteligencia Artificial
+    -  Horas de Actividades académicas electivas
+
+
+Ciencias y Tecnologías Complementarias: Incluye los contenidos curriculares y los
+fundamentos necesarios para poner  la práctica de  la Ingeniería en  el contexto
+profesional, social, histórico, ambiental y económico en que ésta se desenvuelve,
+asegurando el desarrollo de las competencias sociales, políticas y actitudinales del
+ingeniero para el desarrollo sostenible. Integran esta área las siguientes unidades
+curriculares:
+    -   Inglés
+    -   Organización y Gestión Empresarial
+    -   Formulación y Evaluación de Proyectos TICs
+    -   Ética y legislación de la práctica profesional
+
+
+
+
+                                                                                Página 13 de 38
+
+--- PAGINA 14 ---
+                                                 RCA 382/22
+
+
+
+
+
+       -  Horas de actividades de libre elección
+
+
+
+  8.3. Estructura curricular por unidades curriculares
+
+     C= Cuatrimestre de dictado
+     Hs= Horas semanales
+      T= Teóricas
+
+
+     P= Prácticas
+      Ths= Total horas semana
+      Thc= Total horas cuatrimestre
+
+
+                  TITULACIÓN DE INGENIERO/A DE SISTEMAS
+
+                                            C    Hs                    Thc
+
+  Unidades
+ Curriculares
+
+
+
+                                                      T      P     Ths
+
+
+
+PRIMER AÑO
+
+
+    6111        Introducción a la Programación I      1     2,5     3,5    6       90
+
+
+
+    6112        Introduccion al Algebra              1     3      3     6       90
+
+
+    6113        Introducción   a    los   Sistemas   1     2      3     5       75
+                 Informáticos
+
+
+    6114        Inglés                            1     3      3     6       90
+
+
+    6121       Diseño Lógico                     2     2      2     4       60
+
+
+
+
+
+                                                                                  Página 14 de 38
+
+--- PAGINA 15 ---
+                                                 RCA 382/22
+
+
+
+
+
+     6122        Introducción a la Programación II      2     2,5     3,5    6       90
+
+
+     6123       Lenguajes formales y autómatas      2     2      3     5       75
+
+
+     6124        Cálculo I                         2     3      3     6       90
+
+
+Total     horas                                       300    360           660
+primer año
+
+
+  SEGUNDO
+   AÑO
+
+
+     6211        Arquitectura de Computadoras I      1     3      3     6       90
+
+
+     6212         Análisis y Diseño de Algoritmos I      1     3      3     6       90
+
+
+     6213       Programación Orientada a Objetos     1     2      3     5       75
+
+
+    6214        Algebra Lineal                     1     3      3     6       90
+
+
+     6221       Redes de Computadoras I            2     3      3     6       90
+
+
+     6222       Metodologías  de   Desarrollo  de   2     3      3     6       90
+                 Software
+
+
+     6223         Análisis y Diseño de Algoritmos II      2     3      3     6       90
+
+
+     6224        Cálculo II                         2     3      3     6       90
+
+
+   Total horas                                         345    360           705
+  segundo año
+
+
+
+
+                                                                                   Página 15 de 38
+
+--- PAGINA 16 ---
+                                                 RCA 382/22
+
+
+
+
+
+TERCER AÑO
+
+
+    6311       Sistemas Operativos                1     3      3     6       90
+
+
+    6312       Base de Datos I                    1     3      3     6       90
+
+
+    6313         Física I                           1     3      3     6       90
+
+
+    6314       Lenguajes y Paradigmas             1     2      3     5       75
+
+
+    6321       Programación WEB                 2     3      3     6       90
+
+
+    6322       Base de Datos II                    2     3      3     6       90
+
+
+    6323        Probabilidades y Estadística          2     3      3     6       90
+
+
+    6324        Ingeniería de Software I             2     3      3     6       90
+
+
+  Total Horas                                         345    360           705
+  tercer año
+
+
+CUARTO AÑO
+
+
+    6411       Organización y Gestión Empresarial    1     3      3     6       90
+
+
+    6412        Teoría de la Información             1     3      3     6       90
+
+
+    6413       Redes de Computadoras II           1     3      3     6       90
+
+
+    6414         Física II                          1     3      3     6       90
+
+
+
+
+
+                                                                                  Página 16 de 38
+
+--- PAGINA 17 ---
+                                                 RCA 382/22
+
+
+
+
+
+    6421        Calidad de Software                2     3      3     6       90
+
+
+    6422        Arquitectura de Computadoras II      2     2      2     4       60
+
+
+    6423      Fundamentos de la Ciencia de Datos   2     3      3     6       90
+
+
+    6424       Compiladores e Intérpretes          2     2      3     5       75
+
+
+  Total horas                                         330    345           675
+  cuarto año
+
+
+QUINTO AÑO
+
+
+    6511        Ingeniería de Software II             1     3      3     6       90
+
+
+    6512       Ciberseguridad                    1     2      2     4       60
+
+
+    6513        Inteligencia Artificial                1     2      3     5       75
+
+
+    6521       Formulación   y   Evaluación   de   2     3      3     6       90
+                Proyectos TICs
+
+
+    6522        Ética y  Legislación de  la  Práctica   2     2      3     5       75
+                  Profesional
+
+                  Práctica  Profesional Supervisada y
+    6523                                            5     10            225                Proyecto Integrador
+
+
+  Total horas                                         227    388           615
+  quinto año
+
+
+
+
+
+                                                                                  Página 17 de 38
+
+--- PAGINA 18 ---
+                                                 RCA 382/22
+
+
+
+
+
+Total general de                                      1547   1813          3360
+ hs. Curriculares
+
+
+Horas                                                                     180
+actividades
+académicas
+electivas (*)
+Horas de
+                                                                         60actividades de
+libre elección o
+de formación
+complementaria
+(**)
+
+
+  Total horas                                                             3600
+    carrera
+
+
+
+
+
+    TITULACIÓN DE ANALISTA UNIVERSITARIO/A EN DESARROLLO DE SISTEMAS
+
+                                            C    Hs                     Thc
+
+ Unidades
+Curriculares
+
+
+
+                                                      T      P     Ths
+
+
+
+ PRIMER
+  AÑO
+
+
+   6111     Introducción a la Programación I         1     2,5     3,5     6       90
+
+
+
+   6112     Introduccion al Algebra                1     3      3     6       90
+
+
+
+
+
+                                                                                   Página 18 de 38
+
+--- PAGINA 19 ---
+                                                 RCA 382/22
+
+
+
+
+
+   6113     Introducción a los Sistemas Informáticos   1     2      3     5       75
+
+
+   6114      Inglés                              1     3      3     6       90
+
+
+   6121     Diseño Lógico                        2     2      2     4       60
+
+
+   6122     Introducción a la Programación II        2     2,5     3,5     6       90
+
+
+   6124      Cálculo I                            2     3      3     6       90
+
+
+Total horas                                          18     21    39      585
+primer año
+
+
+SEGUNDO
+  AÑO
+
+
+   6211     Arquitectura de Computadoras I         1     3      3     6       90
+
+
+   6212      Análisis y Diseño de Algoritmos I         1     3      3     6       90
+
+
+   6213     Programación Orientada a Objetos       1     2      3     5       75
+
+
+   6221     Redes de Computadoras I              2     3      3     6       90
+
+
+   6222     Metodologías de Desarrollo de Software   2     3      3     6       90
+
+
+   6223      Análisis y Diseño de Algoritmos II         2     3      3     6       90
+
+
+Total horas                                          17     18    35      525
+ segundo
+   año
+
+
+
+
+                                                                                   Página 19 de 38
+
+--- PAGINA 20 ---
+                                                  RCA 382/22
+
+
+
+
+
+  TERCER
+   AÑO
+
+
+    6311     Sistemas Operativos                   1     3      3     6       90
+
+
+    6312     Base de Datos I                       1     3      3     6       90
+
+
+    6321     Programación WEB                   2     3      3     6       90
+
+
+  Total Horas                                           9      9     18      270
+  tercer año
+
+
+     Total                                            44     48    92      1382
+  general de
+      hs.
+ curriculares
+
+
+ Horas                                                                    60
+ actividades
+ académicas
+ electivas (*)
+
+
+ Total horas                                                               1442
+   carrera
+
+
+Las correlatividades serán aprobadas por el Consejo Académico y el Consejo Superior en
+Resoluciones Ad-hoc.
+
+
+(*) Actividades Académicas electivas:
+Se deberán cumplimentar las horas estipuladas en cada ciclo con actividades académicas
+electivas. Las mismas pueden ser propuestas por el Departamento de Computación y Sistemas
+o solicitadas por reconocimiento si se hubieran realizado en otras instituciones de educación
+superior. En ambos casos deberá ser aprobada por el Honorable Consejo Académico de la
+
+
+
+
+
+                                                                                    Página 20 de 38
+
+--- PAGINA 21 ---
+                                                  RCA 382/22
+
+
+
+
+
+Facultad de Ciencias Exactas. Las mismas otorgan al plan de estudios la flexibilidad necesaria
+para incorporar nuevos desarrollos tecnológicos o innovaciones en el campo de los sistemas.
+
+
+(**) Actividades de libre elección o de formación complementaria:
+Se deberán cumplimentar las horas estipuladas en cada ciclo con actividades extracurriculares
+que se consideran apropiadas para  la formación  integral  del  estudiante: formativas
+motivacionales,  actividades  de  extensión,  desarrollo  tecnológico,  divulgación  y/o
+voluntariado, prácticas socio educativas y similares.
+9. CONTENIDOS MÍNIMOS
+
+                             1er Año - 1er Cuatrimestre
+
+Introducción a la Programación I
+
+Horas teoría semanales: 2,5 hrs
+
+Horas práctica semanales: 3,5 hrs
+
+Contenidos mínimos:Conceptos de algoritmo, proceso, programa. Concepto de programación
+imperativa (acciones y datos). Estructura de control (secuencia, selección, iteración). Pilas y
+Filas. Concepto de Variables. Tipos de datos simples y estructurados. Arreglos (una y más
+dimensiones). Estrategias de   modularización,  legibilidad, mantenibilidad, reusabilidad.
+Procedimientos y funciones. Parámetros formales y actuales. Algoritmos básicos de búsqueda,
+inserción, eliminación, ordenamiento. Utilización de técnicas y herramientas de aplicación en
+la ingeniería en sistemas de información.
+
+
+
+
+Introducción al Álgebra
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos  mínimos:  Cálculo  Proposicional.  Fundamentos  de  Lógica  Proposicional.
+Operaciones con proposiciones y tablas de verdad. Leyes del álgebra de proposiciones.
+Deducciones lógicas. Lógica de Predicados de Primer Orden. Números Naturales. Sucesiones
+definidas por  recurrencia. Sumatoria y  productoria. Álgebras de Boole. Conjuntos y
+
+
+
+
+
+                                                                                    Página 21 de 38
+
+--- PAGINA 22 ---
+                                                  RCA 382/22
+
+
+
+
+
+subconjuntos. Operaciones con conjuntos. Leyes del álgebra de conjuntos. Diagrama de Venn.
+Principio Fundamentales de conteo. Permutaciones. Combinaciones sin y con repetición.
+Números combinatorios. Estructura de los números enteros. Divisibilidad. Maximo común
+divisor. Mínimo común múltiplo. Números primos. Congruencias. Producto cartesiano.
+Relaciones y funciones.
+
+
+
+
+Introducción a los Sistemas Informáticos
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Representación y codificación de información. Unidades de medida
+utilizadas en informática. Sistemas de representación de números enteros y números reales.
+Codificación de imágenes, audio y vídeo. Nociones de compresión de datos. Estructura de la
+computadora. Procesadores, memorias y dispositivos periféricos. Lenguaje de máquina.
+Lenguaje de ensamblado. Paradigmas de programación. Lenguajes de alto nivel. Definición y
+conceptos básicos de Sistema, Informática, Modelo y Sistema Informático. Ensambladores,
+compiladores e intérpretes. Conceptos de sistemas operativos, comunicación de datos y redes
+de computadoras. Utilización de técnicas y herramientas de aplicación en la ingeniería en
+sistemas de información.
+
+
+
+
+Inglés
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos:Lecto-comprensión de textos académico- científicos (el abstract, el
+paper, etc.). Estrategias d e lectura. Generalidades lingüísticas de los textos académicos (la
+frase nominal, tiempos verbales más frecuentes, morfosintaxis, conjunciones y conectores
+lógicos,  etc.). Normas de citado (títulos y capítulos de libros; artículos de divulgación
+científica). Redacción de ideas principales; párrafos y resúmenes con la correcta ortografía,
+puntuación, cohesión, coherencia y registro.
+
+
+
+
+
+                                                                                    Página 22 de 38
+
+--- PAGINA 23 ---
+                                                  RCA 382/22
+
+
+
+
+
+                             1er Año - 2do Cuatrimestre
+
+Diseño Lógico
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 2 hrs
+
+Contenidos mínimos: Síntesis de circuitos combinacionales. Minimización y Simplificación de
+funciones booleanas. Síntesis de circuitos secuenciales. Latches y Flip-flops. Diferentes tipos
+de ffs. Banco de registros. Contadores. Tiempos de un elemento de memoria. Máquinas de
+estados. Costos en términos de compuertas lógicas y tiempos de estabilización de circuitos
+combinacionales y secuenciales. Frecuencia, período y latencia de un circuito lógico digital.
+Arquitectura y componentes de un procesador sencillo.
+
+
+
+
+Introducción a la Programación II
+
+Horas teoría semanales: 2,5 hrs
+
+Horas práctica semanales: 3,5 hrs
+
+Contenidos mínimos: String. Registros. Archivos. Recursión. Estructuras de datos dinámicas.
+Punteros. Listas vinculadas simples y dobles. Árboles binarios de búsqueda. Algoritmos
+avanzados de búsqueda, inserción, eliminación y ordenamiento. Utilización de técnicas y
+herramientas de aplicación en la ingeniería en sistemas de información.
+
+
+
+
+Lenguajes formales y autómatas
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Introducción a los lenguajes formales. Autómatas finitos, autómatas de
+pila y Máquinas de Turing. Gramáticas regulares, libres del contexto, sensibles al contexto y
+estructuradas por frases. Expresiones regulares. Nociones básicas de computabilidad.
+
+
+
+
+
+                                                                                    Página 23 de 38
+
+--- PAGINA 24 ---
+                                                  RCA 382/22
+
+
+
+
+
+Cálculo I
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Funciones. Dominio e imagen. Representación gráfica. Operaciones.
+Función inversa. Límite de funciones. Propiedades. Indeterminaciones. Límites infinitos.
+Asíntotas. Continuidad. Teorema del Valor Intermedio. Derivada. Recta tangente. Reglas de
+derivación. Derivabilidad y continuidad. Teorema del Valor Medio. Derivación implícita. Regla
+de L'Hôpital. Análisis de funciones. Integral definida e indefinida. Regla de Barrow. Teorema
+Fundamental del Cálculo. Técnicas de integración. Aplicaciones geométricas y físicas (áreas,
+longitud de curvas). Ecuaciones diferenciales de primer orden. Sucesiones. Series numéricas.
+Series de potencias. Serie de Taylor. Convergencia.
+
+
+
+
+                         2do año - 1er. Cuatrimestre
+
+Arquitectura de Computadoras I
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Introducción a las arquitecturas de procesadores. RISC vs CISC. ISA de
+un procesador. Procesadores escalares. Rendimiento de un procesador escalar. Segmentación
+de un procesador escalar RISC. Riesgos en la ejecución de instrucciones: control, datos,
+estructurales. Unidades funcionales de un procesador (unidad de control, ruta de datos
+escalar, registros). Jerarquía de memorias (caché, central, secundarias, discos, red). Periféricos
+de E/S. Buses. Mecanismos de acceso a memoria y dispositivos. Manejo de interrupciones y
+excepciones. Utilización de técnicas y herramientas de aplicación en la ingeniería en sistemas
+de información.
+
+
+
+
+Análisis y Diseño de Algoritmos I
+
+
+
+
+                                                                                    Página 24 de 38
+
+--- PAGINA 25 ---
+                                                  RCA 382/22
+
+
+
+
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Eficiencia de Algoritmos (Fundamentos matemáticos para el análisis de
+algoritmos). Complejidad temporal y espacial sobre algoritmos iterativos y recursivos.
+Recursión. Tipos de datos abstractos. Técnicas de diseño de algoritmos (Divide y Conquista,
+Greedy Programación dinámica).
+
+
+
+
+Programación Orientada a Objetos
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Conceptos de  la  orientación  a  objetos  (clase/instancia,  clase
+abstracta/concreta,   método/mensaje,   métodos   abstractos/bases/hooks,   herencia,
+polimorfismo,  binding  dinámico).  Distribución  de  responsabilidades.  Representación
+problemas de objetos que interactúan en relación cliente/servidor. Composición vs. Herencia.
+Flexibilidad y extensibilidad.
+
+
+
+
+Algebra Lineal
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Ecuaciones lineales. Sistemas de ecuaciones lineales. Vectores y
+matrices. Operaciones con matrices. Transpuesta e inversa de una matriz. Determinantes.
+Subespacios vectoriales asociados a una matriz. Métodos de resolución de sistemas lineales.
+Métodos  matriciales:  Gauss  y  Gauss-Jordan.  Espacios  Vectoriales.Dependencia  e
+independencia   lineal.  Bases  y  dimensión  de  un  subespacio.  Producto  escalar.
+Transformaciones Lineales. Operaciones y propiedades de las transformaciones lineales.
+Inversa de una transformación lineal. Ortogonalidad. Autovalores y Autovectores.
+
+
+
+
+
+                                                                                    Página 25 de 38
+
+--- PAGINA 26 ---
+                                                  RCA 382/22
+
+
+
+
+
+                         2do año - 2do Cuatrimestre
+
+Redes de computadoras I
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Organización de redes (circuitos virtuales y datagramas). Arquitectura
+de niveles OSI/ISO y TCP/IP. Características y funcionamiento de Internet. Nivel de Red
+(protocolo IP e ICMP, formato de frame IP). Nivel de enlace de datos (protocolos utilizados,
+métodos de  delimitación de  frames,  detección  y  corrección de  errores).  Ethernet.
+Características del protocolo y formato del frame ethernet. Dispositivos utilizados. WIFI
+(Características del protocolo y formato del frame WIFI). Especificación, proyecto y desarrollo
+de sistemas de comunicación de datos y redes de área amplia, locales e inalámbricas.
+Utilización de técnicas y herramientas de aplicación en  la ingeniería en sistemas de
+información.
+
+
+
+
+
+Cálculo II
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Campos escalares y vectoriales. Límite. Continuidad. Derivada de un
+campo escalar respecto a un vector. Derivadas direccionales y derivadas parciales. Diferencial.
+Gradiente. Matriz Jacobiana. Derivada direccional y gradiente. Derivada de funciones
+definidas implícitamente. Teorema de la función inversa. Fórmula de Taylor de segundo orden
+para campos escalares. Máximos, mínimos y puntos de ensilladura. Criterio de las derivadas
+segundas para determinar extremos de funciones de dos y tres variables. Matrices hessianas.
+Extremos condicionados. Multiplicadores de Lagrange. Integral múltiple. Interpretación
+geométrica. Cálculo de  la integral doble o  triple por integraciones simples sucesivas.
+
+
+
+
+
+                                                                                    Página 26 de 38
+
+--- PAGINA 27 ---
+                                                  RCA 382/22
+
+
+
+
+
+Integrabilidad de funciones continuas. Cálculo de área y de volumen. Cambio de variables en
+una integral doble. Teorema de Green, Stokes y Gauss.
+
+
+
+
+Análisis y Diseño de Algoritmos II
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Grafos. Introducción a la teoría de grafos. Recorridos sobre grafos.
+Caminos mínimos. Árbol de recubrimiento de mínimo costo. Introducción a la complejidad
+computacional. Clases de problemas (P, NP, NP-completo, NP-Hard). Algoritmos heurísticos y
+aproximados. Técnicas de búsqueda exhaustiva.
+
+
+
+
+Metodologías de Desarrollo de Software
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Ciclos de vida (tradicional/modernos). Etapas del  ciclo de  vida.
+Estrategias de modelamiento y artefactos de documentación (por ejemplo, Diagramas UML,
+User Stories,  etc.). Metodologías de desarrollo de software. Etapas del ciclo de vida.
+Requerimientos funcionales y no funcionales. Elicitación de requerimientos funcionales.
+Especificación, proyecto y desarrollo de sistemas de información. Especificación, proyecto y
+desarrollo de software.
+
+
+
+
+                              3er año - 1er Cuatrimestre
+
+Física I
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+
+
+
+                                                                                    Página 27 de 38
+
+--- PAGINA 28 ---
+                                                  RCA 382/22
+
+
+
+
+
+Contenidos mínimos: Mecánica. Sistemas de Unidades. Cinemática. Leyes de Newton y
+aplicaciones dinámicas. Cinemática y Dinámica del Movimiento Circular. Trabajo y Energía.
+Momento lineal. Dinámica del Cuerpo Rígido. Oscilaciones.
+
+
+
+
+Lenguajes y Paradigmas
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Evolución conceptual de los lenguajes. Ligadura: Nombre, Tipo, Alcance,
+Valor,  Tiempo  de  vida,  Almacenamiento.  Mutabilidad  e  inmutabilidad,  Funciones,
+Procedimientos, Métodos. Pasaje de parámetros. Administración y Seguridad de memoria
+estática, de pila y memoria libre. Sistemas de tipos de datos: básicos y compuestos, Tipos
+Abstractos de Datos, Módulos, Genericidad, Orientación a Objetos e Instancias. Reflexividad.
+Concurrencia.  Características  funcionales:  expresiones  Lambda.  Otros  paradigmas:
+Declarativo,  Lógico,  Concurrente,  Aspectos,  Probabilístico,  Orientado  a  datos,  No-
+determinístico, Orientado a Restricciones, Contratos. Utilización de técnicas y herramientas
+de aplicación en la ingeniería en sistemas de información.
+
+
+
+
+Sistemas Operativos
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos  mínimos:  Sistemas de  Gestión de  Recursos de Hardware  y  Software,
+Responsabilidades, estructura y servicios de los sistemas operativos. Procesos e hilos.
+Administración  del  CPU.  Concurrencia,  sincronización,  comunicación  entre  procesos.
+Programación  concurrente  y  paralela.  Administración de memoria. Memoria  virtual.
+Almacenamiento secundario. Sistemas de archivos. Entrada/salida. Protección y seguridad.
+Máquinas virtuales. Tipos. Contenedores. Soporte de hardware y del sistema operativo. Shell
+scripting. Utilización de técnicas y herramientas de aplicación en la ingeniería en sistemas de
+información.
+
+
+
+
+
+                                                                                    Página 28 de 38
+
+--- PAGINA 29 ---
+                                                  RCA 382/22
+
+
+
+
+
+Base de Datos I
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Nociones sobre sistemas de Bases de Datos. Estructura de archivos.
+Modelo de Entidades y Relaciones Extendido. Modelo Relacional. Normalización. Modelo
+binario, navegación en consultas. Lenguaje SQL (DDL- DML). Consultas SQL. Integridad en
+bases de datos. Desnormalización. Utilización de técnicas y herramientas de aplicación en la
+ingeniería en sistemas de información.
+
+
+
+
+                             3er año - 2do Cuatrimestre
+
+Base de Datos II
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Reglas del negocio, implementación SQL declarativa y procedural.
+Vistas. Optimización de consultas. Índices (Hashing, Árboles B). Seguridad. Control de acceso.
+Manejo de transacciones. Concurrencia. Niveles de aislamiento. Recuperación ante fallas.
+Bases de datos post-relacionales. Bases de datos NoSQL - Tipos, uso y aplicaciones. Utilización
+de técnicas y herramientas de aplicación en la ingeniería en sistemas de información.
+
+
+
+
+Probabilidad y Estadística
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Organización de datos: tipos de variables, representaciones gráficas
+adecuadas para cada tipo. Medidas de resumen o tendencia central. Medidas de variabilidad.
+
+
+
+                                                                                    Página 29 de 38
+
+--- PAGINA 30 ---
+                                                  RCA 382/22
+
+
+
+
+
+Noción de espacio muestral, evento, probabilidad. Probabilidad condicional. Variables
+aleatorias discretas y continuas. Función densidad y Función distribución. Distribución
+conjunta  discreta.  Distribución  uniforme.  Modelo  Bernoulli,  Binomial.  Cálculo  de
+probabilidades. Muestreo. Distribución Normal. Distribución muestral. Noción de estimador/
+estimación puntual. Intervalos de confianza. Cálculo del tamaño de muestra. Prueba de
+hipótesis paramétrica.
+
+
+
+
+Programación WEB
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Arquitectura cliente-servidor. Estilos de programación web. Lenguaje
+de programación server-side. Lenguajes de Programación client-side. Concurrencia. Search
+engine optimization (SEO). Interfaz de Programación de Aplicaciones Web (APIs). Web routing.
+Persistencia en sistemas web. Programación Orientada a Eventos. Comunicación en Red. Data
+Access Abstraction Layer. Model-View-Controller. Template Engine. Seguridad web. Servicios
+web. Cloud computing. Frameworks de desarrollo web. Utilización de técnicas y herramientas
+de aplicación en la ingeniería en sistemas de información.
+
+
+
+
+Ingeniería de Software I
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Identificación, formulación y resolución de problemas de ingeniería en
+sistemas de información. Diseño de software. Arquitecturas de Software y sus tipos. Patrones
+de  diseño. Frameworks. Modelado y documentación de  arquitecturas.  Elicitación de
+requerimientos no funcionales. Utilización de técnicas y herramientas de aplicación en la
+ingeniería en sistemas de información
+
+
+
+
+
+                                                                                    Página 30 de 38
+
+--- PAGINA 31 ---
+                                                  RCA 382/22
+
+
+
+
+
+                             4to año - 1er Cuatrimestre
+
+Organización y gestión empresarial
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Estructura y cultura de las organizaciones. Estrategias empresariales.
+Herramientas para la gestión empresarial. El sistema de control de gestión. Control de Calidad
+(definiciones de métricas e indicadores claves de rendimiento). Sistemas de información para
+la gestión. Responsabilidad Social Empresarial. El factor humano como capital intelectual.
+Diseño de puestos de  trabajo,  reclutamiento  y  selección de  personal.  Liderazgo  y
+comunicación.  Fundamentos  para  el desempeño  en  equipos  de  trabajo.  Modelos
+empresariales. Emprendedorismo.Fundamentos y competencias necesarias para el desarrollo
+de una actitud profesional emprendedora
+
+
+
+
+Teoría de la Información
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Tratamiento probabilístico de la Información. Variables y procesos
+estocásticos. Simulación computacional de Monte Carlo. Esquema de comunicación de la
+Información. Fuentes de información. Cadenas de Markov. Estado estacionario. Entropía y
+codificación de símbolos. Códigos de Huffman. Rendimiento y redundancia. Extensión de
+fuentes. Primer teorema de Shannon. Compresión de datos. Transmisión en canales discretos.
+Ruido, Pérdida, Información mutua y capacidad del canal. Probabilidad de error.
+
+
+
+
+Redes de computadoras II
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+
+
+
+                                                                                    Página 31 de 38
+
+--- PAGINA 32 ---
+                                                  RCA 382/22
+
+
+
+
+
+Contenidos mínimos: Nivel de red: evolución protocolos de  IP, ruteo avanzado, ruteo
+dinámico. Nivel de transporte: protocolos orientado y no orientado a la conexión. Nivel
+Aplicación:  servicios web, seguridad en redes, monitoreo de red, correo electrónico,
+administración de contenedores y recursos en redes. Procedimientos y certificaciones del
+funcionamiento, condición de uso o estado de sistemas de comunicación de datos. Dirección
+y control de la implementación, operación y mantenimiento de sistemas de comunicación de
+datos. Utilización de técnicas y herramientas de aplicación en la ingeniería en sistemas de
+información
+
+
+
+
+Física II
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Electricidad. Cargas y campo eléctrico. Potencial eléctrico. Campo
+eléctrico en conductores. Campos eléctricos en la materia. Corrientes y circuitos de corriente
+continua. Electromagnetismo. Campo Magnético. Fuerza electromotriz inducida. Magnetismo
+y mecánica. Campos magnéticos en la materia. Circuitos de corriente alterna. Ecuaciones de
+Maxwell. Ondas electromagnéticas.
+
+
+
+
+                             4to año - 2do Cuatrimestre
+
+Calidad de Software
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Calidad de proceso/producto. Aseguramiento de la calidad. Testing.
+Tipos  de   test.  Cobertura  de  código.  Efectos   del   testing  sobre   la   calidad.
+Validación/verificación. TDD y BDD. Integración continua. Indicadores de calidad de software
+(cohesión, acoplamiento, etc). Métricas de proyectos. Mantenimiento de sistemas (technical
+debt, refactoring). Atributos de calidad. Modelos de calidad. Establecimiento de métricas y
+normas de calidad de software. Procedimientos y certificaciones del funcionamiento,
+
+
+
+                                                                                    Página 32 de 38
+
+--- PAGINA 33 ---
+                                                  RCA 382/22
+
+
+
+
+
+condición de uso o estado de sistemas de software, y calidad de software. Utilización de
+técnicas y herramientas de aplicación en la ingeniería en sistemas de información
+
+
+
+
+Arquitectura de Computadoras II
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 2 hrs
+
+Contenidos mínimos: Arquitecturas y Organización orientadas al desempeño computacional.
+Introducción   al  procesamiento  en   paralelo.  Paralelismo  en  monoprocesadores:
+superescalares, SMT,  Multicore.  Sistemas de  procesadores  paralelos.  Generalidades.
+Organización de multiprocesadores. Sistemas basados en memoria compartida y distribuida.
+Redes de interconexión. Sistemas de coherencia de memoria, consistencia de cache y
+sincronización. Utilización de técnicas y herramientas de aplicación en la ingeniería en
+sistemas de información
+
+
+
+
+Fundamentos de la Ciencia de Datos
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Introducción a  la Ciencia de Datos. Datos estructurados y no
+estructurados. Extracción desde distinto tipo de bases de datos, limpieza y transformación.
+Visualización de datos. Análisis univariado de datos. Estimación por métodos paramétricos y
+no paramétricos. Análisis multivariado de datos: modelos paramétricos y no paramétricos.
+Correlación y Regresión. Proyección ortogonal. Métodos de ordenación y de conglomerados.
+Análisis exploratorio de datos. Técnicas de reducción de dimensionalidad.
+
+
+
+
+
+Compiladores e Intérpretes
+
+
+
+
+
+                                                                                    Página 33 de 38
+
+--- PAGINA 34 ---
+                                                  RCA 382/22
+
+
+
+
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Modelos de traducción: Interpretación, Compilación. Elección del
+compilador. Adecuación de la traducción para la plataforma subyacente. Etapas de la
+compilación (Análisis Léxico, Análisis Sintáctico, Generación de Código). Concepto y técnicas
+de Parsing. Uso de metacompiladores. Control del Análisis Semántico. Tablas de Símbolos.
+Representaciones intermedias. Manejo de errores en compilación. Optimización de código.
+Generación de código  ejecutable.  Portabilidad,  Confiabilidad y Seguridad  del código
+ejecutable. Desempeño Computacional en  el contexto de Compiladores e Intérpretes.
+Utilización de técnicas y herramientas de aplicación en  la ingeniería en sistemas de
+información
+
+
+
+
+                             5to año - 1er Cuatrimestre
+
+Ingeniería de Software II
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Identificación, formulación y resolución de problemas de ingeniería en
+sistemas de información. Estimación. Planeamiento y seguimiento de proyectos. Riesgos:
+Análisis y mitigación. Procesos y prácticas de gestión y desarrollo de proyectos de software.
+Procesos de mejora continua. Modelos de capacidades. Auditoria. Tipos de auditoría (de
+dirección, proceso, software, mantenimiento). Auditoría de software (revisiones de código,
+calidad de código,  métricas, evaluación de  arquitecturas,  antipatrones, detección de
+vulnerabilidades). Configuration management. Release planning. Dirección y control de la
+implementación, operación y mantenimiento de sistemas de información, de software.
+
+
+
+
+
+Ciberseguridad
+
+
+
+
+
+                                                                                    Página 34 de 38
+
+--- PAGINA 35 ---
+                                                  RCA 382/22
+
+
+
+
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 2 hrs
+
+Contenidos Mínimos:  Conceptos  Básicos de  Seguridad.  Confidencialidad.  Integridad.
+Disponibilidad.  Irrefutabilidad.  Medidas de  precaución,  prevención  y  reacción  para
+incrementar la seguridad. Definición de amenaza, vulnerabilidad, impacto y riesgo. Análisis de
+riesgos. Criptología. Criptografía antigua y moderna. Criptoanálisis. Clasificación de algoritmos
+criptográficos. Funciones criptográficas de dispersión. Criptografía simétrica y asimétrica.
+Algoritmos criptográficos. Protocolos criptográficos. Software criptográfico. Ciberseguridad.
+Tipos de ataque y defensa de Sistemas Informáticos. Malware. Ataques de ingeniería social.
+Laboratorios y observatorios de seguridad informática. Normas y buenas prácticas de
+seguridad.  Proyecto y dirección en lo referido a seguridad informática. Procedimientos y
+certificaciones del funcionamiento, condición de uso o estado de sistemas de información,
+seguridad informática. Dirección y control de la implementación, operación y mantenimiento
+de sistemas de seguridad informática. Utilización de técnicas y herramientas de aplicación en
+la ingeniería en sistemas de información.
+
+
+
+
+Inteligencia Artificial
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos  mínimos:  Razonamiento  automático  y  representación de  conocimiento.
+Aprendizaje de máquina. Aprendizaje supervisado: regresión y clasificación (clasificadores
+clásicos lineales y no lineales, aprendizaje bayesiano, redes neuronales e introducción a deep
+learning). Aprendizaje no supervisado: clustering (técnicas de particionamiento, basados en
+modelos y jerárquico) y reducción de dimensionalidad. Detección de anomalías. Algoritmos
+bio-inspirados. Aprendizaje por refuerzo. Planning/Scheduling. Utilización de técnicas y
+herramientas de aplicación en la ingeniería en sistemas de información.
+
+
+
+
+
+                             5to año - 2do Cuatrimestre
+
+
+
+
+
+                                                                                    Página 35 de 38
+
+--- PAGINA 36 ---
+                                                  RCA 382/22
+
+
+
+
+
+Formulación y Evaluación de Proyectos TICs
+
+Horas teoría semanales: 3 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Gestión y Gerenciamiento. Procesos y proyectos de un plan y su
+ejecución.  Estados  financieros.  Micro  y  macro  economía.  Gestión  de  proyectos
+Interdisciplinarios. Formulación de Planes y Proyectos. Procesos de un plan. Evaluación de un
+Proyecto. Presupuestación de proyectos. Plan de Acción: Ejecución y Control. Modelos de
+Negocios. Procesos de Negocios. Estrategias de mercado y financiamiento. Monetización.
+Internacionalización. Gestión del Conocimiento. Tecnologías de Gestión. Herramientas para el
+Trabajo en  equipo.  Gestión de equipos  interdisciplinarios.  Inteligencia de  Negocios.
+Concepción, diseño y desarrollo de proyectos de ingeniería en sistemas de información.
+Gestión, planificación, ejecución y control de proyectos de ingeniería en sistemas de
+información/informática.
+
+
+
+
+Ética y legislación de la práctica profesional
+
+Horas teoría semanales: 2 hrs
+
+Horas práctica semanales: 3 hrs
+
+Contenidos mínimos: Naturaleza  Jurídica de  las funciones  del  ingeniero.  Legislación
+reguladora del ejercicio de la profesión. Código de la Ética profesional. Responsabilidad
+emergente de las funciones del ingeniero. Legislación vigente aplicada a los sistemas de
+información. Protección de datos. Protección Jurídica del Software. Patentes y licencias de
+software. Seguridad e higiene en el ámbito profesional informático. Auditoría de SI/TI: Perfil
+del profesional auditor y código de ética.  Normativa nacional e internacional vigente.
+Fundamentos para evaluar y actuar en relación con el impacto social de su actividad
+profesional en el contexto global y local.
+
+
+
+
+
+       Práctica Profesional Supervisada y Proyecto Integrador
+
+
+
+                                                                                    Página 36 de 38
+
+--- PAGINA 37 ---
+                                                  RCA 382/22
+
+
+
+
+
+      Horas teoría semanales: 5 hrs
+
+      Horas práctica semanales: 10 hrs
+
+      Contenidos mínimos: Identificación, formulación y resolución de problemas de
+       ingeniería en sistemas de información. Concepción, diseño y desarrollo de proyectos
+      de ingeniería en sistemas de información. Gestión, planificación, ejecución y control
+      de proyectos de ingeniería en sistemas de información. Utilización de técnicas y
+       herramientas de aplicación en la ingeniería en sistemas de información. Generación de
+       desarrollos  tecnológicos  y/o  innovaciones  tecnológicas. Fundamentos  para  el
+      desempeño en equipos de trabajo. Fundamentos para una comunicación efectiva.
+      Fundamentos para una actuación profesional ética y responsable. Fundamentos para
+       evaluar y actuar en relación con el impacto social de su actividad profesional en el
+       contexto global y local. Fundamentos para el desarrollo de una actitud profesional
+      emprendedora.
+
+
+
+
+Más allá que se han asignado en una o más unidades curriculares como contenidos mínimos
+específicos, la Comisión de Carrera articulará con los/as docentes de las Tecnologías Aplicadas
+el poner énfasis desde las horas prácticas en los siguientes descriptores:
+
+-   Identificación, formulación y resolución de problemas de ingeniería en sistemas de
+   información/informática.
+     -  Concepción,  diseño  y  desarrollo de  proyectos de  ingeniería en  sistemas de
+      información/informática.
+     -  Gestión, planificación, ejecución y control de proyectos de ingeniería en sistemas de
+      información/informática.
+     -  Utilización de técnicas y herramientas de aplicación en la ingeniería en sistemas de
+      información/informática.
+     -  Generación de desarrollos tecnológicos y/o innovaciones tecnológicas.
+     -  Fundamentos y competencias necesarias para el desarrollo de una actitud profesional
+     emprendedora.
+
+La Comisión de Carrera articulará con los/as docentes de todas las unidades curriculares y
+organizará paneles con graduados/as para trabajar en torno a los siguientes descriptores:
+     -  Fundamentos y competencias necesarias para el desempeño en equipos de trabajo.
+     -  Fundamentos y competencias necesarias para una comunicación efectiva.
+
+
+
+
+
+                                                                                    Página 37 de 38
+
+--- PAGINA 38 ---
+                                                RCA 382/22
+
+
+
+
+
+-  Fundamentos y competencias necesarias para una actuación profesional ética y
+   responsable.
+-  Fundamentos y competencias necesarias para evaluar y actuar en relación con el
+  impacto social de su actividad profesional en el contexto global y local.
+-  Fundamentos y competencias necesarias para el aprendizaje continuo.
+
+
+
+
+
+                                                                                Página 38 de 38
