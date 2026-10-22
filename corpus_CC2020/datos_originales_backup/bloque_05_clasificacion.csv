@@ -1,0 +1,400 @@
+﻿ID,Asignatura,Peso,Condicion,Regla,X,Y
+D061,Introdução à Computação,4.0,Obligatoria,14,T,S
+D061,Cálculo Diferencial e Integral I,6.0,Obligatoria,18,T,
+D061,Vetores e Geometria,4.0,Obligatoria,18,T,
+D061,Álgebra Linear para Computação,4.0,Obligatoria,18,T,
+D061,Cálculo Diferencial e Integral II,6.0,Obligatoria,18,T,
+D061,Introdução aos Sistemas Digitais,4.0,Obligatoria,4,A,H
+D061,Estruturas de Dados,4.0,Obligatoria,14,T,S
+D061,Laboratório de Programação,4.0,Obligatoria,16,A,S
+D061,Introdução à Probabilidade e Estatística I,4.0,Obligatoria,18,T,
+D061,Princípios de Desenvolvimento de Algoritmos,4.0,Obligatoria,13,A,S
+D061,Organização de Computadores,4.0,Obligatoria,7,T,H
+D061,Métodos Numéricos e Álgebra Linear,4.0,Obligatoria,18,T,
+D061,Sistemas Operacionais,4.0,Obligatoria,16,A,S
+D061,Linguagens Formais e Autômatos,4.0,Obligatoria,14,T,S
+D061,Redes de Computadores,4.0,Obligatoria,16,A,S
+D061,Bancos de Dados,4.0,Obligatoria,16,A,S
+D061,Análise de Algoritmos,4.0,Obligatoria,14,T,S
+D061,Engenharia de Software,4.0,Obligatoria,16,A,S
+D061,Teoria dos Grafos,4.0,Obligatoria,14,T,S
+D061,Inteligência Artificial,4.0,Obligatoria,14,T,S
+D061,Compiladores,4.0,Obligatoria,14,T,S
+D061,Trabalho de Conclusão de Curso,16.0,Obligatoria,1,,
+D061,Disciplinas Optativas Eletivas de Computação,40.0,Optativa,1,,
+D061,Humanidades e Ciências Sociais,6.0,Obligatoria,1,,
+D062,Algoritmos e Programação de Computadores,6.0,Obligatoria,13,A,S
+D062,Geometria Analítica e Vetores,4.0,Obligatoria,18,T,
+D062,Cálculo I,6.0,Obligatoria,18,T,
+D062,Física Geral I,4.0,Obligatoria,18,T,
+D062,Estruturas de Dados,4.0,Obligatoria,14,T,S
+D062,Cálculo II,6.0,Obligatoria,18,T,
+D062,Física Geral II,4.0,Obligatoria,18,T,
+D062,Circuitos Lógicos,4.0,Obligatoria,4,A,H
+D062,Organização Básica de Computadores e Assembly,4.0,Obligatoria,3,T,H
+D062,Cálculo III,4.0,Obligatoria,18,T,
+D062,Física Geral III,4.0,Obligatoria,18,T,
+D062,Circuitos Elétricos I,4.0,Obligatoria,3,T,H
+D062,Sistemas Operacionais,4.0,Obligatoria,16,A,S
+D062,Eletrônica Básica,4.0,Obligatoria,3,T,H
+D062,Eletromagnetismo,4.0,Obligatoria,18,T,
+D062,Engenharia de Software,4.0,Obligatoria,16,A,S
+D062,Redes de Computadores,4.0,Obligatoria,16,A,S
+D062,Bancos de Dados,4.0,Obligatoria,16,A,S
+D062,Sistemas Digitais Avançados,4.0,Obligatoria,4,A,H
+D062,Microprocessadores,4.0,Obligatoria,4,A,H
+D062,Inteligência Artificial,4.0,Obligatoria,14,T,S
+D062,Computação Gráfica,4.0,Obligatoria,14,T,S
+D062,Sistemas Embarcados,4.0,Obligatoria,4,A,H
+D062,Compiladores,4.0,Obligatoria,14,T,S
+D062,Projeto Final de Graduação,12.0,Obligatoria,1,,
+D062,Disciplinas Eletivas de Especialização,24.0,Obligatoria,1,,
+D063,Introducción a la Ingeniería de Sistemas,2.0,Obligatoria,1,,
+D063,Geometría Vectorial y Analítica,3.0,Obligatoria,18,T,
+D063,Cálculo Diferencial,4.0,Obligatoria,18,T,
+D063,Álgebra y Trigonometría,3.0,Obligatoria,18,T,
+D063,Matemáticas Discretas I,3.0,Obligatoria,14,T,S
+D063,Lógica y Representación I,3.0,Obligatoria,14,T,S
+D063,Física Mecánica,4.0,Obligatoria,18,T,
+D063,Álgebra Lineal,3.0,Obligatoria,18,T,
+D063,Cálculo Integral,4.0,Obligatoria,18,T,
+D063,Lógica y Representación II,3.0,Obligatoria,14,T,S
+D063,Matemáticas Discretas II,3.0,Obligatoria,14,T,S
+D063,Estructuras de Datos,3.0,Obligatoria,14,T,S
+D063,Física de Ondas y Campos,4.0,Obligatoria,18,T,
+D063,Cálculo Vectorial,4.0,Obligatoria,18,T,
+D063,Arquitectura de Computadores,3.0,Obligatoria,7,T,H
+D063,Programación Orientada a Objetos,3.0,Obligatoria,16,A,S
+D063,Ecuaciones Diferenciales,3.0,Obligatoria,18,T,
+D063,Probabilidad y Estadística,3.0,Obligatoria,18,T,
+D063,Sistemas Operativos,3.0,Obligatoria,16,A,S
+D063,Bases de Datos,3.0,Obligatoria,16,A,S
+D063,Redes de Comunicaciones,3.0,Obligatoria,16,A,S
+D063,Ingeniería de Software I,3.0,Obligatoria,16,A,S
+D063,Métodos Numéricos,3.0,Obligatoria,18,T,
+D063,Dinámica de Sistemas,3.0,Obligatoria,2,T,O
+D063,Ingeniería de Software II,3.0,Obligatoria,16,A,S
+D063,Sistemas Distribuidos,3.0,Obligatoria,16,A,S
+D063,Inteligencia Artificial,3.0,Obligatoria,14,T,S
+D063,Gestión de Proyectos en Ingeniería,3.0,Obligatoria,9,A,O
+D063,Formulación y Evaluación de Proyectos,3.0,Obligatoria,9,A,O
+D063,Trabajo de Grado,6.0,Obligatoria,1,,
+D063,Asignaturas Electivas y Sociohumanísticas,16.0,Optativa,1,,
+D064,Matemática Discreta I,6.0,Obligatoria,14,T,S
+D064,Análisis Matemático I,6.0,Obligatoria,18,T,
+D064,Introducción a los Algoritmos,6.0,Obligatoria,14,T,S
+D064,Algoritmos y Estructuras de Datos I,6.0,Obligatoria,14,T,S
+D064,Álgebra,6.0,Obligatoria,18,T,
+D064,Análisis Matemático II,6.0,Obligatoria,18,T,
+D064,Algoritmos y Estructuras de Datos II,6.0,Obligatoria,14,T,S
+D064,Organización del Computador,6.0,Obligatoria,7,T,H
+D064,Análisis Numérico,6.0,Obligatoria,18,T,
+D064,Introducción a la Lógica y la Computación,6.0,Obligatoria,14,T,S
+D064,Probabilidad y Estadística,6.0,Obligatoria,18,T,
+D064,Sistemas Operativos,6.0,Obligatoria,16,A,S
+D064,Matemática Discreta II,6.0,Obligatoria,14,T,S
+D064,Paradigmas de Programación,6.0,Obligatoria,14,T,S
+D064,Redes y Sistemas Distribuidos,6.0,Obligatoria,16,A,S
+D064,Base de Datos,6.0,Obligatoria,16,A,S
+D064,Arquitectura de Computadoras,6.0,Obligatoria,7,T,H
+D064,Ingeniería del Software I,6.0,Obligatoria,16,A,S
+D064,Lenguajes Formales y Computabilidad,6.0,Obligatoria,14,T,S
+D064,Modelos y Simulación,6.0,Obligatoria,18,T,
+D064,Física,6.0,Obligatoria,18,T,
+D064,Lógica,6.0,Obligatoria,14,T,S
+D064,Ingeniería del Software II,6.0,Obligatoria,16,A,S
+D064,Lenguajes y Compiladores,6.0,Obligatoria,14,T,S
+D064,Materias Optativas de Especialidad,18.0,Optativa,1,,
+D064,Trabajo Especial de Grado,12.0,Obligatoria,1,,
+D065,Matemática Básica I,4.0,Obligatoria,18,T,
+D065,Cálculo I,4.0,Obligatoria,18,T,
+D065,Algoritmos y Estructura de Datos I,4.0,Obligatoria,14,T,S
+D065,Introducción a la Ingeniería de Sistemas,3.0,Obligatoria,1,,
+D065,Redacción y Comunicación,3.0,Obligatoria,1,,
+D065,Álgebra Lineal,4.0,Obligatoria,18,T,
+D065,Cálculo II,4.0,Obligatoria,18,T,
+D065,Algoritmos y Estructura de Datos II,4.0,Obligatoria,14,T,S
+D065,Física General,4.0,Obligatoria,18,T,
+D065,Matemática Discreta,4.0,Obligatoria,14,T,S
+D065,Circuitos Digitales y Laboratorio,4.0,Obligatoria,4,A,H
+D065,Estructuras de Datos Avanzadas,4.0,Obligatoria,14,T,S
+D065,Estadística y Probabilidades,4.0,Obligatoria,18,T,
+D065,Arquitectura de Computadoras,4.0,Obligatoria,7,T,H
+D065,Base de Datos I,4.0,Obligatoria,16,A,S
+D065,Sistemas Operativos,4.0,Obligatoria,16,A,S
+D065,Análisis y Diseño de Sistemas,4.0,Obligatoria,16,A,S
+D065,Redes de Computadoras I,4.0,Obligatoria,16,A,S
+D065,Base de Datos II,4.0,Obligatoria,16,A,S
+D065,Ingeniería de Software I,4.0,Obligatoria,16,A,S
+D065,Dinámica de Sistemas,4.0,Obligatoria,2,T,O
+D065,Redes de Computadoras II,4.0,Obligatoria,16,A,S
+D065,Ingeniería de Software II,4.0,Obligatoria,16,A,S
+D065,Inteligencia Artificial,4.0,Obligatoria,14,T,S
+D065,Seguridad Informática,4.0,Obligatoria,11,A,S
+D065,Gestión de Proyectos de TI,3.0,Obligatoria,9,A,O
+D065,Planeamiento Estratégico de TI,3.0,Obligatoria,9,A,O
+D065,Tesis I,3.0,Obligatoria,1,,
+D065,Tesis II,4.0,Obligatoria,1,,
+D065,Asignaturas Electivas,12.0,Optativa,1,,
+D066,Fundamentos de Organización de Computadoras,3.0,Obligatoria,3,T,H
+D066,Introducción a la Programación,3.0,Obligatoria,16,A,S
+D066,Taller de Programación,3.0,Obligatoria,16,A,S
+D066,Matemática Discreta,4.0,Obligatoria,14,T,S
+D066,Matemática General,2.0,Obligatoria,18,T,
+D066,Comunicación Escrita,2.0,Obligatoria,1,,
+D066,Estructuras de Datos,4.0,Obligatoria,14,T,S
+D066,Programación Orientada a Objetos,4.0,Obligatoria,16,A,S
+D066,Cálculo I,4.0,Obligatoria,18,T,
+D066,Álgebra Lineal,3.0,Obligatoria,18,T,
+D066,Arquitectura de Computadores,4.0,Obligatoria,7,T,H
+D066,Principios de Sistemas Operativos,4.0,Obligatoria,16,A,S
+D066,Bases de Datos,4.0,Obligatoria,16,A,S
+D066,Probabilidad y Estadística,3.0,Obligatoria,18,T,
+D066,Física General,4.0,Obligatoria,18,T,
+D066,Redes de Computadores,4.0,Obligatoria,16,A,S
+D066,Análisis de Algoritmos,4.0,Obligatoria,14,T,S
+D066,Ingeniería de Software I,4.0,Obligatoria,16,A,S
+D066,Lenguajes de Programación,4.0,Obligatoria,14,T,S
+D066,Ingeniería de Software II,4.0,Obligatoria,16,A,S
+D066,Inteligencia Artificial,4.0,Obligatoria,14,T,S
+D066,Sistemas Distribuidos,4.0,Obligatoria,16,A,S
+D066,Seguridad en Sistemas de Información,3.0,Obligatoria,11,A,S
+D066,Gestión de Proyectos en TI,3.0,Obligatoria,9,A,O
+D066,Administración de Tecnologías de Información,3.0,Obligatoria,9,A,O
+D066,Práctica Profesional,12.0,Obligatoria,1,,
+D066,Cursos Electivos y Humanísticos,12.0,Optativa,1,,
+D067,Álgebra Lineal,3.0,Obligatoria,18,T,
+D067,Cálculo en una Variable,4.0,Obligatoria,18,T,
+D067,Fundamentos de Programación,4.0,Obligatoria,16,A,S
+D067,Fundamentos de Física,3.0,Obligatoria,18,T,
+D067,Comunicación Oral y Escrita,2.0,Obligatoria,1,,
+D067,Ecuaciones Diferenciales Ordinarias,3.0,Obligatoria,18,T,
+D067,Cálculo de Varias Variables,3.0,Obligatoria,18,T,
+D067,Matemáticas Computacionales y Teoría de la Computación,4.0,Obligatoria,14,T,S
+D067,Estructuras de Datos y Algoritmos,4.0,Obligatoria,14,T,S
+D067,Fundamentos de Electrónica para Computación,3.0,Obligatoria,3,T,H
+D067,Probabilidad y Estadística,3.0,Obligatoria,18,T,
+D067,Programación Orientada a Objetos,4.0,Obligatoria,16,A,S
+D067,Arquitectura de Computadores,4.0,Obligatoria,7,T,H
+D067,Sistemas Operativos,4.0,Obligatoria,16,A,S
+D067,Métodos Numéricos,3.0,Obligatoria,18,T,
+D067,Bases de Datos,4.0,Obligatoria,16,A,S
+D067,Redes de Computadores,4.0,Obligatoria,16,A,S
+D067,Compiladores y Lenguajes,4.0,Obligatoria,14,T,S
+D067,Análisis y Diseño de Software,4.0,Obligatoria,16,A,S
+D067,Inteligencia Artificial,4.0,Obligatoria,14,T,S
+D067,Computación Distribuida,4.0,Obligatoria,16,A,S
+D067,Seguridad de la Información,4.0,Obligatoria,11,A,S
+D067,Minería de Datos y Aprendizaje Automático,4.0,Obligatoria,14,T,S
+D067,Gestión de Proyectos Informáticos,3.0,Obligatoria,9,A,O
+D067,Unidad de Integración Curricular,12.0,Obligatoria,1,,
+D067,Asignaturas Optativas Disciplinares,12.0,Optativa,1,,
+D068,Cálculo I,4.0,Obligatoria,18,T,
+D068,Álgebra Lineal,4.0,Obligatoria,18,T,
+D068,Fundamentos de Programación,4.0,Obligatoria,16,A,S
+D068,Física General,4.0,Obligatoria,18,T,
+D068,Metodología de la Investigación,2.0,Obligatoria,1,,
+D068,Cálculo II,4.0,Obligatoria,18,T,
+D068,Estructura de Datos,4.0,Obligatoria,14,T,S
+D068,Programación Orientada a Objetos,4.0,Obligatoria,16,A,S
+D068,Matemática Discreta,4.0,Obligatoria,14,T,S
+D068,Ecuaciones Diferenciales,4.0,Obligatoria,18,T,
+D068,Arquitectura de Computadoras,4.0,Obligatoria,7,T,H
+D068,Sistemas Operativos,4.0,Obligatoria,16,A,S
+D068,Probabilidad y Estadística,4.0,Obligatoria,18,T,
+D068,Base de Datos I,4.0,Obligatoria,16,A,S
+D068,Redes de Datos I,4.0,Obligatoria,16,A,S
+D068,Análisis y Diseño de Sistemas,4.0,Obligatoria,16,A,S
+D068,Base de Datos II,4.0,Obligatoria,16,A,S
+D068,Redes de Datos II,4.0,Obligatoria,16,A,S
+D068,Ingeniería de Software I,4.0,Obligatoria,16,A,S
+D068,Investigación Operativa,4.0,Obligatoria,18,T,
+D068,Dinámica de Sistemas,4.0,Obligatoria,2,T,O
+D068,Ingeniería de Software II,4.0,Obligatoria,16,A,S
+D068,Inteligencia Artificial,4.0,Obligatoria,14,T,S
+D068,Ciberseguridad y Auditoría de Sistemas,4.0,Obligatoria,11,A,S
+D068,Gestión Estratégica de TI,3.0,Obligatoria,9,A,O
+D068,Taller de Grado I y II,12.0,Obligatoria,1,,
+D068,Materias Optativas y de Contexto,12.0,Optativa,1,,
+D069,Cálculo I,4.0,Obligatoria,18,T,
+D069,Álgebra Lineal,3.0,Obligatoria,18,T,
+D069,Algoritmos y Programación I,3.0,Obligatoria,13,A,S
+D069,Introducción a la Ingeniería de Sistemas,2.0,Obligatoria,1,,
+D069,Competencias Comunicativas,2.0,Obligatoria,1,,
+D069,Cálculo II,4.0,Obligatoria,18,T,
+D069,Física Mecánica,4.0,Obligatoria,18,T,
+D069,Algoritmos y Programación II,3.0,Obligatoria,13,A,S
+D069,Estructuras Discretas,3.0,Obligatoria,14,T,S
+D069,Cálculo III,4.0,Obligatoria,18,T,
+D069,Física Electricidad y Magnetismo,4.0,Obligatoria,18,T,
+D069,Estructuras de Datos,3.0,Obligatoria,14,T,S
+D069,Organización y Arquitectura del Computador,3.0,Obligatoria,7,T,H
+D069,Ecuaciones Diferenciales,3.0,Obligatoria,18,T,
+D069,Probabilidad y Estadística,3.0,Obligatoria,18,T,
+D069,Bases de Datos,3.0,Obligatoria,16,A,S
+D069,Sistemas Operativos,3.0,Obligatoria,16,A,S
+D069,Redes de Computadores,3.0,Obligatoria,16,A,S
+D069,Ingeniería del Software I,3.0,Obligatoria,16,A,S
+D069,Métodos Numéricos,3.0,Obligatoria,18,T,
+D069,Análisis de Algoritmos,3.0,Obligatoria,14,T,S
+D069,Ingeniería del Software II,3.0,Obligatoria,16,A,S
+D069,Inteligencia Artificial,3.0,Obligatoria,14,T,S
+D069,Seguridad Informática,3.0,Obligatoria,11,A,S
+D069,Gestión de Proyectos de Software,3.0,Obligatoria,9,A,O
+D069,Sistemas de Información Empresariales,3.0,Obligatoria,15,A,O
+D069,Proyecto Final de Diseño,4.0,Obligatoria,1,,
+D069,Asignaturas Electivas Profesionales,12.0,Optativa,1,,
+D070,Cálculo Diferencial e Integral,8.0,Obligatoria,18,T,
+D070,Álgebra Lineal,8.0,Obligatoria,18,T,
+D070,Fundamentos de Programación,8.0,Obligatoria,16,A,S
+D070,Introducción a los Sistemas Computacionales,6.0,Obligatoria,1,,
+D070,Habilidades del Pensamiento Crítico,6.0,Obligatoria,1,,
+D070,Estructuras de Datos,8.0,Obligatoria,14,T,S
+D070,Programación Orientada a Objetos,8.0,Obligatoria,16,A,S
+D070,Matemáticas Discretas,8.0,Obligatoria,14,T,S
+D070,Electricidad y Magnetismo,8.0,Obligatoria,18,T,
+D070,Métodos Numéricos,8.0,Obligatoria,18,T,
+D070,Circuitos Digitales,8.0,Obligatoria,4,A,H
+D070,Arquitectura de Computadoras,8.0,Obligatoria,7,T,H
+D070,Sistemas Operativos,8.0,Obligatoria,16,A,S
+D070,Fundamentos de Bases de Datos,8.0,Obligatoria,16,A,S
+D070,Probabilidad y Estadística,8.0,Obligatoria,18,T,
+D070,Redes de Computadoras,8.0,Obligatoria,16,A,S
+D070,Taller de Bases de Datos,8.0,Obligatoria,16,A,S
+D070,Lenguajes y Autómatas,8.0,Obligatoria,14,T,S
+D070,Ingeniería de Software,8.0,Obligatoria,16,A,S
+D070,Inteligencia Artificial,8.0,Obligatoria,14,T,S
+D070,Conmutación y Enrutamiento de Redes,8.0,Obligatoria,3,T,H
+D070,Programación Web,8.0,Obligatoria,16,A,S
+D070,Gestión de Proyectos de Software,8.0,Obligatoria,9,A,O
+D070,Seguridad en Sistemas Computacionales,8.0,Obligatoria,11,A,S
+D070,Servicio Social y Experiencia Recepcional,24.0,Obligatoria,1,,
+D070,Optativas Disciplinares,16.0,Optativa,1,,
+D071,Elementos de Álgebra y Geometría,6.0,Obligatoria,18,T,
+D071,Análisis Matemático I,6.0,Obligatoria,18,T,
+D071,Resolución de Problemas y Algoritmos,6.0,Obligatoria,13,A,S
+D071,Álgebra Lineal,6.0,Obligatoria,18,T,
+D071,Análisis Matemático II,6.0,Obligatoria,18,T,
+D071,Algoritmos y Complejidad,6.0,Obligatoria,14,T,S
+D071,Organización del Computador,6.0,Obligatoria,7,T,H
+D071,Lógica para Ciencias de la Computación,6.0,Obligatoria,14,T,S
+D071,Estructuras de Datos,6.0,Obligatoria,14,T,S
+D071,Probabilidad y Estadística,6.0,Obligatoria,18,T,
+D071,Sistemas Operativos,6.0,Obligatoria,16,A,S
+D071,Arquitectura de Computadoras,6.0,Obligatoria,7,T,H
+D071,Lenguajes Formales y Computabilidad,6.0,Obligatoria,14,T,S
+D071,Redes de Computadoras,6.0,Obligatoria,16,A,S
+D071,Bases de Datos,6.0,Obligatoria,16,A,S
+D071,Ingeniería de Software I,6.0,Obligatoria,16,A,S
+D071,Análisis Numérico,6.0,Obligatoria,18,T,
+D071,Compiladores e Intérpretes,6.0,Obligatoria,14,T,S
+D071,Ingeniería de Software II,6.0,Obligatoria,16,A,S
+D071,Inteligencia Artificial,6.0,Obligatoria,14,T,S
+D071,Sistemas Distribuidos,6.0,Obligatoria,16,A,S
+D071,Seguridad Informática,6.0,Obligatoria,11,A,S
+D071,Tesina de Licenciatura,12.0,Obligatoria,1,,
+D071,Materias Optativas de Computación,18.0,Optativa,1,,
+D072,Introducción a la Ingeniería,3.0,Obligatoria,1,,
+D072,Álgebra y Geometría,5.0,Obligatoria,18,T,
+D072,Cálculo I,5.0,Obligatoria,18,T,
+D072,Fundamentos de Programación,5.0,Obligatoria,16,A,S
+D072,Comunicación Efectiva,2.0,Obligatoria,1,,
+D072,Álgebra Lineal,5.0,Obligatoria,18,T,
+D072,Cálculo II,5.0,Obligatoria,18,T,
+D072,Programación Avanzada,5.0,Obligatoria,16,A,S
+D072,Física General,5.0,Obligatoria,18,T,
+D072,Estructuras de Datos y Algoritmos,5.0,Obligatoria,14,T,S
+D072,Matemáticas Discretas,5.0,Obligatoria,14,T,S
+D072,Cálculo III,5.0,Obligatoria,18,T,
+D072,Arquitectura de Computadores,5.0,Obligatoria,7,T,H
+D072,Sistemas Operativos,5.0,Obligatoria,16,A,S
+D072,Bases de Datos,5.0,Obligatoria,16,A,S
+D072,Probabilidades y Estadística,5.0,Obligatoria,18,T,
+D072,Redes de Computadores,5.0,Obligatoria,16,A,S
+D072,Ingeniería de Software I,5.0,Obligatoria,16,A,S
+D072,Teoría de la Computación,5.0,Obligatoria,14,T,S
+D072,Ingeniería de Software II,5.0,Obligatoria,16,A,S
+D072,Inteligencia Artificial,5.0,Obligatoria,14,T,S
+D072,Sistemas Distribuidos y Nube,5.0,Obligatoria,16,A,S
+D072,Gestión de Proyectos Informáticos,4.0,Obligatoria,9,A,O
+D072,Seguridad Informática,5.0,Obligatoria,11,A,S
+D072,Modelos de Negocio y Tecnologías,4.0,Obligatoria,15,A,O
+D072,Taller de Titulación I y II,16.0,Obligatoria,1,,
+D072,Electivos Disciplinares,15.0,Optativa,1,,
+D073,Cálculo Diferencial,8.0,Obligatoria,18,T,
+D073,Álgebra Lineal,8.0,Obligatoria,18,T,
+D073,Fundamentos de Programación,8.0,Obligatoria,16,A,S
+D073,Introducción a la Ingeniería de Software,6.0,Obligatoria,1,,
+D073,Cultura Maya y Sociedad,4.0,Obligatoria,1,,
+D073,Cálculo Integral,8.0,Obligatoria,18,T,
+D073,Matemáticas Discretas,8.0,Obligatoria,14,T,S
+D073,Programación Orientada a Objetos,8.0,Obligatoria,16,A,S
+D073,Requisitos de Software,8.0,Obligatoria,16,A,S
+D073,Estructura de Datos,8.0,Obligatoria,14,T,S
+D073,Probabilidad y Estadística,8.0,Obligatoria,18,T,
+D073,Arquitectura de Computadoras,8.0,Obligatoria,7,T,H
+D073,Diseño y Arquitectura de Software,8.0,Obligatoria,6,A,S
+D073,Base de Datos,8.0,Obligatoria,16,A,S
+D073,Sistemas Operativos,8.0,Obligatoria,16,A,S
+D073,Pruebas y Aseguramiento de Calidad de Software,8.0,Obligatoria,16,A,S
+D073,Redes y Conectividad,8.0,Obligatoria,16,A,S
+D073,Construcción y Mantenimiento de Software,8.0,Obligatoria,16,A,S
+D073,Gestión y Dirección de Proyectos de Software,8.0,Obligatoria,9,A,O
+D073,Interacción Humano-Computadora,8.0,Obligatoria,10,A,O
+D073,Seguridad en Software,8.0,Obligatoria,11,A,S
+D073,Desarrollo de Aplicaciones Web y Móviles,8.0,Obligatoria,16,A,S
+D073,Proyecto Integrador y Práctica Profesional,20.0,Obligatoria,1,,
+D073,Asignaturas Optativas,16.0,Optativa,1,,
+D074,Matemática Básica,4.0,Obligatoria,18,T,
+D074,Cálculo I,4.0,Obligatoria,18,T,
+D074,Algoritmos y Estructura de Datos,4.0,Obligatoria,14,T,S
+D074,Introducción a la Ingeniería de Sistemas,3.0,Obligatoria,1,,
+D074,Comunicación y Expresión,3.0,Obligatoria,1,,
+D074,Cálculo II,4.0,Obligatoria,18,T,
+D074,Álgebra Lineal,4.0,Obligatoria,18,T,
+D074,Programación Orientada a Objetos,4.0,Obligatoria,16,A,S
+D074,Física General,4.0,Obligatoria,18,T,
+D074,Matemática Discreta,4.0,Obligatoria,14,T,S
+D074,Circuitos Lógicos Digitales,4.0,Obligatoria,4,A,H
+D074,Estructura de Datos Avanzada,4.0,Obligatoria,14,T,S
+D074,Estadística y Probabilidades,4.0,Obligatoria,18,T,
+D074,Arquitectura de Computadoras,4.0,Obligatoria,7,T,H
+D074,Base de Datos I,4.0,Obligatoria,16,A,S
+D074,Sistemas Operativos,4.0,Obligatoria,16,A,S
+D074,Análisis y Diseño de Sistemas,4.0,Obligatoria,16,A,S
+D074,Redes de Comunicaciones I,4.0,Obligatoria,16,A,S
+D074,Base de Datos II,4.0,Obligatoria,16,A,S
+D074,Ingeniería de Software I,4.0,Obligatoria,16,A,S
+D074,Dinámica de Sistemas,4.0,Obligatoria,2,T,O
+D074,Redes de Comunicaciones II,4.0,Obligatoria,16,A,S
+D074,Ingeniería de Software II,4.0,Obligatoria,16,A,S
+D074,Inteligencia Artificial,4.0,Obligatoria,14,T,S
+D074,Seguridad Informática,4.0,Obligatoria,11,A,S
+D074,Gestión y Gobernanza de TI,3.0,Obligatoria,5,A,O
+D074,Planeamiento Estratégico Empresarial,3.0,Obligatoria,9,A,O
+D074,Proyecto de Tesis I y II,8.0,Obligatoria,1,,
+D074,Cursos Electivos,12.0,Optativa,1,,
+D075,Introducción a la Informática,3.0,Obligatoria,14,T,S
+D075,Fundamentos de Matemática,4.0,Obligatoria,18,T,
+D075,Principios de Administración,3.0,Obligatoria,17,A,O
+D075,Expresión Escrita,3.0,Obligatoria,1,,
+D075,Programación I,4.0,Obligatoria,16,A,S
+D075,Matemática Discreta,4.0,Obligatoria,14,T,S
+D075,Contabilidad Empresarial,3.0,Obligatoria,17,A,O
+D075,Programación II,4.0,Obligatoria,16,A,S
+D075,Estructuras de Datos,4.0,Obligatoria,14,T,S
+D075,Sistemas Operativos,4.0,Obligatoria,16,A,S
+D075,Economía Empresarial,3.0,Obligatoria,17,A,O
+D075,Redes de Comunicación de Datos,4.0,Obligatoria,16,A,S
+D075,Bases de Datos,4.0,Obligatoria,16,A,S
+D075,Análisis y Diseño de Sistemas,4.0,Obligatoria,16,A,S
+D075,Métodos Cuantitativos de Gestión,3.0,Obligatoria,2,T,O
+D075,Ingeniería de Software,4.0,Obligatoria,16,A,S
+D075,Administración de Tecnologías de Información,3.0,Obligatoria,9,A,O
+D075,Programación Web,4.0,Obligatoria,16,A,S
+D075,Auditoría de Sistemas de Información,3.0,Obligatoria,15,A,O
+D075,Gestión y Evaluación de Proyectos Informáticos,3.0,Obligatoria,9,A,O
+D075,Seguridad de la Información,3.0,Obligatoria,11,A,S
+D075,Inteligencia de Negocios,4.0,Obligatoria,15,A,O
+D075,Práctica Profesional Supervisada,10.0,Obligatoria,1,,
+D075,Cursos Complementarios y Humanidades,10.0,Obligatoria,1,,

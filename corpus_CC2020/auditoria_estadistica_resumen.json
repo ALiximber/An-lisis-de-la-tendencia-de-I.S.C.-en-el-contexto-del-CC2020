@@ -1,0 +1,709 @@
+{
+  "pca_6domains": {
+    "Eigenvalues": [
+      2.4538,
+      1.2106,
+      1.0897,
+      0.7265,
+      0.5194,
+      0.0
+    ],
+    "Explained_Variance_Ratio": [
+      40.9,
+      20.18,
+      18.16,
+      12.11,
+      8.66,
+      0.0
+    ],
+    "Cumulative_PC1_PC2_Pct": 61.07,
+    "Loadings": {
+      "pct_STEM": {
+        "PC1": -0.5157,
+        "PC2": 0.262,
+        "PC3": 0.3195
+      },
+      "pct_CE": {
+        "PC1": -0.2873,
+        "PC2": 0.1727,
+        "PC3": -0.7898
+      },
+      "pct_CS": {
+        "PC1": -0.2449,
+        "PC2": -0.7557,
+        "PC3": 0.1396
+      },
+      "pct_SE": {
+        "PC1": 0.4533,
+        "PC2": -0.2356,
+        "PC3": 0.1595
+      },
+      "pct_IT": {
+        "PC1": 0.4484,
+        "PC2": -0.2194,
+        "PC3": -0.4285
+      },
+      "pct_IS": {
+        "PC1": 0.4301,
+        "PC2": 0.4762,
+        "PC3": 0.2136
+      }
+    },
+    "Corr_PC1_X": 0.933,
+    "Corr_PC2_Y": 0.242
+  },
+  "correlaciones": {
+    "Mixto_75_Invalido": {
+      "n": 75,
+      "pearson_r": 0.4604,
+      "pearson_p_perm": 0.0001,
+      "pearson_ci95": [
+        0.2607,
+        0.6247
+      ],
+      "spearman_rho": 0.4291,
+      "spearman_p_perm": 0.0002,
+      "ols_intercept": 0.0936,
+      "ols_slope": 0.1866,
+      "ols_r2": 0.212,
+      "ols_loocv_mse": 0.6958,
+      "quad_coeffs": [
+        0.185,
+        0.2996,
+        -0.0324
+      ],
+      "quad_r2": 0.2346,
+      "quad_loocv_mse": 0.6964
+    },
+    "Perfiles_15": {
+      "n": 15,
+      "pearson_r": -0.0214,
+      "pearson_p_perm": 0.93961,
+      "pearson_ci95": [
+        -0.4814,
+        0.3543
+      ],
+      "spearman_rho": -0.0218,
+      "spearman_p_perm": 0.92831,
+      "ols_intercept": 0.9641,
+      "ols_slope": -0.0364,
+      "ols_r2": 0.0005,
+      "ols_loocv_mse": 1.7002,
+      "quad_coeffs": [
+        7.5245,
+        -3.6521,
+        0.4638
+      ],
+      "quad_r2": 0.0422,
+      "quad_loocv_mse": 16.955
+    },
+    "Planes_60_Global": {
+      "n": 60,
+      "pearson_r": 0.5345,
+      "pearson_p_perm": 0.0001,
+      "pearson_ci95": [
+        0.2798,
+        0.7182
+      ],
+      "spearman_rho": 0.4479,
+      "spearman_p_perm": 0.0003,
+      "ols_intercept": 0.1616,
+      "ols_slope": 0.3459,
+      "ols_r2": 0.2857,
+      "ols_loocv_mse": 0.4659,
+      "quad_coeffs": [
+        0.0782,
+        0.3175,
+        0.0533
+      ],
+      "quad_r2": 0.3048,
+      "quad_loocv_mse": 0.4584
+    },
+    "Planes_60_Solo_Computacion": {
+      "n": 60,
+      "pearson_r": 0.5117,
+      "pearson_p_perm": 0.0002,
+      "pearson_ci95": [
+        0.2948,
+        0.6847
+      ],
+      "spearman_rho": 0.507,
+      "spearman_p_perm": 0.0001,
+      "ols_intercept": -0.542,
+      "ols_slope": 0.3768,
+      "ols_r2": 0.2619,
+      "ols_loocv_mse": 0.4861,
+      "quad_coeffs": [
+        -0.4791,
+        0.1883,
+        0.064
+      ],
+      "quad_r2": 0.2825,
+      "quad_loocv_mse": 0.4784
+    },
+    "Planes_59_Sin_D032_Global": {
+      "n": 59,
+      "pearson_r": 0.4841,
+      "pearson_p_perm": 0.0002,
+      "pearson_ci95": [
+        0.2243,
+        0.6808
+      ],
+      "spearman_rho": 0.4194,
+      "spearman_p_perm": 0.0018,
+      "ols_intercept": 0.1471,
+      "ols_slope": 0.3217,
+      "ols_r2": 0.2343,
+      "ols_loocv_mse": 0.4688,
+      "quad_coeffs": [
+        0.0838,
+        0.3108,
+        0.0456
+      ],
+      "quad_r2": 0.2463,
+      "quad_loocv_mse": 0.469
+    },
+    "Planes_59_Sin_D032_Solo_Computacion": {
+      "n": 59,
+      "pearson_r": 0.478,
+      "pearson_p_perm": 0.0001,
+      "pearson_ci95": [
+        0.2498,
+        0.6632
+      ],
+      "spearman_rho": 0.4817,
+      "spearman_p_perm": 0.0001,
+      "ols_intercept": -0.5085,
+      "ols_slope": 0.3472,
+      "ols_r2": 0.2285,
+      "ols_loocv_mse": 0.4751,
+      "quad_coeffs": [
+        -0.4672,
+        0.2115,
+        0.0477
+      ],
+      "quad_r2": 0.2402,
+      "quad_loocv_mse": 0.4769
+    },
+    "Planes_22_Malla_Completa": {
+      "n": 22,
+      "pearson_r": 0.3385,
+      "pearson_p_perm": 0.12089,
+      "pearson_ci95": [
+        -0.0899,
+        0.7296
+      ],
+      "spearman_rho": 0.3461,
+      "spearman_p_perm": 0.11139,
+      "ols_intercept": 0.2788,
+      "ols_slope": 0.2412,
+      "ols_r2": 0.1146,
+      "ols_loocv_mse": 0.5633,
+      "quad_coeffs": [
+        0.1564,
+        0.0537,
+        0.1602
+      ],
+      "quad_r2": 0.186,
+      "quad_loocv_mse": 0.5483
+    }
+  },
+  "nadaraya_watson_summary": {
+    "loocv_60": {
+      "h_opt": 0.65,
+      "min_loocv_mse": 0.4665,
+      "h_grid": [
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        1.0,
+        1.05,
+        1.1,
+        1.15,
+        1.2,
+        1.25,
+        1.3,
+        1.35,
+        1.4,
+        1.45,
+        1.5,
+        1.55,
+        1.6,
+        1.65,
+        1.7,
+        1.75,
+        1.8,
+        1.85,
+        1.9,
+        1.95,
+        2.0
+      ],
+      "loocv_mse": [
+        0.4798,
+        0.4747,
+        0.4708,
+        0.4682,
+        0.4668,
+        0.4665,
+        0.4671,
+        0.4685,
+        0.4707,
+        0.4734,
+        0.4767,
+        0.4803,
+        0.4842,
+        0.4883,
+        0.4925,
+        0.4968,
+        0.5011,
+        0.5053,
+        0.5095,
+        0.5136,
+        0.5176,
+        0.5215,
+        0.5253,
+        0.5289,
+        0.5324,
+        0.5357,
+        0.539,
+        0.5421,
+        0.545,
+        0.5479,
+        0.5506,
+        0.5532,
+        0.5557
+      ]
+    },
+    "loocv_59": {
+      "h_opt": 0.6,
+      "min_loocv_mse": 0.479,
+      "h_grid": [
+        0.4,
+        0.45,
+        0.5,
+        0.55,
+        0.6,
+        0.65,
+        0.7,
+        0.75,
+        0.8,
+        0.85,
+        0.9,
+        0.95,
+        1.0,
+        1.05,
+        1.1,
+        1.15,
+        1.2,
+        1.25,
+        1.3,
+        1.35,
+        1.4,
+        1.45,
+        1.5,
+        1.55,
+        1.6,
+        1.65,
+        1.7,
+        1.75,
+        1.8,
+        1.85,
+        1.9,
+        1.95,
+        2.0
+      ],
+      "loocv_mse": [
+        0.4915,
+        0.4861,
+        0.4823,
+        0.48,
+        0.479,
+        0.4791,
+        0.4799,
+        0.4813,
+        0.4832,
+        0.4854,
+        0.4878,
+        0.4904,
+        0.4931,
+        0.4958,
+        0.4986,
+        0.5014,
+        0.5042,
+        0.507,
+        0.5096,
+        0.5123,
+        0.5148,
+        0.5173,
+        0.5197,
+        0.5221,
+        0.5243,
+        0.5265,
+        0.5286,
+        0.5306,
+        0.5326,
+        0.5344,
+        0.5362,
+        0.538,
+        0.5396
+      ]
+    },
+    "r2_60_opt": 0.3123,
+    "r2_59_opt": 0.256
+  },
+  "kde_summary": {
+    "planes_60_scott": {
+      "hx": 0.6149,
+      "hy": 0.3979,
+      "z_max": 0.19784,
+      "hdr_thresholds": {
+        "0.5": 0.07514,
+        "0.8": 0.02614,
+        "0.95": 0.00866
+      },
+      "mass_inside_box": 1.0
+    },
+    "planes_60_silverman": {
+      "hx": 0.5226,
+      "hy": 0.35,
+      "z_max": 0.22375,
+      "hdr_thresholds": {
+        "0.5": 0.08067,
+        "0.8": 0.02818,
+        "0.95": 0.00993
+      },
+      "mass_inside_box": 1.0
+    },
+    "planes_60_fixed_105": {
+      "hx": 1.05,
+      "hy": 1.05,
+      "z_max": 0.08417,
+      "hdr_thresholds": {
+        "0.5": 0.03966,
+        "0.8": 0.01511,
+        "0.95": 0.00406
+      },
+      "mass_inside_box": 0.9982
+    }
+  },
+  "pares_exactos": [
+    {
+      "Institucion": "IPN — ESCOM (México)",
+      "Programa": "Ingeniería en Sistemas Computacionales (Plan 2020)",
+      "ID_Perfil": "D001",
+      "ID_Plan": "D017",
+      "X_Perfil": 2.5,
+      "Y_Perfil": 1.25,
+      "X_Plan_Global": -0.35,
+      "X_Plan_Comp": 1.03,
+      "Y_Plan": -0.51,
+      "Delta_X_Perfil_vs_PlanGlobal": 2.85,
+      "Delta_X_Perfil_vs_PlanComp": 1.47,
+      "Delta_Y_Perfil_vs_Plan": 1.76,
+      "Distancia_Euclidiana_Global": 3.35
+    },
+    {
+      "Institucion": "Tecnológico Nacional de México (TecNM)",
+      "Programa": "Ingeniería en Sistemas Computacionales (ISIC-2010-224)",
+      "ID_Perfil": "D003",
+      "ID_Plan": "D034",
+      "X_Perfil": 4.44,
+      "Y_Perfil": 0.0,
+      "X_Plan_Global": -0.06,
+      "X_Plan_Comp": 2.0,
+      "Y_Plan": 0.08,
+      "Delta_X_Perfil_vs_PlanGlobal": 4.5,
+      "Delta_X_Perfil_vs_PlanComp": 2.44,
+      "Delta_Y_Perfil_vs_Plan": -0.08,
+      "Distancia_Euclidiana_Global": 4.5
+    }
+  ],
+  "kruskal_familia_X": {
+    "H": 13.2876,
+    "p_perm": 0.007,
+    "k_groups": 5,
+    "N_total": 60,
+    "groups": {
+      "ISC_Sistemas_Computacionales": {
+        "n": 8,
+        "mean": 0.66,
+        "sd": 0.93,
+        "median": 0.34,
+        "iqr": 0.88
+      },
+      "IS_Ingenieria_Sistemas": {
+        "n": 23,
+        "mean": -0.35,
+        "sd": 0.93,
+        "median": -0.33,
+        "iqr": 1.08
+      },
+      "ISW_TI_Software_Tecnologias": {
+        "n": 6,
+        "mean": 1.15,
+        "sd": 1.61,
+        "median": 1.53,
+        "iqr": 1.88
+      },
+      "IC_Ciencias_Ingenieria_Computacion": {
+        "n": 15,
+        "mean": -0.79,
+        "sd": 0.96,
+        "median": -0.87,
+        "iqr": 1.25
+      },
+      "II_Ingenieria_Informatica": {
+        "n": 8,
+        "mean": -0.23,
+        "sd": 1.41,
+        "median": -0.59,
+        "iqr": 0.72
+      }
+    }
+  },
+  "kruskal_familia_Y": {
+    "H": 19.3066,
+    "p_perm": 0.0004,
+    "k_groups": 5,
+    "N_total": 60,
+    "groups": {
+      "ISC_Sistemas_Computacionales": {
+        "n": 8,
+        "mean": 0.21,
+        "sd": 0.59,
+        "median": 0.04,
+        "iqr": 0.62
+      },
+      "IS_Ingenieria_Sistemas": {
+        "n": 23,
+        "mean": 0.39,
+        "sd": 0.53,
+        "median": 0.37,
+        "iqr": 0.48
+      },
+      "ISW_TI_Software_Tecnologias": {
+        "n": 6,
+        "mean": 0.54,
+        "sd": 1.07,
+        "median": 0.61,
+        "iqr": 1.53
+      },
+      "IC_Ciencias_Ingenieria_Computacion": {
+        "n": 15,
+        "mean": -0.65,
+        "sd": 0.7,
+        "median": -0.52,
+        "iqr": 0.84
+      },
+      "II_Ingenieria_Informatica": {
+        "n": 8,
+        "mean": 0.29,
+        "sd": 0.7,
+        "median": 0.16,
+        "iqr": 0.35
+      }
+    }
+  },
+  "kruskal_pais_X": {
+    "H": 13.2329,
+    "p_perm": 0.02619,
+    "k_groups": 7,
+    "N_total": 50,
+    "groups": {
+      "México": {
+        "n": 13,
+        "mean": 0.1,
+        "sd": 1.14,
+        "median": 0.0,
+        "iqr": 1.32
+      },
+      "Perú": {
+        "n": 7,
+        "mean": 0.7,
+        "sd": 1.2,
+        "median": 0.23,
+        "iqr": 0.97
+      },
+      "Colombia": {
+        "n": 11,
+        "mean": -0.59,
+        "sd": 0.85,
+        "median": -0.75,
+        "iqr": 0.75
+      },
+      "Argentina": {
+        "n": 8,
+        "mean": -0.67,
+        "sd": 1.34,
+        "median": -0.55,
+        "iqr": 1.92
+      },
+      "Chile": {
+        "n": 5,
+        "mean": -0.88,
+        "sd": 0.39,
+        "median": -0.83,
+        "iqr": 0.24
+      },
+      "Costa Rica": {
+        "n": 3,
+        "mean": 1.05,
+        "sd": 1.66,
+        "median": 0.47,
+        "iqr": 1.58
+      },
+      "Ecuador": {
+        "n": 3,
+        "mean": 1.05,
+        "sd": 1.68,
+        "median": 1.56,
+        "iqr": 1.62
+      }
+    }
+  },
+  "kruskal_pais_Y": {
+    "H": 14.0287,
+    "p_perm": 0.0184,
+    "k_groups": 7,
+    "N_total": 50,
+    "groups": {
+      "México": {
+        "n": 13,
+        "mean": -0.33,
+        "sd": 0.78,
+        "median": -0.39,
+        "iqr": 1.02
+      },
+      "Perú": {
+        "n": 7,
+        "mean": 0.74,
+        "sd": 0.73,
+        "median": 0.47,
+        "iqr": 1.17
+      },
+      "Colombia": {
+        "n": 11,
+        "mean": 0.49,
+        "sd": 0.38,
+        "median": 0.44,
+        "iqr": 0.37
+      },
+      "Argentina": {
+        "n": 8,
+        "mean": -0.07,
+        "sd": 0.85,
+        "median": -0.15,
+        "iqr": 0.89
+      },
+      "Chile": {
+        "n": 5,
+        "mean": 0.33,
+        "sd": 0.38,
+        "median": 0.19,
+        "iqr": 0.69
+      },
+      "Costa Rica": {
+        "n": 3,
+        "mean": 0.53,
+        "sd": 1.13,
+        "median": -0.07,
+        "iqr": 1.01
+      },
+      "Ecuador": {
+        "n": 3,
+        "mean": 0.08,
+        "sd": 0.72,
+        "median": -0.32,
+        "iqr": 0.64
+      }
+    }
+  },
+  "validacion_empirica": {
+    "total_courses_corpus": 2109,
+    "total_changed_vs_original": 102,
+    "pct_changed_vs_original": 4.84,
+    "n_hybrid_refinements": 30,
+    "n_hard_pole_fixes": 72,
+    "pct_hard_pole_error_original": 3.41,
+    "sample_size": 120,
+    "csv_path": "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\auditoria_muestra_estratificada.csv"
+  },
+  "sensibilidad": {
+    "comparisons": [
+      {
+        "Comparacion": "S0_Original_vs_S1_Corregido",
+        "MAE_X": 0.195,
+        "MAE_Y": 0.108,
+        "Max_Dist_2D": 1.132,
+        "Mean_Dist_2D": 0.249,
+        "Corr_X": 0.9769,
+        "Corr_Y": 0.9639,
+        "Pearson_r_XY_Escenario": 0.5345
+      },
+      {
+        "Comparacion": "S1_Ponderado_vs_S2_PesosUniformes",
+        "MAE_X": 0.113,
+        "MAE_Y": 0.074,
+        "Max_Dist_2D": 0.491,
+        "Mean_Dist_2D": 0.154,
+        "Corr_X": 0.9923,
+        "Corr_Y": 0.9934,
+        "Pearson_r_XY_Escenario": 0.5579
+      },
+      {
+        "Comparacion": "S1_Estandar_vs_S3_ConElectivasCatalogo",
+        "MAE_X": 0.006,
+        "MAE_Y": 0.002,
+        "Max_Dist_2D": 0.345,
+        "Mean_Dist_2D": 0.006,
+        "Corr_X": 0.9994,
+        "Corr_Y": 0.9999,
+        "Pearson_r_XY_Escenario": 0.5404
+      },
+      {
+        "Comparacion": "S1_ConHibridos_vs_S4_DiscretoPuro",
+        "MAE_X": 0.084,
+        "MAE_Y": 0.025,
+        "Max_Dist_2D": 0.49,
+        "Mean_Dist_2D": 0.092,
+        "Corr_X": 0.9947,
+        "Corr_Y": 0.9971,
+        "Pearson_r_XY_Escenario": 0.5127
+      },
+      {
+        "Comparacion": "S1_Global_vs_S5_SoloComputacion_SinSTEM",
+        "MAE_X": 1.88,
+        "MAE_Y": 0.0,
+        "Max_Dist_2D": 3.61,
+        "Mean_Dist_2D": 1.88,
+        "Corr_X": 0.8428,
+        "Corr_Y": 1.0,
+        "Pearson_r_XY_Escenario": 0.5117
+      }
+    ],
+    "afinidad_stability_S1_vs_S2_pct": 90.0,
+    "csv_path": "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\analisis_sensibilidad.csv"
+  },
+  "figuras_generadas": [
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\bloque_01_distribucion_cc2020.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\bloque_02_distribucion_cc2020.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\bloque_03_distribucion_cc2020.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\bloque_04_distribucion_cc2020.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\bloque_05_distribucion_cc2020.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\corpus_CC2020_master_mancha_regresion.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\distribucion_60_planes.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\distribucion_15_perfiles_vs_pares.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\distribucion_disciplinas_y_vectores.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\distribucion_paises_y_denominaciones.png",
+    "C:\\Users\\Aliximber\\Desktop\\DOCUMENTOS\\corpus_CC2020\\comparacion_original_vs_corregido_sensibilidad.png"
+  ]
+}

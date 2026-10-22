@@ -1,187 +1,165 @@
-# Auditoría Curricular CC2020: Caracterización, Modelado y Conclusiones del Corpus de 75 Programas de Computación en América Latina
+﻿# Análisis Empírico y Posicionamiento Curricular de Programas de Computación e Ingeniería en Sistemas en América Latina bajo el Marco ACM/IEEE-CS CC2020
 
-![Estado](https://img.shields.io/badge/Auditor%C3%ADa-Completada_100%25-brightgreen.svg)
-![Corpus](https://img.shields.io/badge/Muestra-75_Documentos_(D001--D075)-blue.svg)
-![Marco Canónico](https://img.shields.io/badge/Est%C3%A1ndar-ACM%2FIEEE_CC2020-orange.svg)
-![Países](https://img.shields.io/badge/Pa%C3%ADses-8_Latinoamericanos-purple.svg)
-![Metodología](https://img.shields.io/badge/Modelado-KDE_2D_%2B_Nadaraya--Watson-red.svg)
+[![Corpus Auditado](https://img.shields.io/badge/Corpus_Oficial-75_Documentos_(15_Perfiles_+_60_Planes)-blue?style=for-the-badge)](#3-arquitectura-del-corpus-documental-d001d075)
+[![Cobertura Geográfica](https://img.shields.io/badge/Cobertura-15_Países_Latinoamericanos_(72_Instituciones)-success?style=for-the-badge)](#3-arquitectura-del-corpus-documental-d001d075)
+[![Reproducibilidad](https://img.shields.io/badge/Pipeline_Python-100%25_Determinista_y_Auditado-orange?style=for-the-badge)](#8-reproducibilidad-computacional-y-pruebas-automatizadas)
 
 ---
 
-## 1. ¿De qué trata este proyecto de investigación?
+## 1. Resumen Ejecutivo
 
-Este proyecto constituye una **auditoría curricular comparativa y empírica** a gran escala sobre la formación universitaria en informática, ingeniería de sistemas y ciencias de la computación en América Latina.
+Esta investigación presenta una **auditoría curricular, taxonómica y estadística** de **75 documentos oficiales (`D001`–`D075`)** correspondientes a **73 programas universitarios únicos** en **72 instituciones de educación superior** de **15 países de América Latina** (México, Colombia, Argentina, Perú, Chile, Costa Rica, Ecuador, Honduras, Bolivia, Brasil, El Salvador, Uruguay, Paraguay, Panamá y Guatemala).
 
-A través del estándar internacional **ACM/IEEE CC2020 (*Computing Curricula 2020: Paradigms for Global Computing Education*)**, se analizan, transcriben y modelan matemáticamente **75 documentos oficiales (D001–D075)** que representan la oferta académica de universidades líderes de 8 países: **Argentina, Brasil, Chile, Colombia, Costa Rica, México, Perú y Uruguay**.
+Tomando como marco conceptual de referencia el informe **Computing Curricula 2020 (CC2020)** de la *Association for Computing Machinery (ACM)* y la *IEEE Computer Society (IEEE-CS)*, el estudio operacionaliza un espacio métrico bidimensional $(X, Y) \in [-5, +5]^2$ complementado con **vectores de competencias en 6 dominios curriculares** (`STEM`, `CE`, `CS`, `SE`, `IT`, `IS`), **Análisis de Componentes Principales (PCA)**, **Estimación de Densidad Kernel 2D con Regiones de Alta Densidad Acumulada (HDR 50%, 80%, 95%)** y **Regresión No Paramétrica de Nadaraya–Watson con selección óptima de ancho de banda por LOOCV e intervalos de confianza bootstrap al 95%**.
 
-### 1.1 El Marco Canónico ACM/IEEE CC2020
-El estándar CC2020 define el panorama de la computación no como etiquetas rígidas, sino como un **espacio bidimensional continuo $[-5, +5] \times [-5, +5]$**:
+### Documentación Científica del Proyecto
+- 📋 **[`AUDITORIA_METODOLOGICA.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/AUDITORIA_METODOLOGICA.md):** Diagnóstico exhaustivo del código, expresiones regulares, datos y modelos originales, y registro de soluciones implementadas.
+- 📖 **[`CODEBOOK_CC2020.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/CODEBOOK_CC2020.md):** Libro de códigos unificado de 27 reglas jerárquicas (`R01`–`R27`) que clasifica las 2,109 asignaturas con $0$ casos sin coincidencia.
+- 📐 **[`METODOLOGIA.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/METODOLOGIA.md):** Distinción entre el marco oficial CC2020 y la operacionalización matemática propia, formulación de $X_{\text{global}}$, $X_{\text{comp}}$ (sin sesgo `STEM`), $Y$, similitud vectorial y PCA.
+- 📊 **[`VALIDACION_ESTADISTICA.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/VALIDACION_ESTADISTICA.md):** Pruebas exactas por permutación, validación cruzada LOOCV, pruebas de Kruskal–Wallis, muestra estratificada de auditoría ($n=120$) y análisis de sensibilidad (`S0`–`S5`).
+- 📈 **[`RESULTADOS.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/RESULTADOS.md):** Síntesis de hallazgos empíricos por población documental, disciplina CC2020, familia de denominación y país.
+- ⚠️ **[`LIMITACIONES.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/LIMITACIONES.md):** Declaración transparente de limitaciones documentales, metodológicas y de alcance inferencial.
+- 🔄 **[`CAMBIOS_METODOLOGICOS.md`](file:///c:/Users/Aliximber/Desktop/DOCUMENTOS/CAMBIOS_METODOLOGICOS.md):** Trazabilidad exacta entre la versión original respaldada (`datos_originales_backup/`) y la versión auditada.
 
-- **Eje X ($-5$ a $+5$) — Dimensión Epistemológica**:
-  - **$-5$ (Theory, Principles, Innovation)**: Énfasis en fundamentos matemáticos, demostración formal, formulación algorítmica y métodos científicos.
-  - **$+5$ (Application, Deployment, Configuration)**: Énfasis en implementación práctica, integración de tecnologías existentes, configuración en entornos productivos y uso aplicado.
-- **Eje Y ($-5$ a $+5$) — Dimensión Tecnológica/Sistémica**:
-  - **$-5$ (Computer Hardware and Architecture)**: Circuitos digitales, microarquitectura, dispositivos embebidos, física del silicio y diseño de hardware.
-  - **$+5$ (Organizational Issues and Information Systems)**: Gestión de tecnologías, procesos de negocio, gobierno de TI, factores humanos, alineación estratégica y economía digital.
-- **Punto Central $(0, 0)$**: Nivel de *Software Systems*, infraestructura intermedia, sistemas operativos y redes, con un balance simétrico entre teoría y aplicación.
+---
 
+## 2. Marco Metodológico y Operacionalización Matemática
+
+### 2.1. Distinción entre el marco CC2020 y la operacionalización propia
+El documento oficial **CC2020** (ACM/IEEE-CS, 2020) establece las cinco disciplinas de referencia (`CE`, `CS`, `SE`, `IT`, `IS`) y sus diagramas conceptuales comparativos. **Las coordenadas numéricas $(X, Y) \in [-5, +5]^2$ y las reglas de clasificación implementadas en este repositorio constituyen una operacionalización matemática propia** diseñada para medir y comparar mallas curriculares reales de forma reproducible:
+
+$$X_{\text{global}} = 5 \cdot \frac{P_a - P_t}{P_a + P_t}, \qquad X_{\text{comp}} = 5 \cdot \frac{P_{a,\text{comp}} - P_{t,\text{comp}}}{P_{a,\text{comp}} + P_{t,\text{comp}}}, \qquad Y = 5 \cdot \frac{C_o - C_h}{C_h + C_s + C_o}$$
+
+donde:
+- **$P_t, P_a$:** Peso curricular acumulado en asignaturas Teóricas/Principios ($-5$) frente a Aplicadas/Despliegue ($+5$). Mientras $X_{\text{global}}$ incluye el tronco general de Ciencias Básicas de Ingeniería (`STEM`: Cálculo, Álgebra, Física, Química), **$X_{\text{comp}}$ mide exclusivamente las asignaturas de computación**, aislando el desplazamiento estructural producido por el ciclo básico de ingeniería ($\overline{\Delta X}_{\text{STEM}} = X_{\text{comp}} - X_{\text{global}} = +1.88$ unidades).
+- **$C_h, C_s, C_o$:** Peso curricular acumulado en Hardware y Arquitectura Física ($-5$), Software y Sistemas ($0$), y Organizacional / Sistemas de Información ($+5$).
+- **Fidelidad multivariada:** El Análisis de Componentes Principales (PCA) sobre la matriz de 6 dominios curriculares (`STEM`, `CE`, `CS`, `SE`, `IT`, `IS`) demuestra que las dos primeras componentes capturan el **$61.07\%$ de la varianza total** y que $\text{PC1}$ presenta una correlación de **$r = +0.9330$** con $X_{\text{global}}$.
+
+---
+
+## 3. Arquitectura del Corpus Documental (`D001`–`D075`)
+
+El corpus separa estrictamente dos poblaciones documentales con unidades de análisis distintas:
+
+| Bloque | Rango ID | Población Documental | Países Representados en el Bloque | Unidad de Ponderación | Media $X_{\text{glob}}$ | Media $X_{\text{comp}}$ | Media $Y$ |
+| :---: | :---: | :--- | :--- | :--- | :---: | :---: | :---: |
+| **Bloque 1** | `D001`–`D015` | **Perfiles de Egreso Declarativos** ($n=15$) | México (13), Colombia (2) | Proposiciones declarativas | $+3.90$ | $+3.90$ | $+0.82$ |
+| **Bloque 2** | `D016`–`D030` | **Planes de Estudio Oficiales** ($n=15$) | México (4), Colombia (5), Argentina (3), Perú (2), El Salvador (1) | Créditos, UV u horas reloj | $+0.24$ | $+1.96$ | $+0.49$ |
+| **Bloque 3** | `D031`–`D045` | **Planes de Estudio Oficiales** ($n=15$) | México (5), Colombia (2), Argentina (2), Chile (2), Perú (1), Costa Rica (1), Ecuador (1), Honduras (1) | Créditos SATCA/SCT/UEA, UV u horas | $+0.05$ | $+1.82$ | $+0.16$ |
+| **Bloque 4** | `D046`–`D060` | **Planes de Estudio Oficiales** ($n=15$) | México (2), Perú (2), Chile (2), Colombia (2), Uruguay (1), Paraguay (1), Panamá (1), Guatemala (1), Argentina (1), Ecuador (1), Bolivia (1) | Créditos u horas semanales/totales | $-0.49$ | $+1.48$ | $-0.11$ |
+| **Bloque 5** | `D061`–`D075` | **Planes de Estudio Oficiales** ($n=15$) | Brasil (2), Colombia (2), Argentina (2), Perú (2), Costa Rica (2), México (2), Ecuador (1), Bolivia (1), Chile (1) | Créditos u horas reloj/semanales | $-0.56$ | $+1.50$ | $-0.14$ |
+
+---
+
+## 4. Visualizaciones Científicas y Resultados Principales
+
+### 4.1. Mapa Consolidado Auditado (Separación de Poblaciones, KDE HDR y Regresión LOOCV)
+![Mapa Consolidado Auditado](corpus_CC2020_master_mancha_regresion.png)
+
+- **Regiones de Alta Densidad (HDR 50%, 80%, 95%):** Calculadas mediante integración numérica de la densidad kernel 2D (Regla de Scott: $h_X = 0.61, h_Y = 0.40$) exclusivamente sobre los **60 planes de estudio** (en azul), separadas del contorno declarativo de los **15 perfiles de egreso** (triángulos y línea punteada ámbar).
+- **Asociación positiva significativa entre $X$ e $Y$ en Planes de Estudio:** Tanto la regresión lineal OLS ($r = +0.5345, p = 0.0001$; sin `D032` PUCP: $r = +0.4841, p = 0.0002$) como la regresión kernel de Nadaraya–Watson ($h_{\text{LOOCV}}^* = 0.65, R^2 = 0.3123$) confirman una diagonal principal que conecta el polo de Ingeniería en Computación y Ciencias de la Computación (Cuadrante III: $X < 0, Y < 0$) con el polo de Ingeniería de Software, TI y Sistemas de Información (Cuadrante I: $X > 0, Y > 0$).
+
+---
+
+### 4.2. Efecto del Tronco de Ciencias Básicas (`STEM`) sobre los 60 Planes de Estudio
+![Planes de Estudio Global vs Solo Computación](distribucion_60_planes.png)
+
+- En promedio, el **$28.51\%$** del peso clasificado de los planes de estudio latinoamericanos corresponde a Ciencias Básicas generales (`STEM`: Cálculo, Álgebra, Física, Química).
+- Al evaluar únicamente las asignaturas del núcleo de computación ($X_{\text{comp}}$, Panel B), el centroide de los 60 planes se desplaza **$+1.88$ unidades hacia la derecha** (de $\bar{X}_{\text{global}} = -0.19$ a $\bar{X}_{\text{comp}} = +1.69$), demostrando que la enseñanza propiamente computacional en la región es mayoritariamente aplicada, mientras que el balance global cercano a cero es producto del fuerte ciclo físico-matemático de ingeniería.
+
+---
+
+### 4.3. Contraste entre Perfiles de Egreso (`D001`–`D015`) y Pares Institucionales Exactos
+![Perfiles de Egreso vs Pares Exactos](distribucion_15_perfiles_vs_pares.png)
+
+- El análisis de los dos pares institucionales exactos (**IPN–ESCOM `D001`↔`D017`** y **TecNM `D003`↔`D034`**) demuestra que **cerca de la mitad ($46\%$) de la brecha aparente entre los perfiles de egreso y las mallas curriculares en el Eje $X$ se explica porque los perfiles de egreso omiten las materias instrumentales del tronco `STEM`** y declaran las competencias profesionales terminales ($X_{\text{comp}} = +1.03$ en IPN-ESCOM y $X_{\text{comp}} = +2.00$ en TecNM).
+
+---
+
+### 4.4. Vectores de Competencias CC2020, Afinidades Corregidas y Biplot PCA
+![Disciplinas CC2020 y Biplot PCA](distribucion_disciplinas_y_vectores.png)
+
+| Afinidad CC2020 | Planes (`S1` Regla Corregida) | Planes (`S1` Similitud Vectorial) | Peso Medio del Dominio en Computación | Caracterización Curricular |
+| :--- | :---: | :---: | :---: | :--- |
+| **`CS` (Computer Science)** | **18 ($30.0\%$)** | **18 ($30.0\%$)** | $27.4\%$ | Algoritmia, estructuras discretas, teoría de la computación, IA y ciencia de datos. |
+| **`SE` (Software Engineering)** | **17 ($28.3\%$)** | **15 ($25.0\%$)** | $27.6\%$ | Ingeniería de requisitos, arquitectura y diseño de software, pruebas, calidad y desarrollo. |
+| **`IT` (Information Technology)** | **13 ($21.7\%$)** | **16 ($26.7\%$)** | $22.4\%$ | Redes, telecomunicaciones, administración de sistemas/servidores, nube, ciberseguridad y web. |
+| **`CE` (Computer Engineering)** | **7 ($11.7\%$)** | **6 ($10.0\%$)** | $11.0\%$ | Circuitos, electrónica, sistemas digitales, arquitectura de computadoras y sistemas embebidos. |
+| **`IS` (Information Systems)** | **5 ($8.3\%$)** | **5 ($8.3\%$)** | $11.6\%$ | Sistemas de información empresarial, procesos de negocio, gobierno de TI y gestión. |
+
+- **Alta hibridación curricular:** El Índice de Herfindahl–Hirschman medio sobre los 5 dominios de computación es **$\overline{\text{HHI}} = 0.2596$** y la Entropía de Shannon normalizada media es **$\bar{H}_{\text{norm}} = 0.8925$**, con **40 de los 60 planes ($66.7\%$)** presentando carácter híbrido ($\Delta S < 0.08$ entre su primera y segunda afinidad).
+
+---
+
+### 4.5. Posicionamiento por Familia de Denominación y por País (15 Países)
+![Distribución por Familia y País](distribucion_paises_y_denominaciones.png)
+
+- **Diferenciación significativa por denominación del programa (Kruskal–Wallis):** $p = 0.0070$ en el Eje $X$ y $p = 0.0004$ en el Eje $Y$. *Ciencias de la Computación / Ingeniería en Computación* se sitúa en el Cuadrante III ($-0.79, -0.65$), *Ingeniería de Sistemas* (tradición sudamericana) se desplaza al polo organizacional en $Y$ ($-0.35, +0.39$), e *Ingeniería en Sistemas Computacionales (ISC)* se ubica en una posición intermedia-aplicada ($+0.66, +0.21$).
+- **Diferenciación significativa por país (Kruskal–Wallis en países con $n \ge 3$):** $p = 0.0262$ en $X$ y $p = 0.0184$ en $Y$, destacando la tradición de hardware/sistemas digitales en México ($\bar{Y} = -0.33$), la intensidad físico-matemática en Chile ($\bar{X} = -0.88$), Argentina ($\bar{X} = -0.67$) y Colombia ($\bar{X} = -0.59$), y la orientación organizacional en Perú ($\bar{Y} = +0.74$) y Colombia ($\bar{Y} = +0.49$).
+
+---
+
+### 4.6. Comparación Metodológica (Original vs. Corregido) y Análisis de Sensibilidad
+![Comparación Original vs Corregido y Sensibilidad](comparacion_original_vs_corregido_sensibilidad.png)
+
+---
+
+## 5. Visualizaciones Individuales por Bloque (`Bloques 1 a 5`)
+
+| Bloque 1 (`D001`–`D015`: Perfiles) | Bloque 2 (`D016`–`D030`: Planes) | Bloque 3 (`D031`–`D045`: Planes) |
+| :---: | :---: | :---: |
+| ![Bloque 1](bloque_01_distribucion_cc2020.png) | ![Bloque 2](bloque_02_distribucion_cc2020.png) | ![Bloque 3](bloque_03_distribucion_cc2020.png) |
+
+| Bloque 4 (`D046`–`D060`: Planes) | Bloque 5 (`D061`–`D075`: Planes) |
+| :---: | :---: |
+| ![Bloque 4](bloque_04_distribucion_cc2020.png) | ![Bloque 5](bloque_05_distribucion_cc2020.png) |
+
+---
+
+## 6. Estructura del Repositorio y Archivos de Datos
+
+```text
+├── README.md                                      # Informe ejecutivo principal del proyecto
+├── AUDITORIA_METODOLOGICA.md                      # Hallazgos de la auditoría técnica y metodológica (Fase 1)
+├── CODEBOOK_CC2020.md                             # Libro de códigos unificado de 27 reglas jerárquicas (Fase 4)
+├── METODOLOGIA.md                                 # Formulación matemática, relación con CC2020 y PCA (Fases 2, 3, 5, 6, 7)
+├── VALIDACION_ESTADISTICA.md                      # Validación de KDE HDR, Nadaraya-Watson LOOCV y sensibilidad (Fases 8, 10)
+├── RESULTADOS.md                                  # Resultados empíricos verificados (Fase 12)
+├── LIMITACIONES.md                                # Limitaciones documentales, métricas y de inferencia (Fase 9)
+├── CAMBIOS_METODOLOGICOS.md                       # Registro trazable Antes vs. Después (Fases 13, 15)
+└── corpus_CC2020/
+    ├── ejecutar_pipeline.py                       # Script maestro que regenera todos los datos, análisis y figuras
+    ├── src/                                       # Paquete modular Python
+    │   ├── metadatos.py                           # Normalización documental, pares exactos y granularidad
+    │   ├── codebook.py                            # Clasificador determinista de 27 reglas y 6 dominios
+    │   ├── coordenadas.py                         # Cálculo de X_global, X_comp, Y, vectores CC2020 y PCA
+    │   ├── estadistica.py                         # KDE 2D HDR, Nadaraya-Watson LOOCV + Bootstrap, Kruskal-Wallis
+    │   ├── validacion_empirica.py                 # Muestra estratificada (n=120) y sensibilidad (S0-S5)
+    │   └── visualizaciones.py                     # Generador de las 11 figuras científicas a 300 DPI
+    ├── tests/
+    │   └── test_pipeline.py                       # Suite de pruebas automatizadas (unittest)
+    ├── corpus_CC2020_consolidado_75.csv           # Tabla maestra enriquecida (75 documentos x 57 variables)
+    ├── corpus_CC2020_planes_60.csv                # Tabla exclusiva de los 60 planes de estudio (D016-D075)
+    ├── corpus_CC2020_perfiles_15.csv              # Tabla exclusiva de los 15 perfiles de egreso (D001-D015)
+    ├── auditoria_muestra_estratificada.csv        # Muestra estratificada auditada de n=120 asignaturas
+    ├── analisis_sensibilidad.csv                  # Resultados por documento en los escenarios S0 a S5
+    ├── auditoria_estadistica_resumen.json         # Salida numérica completa de pruebas estadísticas y PCA
+    └── datos_originales_backup/                   # Respaldo íntegro de los archivos y scripts originales pre-auditoría
 ```
-                         [Y: +5] Organizational Issues & Information Systems
-                                    ▲
-                                    │   Cuadrante I: Aplicación Organizacional
-    Cuadrante II: Teoría &          │   (Information Systems - IS / Software Eng - SE)
-    Sistemas Organizacionales       │
-                                    │
- [X: -5] ───────────────────────────┼───────────────────────────► [X: +5]
- Theory, Principles, Innovation     │ (0,0) Software Systems    Application, Deployment,
-                                    │                           Configuration
-    Cuadrante III: Teoría &         │   Cuadrante IV: Aplicación de Hardware
-    Arquitectura / Hardware         │   (Tecnologías Embebidas y Despliegue Físico)
-    (Computer Science - CS / CE)    │
-                                    ▼
-                         [Y: -5] Computer Hardware and Architecture
+
+---
+
+## 7. Reproducibilidad Computacional y Pruebas Automatizadas
+
+Para regenerar desde cero todos los cálculos, tablas CSV/JSON, informes por bloque y las 11 visualizaciones en alta resolución, ejecute desde la raíz del proyecto:
+
+```powershell
+python corpus_CC2020/ejecutar_pipeline.py
 ```
 
----
+Para ejecutar la batería de pruebas unitarias automatizadas que verifican los conteos poblacionales, la ausencia de asignaturas sin clasificar sobre los 2,109 registros, la corrección de colisiones léxicas y las identidades algebraicas:
 
-## 2. Visualización Master: La «Mancha» Curricular y la Regresión No Lineal
+```powershell
+python corpus_CC2020/tests/test_pipeline.py -v
+```
 
-La siguiente figura consolida los 75 documentos analizados, la estimación de densidad de kernel bivariada (KDE 2D) que delimita la «mancha» real de la computación latinoamericana, y la curva de regresión no lineal no paramétrica con su banda de dispersión condicional ($\pm 1\sigma$).
-
-![Delimitación de la Mancha Curricular y Regresión No Lineal del Corpus CC2020](corpus_CC2020_master_mancha_regresion.png)
-
-### 2.1 Modelado Matemático de la Imagen Master
-1. **La «Mancha Curricular» (KDE 2D Bivariado)**:
-   - Estimada mediante un núcleo gaussiano isotrópico $\hat{f}(x, y) = \frac{1}{N h_x h_y} \sum_{i=1}^N \mathcal{K}\left(\frac{x - X_i}{h_x}, \frac{y - Y_i}{h_y}\right)$ con anchos de banda optimizados ($h_x \approx 1.01, h_y \approx 0.40$).
-   - **Isolínea 0.60 (Núcleo denso)**: Delimita el epicentro de la educación en computación regional en el intervalo $X \in [-1.6, -0.2]$ e $Y \in [-0.6, +0.4]$.
-   - **Isolínea 0.28 (Cuerpo principal)**: Encapsula la masa curricular de los planes de estudio oficiales entre $X \in [-2.8, +1.8]$ e $Y \in [-1.2, +1.2]$.
-   - **Isolínea 0.07 (Límite exterior)**: Establece la frontera empírica máxima de la oferta académica de la región.
-2. **La Regresión No Lineal (Nadaraya-Watson)**:
-   - Traza el valor esperado $\hat{m}(x) = \mathbb{E}[Y \mid X = x]$ sin suposiciones lineales preconcebidas.
-   - **Banda de soporte sombreada ($\pm 1\sigma(x)$)**: Muestra la varianza local del eje $Y$. Mientras que para la teoría ($X < 0$) la desviación es moderada ($\sigma \approx 0.4$), en la zona aplicada ($X > 0$) la varianza se duplica ($\sigma \approx 0.85$), reflejando cómo los programas se bifurcan entre software puro y sistemas de información organizacionales.
-
----
-
-## 3. Análisis Fase por Fase y Evidencia Visual por Bloques
-
-El corpus fue construido en 5 bloques progresivos de 15 documentos, permitiendo comparar discursos institucionales frente a estructuras lectivas reales.
-
-### 3.1 Bloque 1 (D001–D015): La Ilusión de la Ultra-Aplicación en los Perfiles de Egreso
-- **Muestra**: Perfiles de egreso y declaraciones formales de competencias en universidades de México y Perú.
-- **Gráfico de dispersión**:
-
-![Dispersión Bloque 1 - Perfiles de Egreso](bloque_01_dispersion.png)
-
-- **Evidencia Visual**:
-  - Los 15 documentos se agrupan en una banda vertical extrema sobre el borde derecho: $X \approx +4.0$ a $+5.0$.
-  - Se distribuyen ampliamente en el eje vertical ($Y \in [-0.5, +4.0]$), desde soporte de redes hasta dirección corporativa de TI.
-- **Diagnóstico**: Los perfiles de egreso son declaraciones discursivas diseñadas para acreditadoras y empleadores. Prometen graduados con capacidad inmediata de «administrar proyectos», «implantar soluciones empresariales» y «desplegar arquitecturas», omitiendo el peso de la formación teórica previa.
-
----
-
-### 3.2 Bloque 2 (D016–D030): Planes de Estudio Oficiales de México
-- **Muestra**: Mallas curriculares completas ponderadas por créditos (SATCA/horas) en UNAM, IPN, UAM, TecNM, UANL, UV, BUAP, etc.
-- **Gráfico de dispersión**:
-
-![Dispersión Bloque 2 - Mallas México](bloque_02_dispersion.png)
-
-- **Evidencia Visual**:
-  - Desplazamiento radical hacia el centro y la izquierda: $X \in [-1.8, +0.6]$, $Y \in [-1.1, +0.3]$.
-  - Carreras de Computer Science e Ingeniería en Computación (UNAM, UAM) se anclan en $X \approx -1.3$, $Y \approx -0.8$, mientras que el modelo tecnológico nacional (TecNM) se sitúa en $(-0.7, -0.4)$.
-- **Diagnóstico**: Frente a la promesa de aplicación de los perfiles, la realidad crediticia de las mallas mexicanas muestra que entre el 60% y el 70% de los créditos obligatorios se concentran en cálculo, física, matemáticas discretas, algoritmos y programación estructurada.
-
----
-
-### 3.3 Bloque 3 (D031–D045): Universidades de Investigación y Tradición Regional
-- **Muestra**: Planes de estudio de universidades de máxima jerarquía en investigación: UNAM (Ing. Computación), PUCP (Perú), U. de Chile, UBA (Argentina), PUC Chile, UniAndes (Colombia), ITESM (México).
-- **Gráfico de dispersión**:
-
-![Dispersión Bloque 3 - Mallas Regional Top](bloque_03_dispersion.png)
-
-- **Evidencia Visual**:
-  - Marcada diferenciación epistemológica: la UBA (Ciencias de la Computación) y la UNAM se posicionan con alta carga teórica ($X \approx -1.5$ a $-1.2$), con radios amplios de dispersión ($R \approx 2.4$) por su balance entre fundamentos y talleres.
-  - Programas de orientación privada y tecnológica (ITESM campus Monterrey, UniAndes) muestran una mayor apertura hacia $Y > 0$, integrando emprendimiento y gestión de software.
-
----
-
-### 3.4 Bloque 4 (D046–D060): Balances entre Sistemas, Hardware y Ciencias de la Computación
-- **Muestra**: Instituciones públicas y politécnicas de Uruguay (UdelaR), Perú (UNSA, UNMSM), Colombia (UNAL, UIS), Chile (UTFSM, PUCV), México (UASLP) y Argentina (UNR).
-- **Gráfico de dispersión**:
-
-![Dispersión Bloque 4 - Mallas Diversificadas](bloque_04_dispersion.png)
-
-- **Evidencia Visual**:
-  - Aparición de los puntos más cercanos al hardware del corpus: la UASLP (Ingeniería en Computación, D058) en $(-1.3, -2.1)$ y la UdelaR (Ingeniería en Computación, D046) en $(-0.4, -0.5)$.
-  - Simultáneamente, emergen programas de Sistemas de Información (UNMSM, D054) con $Y \approx +1.1$, demostrando la convivencia de ramas de infraestructura física y ramas de gestión de datos dentro de la misma región.
-
----
-
-### 3.5 Bloque 5 (D061–D075): Los Polos de Ciencia de la Computación de Brasil y Casos Especiales
-- **Muestra**: Universidades brasileñas de clase mundial (USP, UNICAMP, UFRJ, UFMG), referentes de Argentina (UNC FAMAF), Colombia (UdeA), Costa Rica (TEC, UCR) y México (UADY).
-- **Gráfico de dispersión**:
-
-![Dispersión Bloque 5 - Brasil y Especializadas](bloque_05_dispersion.png)
-
-- **Evidencia Visual**:
-  - Los polos científicos brasileños (USP Bacharelado em Ciência da Computação, D061) y argentinos (UNC FAMAF Licenciatura en Ciencias de la Computación, D064) empujan la frontera teórica hasta $X \approx -2.8$ a $-1.9$.
-  - UNICAMP (Engenharia de Computação, D062) ancla el extremo de hardware en $Y \approx -2.1$.
-  - Por el contrario, la Universidad de Costa Rica con su carrera de *Informática Empresarial* (D075) se ubica en $(+2.7, +2.1)$, marcando el límite superior de sistemas organizacionales.
-
----
-
-## 4. Conclusiones Fundamentales del Estudio
-
-A partir de la evidencia visual y estadística consolidada de los 75 documentos, se derivan cinco conclusiones estructurales para la educación superior en América Latina:
-
-### Conclusión 1: La «Brecha del Espejismo»: Disociación Estructural entre Perfiles y Mallas
-Existe una **distorsión de hasta 5.5 unidades en el eje X** entre lo que las instituciones declaran en sus perfiles de egreso (Bloque 1, $X \in [+4.0, +5.0]$) y lo que efectivamente imparten en las aulas (Bloques 2–5, media en $X = -0.52$).
-- **Significado**: Las universidades latinoamericanas promocionan sus carreras bajo el discurso de la empleabilidad inmediata y la aplicación de vanguardia, pero sus planes formativos están regidos por estructuras formativas de larga tradición basadas en ciencias duras, matemáticas y programación básica.
-
-### Conclusión 2: Hegemonía Oculta de Computer Science (CS)
-A pesar de la enorme dispersión en las nomenclaturas de titulación (*«Ingeniería de Sistemas»*, *«Ingeniería en Informática»*, *«Ingeniería de Computación»*, *«Licenciatura en Computación»*):
-- El **53.3% del corpus (40 de 75 programas)** clasifica matemáticamente dentro de los límites canónicos de **Computer Science (CS)**.
-- Esto demuestra que, con independencia del nombre otorgado por la legislación de cada país, la espina dorsal formativa en América Latina sigue el canon de CS propuesto por ACM/IEEE.
-
-### Conclusión 3: El «Vacío del Silicio»: Ausencia Total del Cuadrante IV
-Al observar la visualización master, el **Cuadrante IV ($X > 0, Y < -2.0$) está completamente desierto**.
-- **Significado**: No existe en la región una oferta curricular representativa orientada a la **aplicación y despliegue de hardware** (diseño VLSI industrial, robótica de integración física, microelectrónica aplicada, manufactura de dispositivos IoT).
-- Las carreras que abordan hardware (UNICAMP, UASLP, ITESM) lo hacen desde el Cuadrante III (teoría de circuitos, arquitectura de computadoras y física del silicio), pero no hacia el despliegue comercial o manufacturero de hardware.
-
-### Conclusión 4: La Inflexión Asimétrica de la Regresión No Lineal
-La curva de regresión de Nadaraya-Watson revela un fenómeno curricular revelador:
-1. **Tramo Teórico ($X < 0$)**: La pendiente es nula ($dY/dX \approx 0$). Cuando una carrera profundiza en fundamentos, el balance entre hardware y software se mantiene estable en el nivel de sistemas base ($Y \approx -0.2$).
-2. **Tramo Aplicado ($X > 0$)**: La pendiente se vuelve marcadamente positiva ($dY/dX > 0$), elevándose hacia $Y \approx +1.5$.
-- **Conclusión crítica**: Cuando una universidad latinoamericana decide «hacer más práctico y aplicado» su plan de estudios, **no lo orienta hacia sistemas de bajo nivel o computación física, sino hacia la gestión de software empresarial, administración de proyectos y sistemas de información (SE / IS)**.
-
-### Conclusión 5: Polarización Geográfica y Culturas Formativas
-El análisis de los 8 países evidencia dos escuelas curriculares en el continente:
-- **La Tradición Científica Austral (Brasil y Argentina)**: Programas como los de USP, UNICAMP, UBA y UNC FAMAF presentan las coordenadas más teóricas ($X \le -1.5$), con planes de estudio fuertemente articulados con departamentos de matemáticas y física.
-- **La Tradición Tecnológica-Sistémica (México, Colombia, Costa Rica y Perú)**: Programas de Ingeniería de Sistemas e Informática que buscan el cuadrante I ($X \approx 0.0$ a $+2.0, Y \approx 0.0$ a $+2.0$), buscando resolver necesidades de informatización del sector productivo y corporativo.
-
----
-
-## 5. Tabla Resumen del Corpus Completo (75 Documentos)
-
-| Disciplina CC2020 | Documentos | % Total | Rango X | Rango Y | Radio Medio ($R$) | Universidades Ejemplo |
-|:---|:---:|:---:|:---:|:---:|:---:|:---|
-| **CS (Computer Science)** | 40 | 53.3% | $[-2.8, +0.2]$ | $[-1.2, +0.8]$ | 2.21 | UNAM, UBA, PUC Chile, USP, UNC FAMAF, UdeA |
-| **SE (Software Engineering)** | 15 | 20.0% | $[+0.2, +2.1]$ | $[+0.1, +1.4]$ | 1.85 | IPN, PUCP, UIS, TEC Costa Rica, UdelaR |
-| **IT (Information Technology)** | 8 | 10.7% | $[-0.8, +1.8]$ | $[-0.6, +0.6]$ | 1.68 | TecNM, UV, UADY |
-| **CE (Computer Engineering)** | 6 | 8.0% | $[-1.4, -0.4]$ | $[-2.1, -0.9]$ | 2.15 | UNICAMP, UASLP, ITESM |
-| **IS (Information Systems)** | 6 | 8.0% | $[+0.6, +2.7]$ | $[+1.1, +2.1]$ | 1.94 | UCR Informática Empresarial, UNMSM, UNSA |
-
----
-
-## 6. Recursos y Reproducibilidad
-
-Todo el código fuente y los datasets están disponibles para su auditoría y réplica:
-
-- **Script de visualización y modelado maestro**: [`visualizar_corpus_completo.py`](visualizar_corpus_completo.py)
-- **Dataset consolidado CSV**: [`corpus_CC2020_completo_75.csv`](corpus_CC2020_completo_75.csv)
-- **Dataset consolidado JSON con mallas completas**: [`corpus_CC2020_completo_75.json`](corpus_CC2020_completo_75.json)
-- **Informes analíticos individuales**:
-  - [Bloque 1 (D001–D015)](bloque_01_analisis.md)
-  - [Bloque 2 (D016–D030)](bloque_02_analisis.md)
-  - [Bloque 3 (D031–D045)](bloque_03_analisis.md)
-  - [Bloque 4 (D046–D060)](bloque_04_analisis.md)
-  - [Bloque 5 (D061–D075)](bloque_05_analisis.md)

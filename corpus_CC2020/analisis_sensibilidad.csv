@@ -1,0 +1,61 @@
+ID,Institucion,Pais,X_S0_Original,Y_S0_Original,Afinidad_S0_Original,X_S1_Corregido,Y_S1_Corregido,Afinidad_S1_Regla,Afinidad_S1_Vectorial,X_S2_PesosUniformes,Y_S2_PesosUniformes,Afinidad_S2_Regla,X_S3_ConElectivas,Y_S3_ConElectivas,X_S4_SinHibridos,Y_S4_SinHibridos,X_S5_SoloComputacion,Delta_X_STEM
+D016,Universidad de las Américas Puebla (UDLAP),México,0.37,-0.06,CS,0.22,-0.06,IT,IT,0.14,-0.19,IT,0.22,-0.06,0.37,-0.06,1.95,1.73
+D017,IPN — ESCOM,México,-0.35,-0.51,CE,-0.35,-0.51,CE,CE/IT,-0.13,-0.48,CE,-0.35,-0.51,-0.35,-0.51,1.03,1.37
+D018,Universidad Autónoma de Baja California (Mexicali),México,2.53,1.28,SE,2.57,1.35,IS,IT/IS,2.63,1.47,IS,2.57,1.35,2.57,1.35,3.54,0.97
+D019,Universidad Privada del Norte (UPN),Perú,-0.08,0.0,CS,0.23,0.0,SE,SE/CS,0.31,0.0,SE,0.23,0.0,0.23,0.0,2.28,2.05
+D020,Universidad Nacional de Colombia (Bogotá),Colombia,-0.7,0.55,CS,-0.33,0.44,SE,CS/IT,0.0,0.46,SE,-0.33,0.44,-0.21,0.35,1.65,1.98
+D021,Pontificia Universidad Javeriana Cali,Colombia,-0.96,0.2,CS,-0.66,0.19,CS,CS,-0.45,0.19,CS,-0.66,0.19,-0.66,0.19,0.58,1.24
+D022,Universidad de Sonsonate,El Salvador,0.8,0.23,SE,0.88,0.35,SE,IT/SE,1.05,0.65,SE,0.88,0.35,0.88,0.35,3.25,2.37
+D023,Universidad Nacional del Callao (FIIS),Perú,1.6,1.53,IS,1.27,1.5,IS,IS,1.36,1.62,IS,1.6,1.6,1.27,1.5,3.25,1.98
+D024,Universidad Nacional Abierta y a Distancia (UNAD),Colombia,0.87,0.64,SE,1.17,1.02,SE,SE/IT,1.07,1.14,SE,1.17,1.02,1.17,1.02,2.81,1.64
+D025,UTN — Facultad Regional Buenos Aires,Argentina,-0.08,1.48,IS,-0.08,1.48,IS,IS,0.0,1.3,IS,-0.08,1.48,-0.08,1.48,2.05,2.12
+D026,Universidad Nacional de La Pampa (UNLPam),Argentina,0.91,0.63,SE,0.91,0.63,IT,IT,0.56,0.58,IT,0.91,0.63,0.91,0.63,2.88,1.97
+D027,UNICEN — Facultad de Ciencias Exactas,Argentina,0.03,-0.07,CS,0.03,-0.07,CS,CS/SE,0.0,-0.19,CS,0.03,-0.07,0.03,-0.07,1.42,1.4
+D028,Universidad de los Llanos (Unillanos),Colombia,-0.77,-0.08,CS,-0.75,-0.08,SE,IT/SE,-0.74,0.0,SE,-0.75,-0.08,-0.58,-0.08,2.38,3.14
+D029,Universidad EAN,Colombia,-1.51,0.26,CS,-0.88,1.2,IT,IT/IS,-0.71,1.41,IS,-0.88,1.2,-0.49,1.0,2.5,3.38
+D030,UNIR México,México,1.57,0.47,SE,1.29,0.47,IT,IT/CS,1.29,0.47,IT,1.29,0.47,1.29,0.47,1.88,0.59
+D031,UNAM — Facultad de Ingeniería,México,-0.72,-0.83,CE,-0.87,-0.94,CE,CE/CS,-1.08,-0.94,CE,-0.87,-0.94,-0.72,-0.83,1.28,2.16
+D032,Pontificia Universidad Católica del Perú (PUCP),Perú,3.09,1.31,IS,3.15,1.8,IS,IS,3.06,1.9,IS,3.15,1.8,3.15,1.8,3.62,0.47
+D033,Universidad de Chile (FCFM-DCC),Chile,-1.46,0.81,CS,-1.38,0.79,CS,CS/SE,-1.62,0.83,CS,-1.38,0.79,-1.23,0.79,1.58,2.96
+D034,Tecnológico Nacional de México (TecNM),México,-0.43,-0.17,CS,-0.06,0.08,SE,IT/CS,0.0,0.09,SE,-0.06,0.08,0.2,0.0,2.0,2.06
+D035,Universidad Nacional de La Plata (UNLP),Argentina,0.86,-1.51,CE,0.96,-1.31,CE,CE/IT,0.94,-1.09,CE,0.96,-1.31,0.96,-1.31,3.15,2.2
+D036,Universidad de Costa Rica (UCR-ECCI),Costa Rica,-0.71,-0.31,CS,-0.25,-0.17,CS,CS/SE,-0.25,-0.17,CS,-0.25,-0.17,0.0,-0.33,1.33,1.58
+D037,Universidad Técnica Particular de Loja (UTPL),Ecuador,1.9,0.71,SE,2.41,0.92,IT,IT/SE,2.44,0.96,IT,2.41,0.92,2.67,0.84,3.51,1.1
+D038,Universidad Nacional Autónoma de Honduras (UNAH),Honduras,0.95,0.61,SE,0.95,0.61,IT,IT,1.0,0.62,IT,0.95,0.61,0.95,0.61,2.58,1.62
+D039,Universidad de los Andes (UniAndes),Colombia,-0.24,0.67,CS,0.24,0.67,IT,SE/CS,0.24,0.67,IT,0.24,0.67,0.24,0.67,2.33,2.1
+D040,Universidad EAFIT,Colombia,0.0,0.56,CS,0.0,0.56,SE,SE,0.0,0.56,SE,0.0,0.56,0.0,0.56,2.22,2.22
+D041,Universidad de Buenos Aires (UBA - FIUBA),Argentina,-0.66,0.45,CS,-1.02,0.18,CS,CS/SE,-1.0,0.29,CS,-1.02,0.18,-1.02,0.18,1.0,2.02
+D042,Pontificia Universidad Católica de Chile (PUC Chile),Chile,-1.36,0.0,CS,-0.83,0.0,SE,SE/CS,-1.09,0.0,CS,-0.83,0.0,-0.83,0.0,1.67,2.5
+D043,Universidad Autónoma Metropolitana (UAM Azcapotzalco),México,-1.15,-1.37,CE,-1.15,-1.37,CE,CE/CS,-1.0,-1.58,CE,-1.15,-1.37,-1.15,-1.37,1.27,2.42
+D044,Universidad de Guadalajara (UdeG - CUCEI),México,0.06,-0.52,CS,0.06,-0.52,IT,CS/IT,0.0,-0.5,IT,0.06,-0.52,0.06,-0.52,1.98,1.91
+D045,Tecnológico de Monterrey (ITESM),México,-0.22,-0.59,CS,0.0,-0.39,CS,CS/SE,0.0,-0.39,CS,0.0,-0.39,0.22,-0.53,1.05,1.05
+D046,Universidad de la República (UdelaR),Uruguay,-0.41,-0.36,CS,-0.41,-0.36,CS,CS/SE,-0.71,-0.36,CS,-0.41,-0.36,-0.41,-0.36,1.69,2.1
+D047,Universidad Nacional de San Agustín de Arequipa (UNSA),Perú,1.0,1.0,SE,0.6,0.47,IT,IT/SE,0.77,0.75,IT,0.6,0.47,0.6,0.47,2.47,1.87
+D048,Universidad de Concepción (UdeC),Chile,-0.96,0.0,CS,-0.81,0.0,SE,SE,-0.96,0.0,CS,-0.81,0.0,-0.62,0.0,2.1,2.91
+D049,Universidad Industrial de Santander (UIS),Colombia,-0.91,0.12,CS,-0.91,0.12,SE,IT/SE,-0.88,0.24,SE,-0.91,0.12,-0.91,0.12,1.59,2.49
+D050,Universidad Autónoma de Nuevo León (UANL - FIME),México,-1.55,-0.48,CS,-1.39,-0.94,CE,SE/CS,-1.3,-0.89,CE,-1.39,-0.94,-1.0,-1.11,2.22,3.61
+D051,Universidad Nacional de Asunción (UNA - FP-UNA),Paraguay,-1.12,-0.14,CS,-0.37,-0.14,CS,CS/IT,-0.19,0.0,CS,-0.37,-0.14,-0.37,-0.14,0.96,1.33
+D052,Universidad Tecnológica de Panamá (UTP - FISC),Panamá,-0.83,0.13,CS,-1.0,0.39,CS,SE/CS,-0.83,0.5,CS,-1.0,0.39,-0.83,0.39,1.23,2.23
+D053,Universidad de San Carlos de Guatemala (USAC),Guatemala,-1.44,-0.84,CS,-1.29,-0.72,SE,SE/IT,-0.8,-0.69,SE,-1.29,-0.72,-1.14,-0.6,0.9,2.19
+D054,Universidad Nacional Mayor de San Marcos (UNMSM - FISI),Perú,-0.16,1.13,CS,-0.16,1.13,SE,IS/IT,0.0,1.32,IS,-0.16,1.13,-0.16,1.13,1.2,1.36
+D055,Universidad del Valle (Univalle - EISC),Colombia,-0.92,0.35,CS,-0.92,0.35,SE,SE/IT,-0.83,0.36,SE,-0.92,0.35,-0.92,0.35,2.21,3.13
+D056,Universidad Nacional de Rosario (UNR - FCEIA),Argentina,-1.6,-0.24,CS,-1.9,-0.24,CS,CS,-2.04,-0.29,CS,-1.9,-0.24,-1.9,-0.24,-0.08,1.82
+D057,Universidad Técnica Federico Santa María (USM),Chile,-1.36,1.25,CS,-1.05,0.69,CS,CS/SE,-1.06,0.91,CS,-1.05,0.69,-1.05,0.69,0.93,1.98
+D058,Universidad Autónoma de San Luis Potosí (UASLP),México,-1.43,-1.39,CE,-0.92,-1.45,CE,CE/CS,-1.0,-1.36,CE,-0.92,-1.45,-0.92,-1.45,0.48,1.4
+D059,Pontificia Universidad Católica del Ecuador (PUCE),Ecuador,1.21,-0.58,SE,1.56,-0.35,IT,IT,1.46,-0.26,IT,1.56,-0.35,1.78,-0.35,3.19,1.64
+D060,Universidad Mayor de San Andrés (UMSA),Bolivia,-1.09,-0.67,CS,-1.14,-0.54,SE,SE/IT,-1.14,-0.54,SE,-1.14,-0.54,-0.91,-0.36,1.07,2.21
+D061,Universidade de São Paulo (USP - IME),Brasil,-1.82,-0.67,CS,-1.9,-0.71,CS,CS,-1.75,-0.71,CS,-1.9,-0.71,-1.67,-0.71,-0.36,1.55
+D062,Universidade Estadual de Campinas (UNICAMP),Brasil,-1.27,-2.12,CE,-1.37,-2.12,CE,CE,-1.25,-2.19,CE,-1.37,-2.12,-0.88,-2.12,0.61,1.98
+D063,Universidad de Antioquia (UdeA),Colombia,-1.97,0.59,CS,-1.97,0.59,CS,CS,-1.79,0.59,CS,-1.97,0.59,-1.97,0.59,0.29,2.26
+D064,Universidad Nacional de Córdoba (UNC - FAMAF),Argentina,-2.92,-0.59,CS,-2.71,-0.59,CS,CS,-2.71,-0.59,CS,-2.71,-0.59,-2.5,-0.59,-1.76,0.94
+D065,Universidad Nacional de San Antonio Abad del Cusco (UNSAAC),Perú,-0.31,0.14,CS,-0.31,0.14,CS,IT/CS,-0.2,0.26,CS,-0.31,0.14,-0.31,0.14,1.22,1.52
+D066,Instituto Tecnológico de Costa Rica (TEC),Costa Rica,0.0,-0.07,CS,0.47,-0.07,SE,SE/CS,0.42,0.0,SE,0.47,-0.07,0.47,-0.07,1.71,1.25
+D067,Escuela Politécnica Nacional (EPN),Ecuador,-0.83,-0.32,CS,-0.83,-0.32,CS,CS,-1.09,-0.31,CS,-0.83,-0.32,-0.83,-0.32,0.65,1.48
+D068,Universidad Católica Boliviana (UCB San Pablo),Bolivia,-0.05,0.22,CS,-0.05,0.37,SE,SE/IT,0.0,0.44,SE,-0.05,0.37,-0.05,0.52,2.01,2.07
+D069,Universidad del Norte (Uninorte),Colombia,-1.1,0.33,CS,-1.49,0.33,CS,CS/SE,-1.25,0.33,CS,-1.49,0.33,-1.1,0.33,1.0,2.49
+D070,Universidad Veracruzana (UV),México,0.0,-0.59,CS,0.45,-0.29,IT,IT,0.45,-0.29,IT,0.45,-0.29,0.45,-0.29,2.06,1.6
+D071,Universidad Nacional del Sur (UNS),Argentina,-1.36,-0.62,CS,-1.59,-0.62,CS,CS,-1.59,-0.62,CS,-1.59,-0.62,-1.36,-0.62,-0.31,1.28
+D072,Universidad Austral de Chile (UACh),Chile,-0.31,0.19,CS,-0.31,0.19,IT,SE/CS,-0.22,0.31,SE,-0.31,0.19,-0.31,0.19,1.79,2.1
+D073,Universidad Autónoma de Yucatán (UADY - FMAT),México,1.5,0.31,SE,1.5,0.31,SE,SE,1.5,0.31,SE,1.5,0.31,1.5,0.31,3.12,1.62
+D074,Universidad Nacional de Trujillo (UNT),Perú,0.1,0.14,CS,0.1,0.14,IT,IT/SE,0.2,0.26,SE,0.1,0.14,0.1,0.14,1.76,1.65
+D075,Universidad de Costa Rica (UCR - Sedes Regionales),Costa Rica,2.6,1.76,IS,2.92,1.84,IS,IS,3.0,2.11,IS,2.92,1.84,2.92,1.84,3.38,0.47

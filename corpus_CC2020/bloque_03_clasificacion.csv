@@ -1,529 +1,529 @@
-﻿ID,Asignatura,Peso,Condicion,Regla,X,Y
-D031,Química,10.0,Obligatoria,18,T,
-D031,Fundamentos de Programación,10.0,Obligatoria,16,A,S
-D031,Álgebra,8.0,Obligatoria,18,T,
-D031,Cálculo y Geometría Analítica,12.0,Obligatoria,18,T,
-D031,Fundamentos de Física,6.0,Obligatoria,18,T,
-D031,Álgebra Lineal,8.0,Obligatoria,18,T,
-D031,Mecánica,12.0,Obligatoria,18,T,
-D031,Cálculo Integral,8.0,Obligatoria,18,T,
-D031,Redacción y Exposición de Temas de Ingeniería,6.0,Obligatoria,1,,
-D031,Estructura de Datos y Algoritmos I,10.0,Obligatoria,14,T,S
-D031,Probabilidad,8.0,Obligatoria,18,T,
-D031,Programación Orientada a Objetos,10.0,Obligatoria,16,A,S
-D031,Ecuaciones Diferenciales,8.0,Obligatoria,18,T,
-D031,Cálculo Vectorial,8.0,Obligatoria,18,T,
-D031,Estructura de Datos y Algoritmos II,10.0,Obligatoria,14,T,S
-D031,Cultura y Comunicación,2.0,Obligatoria,1,,
-D031,Electricidad y Magnetismo,10.0,Obligatoria,18,T,
-D031,Matemáticas Avanzadas,8.0,Obligatoria,18,T,
-D031,Análisis Numérico,8.0,Obligatoria,18,T,
-D031,Estructuras Discretas,8.0,Obligatoria,14,T,S
-D031,Circuitos Eléctricos,8.0,Obligatoria,3,T,H
-D031,Dispositivos Electrónicos,10.0,Obligatoria,4,A,H
-D031,Lenguajes Formales y Autómatas,8.0,Obligatoria,14,T,S
-D031,Ingeniería de Software,10.0,Obligatoria,16,A,S
-D031,Redes y Conectividad,8.0,Obligatoria,16,A,S
-D031,Bases de Datos,14.0,Obligatoria,16,A,S
-D031,Sistemas Operativos,8.0,Obligatoria,16,A,S
-D031,Diseño Digital Moderno,10.0,Obligatoria,4,A,H
-D031,Microcomputadoras,8.0,Obligatoria,4,A,H
-D031,Computación Gráfica e Interacción Humano-Computadora,10.0,Obligatoria,10,A,O
-D031,Introducción a la Economía,8.0,Obligatoria,17,A,O
-D031,Inteligencia Artificial,8.0,Obligatoria,14,T,S
-D031,Diseño Digital VLSI,8.0,Obligatoria,4,A,H
-D031,Compiladores,8.0,Obligatoria,14,T,S
-D031,Finanzas en la Ingeniería en Computación,6.0,Obligatoria,17,A,O
-D031,Sistemas de Comunicaciones,8.0,Obligatoria,3,T,H
-D031,Redes de Datos Seguras,14.0,Obligatoria,16,A,S
-D031,Ética Profesional,6.0,Obligatoria,1,,
-D031,Optativa de Ciencias Sociales y Humanidades,6.0,Optativa,1,,
-D031,Sistemas Distribuidos,8.0,Obligatoria,16,A,S
-D031,Recursos y Necesidades de México,8.0,Obligatoria,1,,
-D031,Organización y Arquitectura de Computadoras,8.0,Obligatoria,7,T,H
-D031,Optativa del Campo de Profundización 1,8.0,Optativa,1,,
-D031,Asignaturas del Campo de Profundización,40.0,Optativa,1,,
-D032,Taller de Habilidades Interpersonales,1.0,Obligatoria,1,,
-D032,Empresa y su Entorno,2.0,Obligatoria,17,A,O
-D032,Programación 2,5.0,Obligatoria,16,A,S
-D032,Algoritmia y Estructura de Datos,3.5,Obligatoria,14,T,S
-D032,Fundamentos de Sistemas de Información,3.5,Obligatoria,15,A,O
-D032,Base de Datos,3.5,Obligatoria,16,A,S
-D032,Ingeniería de Requisitos,3.5,Obligatoria,16,A,S
-D032,Contabilidad y Finanzas,2.5,Obligatoria,17,A,O
-D032,Arquitectura de Computadoras,3.5,Obligatoria,7,T,H
-D032,Probabilidad y Estadística,3.5,Obligatoria,18,T,
-D032,Sistemas Operativos,2.5,Obligatoria,16,A,S
-D032,Programación 3,5.0,Obligatoria,16,A,S
-D032,Arquitectura de Software,2.5,Obligatoria,6,A,S
-D032,Algoritmos Avanzados,2.5,Obligatoria,14,T,S
-D032,Experimentación Numérica,2.0,Obligatoria,18,T,
-D032,Inteligencia Artificial,3.5,Obligatoria,14,T,S
-D032,Modelado y Automatización de Procesos Empresariales,3.5,Obligatoria,4,A,H
-D032,Administración de Sistemas Operativos,2.5,Obligatoria,16,A,S
-D032,Diseño de Software,2.5,Obligatoria,16,A,S
-D032,Ingeniería Económica,3.5,Obligatoria,17,A,O
-D032,Redes de Computadoras,4.0,Obligatoria,16,A,S
-D032,Formulación de Proyecto de Fin de Carrera,2.0,Obligatoria,1,,
-D032,Ética y RSU en Ingeniería Informática,2.5,Obligatoria,1,,
-D032,Ingeniería de Software,3.5,Obligatoria,16,A,S
-D032,Innovación y Emprendimiento con Tecnologías de Información,3.0,Obligatoria,1,,
-D032,Gobierno y Gestión de Tecnologías de Información,3.5,Obligatoria,5,A,O
-D032,Seguridad de Información,3.5,Obligatoria,11,A,S
-D032,Sistemas de Información para los Negocios,3.5,Obligatoria,15,A,O
-D032,Proyecto de Fin de Carrera 1,2.0,Obligatoria,1,,
-D032,Arquitectura Empresarial,3.0,Obligatoria,5,A,O
-D032,Implantación de Sistemas de Información,3.0,Obligatoria,15,A,O
-D032,Proyecto de Diseño y Desarrollo de Software,3.0,Obligatoria,16,A,S
-D032,Gestión de Proyectos,3.0,Obligatoria,9,A,O
-D032,Práctica Supervisada Preprofesional,0.5,Obligatoria,1,,
-D032,Cursos electivos ciclo 9,6.0,Optativa,1,,
-D032,Proyecto de Fin de Carrera 2,2.0,Obligatoria,1,,
-D032,Proyecto de Implementación de Software,3.0,Obligatoria,16,A,S
-D032,Estrategia y Gestión de Sistemas de Información,3.5,Obligatoria,15,A,O
-D032,Cursos electivos ciclo 10,12.0,Optativa,1,,
-D033,Introducción al Cálculo,6.0,Obligatoria,18,T,
-D033,Introducción al Álgebra,6.0,Obligatoria,18,T,
-D033,Introducción a la Física Clásica,6.0,Obligatoria,18,T,
-D033,Herramientas Computacionales para Ingeniería y Ciencias,3.0,Obligatoria,1,,
-D033,Desafíos de Innovación en Ingeniería y Ciencias,6.0,Obligatoria,1,,
-D033,Aplicaciones de la Biología a la Ingeniería y Ciencias,3.0,Obligatoria,16,A,S
-D033,Cálculo Diferencial e Integral,6.0,Obligatoria,18,T,
-D033,Álgebra Lineal,6.0,Obligatoria,18,T,
-D033,Introducción a la Física Moderna,6.0,Obligatoria,18,T,
-D033,Introducción a la Programación,6.0,Obligatoria,16,A,S
-D033,Proyecto de Innovación en Ingeniería y Ciencias,3.0,Obligatoria,1,,
-D033,"Formación General, Humanistas, Idiomas y Deportes I",3.0,Obligatoria,1,,
-D033,Cálculo en Varias Variables,6.0,Obligatoria,18,T,
-D033,Ecuaciones Diferenciales Ordinarias,6.0,Obligatoria,18,T,
-D033,Métodos Experimentales,6.0,Obligatoria,18,T,
-D033,Mecánica,6.0,Obligatoria,18,T,
-D033,Química,6.0,Obligatoria,18,T,
-D033,Economía,6.0,Obligatoria,17,A,O
-D033,Cálculo Avanzado y Aplicaciones,6.0,Obligatoria,16,A,S
-D033,Electromagnetismo,6.0,Obligatoria,18,T,
-D033,Termodinámica,6.0,Obligatoria,18,T,
-D033,Módulo Interdisciplinario,3.0,Obligatoria,1,,
-D033,"Formación General, Humanistas, Idiomas y Deportes II",3.0,Obligatoria,1,,
-D033,Algoritmos y Estructuras de Datos,6.0,Obligatoria,14,T,S
-D033,Matemáticas Discretas para la Computación,6.0,Obligatoria,14,T,S
-D033,Modelación y Computación Gráfica para Ingenieros,6.0,Obligatoria,14,T,S
-D033,Probabilidades y Estadística,6.0,Obligatoria,18,T,
-D033,Metodologías de Diseño y Programación,6.0,Obligatoria,16,A,S
-D033,Teoría de la Computación,6.0,Obligatoria,14,T,S
-D033,Bases de Datos,6.0,Obligatoria,16,A,S
-D033,Programación de Software de Sistemas,6.0,Obligatoria,16,A,S
-D033,Electivo de Licenciatura 1,6.0,Optativa,1,,
-D033,Diseño y Análisis de Algoritmos,6.0,Obligatoria,14,T,S
-D033,Sistemas Operativos,6.0,Obligatoria,16,A,S
-D033,Ingeniería de Software,6.0,Obligatoria,16,A,S
-D033,Minería de Datos,6.0,Obligatoria,14,T,S
-D033,Electivo de Licenciatura 2,6.0,Optativa,1,,
-D033,Práctica Profesional I,7.0,Obligatoria,1,,
-D033,Lenguajes de Programación,6.0,Obligatoria,14,T,S
-D033,Redes,6.0,Obligatoria,16,A,S
-D033,"Formulación, Evaluación y Gestión de Proyectos",6.0,Obligatoria,9,A,O
-D033,Electivo de Licenciatura 3,6.0,Optativa,1,,
-D033,Electivo de Licenciatura 4,6.0,Optativa,1,,
-D033,Núcleo Gestión para Ingenieros,6.0,Obligatoria,17,A,O
-D033,Proyecto de Software,12.0,Obligatoria,1,,
-D033,Trabajo de Título,24.0,Obligatoria,1,,
-D034,Cálculo Diferencial,5.0,Obligatoria,18,T,
-D034,Desarrollo Sustentable,5.0,Obligatoria,1,,
-D034,Fundamentos de Investigación,4.0,Obligatoria,1,,
-D034,Fundamentos de Programación,5.0,Obligatoria,16,A,S
-D034,Matemáticas Discretas,5.0,Obligatoria,14,T,S
-D034,Taller de Ética,4.0,Obligatoria,1,,
-D034,Álgebra Lineal,5.0,Obligatoria,18,T,
-D034,Cálculo Integral,5.0,Obligatoria,18,T,
-D034,Probabilidad y Estadística,5.0,Obligatoria,18,T,
-D034,Programación Orientada a Objetos,5.0,Obligatoria,16,A,S
-D034,Química,4.0,Obligatoria,18,T,
-D034,Taller de Administración,4.0,Obligatoria,17,A,O
-D034,Cálculo Vectorial,5.0,Obligatoria,18,T,
-D034,Contabilidad Financiera,4.0,Obligatoria,17,A,O
-D034,Estructura de Datos,5.0,Obligatoria,14,T,S
-D034,Física General,5.0,Obligatoria,18,T,
-D034,Investigación de Operaciones,4.0,Obligatoria,18,T,
-D034,Sistemas Operativos,4.0,Obligatoria,16,A,S
-D034,Ecuaciones Diferenciales,5.0,Obligatoria,18,T,
-D034,Fundamentos de Bases de Datos,5.0,Obligatoria,16,A,S
-D034,Métodos Numéricos,4.0,Obligatoria,18,T,
-D034,Principios Eléctricos y Aplicaciones Digitales,5.0,Obligatoria,16,A,S
-D034,Taller de Sistemas Operativos,4.0,Obligatoria,16,A,S
-D034,Tópicos Avanzados de Programación,5.0,Obligatoria,16,A,S
-D034,Arquitectura de Computadoras,5.0,Obligatoria,7,T,H
-D034,Fundamentos de Ingeniería de Software,4.0,Obligatoria,16,A,S
-D034,Fundamentos de Telecomunicaciones,4.0,Obligatoria,3,T,H
-D034,Graficación,4.0,Obligatoria,14,T,S
-D034,Simulación,5.0,Obligatoria,18,T,
-D034,Taller de Bases de Datos,4.0,Obligatoria,16,A,S
-D034,Administración de Bases de Datos,5.0,Obligatoria,16,A,S
-D034,Cultura Empresarial,4.0,Obligatoria,1,,
-D034,Ingeniería de Software,5.0,Obligatoria,16,A,S
-D034,Lenguajes de Interfaz,4.0,Obligatoria,4,A,H
-D034,Lenguajes y Autómatas I,5.0,Obligatoria,14,T,S
-D034,Redes de Computadoras,5.0,Obligatoria,16,A,S
-D034,Conmutación y Enrutamiento de Redes de Datos,5.0,Obligatoria,3,T,H
-D034,Gestión de Proyectos de Software,6.0,Obligatoria,9,A,O
-D034,Lenguajes y Autómatas II,5.0,Obligatoria,14,T,S
-D034,Programación Lógica y Funcional,4.0,Obligatoria,14,T,S
-D034,Programación Web,5.0,Obligatoria,16,A,S
-D034,Taller de Investigación I,4.0,Obligatoria,1,,
-D034,Taller de Investigación II,4.0,Obligatoria,1,,
-D034,Asignaturas de Especialidad,25.0,Obligatoria,1,,
-D034,Residencia Profesional,10.0,Obligatoria,1,,
-D035,Matemática A,6.0,Obligatoria,18,T,
-D035,Programación I,6.0,Obligatoria,16,A,S
-D035,Química,4.0,Obligatoria,18,T,
-D035,Matemática B,6.0,Obligatoria,18,T,
-D035,Programación II,6.0,Obligatoria,16,A,S
-D035,Sistemas de Representación C,4.0,Obligatoria,1,,
-D035,Física I,6.0,Obligatoria,18,T,
-D035,Programación III,6.0,Obligatoria,16,A,S
-D035,Taller de Lenguaje I,4.0,Obligatoria,16,A,S
-D035,Conceptos de Arquitectura de Computadoras,6.0,Obligatoria,7,T,H
-D035,Matemática C,6.0,Obligatoria,18,T,
-D035,Física II,6.0,Obligatoria,18,T,
-D035,Conceptos de Sistemas Operativos,6.0,Obligatoria,16,A,S
-D035,Taller de Lenguajes II,4.0,Obligatoria,16,A,S
-D035,Probabilidades,4.0,Obligatoria,18,T,
-D035,Matemática D1,6.0,Obligatoria,18,T,
-D035,Electrotecnia y Electrónica,6.0,Obligatoria,3,T,H
-D035,Conceptos de Bases de Datos,6.0,Obligatoria,16,A,S
-D035,Introducción al Diseño Lógico,6.0,Obligatoria,4,A,H
-D035,Estadística,4.0,Obligatoria,18,T,
-D035,Introducción al Procesamiento de Señales,6.0,Obligatoria,3,T,H
-D035,Taller de Arquitectura,6.0,Obligatoria,7,T,H
-D035,Ingeniería de Software,6.0,Obligatoria,16,A,S
-D035,Redes de Datos 1,6.0,Obligatoria,16,A,S
-D035,Concurrencia y Paralelismo,6.0,Obligatoria,16,A,S
-D035,Instrumentación y Control,6.0,Obligatoria,4,A,H
-D035,Bases de Datos,6.0,Obligatoria,16,A,S
-D035,Circuitos Digitales y Microcontroladores,6.0,Obligatoria,4,A,H
-D035,Economía y Emprendedorismo,4.0,Obligatoria,1,,
-D035,Redes de Datos II,6.0,Obligatoria,16,A,S
-D035,Sistemas de Tiempo Real,6.0,Obligatoria,16,A,S
-D035,Taller de Proyecto I,6.0,Obligatoria,1,,
-D035,Sistemas Distribuidos y Paralelos,6.0,Obligatoria,16,A,S
-D035,Aspectos Legales de Ingeniería Informática,4.0,Obligatoria,17,A,O
-D035,Taller de Proyecto II,6.0,Obligatoria,1,,
-D035,Práctica Profesional Supervisada,10.0,Obligatoria,1,,
-D036,Introducción a la Computación,4.0,Obligatoria,14,T,S
-D036,Introducción a la Matemática para Computación,4.0,Obligatoria,18,T,
-D036,Estrategias de Lectura en Inglés I,4.0,Obligatoria,1,,
-D036,Curso Integrado de Humanidades I,6.0,Obligatoria,1,,
-D036,Estructuras Discretas,4.0,Obligatoria,14,T,S
-D036,Programación I,4.0,Obligatoria,16,A,S
-D036,Cálculo para Computación I,4.0,Obligatoria,18,T,
-D036,Curso Integrado de Humanidades II,6.0,Obligatoria,1,,
-D036,Programación II,4.0,Obligatoria,16,A,S
-D036,Fundamentos de Arquitectura,4.0,Obligatoria,7,T,H
-D036,Álgebra Lineal para Computación,4.0,Obligatoria,18,T,
-D036,Cálculo para Computación II,4.0,Obligatoria,18,T,
-D036,Seminario de Realidad Nacional I,2.0,Obligatoria,1,,
-D036,Análisis de Algoritmos y Estructuras de Datos,4.0,Obligatoria,14,T,S
-D036,Probabilidad y Estadística para Computación,4.0,Obligatoria,18,T,
-D036,Programación Paralela y Concurrente,4.0,Obligatoria,14,T,S
-D036,Lenguajes Ensambladores y Sistemas Operativos,4.0,Obligatoria,4,A,H
-D036,Seminario de Realidad Nacional II,2.0,Obligatoria,1,,
-D036,Bases de Datos,4.0,Obligatoria,16,A,S
-D036,Redes y Comunicaciones de Datos,4.0,Obligatoria,16,A,S
-D036,Ingeniería del Software I,4.0,Obligatoria,16,A,S
-D036,Autómatas y Compiladores,4.0,Obligatoria,14,T,S
-D036,Inteligencia Artificial,4.0,Obligatoria,14,T,S
-D036,Ingeniería del Software II,4.0,Obligatoria,16,A,S
-D036,Gestión de Proyectos de Tecnologías de Información,4.0,Obligatoria,9,A,O
-D036,Ciberseguridad,4.0,Obligatoria,11,A,S
-D036,Ética y Ejercicio Profesional,2.0,Obligatoria,1,,
-D036,Proyecto de Graduación,6.0,Obligatoria,1,,
-D037,Algoritmos y Resolución de Problemas,3.0,Obligatoria,14,T,S
-D037,Fundamentos Matemáticos,3.0,Obligatoria,18,T,
-D037,Fundamentos de Tecnologías de la Información,3.0,Obligatoria,16,A,S
-D037,Metodología de la Investigación y Técnicas de Estudio,2.0,Obligatoria,1,,
-D037,Computación y Sociedad,2.0,Obligatoria,15,A,O
-D037,"Humanismo, Universidad y Cultura",2.0,Obligatoria,1,,
-D037,Álgebra Lineal,3.0,Obligatoria,18,T,
-D037,Cálculo Diferencial,3.0,Obligatoria,18,T,
-D037,Fundamentos de Hardware,3.0,Obligatoria,3,T,H
-D037,Computación Ubicua,3.0,Obligatoria,14,T,S
-D037,Antropología Básica,2.0,Obligatoria,1,,
-D037,Fundamentos de Programación,3.0,Obligatoria,16,A,S
-D037,Cálculo Integral,3.0,Obligatoria,18,T,
-D037,Estructuras Discretas,3.0,Obligatoria,14,T,S
-D037,Arquitectura de Computadores y Sistemas Operativos,3.0,Obligatoria,7,T,H
-D037,Programación Orientada a Objetos,3.0,Obligatoria,16,A,S
-D037,Estructuras de Datos,3.0,Obligatoria,14,T,S
-D037,Ética y Moral,2.0,Obligatoria,1,,
-D037,Tecnologías Web,3.0,Obligatoria,16,A,S
-D037,Fundamentos de Base de Datos,3.0,Obligatoria,16,A,S
-D037,Modelado de Sistemas,3.0,Obligatoria,16,A,S
-D037,Estadística para las Ingenierías y la Arquitectura,3.0,Obligatoria,18,T,
-D037,Comunicación de Datos,3.0,Obligatoria,16,A,S
-D037,Fundamentos de Interacción Humano-Computador,3.0,Obligatoria,10,A,O
-D037,Desarrollo Web,3.0,Obligatoria,16,A,S
-D037,Administración de Bases de Datos,3.0,Obligatoria,16,A,S
-D037,Fundamentos de Ingeniería de Software,3.0,Obligatoria,16,A,S
-D037,Redes de Dispositivos,3.0,Obligatoria,16,A,S
-D037,Planificación Estratégica y Sistemas de Calidad Empresarial,3.0,Obligatoria,16,A,S
-D037,Metodologías de Desarrollo,3.0,Obligatoria,16,A,S
-D037,Gestión de la Calidad de Software,3.0,Obligatoria,16,A,S
-D037,Ingeniería de Requisitos,3.0,Obligatoria,16,A,S
-D037,Arquitectura de Redes,3.0,Obligatoria,16,A,S
-D037,Arquitectura de Software,3.0,Obligatoria,6,A,S
-D037,Arquitectura Empresarial,3.0,Obligatoria,5,A,O
-D037,Gestión de Proyectos,3.0,Obligatoria,9,A,O
-D037,Fundamentos y Aplicación de Seguridad de la Información,3.0,Obligatoria,11,A,S
-D037,Sistemas Distribuidos,3.0,Obligatoria,16,A,S
-D037,Aplicación de Matemáticas y Estadística en Tecnologías de la Información,3.0,Obligatoria,18,T,
-D037,Organización y Administración de Infraestructura de Tecnologías de la Información,3.0,Obligatoria,17,A,O
-D037,Gobernanza de Tecnologías de la Información,3.0,Obligatoria,5,A,O
-D037,Evaluación de la Seguridad en Sistemas de Tecnologías de la Información,3.0,Obligatoria,11,A,S
-D037,Proyectos de Tecnologías de la Información,3.0,Obligatoria,9,A,O
-D037,Emprendimiento,2.0,Obligatoria,1,,
-D037,Prácticum,12.0,Obligatoria,1,,
-D038,Intro. a la Ing. en Sistemas Comp.,4.0,Obligatoria,1,,
-D038,Español General,4.0,Obligatoria,1,,
-D038,Matemática I,5.0,Obligatoria,18,T,
-D038,Sociología,4.0,Obligatoria,1,,
-D038,Inglés I,4.0,Obligatoria,1,,
-D038,Programación Estructurada,4.0,Obligatoria,16,A,S
-D038,Filosofía,4.0,Obligatoria,1,,
-D038,Geometría y Trigonometría,5.0,Obligatoria,18,T,
-D038,Inglés II,4.0,Obligatoria,1,,
-D038,Programación Orientada a Objetos,5.0,Obligatoria,16,A,S
-D038,Cálculo I,5.0,Obligatoria,18,T,
-D038,Vectores y Matrices,3.0,Obligatoria,18,T,
-D038,Inglés III,4.0,Obligatoria,1,,
-D038,Matemática Discreta,4.0,Obligatoria,14,T,S
-D038,Cálculo II,5.0,Obligatoria,18,T,
-D038,Física I,5.0,Obligatoria,18,T,
-D038,Historia de Honduras,4.0,Obligatoria,1,,
-D038,Paradigmas de Programación,4.0,Obligatoria,14,T,S
-D038,Estadística,3.0,Obligatoria,18,T,
-D038,Física II,5.0,Obligatoria,18,T,
-D038,Estructuras de Datos,4.0,Obligatoria,14,T,S
-D038,Administración,4.0,Obligatoria,17,A,O
-D038,Instalaciones Eléctricas para Centros de Datos,4.0,Obligatoria,4,A,H
-D038,Fundamentos de Base de Datos,5.0,Obligatoria,16,A,S
-D038,Contabilidad Financiera,4.0,Obligatoria,17,A,O
-D038,Redes de Datos I,4.0,Obligatoria,16,A,S
-D038,Sistemas Operativos I,4.0,Obligatoria,16,A,S
-D038,Teoría de la Computación,4.0,Obligatoria,14,T,S
-D038,Sistemas de Información,4.0,Obligatoria,15,A,O
-D038,Redes de Datos II,4.0,Obligatoria,16,A,S
-D038,Sistemas Operativos II,4.0,Obligatoria,16,A,S
-D038,Programación Web,5.0,Obligatoria,16,A,S
-D038,Compiladores,4.0,Obligatoria,14,T,S
-D038,Análisis de Requerimientos,4.0,Obligatoria,16,A,S
-D038,Diseño Digital,4.0,Obligatoria,4,A,H
-D038,Programación Móvil,5.0,Obligatoria,16,A,S
-D038,Inteligencia Artificial,4.0,Obligatoria,14,T,S
-D038,Administración de Servidores,4.0,Obligatoria,16,A,S
-D038,Arquitectura de Computadoras,4.0,Obligatoria,7,T,H
-D038,Ingeniería de Software,4.0,Obligatoria,16,A,S
-D038,Administración de Bases de Datos,4.0,Obligatoria,16,A,S
-D038,Seguridad Informática,4.0,Obligatoria,11,A,S
-D038,Industria de TI,4.0,Obligatoria,15,A,O
-D038,Calidad de Software,4.0,Obligatoria,16,A,S
-D038,Ciencia de Datos,4.0,Obligatoria,14,T,S
-D038,Tecnologías Emergentes,4.0,Obligatoria,1,,
-D038,Proyectos de TI,4.0,Obligatoria,9,A,O
-D038,Auditoría Informática,4.0,Obligatoria,17,A,O
-D038,Ejecución de Proyectos de TI,4.0,Obligatoria,9,A,O
-D038,Práctica Profesional Supervisada,10.0,Obligatoria,1,,
-D039,Introducción a la Ingeniería de Sistemas,3.0,Obligatoria,1,,
-D039,Introducción a la Programación,3.0,Obligatoria,16,A,S
-D039,Fundamentos Matemáticos para Computación,3.0,Obligatoria,18,T,
-D039,Precálculo y Cálculo Diferencial,3.0,Obligatoria,18,T,
-D039,Física I,3.0,Obligatoria,18,T,
-D039,Cálculo Integral y Ecuaciones Diferenciales,3.0,Obligatoria,18,T,
-D039,Probabilidad y Estadística,3.0,Obligatoria,18,T,
-D039,Estructuras de Datos y Algoritmos,3.0,Obligatoria,14,T,S
-D039,Diseño y Programación Orientada a Objetos,3.0,Obligatoria,16,A,S
-D039,Lenguajes y Máquinas,3.0,Obligatoria,14,T,S
-D039,Fundamentos de Infraestructura Tecnológica,3.0,Obligatoria,14,T,S
-D039,Desarrollo de Software en Equipo,3.0,Obligatoria,16,A,S
-D039,Sistemas Operativos,3.0,Obligatoria,16,A,S
-D039,Redes de Computadores,3.0,Obligatoria,16,A,S
-D039,Bases de Datos,3.0,Obligatoria,16,A,S
-D039,Arquitectura y Diseño de Software,3.0,Obligatoria,16,A,S
-D039,"Modelado, Simulación y Optimización",3.0,Obligatoria,18,T,
-D039,Sistemas Empresariales,3.0,Obligatoria,17,A,O
-D039,Inteligencia Artificial,3.0,Obligatoria,14,T,S
-D039,Ciberseguridad,3.0,Obligatoria,11,A,S
-D039,Computación Visual,3.0,Obligatoria,14,T,S
-D039,Gerencia y Gestión de Proyectos de TI,3.0,Obligatoria,9,A,O
-D039,Electivas de profundización,18.0,Optativa,1,,
-D039,Proyecto de Grado,6.0,Obligatoria,1,,
-D040,Fundamentos de Programación,3.0,Obligatoria,16,A,S
-D040,Matemáticas Discretas,3.0,Obligatoria,14,T,S
-D040,Cálculo Diferencial,3.0,Obligatoria,18,T,
-D040,Álgebra Lineal,3.0,Obligatoria,18,T,
-D040,Habilidades de Comunicación,2.0,Obligatoria,1,,
-D040,Estructuras de Datos y Algoritmos,3.0,Obligatoria,14,T,S
-D040,Programación Orientada a Objetos,3.0,Obligatoria,16,A,S
-D040,Cálculo Integral,3.0,Obligatoria,18,T,
-D040,Física Mecánica,3.0,Obligatoria,18,T,
-D040,Arquitectura de Computadores,3.0,Obligatoria,7,T,H
-D040,Sistemas Operativos,3.0,Obligatoria,16,A,S
-D040,Bases de Datos,3.0,Obligatoria,16,A,S
-D040,Cálculo en Varias Variables,3.0,Obligatoria,18,T,
-D040,Probabilidad y Estadística,3.0,Obligatoria,18,T,
-D040,Redes y Comunicaciones,3.0,Obligatoria,16,A,S
-D040,Ingeniería de Software,3.0,Obligatoria,16,A,S
-D040,Diseño de Experiencia de Usuario,3.0,Obligatoria,10,A,O
-D040,Análisis y Diseño de Algoritmos,3.0,Obligatoria,14,T,S
-D040,Física de Electricidad y Magnetismo,3.0,Obligatoria,18,T,
-D040,Modelación y Simulación,3.0,Obligatoria,18,T,
-D040,Arquitectura de Software,3.0,Obligatoria,6,A,S
-D040,Inteligencia Artificial,3.0,Obligatoria,14,T,S
-D040,Ciberseguridad,3.0,Obligatoria,11,A,S
-D040,Gestión de Proyectos de TI,3.0,Obligatoria,9,A,O
-D040,Gestión Estratégica de TI,3.0,Obligatoria,17,A,O
-D040,Proyecto Integrador 1,3.0,Obligatoria,1,,
-D040,Sistemas Distribuidos,3.0,Obligatoria,16,A,S
-D040,Calidad y Pruebas de Software,3.0,Obligatoria,16,A,S
-D040,Proyecto Integrador 2,3.0,Obligatoria,1,,
-D040,Práctica Profesional,6.0,Obligatoria,1,,
-D041,Pensamiento Computacional,6.0,Obligatoria,12,T,
-D041,Análisis Matemático A,9.0,Obligatoria,18,T,
-D041,Álgebra A,9.0,Obligatoria,18,T,
-D041,Física A,6.0,Obligatoria,18,T,
-D041,Introducción al Conocimiento de la Sociedad y el Estado,4.0,Obligatoria,1,,
-D041,Introducción al Pensamiento Científico,4.0,Obligatoria,1,,
-D041,Algoritmos y Estructuras de Datos,6.0,Obligatoria,14,T,S
-D041,Introducción al Desarrollo de Software,6.0,Obligatoria,16,A,S
-D041,Álgebra Lineal Computacional,6.0,Obligatoria,18,T,
-D041,Análisis Matemático II,8.0,Obligatoria,18,T,
-D041,Organización del Computador,6.0,Obligatoria,7,T,H
-D041,Probabilidad y Estadística,6.0,Obligatoria,18,T,
-D041,Física de los Sistemas de Información,6.0,Obligatoria,15,A,O
-D041,Paradigmas de Programación,6.0,Obligatoria,14,T,S
-D041,Teoría de Algoritmos,6.0,Obligatoria,14,T,S
-D041,Redes de Computadoras,6.0,Obligatoria,16,A,S
-D041,Matemática Discreta,6.0,Obligatoria,14,T,S
-D041,Taller de Programación,8.0,Obligatoria,16,A,S
-D041,Ingeniería de Software,8.0,Obligatoria,16,A,S
-D041,Arquitectura del Software,6.0,Obligatoria,16,A,S
-D041,Legislación y Ejercicio Profesional,4.0,Obligatoria,17,A,O
-D041,Sistemas Operativos,8.0,Obligatoria,16,A,S
-D041,Base de Datos,8.0,Obligatoria,16,A,S
-D041,Ciencia de Datos,8.0,Obligatoria,14,T,S
-D041,Modelación y Optimización,6.0,Obligatoria,18,T,
-D041,Seguridad en Sistemas y Redes,6.0,Obligatoria,11,A,S
-D041,Gestión de Proyectos de Software,6.0,Obligatoria,9,A,O
-D041,Trabajo Profesional de Grado,14.0,Obligatoria,1,,
-D042,Introducción a la Programación,10.0,Obligatoria,16,A,S
-D042,Cálculo I,10.0,Obligatoria,18,T,
-D042,Álgebra Lineal,10.0,Obligatoria,18,T,
-D042,Mecánica y Termodinámica,10.0,Obligatoria,18,T,
-D042,Desafíos de la Ingeniería,10.0,Obligatoria,1,,
-D042,Programación Avanzada,10.0,Obligatoria,16,A,S
-D042,Cálculo II,10.0,Obligatoria,18,T,
-D042,Electricidad y Magnetismo,10.0,Obligatoria,18,T,
-D042,Química para Ingeniería,10.0,Obligatoria,18,T,
-D042,Matemáticas Discretas,10.0,Obligatoria,14,T,S
-D042,Estructuras de Datos y Algoritmos,10.0,Obligatoria,14,T,S
-D042,Ecuaciones Diferenciales,10.0,Obligatoria,18,T,
-D042,Probabilidad y Estadística,10.0,Obligatoria,18,T,
-D042,Arquitectura de Sistemas y Computadores,10.0,Obligatoria,7,T,H
-D042,Sistemas Operativos y Redes,10.0,Obligatoria,16,A,S
-D042,Bases de Datos,10.0,Obligatoria,16,A,S
-D042,Ingeniería de Software,10.0,Obligatoria,16,A,S
-D042,Inteligencia Artificial,10.0,Obligatoria,14,T,S
-D042,Optimización y Modelación,10.0,Obligatoria,18,T,
-D042,Teoría de Autómatas y Lenguajes Formales,10.0,Obligatoria,14,T,S
-D042,Sistemas Distribuidos,10.0,Obligatoria,16,A,S
-D042,Ciberseguridad,10.0,Obligatoria,11,A,S
-D042,Gestión de Proyectos de TI,10.0,Obligatoria,9,A,O
-D042,Ética para Ingeniería,10.0,Obligatoria,1,,
-D042,Proyecto de Software Capstone,20.0,Obligatoria,1,,
-D043,Introducción al Cálculo,11.0,Obligatoria,18,T,
-D043,Introducción a la Física,9.0,Obligatoria,18,T,
-D043,Programación Estructurada,9.0,Obligatoria,16,A,S
-D043,Cálculo Diferencial,9.0,Obligatoria,18,T,
-D043,Mecánica y Dinámica de Partículas,9.0,Obligatoria,18,T,
-D043,Introducción al Álgebra Lineal,9.0,Obligatoria,18,T,
-D043,Cálculo Integral,9.0,Obligatoria,18,T,
-D043,Dinámica del Cuerpo Rígido,9.0,Obligatoria,18,T,
-D043,Estructuras de Datos,9.0,Obligatoria,14,T,S
-D043,Ecuaciones Diferenciales Ordinarias,9.0,Obligatoria,18,T,
-D043,Introducción a la Electrostática y Magnetostática,9.0,Obligatoria,18,T,
-D043,Métodos Numéricos en Ingeniería,9.0,Obligatoria,18,T,
-D043,Programación Orientada a Objetos,9.0,Obligatoria,16,A,S
-D043,Probabilidad y Estadística,9.0,Obligatoria,18,T,
-D043,Lógica,6.0,Obligatoria,14,T,S
-D043,Matemáticas Discretas,9.0,Obligatoria,14,T,S
-D043,Lenguajes y Autómatas,9.0,Obligatoria,14,T,S
-D043,Diseño Lógico,9.0,Obligatoria,4,A,H
-D043,Laboratorio de Diseño Lógico,4.0,Obligatoria,4,A,H
-D043,Arquitectura de Computadoras,9.0,Obligatoria,7,T,H
-D043,Fundamentos de Redes de Computadoras,9.0,Obligatoria,16,A,S
-D043,Sistemas Operativos,9.0,Obligatoria,16,A,S
-D043,Microprocesadores,9.0,Obligatoria,4,A,H
-D043,Laboratorio de Sistemas Digitales con Microprocesadores,4.0,Obligatoria,4,A,H
-D043,Bases de Datos,9.0,Obligatoria,16,A,S
-D043,Ingeniería de Software,9.0,Obligatoria,16,A,S
-D043,Diseño y Administración de Redes de Computadoras,12.0,Obligatoria,16,A,S
-D043,Microelectrónica,9.0,Obligatoria,3,T,H
-D043,Inteligencia Artificial,9.0,Obligatoria,14,T,S
-D043,Seguridad en Redes de Computadoras,9.0,Obligatoria,11,A,S
-D043,Proyecto Terminal I,12.0,Obligatoria,1,,
-D043,Proyecto Terminal II,12.0,Obligatoria,1,,
-D044,Fundamentos de Programación,8.0,Obligatoria,16,A,S
-D044,Programación Estructurada,10.0,Obligatoria,16,A,S
-D044,Lógica Matemática,8.0,Obligatoria,14,T,S
-D044,Matemáticas Discretas,8.0,Obligatoria,14,T,S
-D044,Precálculo,8.0,Obligatoria,18,T,
-D044,Cálculo Diferencial e Integral,9.0,Obligatoria,18,T,
-D044,Fundamentos de Física,8.0,Obligatoria,18,T,
-D044,Mecánica de la Partícula,8.0,Obligatoria,18,T,
-D044,Introducción a la Ingeniería,8.0,Obligatoria,1,,
-D044,Ética y Legislación,8.0,Obligatoria,1,,
-D044,Álgebra Lineal,8.0,Obligatoria,18,T,
-D044,Estructuras de Datos,9.0,Obligatoria,14,T,S
-D044,Programación Orientada a Objetos,9.0,Obligatoria,16,A,S
-D044,Electricidad y Magnetismo,8.0,Obligatoria,18,T,
-D044,Ecuaciones Diferenciales,8.0,Obligatoria,18,T,
-D044,Métodos Numéricos,8.0,Obligatoria,18,T,
-D044,Circuitos Lógicos,9.0,Obligatoria,4,A,H
-D044,Arquitectura de Computadoras,9.0,Obligatoria,7,T,H
-D044,Sistemas Operativos,9.0,Obligatoria,16,A,S
-D044,Bases de Datos,9.0,Obligatoria,16,A,S
-D044,Redes de Computadoras,9.0,Obligatoria,16,A,S
-D044,Ingeniería de Software,9.0,Obligatoria,16,A,S
-D044,Taller de Sistemas Operativos,7.0,Obligatoria,16,A,S
-D044,Lenguajes de Interfaz y Ensamblador,8.0,Obligatoria,4,A,H
-D044,Compiladores,9.0,Obligatoria,14,T,S
-D044,Administración de Redes,8.0,Obligatoria,16,A,S
-D044,Seguridad en Cómputo,8.0,Obligatoria,11,A,S
-D044,Inteligencia Artificial,9.0,Obligatoria,14,T,S
-D044,Sistemas Distribuidos,9.0,Obligatoria,16,A,S
-D044,Administración de Proyectos Tecnológicos,8.0,Obligatoria,9,A,O
-D044,Proyecto Modular,14.0,Obligatoria,1,,
-D045,Fundamentos de Programación,3.0,Obligatoria,16,A,S
-D045,Modelación Matemática Fundamental,3.0,Obligatoria,18,T,
-D045,Análisis de la Biología Computacional,3.0,Obligatoria,18,T,
-D045,Fundamentos de la Estructura de la Materia,3.0,Obligatoria,18,T,
-D045,Pensamiento Computacional para Ingeniería,3.0,Obligatoria,12,T,
-D045,Programación Orientada a Objetos,3.0,Obligatoria,16,A,S
-D045,Modelación Computacional del Movimiento,3.0,Obligatoria,18,T,
-D045,Análisis de Sistemas Eléctricos,3.0,Obligatoria,3,T,H
-D045,Estructuras de Datos y Algoritmos Fundamentales,3.0,Obligatoria,14,T,S
-D045,Análisis y Diseño de Algoritmos Avanzados,3.0,Obligatoria,14,T,S
-D045,Matemáticas Computacionales y Discretas,3.0,Obligatoria,18,T,
-D045,Organización y Arquitectura de Computadoras,3.0,Obligatoria,7,T,H
-D045,Fundamentos de Redes y Telecomunicaciones,3.0,Obligatoria,3,T,H
-D045,Implementación de Métodos Computacionales,3.0,Obligatoria,16,A,S
-D045,Sistemas Operativos,3.0,Obligatoria,16,A,S
-D045,Bases de Datos,3.0,Obligatoria,16,A,S
-D045,Calidad y Pruebas de Software,3.0,Obligatoria,16,A,S
-D045,Desarrollo de Aplicaciones Web y Móviles,3.0,Obligatoria,16,A,S
-D045,Seguridad de la Información,3.0,Obligatoria,11,A,S
-D045,Computación en la Nube y Sistemas Distribuidos,3.0,Obligatoria,16,A,S
-D045,Inteligencia Artificial y Aprendizaje Automático,3.0,Obligatoria,14,T,S
-D045,Ingeniería de Software Concurrente,3.0,Obligatoria,16,A,S
-D045,Formulación y Gestión de Proyectos de Software,3.0,Obligatoria,9,A,O
-D045,"Ética, Liderazgo y Sostenibilidad",3.0,Obligatoria,1,,
-D045,Proyecto Integrador de Tecnologías Computacionales,6.0,Obligatoria,1,,
+ID,Periodo,Asignatura,Peso,Unidad,Condicion_Original,Condicion_Normalizada,Polo_X,Polo_Y,wT,wA,wH,wS,wO,Dominio_Principal,Regla_ID,Categoria_Codebook,Es_Hibrida,Polo_X_Original,Polo_Y_Original,Regla_Original,Cambio_vs_Original
+D031,,Química,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Fundamentos de Programación,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D031,,Álgebra,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Cálculo y Geometría Analítica,12,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Fundamentos de Física,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Álgebra Lineal,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Mecánica,12,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Cálculo Integral,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Redacción y Exposición de Temas de Ingeniería,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D031,,Estructura de Datos y Algoritmos I,10,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D031,,Probabilidad,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Programación Orientada a Objetos,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D031,,Ecuaciones Diferenciales,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Cálculo Vectorial,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Estructura de Datos y Algoritmos II,10,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D031,,Cultura y Comunicación,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D031,,Electricidad y Magnetismo,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Matemáticas Avanzadas,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Análisis Numérico,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D031,,Estructuras Discretas,8,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D031,,Circuitos Eléctricos,8,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R10_HW_THEORY,"Hardware Teórico: Circuitos, Electrónica, Señales y Sistemas de Comunicaciones",False,T,H,3,False
+D031,,Dispositivos Electrónicos,10,créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D031,,Lenguajes Formales y Autómatas,8,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D031,,Ingeniería de Software,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D031,,Redes y Conectividad,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D031,,Bases de Datos,14,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D031,,Sistemas Operativos,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D031,,Diseño Digital Moderno,10,créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D031,,Microcomputadoras,8,créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D031,,Computación Gráfica e Interacción Humano-Computadora,10,créditos,Obligatoria,Obligatoria,T/A,S/O,0.5,0.5,0.0,0.5,0.5,CS,R06_HYB_GFX_HCI,Híbrida: Computación Gráfica + Interacción Humano-Computadora,True,A,O,10,True
+D031,,Introducción a la Economía,8,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D031,,Inteligencia Artificial,8,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D031,,Diseño Digital VLSI,8,créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D031,,Compiladores,8,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D031,,Finanzas en la Ingeniería en Computación,6,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D031,,Sistemas de Comunicaciones,8,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R10_HW_THEORY,"Hardware Teórico: Circuitos, Electrónica, Señales y Sistemas de Comunicaciones",False,T,H,3,False
+D031,,Redes de Datos Seguras,14,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D031,,Ética Profesional,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D031,,Optativa de Ciencias Sociales y Humanidades,6,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D031,,Sistemas Distribuidos,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D031,,Recursos y Necesidades de México,8,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D031,,Organización y Arquitectura de Computadoras,8,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D031,,Optativa del Campo de Profundización 1,8,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D031,,Asignaturas del Campo de Profundización,40,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D032,,Taller de Habilidades Interpersonales,1,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D032,,Empresa y su Entorno,2,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D032,,Programación 2,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D032,,Algoritmia y Estructura de Datos,3.5,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D032,,Fundamentos de Sistemas de Información,3.5,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R17_IS_INFO_SYS,Sistemas de Información Empresariales e Inteligencia de Negocios,False,A,O,15,False
+D032,,Base de Datos,3.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D032,,Ingeniería de Requisitos,3.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D032,,Contabilidad y Finanzas,2.5,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D032,,Arquitectura de Computadoras,3.5,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D032,,Probabilidad y Estadística,3.5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D032,,Sistemas Operativos,2.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D032,,Programación 3,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D032,,Arquitectura de Software,2.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,6,False
+D032,,Algoritmos Avanzados,2.5,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D032,,Experimentación Numérica,2,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D032,,Inteligencia Artificial,3.5,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D032,,Modelado y Automatización de Procesos Empresariales,3.5,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,H,4,True
+D032,,Administración de Sistemas Operativos,2.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D032,,Diseño de Software,2.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D032,,Ingeniería Económica,3.5,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D032,,Redes de Computadoras,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D032,,Formulación de Proyecto de Fin de Carrera,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D032,,Ética y RSU en Ingeniería Informática,2.5,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D032,,Ingeniería de Software,3.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D032,,Innovación y Emprendimiento con Tecnologías de Información,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,,,1,True
+D032,,Gobierno y Gestión de Tecnologías de Información,3.5,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,O,5,False
+D032,,Seguridad de Información,3.5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D032,,Sistemas de Información para los Negocios,3.5,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R17_IS_INFO_SYS,Sistemas de Información Empresariales e Inteligencia de Negocios,False,A,O,15,False
+D032,,Proyecto de Fin de Carrera 1,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D032,,Arquitectura Empresarial,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,O,5,False
+D032,,Implantación de Sistemas de Información,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R17_IS_INFO_SYS,Sistemas de Información Empresariales e Inteligencia de Negocios,False,A,O,15,False
+D032,,Proyecto de Diseño y Desarrollo de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D032,,Gestión de Proyectos,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D032,,Práctica Supervisada Preprofesional,0.5,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D032,,Cursos electivos ciclo 9,6,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D032,,Proyecto de Fin de Carrera 2,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D032,,Proyecto de Implementación de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D032,,Estrategia y Gestión de Sistemas de Información,3.5,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,O,15,False
+D032,,Cursos electivos ciclo 10,12,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D033,,Introducción al Cálculo,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Introducción al Álgebra,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Introducción a la Física Clásica,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Herramientas Computacionales para Ingeniería y Ciencias,3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R04_EXCL_INTRO_GEN,Introducciones generales a la carrera y herramientas ofimáticas,False,,,1,False
+D033,,Desafíos de Innovación en Ingeniería y Ciencias,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D033,,Aplicaciones de la Biología a la Ingeniería y Ciencias,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,A,S,16,True
+D033,,Cálculo Diferencial e Integral,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Álgebra Lineal,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Introducción a la Física Moderna,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Introducción a la Programación,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D033,,Proyecto de Innovación en Ingeniería y Ciencias,3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D033,,"Formación General, Humanistas, Idiomas y Deportes I",3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D033,,Cálculo en Varias Variables,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Ecuaciones Diferenciales Ordinarias,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Métodos Experimentales,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Mecánica,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Química,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Economía,6,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D033,,Cálculo Avanzado y Aplicaciones,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,A,S,16,True
+D033,,Electromagnetismo,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Termodinámica,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Módulo Interdisciplinario,3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D033,,"Formación General, Humanistas, Idiomas y Deportes II",3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D033,,Algoritmos y Estructuras de Datos,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D033,,Matemáticas Discretas para la Computación,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D033,,Modelación y Computación Gráfica para Ingenieros,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D033,,Probabilidades y Estadística,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D033,,Metodologías de Diseño y Programación,6,créditos,Obligatoria,Obligatoria,T/A,S,0.5,0.5,0.0,1.0,0.0,CS,R22_SE_INTRO_PROG,Algoritmos y Programación Inicial / Metodología de la Programación,True,A,S,16,True
+D033,,Teoría de la Computación,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D033,,Bases de Datos,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D033,,Programación de Software de Sistemas,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D033,,Electivo de Licenciatura 1,6,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D033,,Diseño y Análisis de Algoritmos,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D033,,Sistemas Operativos,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D033,,Ingeniería de Software,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D033,,Minería de Datos,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D033,,Electivo de Licenciatura 2,6,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D033,,Práctica Profesional I,7,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D033,,Lenguajes de Programación,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,T,S,14,True
+D033,,Redes,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D033,,"Formulación, Evaluación y Gestión de Proyectos",6,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D033,,Electivo de Licenciatura 3,6,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D033,,Electivo de Licenciatura 4,6,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D033,,Núcleo Gestión para Ingenieros,6,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D033,,Proyecto de Software,12,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,,,1,True
+D033,,Trabajo de Título,24,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D034,,Cálculo Diferencial,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Desarrollo Sustentable,5,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D034,,Fundamentos de Investigación,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D034,,Fundamentos de Programación,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D034,,Matemáticas Discretas,5,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D034,,Taller de Ética,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D034,,Álgebra Lineal,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Cálculo Integral,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Probabilidad y Estadística,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Programación Orientada a Objetos,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D034,,Química,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Taller de Administración,4,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D034,,Cálculo Vectorial,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Contabilidad Financiera,4,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D034,,Estructura de Datos,5,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D034,,Física General,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Investigación de Operaciones,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Sistemas Operativos,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D034,,Ecuaciones Diferenciales,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Fundamentos de Bases de Datos,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D034,,Métodos Numéricos,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Principios Eléctricos y Aplicaciones Digitales,5,créditos,Obligatoria,Obligatoria,T/A,H,0.5,0.5,1.0,0.0,0.0,CE,R08_HYB_ELEC_DIG,Híbrida: Principios Físicos/Arquitectura + Diseño Digital/Assembly,True,A,S,16,True
+D034,,Taller de Sistemas Operativos,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D034,,Tópicos Avanzados de Programación,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D034,,Arquitectura de Computadoras,5,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D034,,Fundamentos de Ingeniería de Software,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D034,,Fundamentos de Telecomunicaciones,4,créditos,Obligatoria,Obligatoria,T/A,H/S,0.5,0.5,0.5,0.5,0.0,CE,R09_HYB_TELECOM,Híbrida: Fundamentos de Telecomunicaciones y Transmisión de Datos,True,T,H,3,True
+D034,,Graficación,4,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D034,,Simulación,5,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D034,,Taller de Bases de Datos,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D034,,Administración de Bases de Datos,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D034,,Cultura Empresarial,4,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,,,1,True
+D034,,Ingeniería de Software,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D034,,Lenguajes de Interfaz,4,créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D034,,Lenguajes y Autómatas I,5,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D034,,Redes de Computadoras,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D034,,Conmutación y Enrutamiento de Redes de Datos,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,T,H,3,True
+D034,,Gestión de Proyectos de Software,6,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D034,,Lenguajes y Autómatas II,5,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D034,,Programación Lógica y Funcional,4,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D034,,Programación Web,5,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D034,,Taller de Investigación I,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D034,,Taller de Investigación II,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D034,,Asignaturas de Especialidad,25,créditos,Obligatoria,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D034,,Residencia Profesional,10,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D035,,Matemática A,6,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Programación I,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D035,,Química,4,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Matemática B,6,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Programación II,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D035,,Sistemas de Representación C,4,horas/créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R04_EXCL_INTRO_GEN,Introducciones generales a la carrera y herramientas ofimáticas,False,,,1,False
+D035,,Física I,6,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Programación III,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D035,,Taller de Lenguaje I,4,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D035,,Conceptos de Arquitectura de Computadoras,6,horas/créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D035,,Matemática C,6,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Física II,6,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Conceptos de Sistemas Operativos,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D035,,Taller de Lenguajes II,4,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D035,,Probabilidades,4,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Matemática D1,6,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Electrotecnia y Electrónica,6,horas/créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R10_HW_THEORY,"Hardware Teórico: Circuitos, Electrónica, Señales y Sistemas de Comunicaciones",False,T,H,3,False
+D035,,Conceptos de Bases de Datos,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D035,,Introducción al Diseño Lógico,6,horas/créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D035,,Estadística,4,horas/créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D035,,Introducción al Procesamiento de Señales,6,horas/créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R10_HW_THEORY,"Hardware Teórico: Circuitos, Electrónica, Señales y Sistemas de Comunicaciones",False,T,H,3,False
+D035,,Taller de Arquitectura,6,horas/créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D035,,Ingeniería de Software,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D035,,Redes de Datos 1,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D035,,Concurrencia y Paralelismo,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D035,,Instrumentación y Control,6,horas/créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D035,,Bases de Datos,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D035,,Circuitos Digitales y Microcontroladores,6,horas/créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D035,,Economía y Emprendedorismo,4,horas/créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,,,1,True
+D035,,Redes de Datos II,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D035,,Sistemas de Tiempo Real,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D035,,Taller de Proyecto I,6,horas/créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D035,,Sistemas Distribuidos y Paralelos,6,horas/créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D035,,Aspectos Legales de Ingeniería Informática,4,horas/créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D035,,Taller de Proyecto II,6,horas/créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D035,,Práctica Profesional Supervisada,10,horas/créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D036,,Introducción a la Computación,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R04_EXCL_INTRO_GEN,Introducciones generales a la carrera y herramientas ofimáticas,False,T,S,14,True
+D036,,Introducción a la Matemática para Computación,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D036,,Estrategias de Lectura en Inglés I,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D036,,Curso Integrado de Humanidades I,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D036,,Estructuras Discretas,4,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D036,,Programación I,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D036,,Cálculo para Computación I,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D036,,Curso Integrado de Humanidades II,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D036,,Programación II,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D036,,Fundamentos de Arquitectura,4,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D036,,Álgebra Lineal para Computación,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D036,,Cálculo para Computación II,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D036,,Seminario de Realidad Nacional I,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D036,,Análisis de Algoritmos y Estructuras de Datos,4,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D036,,Probabilidad y Estadística para Computación,4,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D036,,Programación Paralela y Concurrente,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,T,S,14,True
+D036,,Lenguajes Ensambladores y Sistemas Operativos,4,créditos,Obligatoria,Obligatoria,T/A,H/S,0.5,0.5,0.5,0.5,0.0,CE,R05_HYB_ARCH_OS,Híbrida: Arquitectura de Computadoras + Sistemas Operativos / Bajo Nivel,True,A,H,4,True
+D036,,Seminario de Realidad Nacional II,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D036,,Bases de Datos,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D036,,Redes y Comunicaciones de Datos,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D036,,Ingeniería del Software I,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D036,,Autómatas y Compiladores,4,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D036,,Inteligencia Artificial,4,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D036,,Ingeniería del Software II,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D036,,Gestión de Proyectos de Tecnologías de Información,4,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D036,,Ciberseguridad,4,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D036,,Ética y Ejercicio Profesional,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D036,,Proyecto de Graduación,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D037,,Algoritmos y Resolución de Problemas,3,créditos,Obligatoria,Obligatoria,T/A,S,0.5,0.5,0.0,1.0,0.0,CS,R22_SE_INTRO_PROG,Algoritmos y Programación Inicial / Metodología de la Programación,True,T,S,14,True
+D037,,Fundamentos Matemáticos,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D037,,Fundamentos de Tecnologías de la Información,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Metodología de la Investigación y Técnicas de Estudio,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D037,,Computación y Sociedad,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,A,O,15,True
+D037,,"Humanismo, Universidad y Cultura",2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D037,,Álgebra Lineal,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D037,,Cálculo Diferencial,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D037,,Fundamentos de Hardware,3,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R10_HW_THEORY,"Hardware Teórico: Circuitos, Electrónica, Señales y Sistemas de Comunicaciones",False,T,H,3,False
+D037,,Computación Ubicua,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D037,,Antropología Básica,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D037,,Fundamentos de Programación,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D037,,Cálculo Integral,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D037,,Estructuras Discretas,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D037,,Arquitectura de Computadores y Sistemas Operativos,3,créditos,Obligatoria,Obligatoria,T/A,H/S,0.5,0.5,0.5,0.5,0.0,CE,R05_HYB_ARCH_OS,Híbrida: Arquitectura de Computadoras + Sistemas Operativos / Bajo Nivel,True,T,H,7,True
+D037,,Programación Orientada a Objetos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D037,,Estructuras de Datos,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D037,,Ética y Moral,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D037,,Tecnologías Web,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Fundamentos de Base de Datos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Modelado de Sistemas,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D037,,Estadística para las Ingenierías y la Arquitectura,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D037,,Comunicación de Datos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Fundamentos de Interacción Humano-Computador,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R16_IS_HCI,Factores Humanos e Interacción Humano-Computador (HCI / UX),False,A,O,10,False
+D037,,Desarrollo Web,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Administración de Bases de Datos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Fundamentos de Ingeniería de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D037,,Redes de Dispositivos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Planificación Estratégica y Sistemas de Calidad Empresarial,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,S,16,True
+D037,,Metodologías de Desarrollo,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D037,,Gestión de la Calidad de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D037,,Ingeniería de Requisitos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D037,,Arquitectura de Redes,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Arquitectura de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,6,False
+D037,,Arquitectura Empresarial,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,O,5,False
+D037,,Gestión de Proyectos,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D037,,Fundamentos y Aplicación de Seguridad de la Información,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D037,,Sistemas Distribuidos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D037,,Aplicación de Matemáticas y Estadística en Tecnologías de la Información,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,T,,18,True
+D037,,Organización y Administración de Infraestructura de Tecnologías de la Información,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,O,17,False
+D037,,Gobernanza de Tecnologías de la Información,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,O,5,False
+D037,,Evaluación de la Seguridad en Sistemas de Tecnologías de la Información,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D037,,Proyectos de Tecnologías de la Información,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D037,,Emprendimiento,2,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,,,1,True
+D037,,Prácticum,12,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D038,,Intro. a la Ing. en Sistemas Comp.,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R04_EXCL_INTRO_GEN,Introducciones generales a la carrera y herramientas ofimáticas,False,,,1,False
+D038,,Español General,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D038,,Matemática I,5,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Sociología,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D038,,Inglés I,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D038,,Programación Estructurada,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D038,,Filosofía,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D038,,Geometría y Trigonometría,5,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Inglés II,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D038,,Programación Orientada a Objetos,5,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D038,,Cálculo I,5,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Vectores y Matrices,3,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Inglés III,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D038,,Matemática Discreta,4,unidades valorativas,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D038,,Cálculo II,5,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Física I,5,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Historia de Honduras,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D038,,Paradigmas de Programación,4,unidades valorativas,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D038,,Estadística,3,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Física II,5,unidades valorativas,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D038,,Estructuras de Datos,4,unidades valorativas,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D038,,Administración,4,unidades valorativas,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D038,,Instalaciones Eléctricas para Centros de Datos,4,unidades valorativas,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D038,,Fundamentos de Base de Datos,5,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Contabilidad Financiera,4,unidades valorativas,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D038,,Redes de Datos I,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Sistemas Operativos I,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Teoría de la Computación,4,unidades valorativas,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D038,,Sistemas de Información,4,unidades valorativas,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R17_IS_INFO_SYS,Sistemas de Información Empresariales e Inteligencia de Negocios,False,A,O,15,False
+D038,,Redes de Datos II,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Sistemas Operativos II,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Programación Web,5,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Compiladores,4,unidades valorativas,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D038,,Análisis de Requerimientos,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D038,,Diseño Digital,4,unidades valorativas,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D038,,Programación Móvil,5,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Inteligencia Artificial,4,unidades valorativas,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D038,,Administración de Servidores,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Arquitectura de Computadoras,4,unidades valorativas,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D038,,Ingeniería de Software,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D038,,Administración de Bases de Datos,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D038,,Seguridad Informática,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D038,,Industria de TI,4,unidades valorativas,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R17_IS_INFO_SYS,Sistemas de Información Empresariales e Inteligencia de Negocios,False,A,O,15,False
+D038,,Calidad de Software,4,unidades valorativas,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D038,,Ciencia de Datos,4,unidades valorativas,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D038,,Tecnologías Emergentes,4,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R04_EXCL_INTRO_GEN,Introducciones generales a la carrera y herramientas ofimáticas,False,,,1,False
+D038,,Proyectos de TI,4,unidades valorativas,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D038,,Auditoría Informática,4,unidades valorativas,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D038,,Ejecución de Proyectos de TI,4,unidades valorativas,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D038,,Práctica Profesional Supervisada,10,unidades valorativas,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D039,,Introducción a la Ingeniería de Sistemas,3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R04_EXCL_INTRO_GEN,Introducciones generales a la carrera y herramientas ofimáticas,False,,,1,False
+D039,,Introducción a la Programación,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D039,,Fundamentos Matemáticos para Computación,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D039,,Precálculo y Cálculo Diferencial,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D039,,Física I,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D039,,Cálculo Integral y Ecuaciones Diferenciales,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D039,,Probabilidad y Estadística,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D039,,Estructuras de Datos y Algoritmos,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D039,,Diseño y Programación Orientada a Objetos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D039,,Lenguajes y Máquinas,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D039,,Fundamentos de Infraestructura Tecnológica,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,T,S,14,True
+D039,,Desarrollo de Software en Equipo,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D039,,Sistemas Operativos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D039,,Redes de Computadores,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D039,,Bases de Datos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D039,,Arquitectura y Diseño de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D039,,"Modelado, Simulación y Optimización",3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D039,,Sistemas Empresariales,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R17_IS_INFO_SYS,Sistemas de Información Empresariales e Inteligencia de Negocios,False,A,O,17,False
+D039,,Inteligencia Artificial,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D039,,Ciberseguridad,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D039,,Computación Visual,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D039,,Gerencia y Gestión de Proyectos de TI,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D039,,Electivas de profundización,18,créditos,Optativa,Optativa_Generica,,,0.0,0.0,0.0,0.0,0.0,EXCL,R01_EXCL_OPT,Optativa/Electiva excluida del núcleo obligatorio,False,,,1,False
+D039,,Proyecto de Grado,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D040,,Fundamentos de Programación,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D040,,Matemáticas Discretas,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D040,,Cálculo Diferencial,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Álgebra Lineal,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Habilidades de Comunicación,2,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D040,,Estructuras de Datos y Algoritmos,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D040,,Programación Orientada a Objetos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D040,,Cálculo Integral,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Física Mecánica,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Arquitectura de Computadores,3,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D040,,Sistemas Operativos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D040,,Bases de Datos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D040,,Cálculo en Varias Variables,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Probabilidad y Estadística,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Redes y Comunicaciones,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D040,,Ingeniería de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D040,,Diseño de Experiencia de Usuario,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R16_IS_HCI,Factores Humanos e Interacción Humano-Computador (HCI / UX),False,A,O,10,False
+D040,,Análisis y Diseño de Algoritmos,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D040,,Física de Electricidad y Magnetismo,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Modelación y Simulación,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D040,,Arquitectura de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,6,False
+D040,,Inteligencia Artificial,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D040,,Ciberseguridad,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D040,,Gestión de Proyectos de TI,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D040,,Gestión Estratégica de TI,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R14_IS_GOV_BPM,"Arquitectura Empresarial, Gobierno de TI y Procesos de Negocio (BPM)",False,A,O,17,False
+D040,,Proyecto Integrador 1,3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D040,,Sistemas Distribuidos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D040,,Calidad y Pruebas de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D040,,Proyecto Integrador 2,3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D040,,Práctica Profesional,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D041,,Pensamiento Computacional,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,,12,True
+D041,,Análisis Matemático A,9,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D041,,Álgebra A,9,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D041,,Física A,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D041,,Introducción al Conocimiento de la Sociedad y el Estado,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D041,,Introducción al Pensamiento Científico,4,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D041,,Algoritmos y Estructuras de Datos,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D041,,Introducción al Desarrollo de Software,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D041,,Álgebra Lineal Computacional,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D041,,Análisis Matemático II,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D041,,Organización del Computador,6,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D041,,Probabilidad y Estadística,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D041,,Física de los Sistemas de Información,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,A,O,15,True
+D041,,Paradigmas de Programación,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D041,,Teoría de Algoritmos,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D041,,Redes de Computadoras,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D041,,Matemática Discreta,6,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D041,,Taller de Programación,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D041,,Ingeniería de Software,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D041,,Arquitectura del Software,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D041,,Legislación y Ejercicio Profesional,4,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R18_IS_BIZ_LAW,"Economía, Finanzas, Administración, Auditoría y Legislación Informática",False,A,O,17,False
+D041,,Sistemas Operativos,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D041,,Base de Datos,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D041,,Ciencia de Datos,8,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D041,,Modelación y Optimización,6,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D041,,Seguridad en Sistemas y Redes,6,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D041,,Gestión de Proyectos de Software,6,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D041,,Trabajo Profesional de Grado,14,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D042,,Introducción a la Programación,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D042,,Cálculo I,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Álgebra Lineal,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Mecánica y Termodinámica,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Desafíos de la Ingeniería,10,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D042,,Programación Avanzada,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D042,,Cálculo II,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Electricidad y Magnetismo,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Química para Ingeniería,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Matemáticas Discretas,10,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D042,,Estructuras de Datos y Algoritmos,10,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D042,,Ecuaciones Diferenciales,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Probabilidad y Estadística,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Arquitectura de Sistemas y Computadores,10,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D042,,Sistemas Operativos y Redes,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D042,,Bases de Datos,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D042,,Ingeniería de Software,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D042,,Inteligencia Artificial,10,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D042,,Optimización y Modelación,10,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D042,,Teoría de Autómatas y Lenguajes Formales,10,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D042,,Sistemas Distribuidos,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D042,,Ciberseguridad,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D042,,Gestión de Proyectos de TI,10,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D042,,Ética para Ingeniería,10,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D042,,Proyecto de Software Capstone,20,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,,,1,True
+D043,,Introducción al Cálculo,11,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Introducción a la Física,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Programación Estructurada,9,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D043,,Cálculo Diferencial,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Mecánica y Dinámica de Partículas,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Introducción al Álgebra Lineal,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Cálculo Integral,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Dinámica del Cuerpo Rígido,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Estructuras de Datos,9,créditos UEA,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D043,,Ecuaciones Diferenciales Ordinarias,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Introducción a la Electrostática y Magnetostática,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Métodos Numéricos en Ingeniería,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Programación Orientada a Objetos,9,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D043,,Probabilidad y Estadística,9,créditos UEA,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D043,,Lógica,6,créditos UEA,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D043,,Matemáticas Discretas,9,créditos UEA,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D043,,Lenguajes y Autómatas,9,créditos UEA,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D043,,Diseño Lógico,9,créditos UEA,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D043,,Laboratorio de Diseño Lógico,4,créditos UEA,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D043,,Arquitectura de Computadoras,9,créditos UEA,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D043,,Fundamentos de Redes de Computadoras,9,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D043,,Sistemas Operativos,9,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D043,,Microprocesadores,9,créditos UEA,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D043,,Laboratorio de Sistemas Digitales con Microprocesadores,4,créditos UEA,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D043,,Bases de Datos,9,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D043,,Ingeniería de Software,9,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D043,,Diseño y Administración de Redes de Computadoras,12,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D043,,Microelectrónica,9,créditos UEA,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R10_HW_THEORY,"Hardware Teórico: Circuitos, Electrónica, Señales y Sistemas de Comunicaciones",False,T,H,3,False
+D043,,Inteligencia Artificial,9,créditos UEA,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D043,,Seguridad en Redes de Computadoras,9,créditos UEA,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D043,,Proyecto Terminal I,12,créditos UEA,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D043,,Proyecto Terminal II,12,créditos UEA,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D044,,Fundamentos de Programación,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D044,,Programación Estructurada,10,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D044,,Lógica Matemática,8,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D044,,Matemáticas Discretas,8,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,S,14,False
+D044,,Precálculo,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Cálculo Diferencial e Integral,9,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Fundamentos de Física,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Mecánica de la Partícula,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Introducción a la Ingeniería,8,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R04_EXCL_INTRO_GEN,Introducciones generales a la carrera y herramientas ofimáticas,False,,,1,False
+D044,,Ética y Legislación,8,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D044,,Álgebra Lineal,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Estructuras de Datos,9,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D044,,Programación Orientada a Objetos,9,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D044,,Electricidad y Magnetismo,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Ecuaciones Diferenciales,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Métodos Numéricos,8,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D044,,Circuitos Lógicos,9,créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D044,,Arquitectura de Computadoras,9,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D044,,Sistemas Operativos,9,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D044,,Bases de Datos,9,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D044,,Redes de Computadoras,9,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D044,,Ingeniería de Software,9,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D044,,Taller de Sistemas Operativos,7,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D044,,Lenguajes de Interfaz y Ensamblador,8,créditos,Obligatoria,Obligatoria,A,H,0.0,1.0,1.0,0.0,0.0,CE,R12_HW_APPLIED,"Hardware Aplicado: Sistemas Digitales, Microprocesadores, Embebidos y Robótica",False,A,H,4,False
+D044,,Compiladores,9,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D044,,Administración de Redes,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D044,,Seguridad en Cómputo,8,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D044,,Inteligencia Artificial,9,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D044,,Sistemas Distribuidos,9,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D044,,Administración de Proyectos Tecnológicos,8,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D044,,Proyecto Modular,14,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
+D045,,Fundamentos de Programación,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D045,,Modelación Matemática Fundamental,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D045,,Análisis de la Biología Computacional,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D045,,Fundamentos de la Estructura de la Materia,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D045,,Pensamiento Computacional para Ingeniería,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,,12,True
+D045,,Programación Orientada a Objetos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D045,,Modelación Computacional del Movimiento,3,créditos,Obligatoria,Obligatoria,T,,1.0,0.0,0.0,0.0,0.0,STEM,R27_STEM_BASIC,"Ciencias Básicas Generales: Matemáticas, Estadística, Física, Química y Biología",False,T,,18,False
+D045,,Análisis de Sistemas Eléctricos,3,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R10_HW_THEORY,"Hardware Teórico: Circuitos, Electrónica, Señales y Sistemas de Comunicaciones",False,T,H,3,False
+D045,,Estructuras de Datos y Algoritmos Fundamentales,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D045,,Análisis y Diseño de Algoritmos Avanzados,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R20_CS_ALGO_THEORY,"Algoritmos, Estructuras de Datos, Teoría de la Computación y Compiladores",False,T,S,14,False
+D045,,Matemáticas Computacionales y Discretas,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R19_CS_DISCRETE_LOGIC,"Matemáticas Discretas, Lógica Formal y Pensamiento Computacional",False,T,,18,True
+D045,,Organización y Arquitectura de Computadoras,3,créditos,Obligatoria,Obligatoria,T,H,1.0,0.0,1.0,0.0,0.0,CE,R11_HW_ARCH,Arquitectura y Organización de Computadoras,False,T,H,7,False
+D045,,Fundamentos de Redes y Telecomunicaciones,3,créditos,Obligatoria,Obligatoria,T/A,H/S,0.5,0.5,0.5,0.5,0.0,CE,R09_HYB_TELECOM,Híbrida: Fundamentos de Telecomunicaciones y Transmisión de Datos,True,T,H,3,True
+D045,,Implementación de Métodos Computacionales,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R23_SE_PROG_LANG,"Programación, Orientación a Objetos y Lenguajes de Programación",False,A,S,16,False
+D045,,Sistemas Operativos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D045,,Bases de Datos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D045,,Calidad y Pruebas de Software,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D045,,Desarrollo de Aplicaciones Web y Móviles,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D045,,Seguridad de la Información,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R25_IT_SEC,Seguridad de la Información y Ciberseguridad,False,A,S,11,False
+D045,,Computación en la Nube y Sistemas Distribuidos,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,IT,R26_IT_OS_DB_NET,"Sistemas Operativos, Bases de Datos, Redes, Nube y Desarrollo Web/Móvil/Integración",False,A,S,16,False
+D045,,Inteligencia Artificial y Aprendizaje Automático,3,créditos,Obligatoria,Obligatoria,T,S,1.0,0.0,0.0,1.0,0.0,CS,R21_CS_AI_DS_GFX,"Inteligencia Artificial, Ciencia de Datos y Computación Gráfica/Científica",False,T,S,14,False
+D045,,Ingeniería de Software Concurrente,3,créditos,Obligatoria,Obligatoria,A,S,0.0,1.0,0.0,1.0,0.0,SE,R24_SE_CORE,"Ingeniería de Software, Requisitos, Arquitectura, Calidad y Proyectos de Software",False,A,S,16,False
+D045,,Formulación y Gestión de Proyectos de Software,3,créditos,Obligatoria,Obligatoria,A,O,0.0,1.0,0.0,0.0,1.0,IS,R15_IS_PM,"Formulación, Evaluación y Gestión de Proyectos de TI/Software",False,A,O,9,False
+D045,,"Ética, Liderazgo y Sostenibilidad",3,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R03_EXCL_TRANSV,"Formación humanística, idiomas, comunicación, ética y habilidades blandas",False,,,1,False
+D045,,Proyecto Integrador de Tecnologías Computacionales,6,créditos,Obligatoria,Obligatoria,,,0.0,0.0,0.0,0.0,0.0,EXCL,R02_EXCL_CAPSTONE,"Prácticas profesionales, servicio social y trabajos terminales de titulación",False,,,1,False
